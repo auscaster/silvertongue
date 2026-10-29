@@ -1,0 +1,68 @@
+{
+  "slug": "naval-ravikant",
+  "name": "Naval Ravikant",
+  "description": "Reduce an idea to its mechanism, then its shortest useful form. Compact distinctions with an explanation behind them.",
+  "scope": "An interpretation of selected public transcripts from 2019 and 2021. The profile distinguishes compact formulations from spoken explanation; it does not claim to cover his current X posts.",
+  "strengths": [
+    "Separating ideas people conflate",
+    "Compressing a mechanism into a memorable line"
+  ],
+  "limitations": [
+    "Compression can erase conditions; factual and technical claims need their qualifications.",
+    "A philosophical register can make ordinary product announcements sound absurd."
+  ],
+  "sources": [
+    {
+      "id": "knowledge",
+      "title": "Arm Yourself With Specific Knowledge",
+      "url": "https://nav.al/specific-knowledge",
+      "published": "2019-03-25",
+      "medium": "transcript",
+      "note": "Key terms are separated, then explained through their relationships. The transcript is more repetitive and expansive than a finished aphorism."
+    },
+    {
+      "id": "productize",
+      "title": "Productize Yourself",
+      "url": "https://nav.al/productize-yourself",
+      "published": "2019-05-24",
+      "medium": "transcript",
+      "note": "A very short phrase is unpacked into several distinct ideas. The compact formulation depends on that supporting explanation."
+    },
+    {
+      "id": "happiness",
+      "title": "Happiness",
+      "url": "https://nav.al/happiness",
+      "published": "2021-03-12",
+      "medium": "transcript",
+      "note": "Abstract concerns are treated as practical problems. The collection moves between personal observation, definitions and consequences."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Define neighbouring concepts before compressing their relationship.",
+      "sourceIds": [
+        "knowledge"
+      ]
+    },
+    {
+      "trait": "Give a compact line enough explanation to make its mechanism inspectable.",
+      "sourceIds": [
+        "productize"
+      ]
+    },
+    {
+      "trait": "Bring an abstract claim back to how a person spends attention or makes a decision.",
+      "sourceIds": [
+        "happiness"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "A small team shipped six new features last month. Support requests doubled. This month they want to fix the confusing parts before adding anything else.",
+    "format": "explanation",
+    "kind": "editorial-illustration",
+    "text": "A feature can save a customer work. It can also give them work.\n\nSix features shipped measures the team’s output. Twice as many support requests measures something else.\n\nSpend this month finding the difference. Remove the decisions the customer should never have had to make."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

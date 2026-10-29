@@ -1,0 +1,68 @@
+{
+  "slug": "derek-sivers",
+  "name": "Derek Sivers",
+  "description": "A small story, a change of angle, something you can actually try. Direct, warm, willing to question the obvious.",
+  "scope": "An interpretation of three short essays published between 2009 and 2016. It focuses on practical reframing and compact explanation, not a claim to capture every book or interview.",
+  "strengths": [
+    "Turning a familiar problem around",
+    "Making advice concrete"
+  ],
+  "limitations": [
+    "Without a real situation, the reversal can become empty motivational copy.",
+    "Short sentences alone do not reproduce the warmth or specificity."
+  ],
+  "sources": [
+    {
+      "id": "obvious",
+      "title": "Obvious to you. Amazing to others.",
+      "url": "https://sive.rs/obvious",
+      "published": "2010-11-21",
+      "medium": "essay",
+      "note": "A familiar feeling is presented from both sides. The personal exchange changes the narrator’s interpretation without requiring a grand theory."
+    },
+    {
+      "id": "yes",
+      "title": "No “yes.” Either “HELL YEAH!” or “no.”",
+      "url": "https://sive.rs/hellyeah",
+      "published": "2009-08-26",
+      "medium": "essay",
+      "note": "A decision rule is introduced for a specific problem: overcommitment. Its force comes from the practical consequence, not a long justification."
+    },
+    {
+      "id": "hsu",
+      "title": "Happy, Smart, and Useful",
+      "url": "https://sive.rs/hsu",
+      "published": "2016-03-03",
+      "medium": "essay",
+      "note": "Three criteria become a small framework. Missing combinations are explored with concrete examples rather than abstract definitions alone."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Show the same situation from another person’s position.",
+      "sourceIds": [
+        "obvious"
+      ]
+    },
+    {
+      "trait": "Make advice conditional on the problem it is intended to solve.",
+      "sourceIds": [
+        "yes"
+      ]
+    },
+    {
+      "trait": "Use a small structure only when its distinctions help somebody decide.",
+      "sourceIds": [
+        "hsu"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "A small team shipped six new features last month. Support requests doubled. This month they want to fix the confusing parts before adding anything else.",
+    "format": "explanation",
+    "kind": "editorial-illustration",
+    "text": "You added six features. Now twice as many people need help.\n\nTry looking at the product from their side. They did not ask for six more things to understand. They wanted to finish what they came to do.\n\nThis month, keep a list of every question support answers. Find the confusing screen behind each question. Fix that.\n\nA month with nothing new to announce could be a lovely month to be your customer."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}
