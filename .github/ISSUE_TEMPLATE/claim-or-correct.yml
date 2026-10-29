@@ -1,0 +1,29 @@
+name: Claim, correct or remove my voice
+description: You are in the catalogue and want your voice claimed, corrected or taken out.
+title: "Claim: "
+labels: [claim]
+body:
+  - type: input
+    id: voice
+    attributes:
+      label: Which voice?
+      description: The profile's name or its folder under profiles/.
+    validations:
+      required: true
+  - type: dropdown
+    id: want
+    attributes:
+      label: What would you like?
+      options:
+        - Claim it as my official voice
+        - Correct it
+        - Remove it
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: For a claim or removal, a way to confirm it is you, such as a post from your public account linking this issue. For a correction, what is wrong and what you would change.
+    validations:
+      required: true

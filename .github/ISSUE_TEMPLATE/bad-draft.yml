@@ -1,0 +1,23 @@
+name: Report a bad draft
+description: A voice produced something wrong, off-voice, or presented as the person's words.
+title: "Draft: "
+labels: [draft report]
+body:
+  - type: input
+    id: voice
+    attributes:
+      label: Which voice?
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where did you use it?
+      description: For example Claude Code over MCP, the browser extension, or a VOICE.md in your own agent.
+  - type: textarea
+    id: what
+    attributes:
+      label: What went wrong?
+      description: The brief, the settings, and what came back. Leave out anything private.
+    validations:
+      required: true
