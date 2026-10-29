@@ -1,0 +1,24 @@
+name: Request a voice
+description: Ask for someone's writing voice to be studied and added.
+title: "Voice: "
+labels: [voice request]
+body:
+  - type: input
+    id: who
+    attributes:
+      label: Whose voice?
+      description: A public figure with a body of public writing. No private individuals or minors.
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where do they write?
+      description: The medium people would use the voice for, and links to a few pieces that show it at its best.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What makes it distinct?
+      description: What a plain "write like" prompt would miss.
