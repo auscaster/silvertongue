@@ -1,0 +1,38 @@
+{
+	"$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+	"name": "com.auscaster/silvertongue",
+	"title": "Silvertongue",
+	"description": "Famous writing voices for your agent. Find one, read how it was studied, write in it.",
+	"version": "0.1.0",
+	"websiteUrl": "https://auscaster.com/silvertongue",
+	"icons": [
+		{
+			"src": "https://silvertongue.auscaster.com/silvertongue/icon.png",
+			"mimeType": "image/png",
+			"sizes": [
+				"512x512"
+			]
+		}
+	],
+	"repository": {
+		"url": "https://github.com/auscaster/silvertongue",
+		"source": "github",
+		"subfolder": "mcp"
+	},
+	"remotes": [
+		{
+			"type": "streamable-http",
+			"url": "https://silvertongue.auscaster.com/mcp"
+		}
+	],
+	"packages": [
+		{
+			"registryType": "npm",
+			"identifier": "silvertongue",
+			"version": "0.1.0",
+			"transport": {
+				"type": "stdio"
+			}
+		}
+	]
+}
