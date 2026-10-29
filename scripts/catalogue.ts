@@ -1,6 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import {
+	featuredOf,
 	type Metadata,
 	readProfiles,
 	studied,
@@ -10,7 +11,7 @@ import {
 
 const start = "<!-- catalogue:start -->";
 const end = "<!-- catalogue:end -->";
-const demoStart = /<!-- demo:start ([a-z0-9 -]+) -->/;
+const demoStart = /<!-- demo:start[a-z0-9 -]* -->/;
 const demoEnd = "<!-- demo:end -->";
 
 function table(profiles: VoiceProfile[], base: string): string {
@@ -26,12 +27,6 @@ function table(profiles: VoiceProfile[], base: string): string {
 		...rows,
 	].join("\n");
 }
-
-const demoSlugs = (readme: string): string[] => {
-	const open = readme.match(demoStart);
-	if (!open) throw new Error("README has no demo markers.");
-	return open[1].split(" ");
-};
 
 // The README lists the featured voices (the ones in its demo); profiles/README.md lists all of them.
 export function catalogue(
@@ -111,20 +106,19 @@ export function demo(profiles: VoiceProfile[], slugs: string[]): string {
 	);
 }
 
+// The demo shows the featured voices in their places; the marker names them for readers of the source.
 export function withDemo(readme: string, profiles: VoiceProfile[]): string {
 	const open = readme.match(demoStart);
 	const to = readme.indexOf(demoEnd);
 	if (open?.index === undefined || to < open.index)
 		throw new Error("README has no demo markers.");
-	const from = open.index + open[0].length;
-	return `${readme.slice(0, from)}\n${demo(profiles, demoSlugs(readme))}\n${readme.slice(to)}`;
+	const slugs = featuredOf(profiles).map((p) => p.metadata.slug);
+	return `${readme.slice(0, open.index)}<!-- demo:start ${slugs.join(" ")} -->\n${demo(profiles, slugs)}\n${readme.slice(to)}`;
 }
 
 export function render(readme: string, profiles: VoiceProfile[]): string {
-	return withDemo(
-		withCatalogue(readme, catalogue(profiles, demoSlugs(readme))),
-		profiles,
-	);
+	const featured = featuredOf(profiles).map((p) => p.metadata.slug);
+	return withDemo(withCatalogue(readme, catalogue(profiles, featured)), profiles);
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {

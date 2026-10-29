@@ -37,6 +37,7 @@ export const metadataSchema = z
 		slug: z.string().regex(/^[a-z][a-z0-9-]{0,60}$/),
 		name: z.string().min(1),
 		lane: laneSchema,
+		featured: z.number().int().min(1).max(99).optional(),
 		description: z.string().min(20).max(220),
 		scope: z.string().min(30),
 		status: z.literal("unofficial"),
@@ -140,7 +141,7 @@ export async function readProfiles(directory: string): Promise<VoiceProfile[]> {
 	const entries = (await readdir(directory, { withFileTypes: true }))
 		.filter((e) => e.isDirectory())
 		.sort((a, b) => a.name.localeCompare(b.name));
-	return Promise.all(
+	const profiles = await Promise.all(
 		entries.map(async (e) => {
 			const result = validateProfile(
 				JSON.parse(
@@ -153,4 +154,14 @@ export async function readProfiles(directory: string): Promise<VoiceProfile[]> {
 			return result;
 		}),
 	);
+	const ranks = profiles.flatMap((p) => p.metadata.featured ?? []);
+	if (new Set(ranks).size !== ranks.length)
+		throw new Error("Two profiles share a featured place.");
+	return profiles;
 }
+
+/** The featured voices, in their places. */
+export const featuredOf = <P extends VoiceProfile>(profiles: P[]): P[] =>
+	profiles
+		.filter((p) => p.metadata.featured !== undefined)
+		.toSorted((a, b) => a.metadata.featured! - b.metadata.featured!);

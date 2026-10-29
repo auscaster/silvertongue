@@ -52,3 +52,24 @@ test("rejects a profile without a lane, or with one outside the five", () => {
 	assert.throws(() => validateProfile(unplaced, voice));
 	assert.throws(() => validateProfile({ ...metadata, lane: "sports" }, voice));
 });
+
+test("two profiles never share a featured place", async () => {
+	const { mkdtemp, cp, readFile, writeFile, rm } = await import("node:fs/promises");
+	const { tmpdir } = await import("node:os");
+	const { join } = await import("node:path");
+	const dir = await mkdtemp(join(tmpdir(), "silvertongue-featured-"));
+	try {
+		const [a, b] = profiles.filter((p) => p.metadata.featured);
+		for (const p of [a, b]) {
+			await cp(join(directory, p.metadata.slug), join(dir, p.metadata.slug), {
+				recursive: true,
+			});
+		}
+		const path = join(dir, b.metadata.slug, "profile.json");
+		const metadata = JSON.parse(await readFile(path, "utf8"));
+		await writeFile(path, JSON.stringify({ ...metadata, featured: a.metadata.featured }));
+		await assert.rejects(readProfiles(dir), /featured place/);
+	} finally {
+		await rm(dir, { recursive: true, force: true });
+	}
+});
