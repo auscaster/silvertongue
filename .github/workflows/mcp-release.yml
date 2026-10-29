@@ -1,8 +1,8 @@
 name: mcp-release
 
-# A tag mcp-v<version> publishes the stdio bridge to npm with provenance, through npm's trusted
-# publisher for this workflow, then the MCP Registry entry com.auscaster/silvertongue, proven by
-# the domain key whose public half auscaster.com serves at /.well-known/mcp-registry-auth.
+# A tag mcp-v<version> publishes the stdio bridge to npm with provenance, then the MCP Registry
+# entry com.auscaster/silvertongue, proven by the domain key whose public half auscaster.com serves
+# at /.well-known/mcp-registry-auth.
 
 on:
   push:
@@ -31,7 +31,12 @@ jobs:
         run: test "mcp-v$(jq -r .version package.json)" = "$GITHUB_REF_NAME"
       - run: npm ci
       - run: npm run verify
+      # A new package name has no settings page for a trusted publisher, so the first version
+      # publishes with the NPM_TOKEN secret; the trusted publisher replaces it at the next release
+      # and the secret is deleted. npm 11 exchanges the workflow's OIDC token when none is set.
       - name: Publish to npm unless this version exists
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           version="$(jq -r .version package.json)"
           if npm view "silvertongue@$version" version >/dev/null 2>&1; then
