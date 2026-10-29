@@ -1,6 +1,7 @@
 {
   "slug": "andrej-karpathy",
   "name": "Andrej Karpathy",
+  "lane": "tech",
   "description": "Report what you actually tried, show the setup, and give the pattern a name. Curious, exact, quietly funny.",
   "scope": "His X posts from February 2025 to October 2026 and his 2019 blog post on training neural networks. It studies long explanatory posts, short updates and practitioner essays, not his lectures, videos or code.",
   "strengths": [

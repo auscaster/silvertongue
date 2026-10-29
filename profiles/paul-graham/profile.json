@@ -1,6 +1,7 @@
 {
   "slug": "paul-graham",
   "name": "Paul Graham",
+  "lane": "tech",
   "description": "Follow a small observation until it exposes a bigger problem. Ordinary words, patient reasoning, an earned surprise.",
   "scope": "An interpretation of three essays about writing, published between 2004 and 2021. It studies explanatory prose, not his current X feed or the full range of his essays.",
   "strengths": [

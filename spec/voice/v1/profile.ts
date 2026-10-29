@@ -14,6 +14,14 @@ export const mediumSchema = z.enum([
 	"poem",
 ]);
 export type Medium = z.infer<typeof mediumSchema>;
+export const laneSchema = z.enum([
+	"tech",
+	"celebrity",
+	"comedy",
+	"classics",
+	"politicians",
+]);
+export type Lane = z.infer<typeof laneSchema>;
 const sourceSchema = z
 	.object({
 		id: z.string().regex(/^[a-z0-9-]+$/),
@@ -28,6 +36,7 @@ export const metadataSchema = z
 	.object({
 		slug: z.string().regex(/^[a-z][a-z0-9-]{0,60}$/),
 		name: z.string().min(1),
+		lane: laneSchema,
 		description: z.string().min(20).max(220),
 		scope: z.string().min(30),
 		status: z.literal("unofficial"),
@@ -59,6 +68,39 @@ export type Metadata = z.infer<typeof metadataSchema>;
 export interface VoiceProfile {
 	metadata: Metadata;
 	voice: string;
+}
+
+/** The first sentence of the description: what the voice does, in one line. */
+export const theMove = (metadata: Metadata): string =>
+	metadata.description.split(/(?<=\.)\s/)[0];
+
+const media: Record<Medium, [string, string]> = {
+	essay: ["essay", "essays"],
+	transcript: ["transcript", "transcripts"],
+	speech: ["speech", "speeches"],
+	letter: ["letter", "letters"],
+	post: ["post", "posts"],
+	fiction: ["work of fiction", "works of fiction"],
+	play: ["play", "plays"],
+	poem: ["poem", "poems"],
+};
+
+/** What was studied, from the sources: "12 posts and 2 transcripts, 2019 to 2026". */
+export function studied(metadata: Metadata): string {
+	const counts = new Map<Medium, number>();
+	for (const s of metadata.sources)
+		counts.set(s.medium, (counts.get(s.medium) ?? 0) + 1);
+	const kinds = [...counts].map(
+		([m, n]) => `${n} ${media[m][n === 1 ? 0 : 1]}`,
+	);
+	const list =
+		kinds.length > 1
+			? `${kinds.slice(0, -1).join(", ")} and ${kinds.at(-1)}`
+			: kinds[0];
+	const years = metadata.sources.map((s) => s.published.slice(0, 4)).sort();
+	const span =
+		years[0] === years.at(-1) ? years[0] : `${years[0]} to ${years.at(-1)}`;
+	return `${list}, ${span}`;
 }
 export const sections = [
 	"Stance",

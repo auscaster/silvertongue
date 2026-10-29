@@ -1,9 +1,10 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import {
-	type Medium,
 	type Metadata,
 	readProfiles,
+	studied,
+	theMove,
 	type VoiceProfile,
 } from "../spec/voice/v1/profile.ts";
 
@@ -11,40 +12,13 @@ const start = "<!-- catalogue:start -->";
 const end = "<!-- catalogue:end -->";
 const demoStart = /<!-- demo:start ([a-z0-9 -]+) -->/;
 const demoEnd = "<!-- demo:end -->";
-const media: Record<Medium, [string, string]> = {
-	essay: ["essay", "essays"],
-	transcript: ["transcript", "transcripts"],
-	speech: ["speech", "speeches"],
-	letter: ["letter", "letters"],
-	post: ["post", "posts"],
-	fiction: ["work of fiction", "works of fiction"],
-	play: ["play", "plays"],
-	poem: ["poem", "poems"],
-};
-
-function studied({ metadata }: VoiceProfile): string {
-	const counts = new Map<Medium, number>();
-	for (const s of metadata.sources)
-		counts.set(s.medium, (counts.get(s.medium) ?? 0) + 1);
-	const kinds = [...counts].map(
-		([m, n]) => `${n} ${media[m][n === 1 ? 0 : 1]}`,
-	);
-	const list =
-		kinds.length > 1
-			? `${kinds.slice(0, -1).join(", ")} and ${kinds.at(-1)}`
-			: kinds[0];
-	const years = metadata.sources.map((s) => s.published.slice(0, 4)).sort();
-	const span =
-		years[0] === years.at(-1) ? years[0] : `${years[0]} to ${years.at(-1)}`;
-	return `${list}, ${span}`;
-}
 
 function table(profiles: VoiceProfile[], base: string): string {
 	const rows = profiles
 		.toSorted((a, b) => a.metadata.name.localeCompare(b.metadata.name))
 		.map(
 			(p) =>
-				`| [**${p.metadata.name}**](${base}${p.metadata.slug}/VOICE.md) | ${p.metadata.description.split(/(?<=\.)\s/)[0]} | ${studied(p)} | ${p.metadata.evaluation === "unbenchmarked" ? "Draft" : "Admitted"} |`,
+				`| [**${p.metadata.name}**](${base}${p.metadata.slug}/VOICE.md) | ${theMove(p.metadata)} | ${studied(p.metadata)} | ${p.metadata.evaluation === "unbenchmarked" ? "Draft" : "Admitted"} |`,
 		);
 	return [
 		"| Voice | The move | Studied | Status |",

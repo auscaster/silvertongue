@@ -28,6 +28,7 @@ never supplies the person's opinions, biography, quotations or endorsement.
 | --- | --- |
 | `slug` | Lowercase letters, digits and hyphens; matches the directory name |
 | `name` | The person whose public writing was studied |
+| `lane` | `tech`, `celebrity`, `comedy`, `classics` or `politicians`: the lane agents and pages find the voice under |
 | `description` | 20 to 220 characters |
 | `scope` | Which medium and period the profile studies |
 | `status` | `unofficial` |
