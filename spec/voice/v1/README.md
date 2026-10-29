@@ -29,6 +29,7 @@ never supplies the person's opinions, biography, quotations or endorsement.
 | `slug` | Lowercase letters, digits and hyphens; matches the directory name |
 | `name` | The person whose public writing was studied |
 | `lane` | `tech`, `celebrity`, `comedy`, `classics` or `politicians`: the lane agents and pages find the voice under |
+| `featured` | Optional. The voice's place, from 1, among the featured voices that open the README and the site; no two profiles share one |
 | `description` | 20 to 220 characters |
 | `scope` | Which medium and period the profile studies |
 | `status` | `unofficial` |
