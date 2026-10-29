@@ -1,0 +1,11 @@
+Silvertongue
+Copyright 2026 Kam Low
+
+Code, including the profile format and validator, the agent skill, the MCP bridge
+and the plugin manifests, is licensed under the Apache License, Version 2.0. See
+LICENSE for the full license text.
+Voice profiles in profiles/ are licensed under the Creative Commons Attribution 4.0
+International License. See PROFILE-LICENSE.md.
+
+The Silvertongue name and logo are not licensed under either license; they may not
+be used to suggest endorsement without permission.

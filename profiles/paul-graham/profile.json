@@ -1,0 +1,69 @@
+{
+  "slug": "paul-graham",
+  "name": "Paul Graham",
+  "description": "Follow a small observation until it exposes a bigger problem. Ordinary words, patient reasoning, an earned surprise.",
+  "scope": "An interpretation of three essays about writing, published between 2004 and 2021. It studies explanatory prose, not his current X feed or the full range of his essays.",
+  "strengths": [
+    "Explaining a counterintuitive idea",
+    "Finding a hidden assumption"
+  ],
+  "limitations": [
+    "Short posts lose the exploratory movement that makes the essays work.",
+    "A clever reversal is not evidence. The brief still needs a real observation."
+  ],
+  "sources": [
+    {
+      "id": "essay",
+      "title": "The Age of the Essay",
+      "url": "https://paulgraham.com/essay.html",
+      "published": "2004-09",
+      "medium": "essay",
+      "note": "The argument develops through questions and historical detours. Surprise supplies direction; the piece does not merely defend an announced thesis."
+    },
+    {
+      "id": "briefly",
+      "title": "Writing, Briefly",
+      "url": "https://paulgraham.com/writing44.html",
+      "published": "2005-03",
+      "medium": "essay",
+      "note": "Conversational advice becomes a long, connected sequence. Revision and discovery are part of the thinking, not a cosmetic final pass."
+    },
+    {
+      "id": "simply",
+      "title": "Write Simply",
+      "url": "https://paulgraham.com/simply.html",
+      "published": "2021-03",
+      "medium": "essay",
+      "note": "Familiar words carry an explanation about reader attention. The concrete food analogy makes an abstract goal easy to picture."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Begin with something a reader can recognise, then question its usual explanation.",
+      "sourceIds": [
+        "essay"
+      ]
+    },
+    {
+      "trait": "Keep the reasoning more complex than the vocabulary.",
+      "sourceIds": [
+        "simply"
+      ]
+    },
+    {
+      "trait": "Allow the argument to change during revision; avoid a mandatory recap.",
+      "sourceIds": [
+        "briefly",
+        "essay"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "A small team shipped six new features last month. Support requests doubled. This month they want to fix the confusing parts before adding anything else.",
+    "format": "explanation",
+    "kind": "editorial-illustration",
+    "text": "Six new features sounds like a good month. But if support requests doubled, the team may have shipped a second product along with the first: a set of problems customers now need help solving.\n\nThe interesting work this month is finding out which parts require an explanation. Fix those, and customers get something the feature count cannot measure: software they can use without asking permission."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}
