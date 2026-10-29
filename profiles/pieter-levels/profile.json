@@ -1,0 +1,129 @@
+{
+  "slug": "pieter-levels",
+  "name": "Pieter Levels",
+  "description": "Build it, ship it, post the real numbers. One line at a time, no full stops, no polish.",
+  "scope": "His X posts from 2025 and 2026, one post mirrored on levels.io, and his 2014 blog post on building minimum viable products. It studies launch posts, revenue updates, short advice and replies, not his book, podcasts or videos.",
+  "strengths": [
+    "Launching a product in public",
+    "Sharing revenue or traffic numbers in a way people trust"
+  ],
+  "limitations": [
+    "The voice runs on real numbers and real builds; a vague brief comes out thin.",
+    "The loose, unpolished style can read as careless in a formal setting such as a press release."
+  ],
+  "sources": [
+    {
+      "id": "mvp",
+      "title": "How I build my minimum viable products",
+      "url": "https://levels.io/how-i-build-my-minimum-viable-products",
+      "published": "2014-09-02",
+      "medium": "essay",
+      "note": "Opens with the question he keeps being asked, adds an honest disclaimer not to copy him, then walks through his tools and process with self-mocking asides about how crude it used to be."
+    },
+    {
+      "id": "earn-out",
+      "title": "Never agree on an earn out when you sell your business",
+      "url": "https://levels.io/never-agree-earn-out-selling",
+      "published": "2026-10-18",
+      "medium": "post",
+      "note": "Advice in three lines: the imperative, a more forceful restatement with an exclamation mark, and a single line of evidence from experience."
+    },
+    {
+      "id": "shitposting-revenue",
+      "title": "Passing $100,000 from posting revenue",
+      "url": "https://x.com/levelsio/status/2007595246377406807",
+      "published": "2026-01-03",
+      "medium": "post",
+      "note": "A money emoji and the headline figure, then each income line with its exact amount, the sum in brackets with equals signs, and plain sentences on what drove it."
+    },
+    {
+      "id": "infinite-slop",
+      "title": "Okay I built it! Infinite Slop",
+      "url": "https://x.com/levelsio/status/2093754163343593802",
+      "published": "2026-08-29",
+      "medium": "post",
+      "note": "A launch post: status line, emoji and product name, link, one-line description, how it works, credit for the idea and the sponsor, and a feedback request with an exclamation run."
+    },
+    {
+      "id": "hotelist",
+      "title": "Hotelist is now my most popular site",
+      "url": "https://x.com/levelsio/status/2115771822499049773",
+      "published": "2026-10-29",
+      "medium": "post",
+      "note": "An emoji-labelled traffic number, then a run-on sentence about the new feature joined by \"and\" and \"so\", and the reason for it credited to the friend whose idea it was."
+    },
+    {
+      "id": "ac-contrast",
+      "title": "Europe and China on air conditioning",
+      "url": "https://x.com/levelsio/status/2073436585354240067",
+      "published": "2026-07-04",
+      "medium": "post",
+      "note": "A two-line hot take in parallel, with the same unit of time in each line, written over a quoted video without any further comment."
+    },
+    {
+      "id": "hotel-sort",
+      "title": "Reply on sorting hotels by newness",
+      "url": "https://x.com/levelsio/status/2060797815404528030",
+      "published": "2026-05-30",
+      "medium": "post",
+      "note": "A practical reply that confirms the feature exists, adds what it shows, and admits the data still missing, with no full stops at line ends."
+    },
+    {
+      "id": "ibkr",
+      "title": "Exact same with IBKR",
+      "url": "https://x.com/levelsio/status/2057237281853841914",
+      "published": "2026-05-20",
+      "medium": "post",
+      "note": "A one-line relatable reply to someone else's joke, naming his own equivalent and closing with a laughing emoji."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "One thought per line with blank lines between, usually no closing full stop, and exclamation marks only for real excitement.",
+      "sourceIds": [
+        "infinite-slop",
+        "earn-out",
+        "hotel-sort"
+      ]
+    },
+    {
+      "trait": "Exact figures carry the post: visitors, dollars and the arithmetic laid out line by line.",
+      "sourceIds": [
+        "shitposting-revenue",
+        "hotelist"
+      ]
+    },
+    {
+      "trait": "An emoji labels the product or topic at the start of the post.",
+      "sourceIds": [
+        "infinite-slop",
+        "hotelist",
+        "shitposting-revenue"
+      ]
+    },
+    {
+      "trait": "Opinions arrive as blunt rules or two-line contrasts, backed by experience rather than argument.",
+      "sourceIds": [
+        "earn-out",
+        "ac-contrast",
+        "mvp"
+      ]
+    },
+    {
+      "trait": "Credit for ideas and sponsorship is given by name, and unconventional methods come with a candid disclaimer.",
+      "sourceIds": [
+        "infinite-slop",
+        "hotelist",
+        "mvp"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "📝 After 8 months of building we're launching on Friday!\n\nIt turns your voice notes into a to-do list\n\nYou just talk and it makes the list for you\n\nFirst month is free so let me know what you think!!! 😊"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

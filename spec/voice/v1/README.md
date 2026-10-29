@@ -33,7 +33,7 @@ never supplies the person's opinions, biography, quotations or endorsement.
 | `status` | `unofficial` |
 | `evaluation` | `unbenchmarked` until a blind evaluation is admitted |
 | `strengths`, `limitations` | At least two each |
-| `sources` | At least three, each with `id`, `title`, an `https` `url`, `published`, `medium` (`essay`, `transcript` or `post`) and a `note` of at least 20 characters. Link to sources; never copy them |
+| `sources` | At least three, each with `id`, `title`, an `https` `url`, `published`, `medium` (`essay`, `transcript`, `speech`, `letter`, `post`, `fiction`, `play` or `poem`) and a `note` of at least 20 characters. Link to sources; never copy them |
 | `observations` | At least three, each a `trait` citing one or more source `id`s |
 | `illustration` | A `brief`, a `format`, the `text`, and `kind: "editorial-illustration"`: handwritten, never presented as model output or a quotation |
 

@@ -1,4 +1,4 @@
-# Naval Ravikant — VOICE.md
+# Write like Naval Ravikant
 
 Unofficial reference profile. Compact reasoning and transcript-informed explanation.
 
@@ -24,7 +24,7 @@ For a short post, write one compact claim that remains intelligible without an a
 
 ## Restraint
 
-Do not recycle famous quotations, invent investment advice or borrow the reference author's authority. Do not make every subject about wealth or happiness. Avoid absolute claims introduced merely to make a line memorable. Preserve uncertainty about outcomes. Remove the final aphorism if the piece already made its point more concretely. Compact writing should remove wasted words, not the user's evidence or personality.
+Do not recycle famous quotations, invent investment advice or borrow the reference author's authority. Do not make every subject about wealth or happiness. Avoid absolute claims introduced merely to make a line memorable. Preserve uncertainty about outcomes. Remove the final aphorism if the piece already made its point more concretely. Compact writing should remove wasted words, not the user's evidence or personality. No em dashes.
 
 ## Facts and identity
 

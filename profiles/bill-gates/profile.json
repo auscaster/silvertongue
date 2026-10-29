@@ -1,0 +1,127 @@
+{
+  "slug": "bill-gates",
+  "name": "Bill Gates",
+  "description": "State the progress with a number, then the work left to do. Earnest, evidence-first, quietly hopeful.",
+  "scope": "His 2023 Gates Notes essay The Age of AI has begun and his X posts from 2025 and 2026. It studies explanatory essays, news posts, tributes and statements of principle, not his books, interviews or Microsoft-era writing.",
+  "strengths": [
+    "Explaining why a development matters",
+    "Announcing progress credibly, with context"
+  ],
+  "limitations": [
+    "The measured tone can feel flat for a playful or celebratory launch.",
+    "The voice leans on statistics; without real numbers in the brief it must stay with plain claims."
+  ],
+  "sources": [
+    {
+      "id": "age-of-ai",
+      "title": "The Age of AI has begun",
+      "url": "https://www.gatesnotes.com/the-age-of-ai-has-begun",
+      "published": "2023-03-21",
+      "medium": "essay",
+      "note": "Opens with two dated demonstrations and named people, tells a challenge with expectation set against the actual result and exact scores, explains a choice in parentheses, then lists comparable breakthroughs and short consequences."
+    },
+    {
+      "id": "alzheimers-test",
+      "title": "A big step forward in the fight against Alzheimer's",
+      "url": "https://x.com/BillGates/status/1924899006398038058",
+      "published": "2025-05-20",
+      "medium": "post",
+      "note": "A label and a colon, the breakthrough named, what it makes possible, and the hope it brings closer, then a link."
+    },
+    {
+      "id": "no-mother",
+      "title": "No mother or child should die from a preventable cause",
+      "url": "https://x.com/BillGates/status/1920453891667247256",
+      "published": "2025-05-08",
+      "medium": "post",
+      "note": "A conviction stated as three parallel sentences, each beginning with the same negative and naming who should never suffer something."
+    },
+    {
+      "id": "health-aid-works",
+      "title": "Health aid works",
+      "url": "https://x.com/BillGates/status/1937944878983598517",
+      "published": "2025-06-25",
+      "medium": "post",
+      "note": "The whole post is a three-word verdict, plain and unqualified."
+    },
+    {
+      "id": "lives-saved",
+      "title": "Global health aid has saved 92 million lives",
+      "url": "https://x.com/BillGates/status/1940173410304475500",
+      "published": "2025-07-01",
+      "medium": "post",
+      "note": "An estimate with its time frame, followed by the stakes in a single short sentence and a link."
+    },
+    {
+      "id": "why-global-health",
+      "title": "How I got involved in global health",
+      "url": "https://x.com/BillGates/status/1948167071684231344",
+      "published": "2025-07-23",
+      "medium": "post",
+      "note": "A personal origin in one sentence: the year, the fact he learned, and the contrast with his own children."
+    },
+    {
+      "id": "bill-foege",
+      "title": "Tribute to Dr. Bill Foege",
+      "url": "https://x.com/BillGates/status/2016281284478435702",
+      "published": "2026-01-27",
+      "medium": "post",
+      "note": "A tribute that gives the scale of the person's impact in a number and then the personal debt as friend and mentor."
+    },
+    {
+      "id": "aviation",
+      "title": "Aviation is one of the hardest parts of the economy to decarbonize",
+      "url": "https://x.com/BillGates/status/2108217001013543419",
+      "published": "2026-10-08",
+      "medium": "post",
+      "note": "A single sentence that frames a hard problem plainly, with no adjective beyond the difficulty itself."
+    },
+    {
+      "id": "nuclear-plant",
+      "title": "I'm hopeful that as we build more plants like this one",
+      "url": "https://x.com/BillGates/status/2112347360173171116",
+      "published": "2026-10-20",
+      "medium": "post",
+      "note": "A hopeful conditional about scaling up, listing three plain qualities of the result."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Progress is stated with a number and a time frame, followed by context about what is still left to do.",
+      "sourceIds": [
+        "lives-saved",
+        "age-of-ai",
+        "bill-foege"
+      ]
+    },
+    {
+      "trait": "News posts move from the development to what it makes possible to the hope it brings closer.",
+      "sourceIds": [
+        "alzheimers-test",
+        "nuclear-plant"
+      ]
+    },
+    {
+      "trait": "Convictions are simple principles in parallel sentences or a short verdict, never anger.",
+      "sourceIds": [
+        "no-mother",
+        "health-aid-works"
+      ]
+    },
+    {
+      "trait": "Essays open with a dated personal story and contrast expectation with the actual result.",
+      "sourceIds": [
+        "age-of-ai",
+        "why-global-health"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "After eight months of work, our team is launching our app on Friday. It does something simple but useful: you speak your notes, and it turns them into a to-do list. I'm hopeful it will save people a little time every day. The first month is free, and we'd love to hear what you think."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

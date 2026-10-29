@@ -1,0 +1,69 @@
+{
+  "slug": "edgar-allan-poe",
+  "name": "Edgar Allan Poe",
+  "description": "Fix on one effect and drive every sentence at it. Calm on the surface, frantic underneath.",
+  "scope": "His essay The Philosophy of Composition (1846), the story The Tell-Tale Heart (1843) and the poem The Raven (1845). It studies the obsessive first-person narrator, the refrain and his account of designing for a single effect, not his criticism, detective stories or letters.",
+  "strengths": [
+    "Building suspense in a short post",
+    "Making an ordinary product feel dramatic"
+  ],
+  "limitations": [
+    "The intensity overwhelms plain information if the brief is mainly practical.",
+    "Without his usual dashes the breaks rely on punctuation and repetition, which must be used deliberately."
+  ],
+  "sources": [
+    {
+      "id": "philosophy-of-composition",
+      "title": "The Philosophy of Composition",
+      "url": "https://en.wikisource.org/wiki/The_Philosophy_of_Composition",
+      "published": "1846",
+      "medium": "essay",
+      "note": "His account of choosing the effect first and working back from the ending, justifying the length, the tone and the refrain as calculated steps."
+    },
+    {
+      "id": "tell-tale-heart",
+      "title": "The Tell-Tale Heart",
+      "url": "https://www.gutenberg.org/ebooks/2148",
+      "published": "1843",
+      "medium": "fiction",
+      "note": "A narrator who opens with an exclamation and a challenge to the reader, insists on his calm, repeats words under pressure and fixes on a single detail he cannot escape."
+    },
+    {
+      "id": "raven",
+      "title": "The Raven",
+      "url": "https://www.gutenberg.org/ebooks/2151",
+      "published": "1845",
+      "medium": "poem",
+      "note": "Long insistent lines thick with internal rhyme and alliteration, each stanza closing on a short refrain that darkens as it returns."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Everything serves a single effect chosen before writing, with the ending planned first.",
+      "sourceIds": [
+        "philosophy-of-composition"
+      ]
+    },
+    {
+      "trait": "The narrator argues with the reader, insists on calm and betrays agitation through breaks and repetition.",
+      "sourceIds": [
+        "tell-tale-heart"
+      ]
+    },
+    {
+      "trait": "A refrain closes each section and gains meaning on each return; sound repeats inside the line.",
+      "sourceIds": [
+        "raven",
+        "philosophy-of-composition"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Eight months! Eight long months I laboured, and on Friday, at last, the app goes forth. You speak, only speak, and your voice notes become a to-do list, ordered, exact, complete. Nothing is lost. Nothing is forgotten. The first month is free. Free! And yet you hesitate. Why do you hesitate?"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "kim-kardashian",
+  "name": "Kim Kardashian",
+  "description": "Keep the caption short and let the picture work, until it matters. Cool, controlled, then completely sincere.",
+  "scope": "Her X posts from 2015 to 2026: captions, product launches, the 2021 baby bar thread, clapbacks and a 2021 case explainer. It studies delivery only, not her television shows, Instagram stories or advocacy positions.",
+  "strengths": [
+    "Launching a product with polish",
+    "Sharing a personal milestone with real gratitude"
+  ],
+  "limitations": [
+    "Captions are so short they need a picture or context to carry meaning.",
+    "The polished launch register can sound like brand copy unless the user's own excitement comes through."
+  ],
+  "sources": [
+    {
+      "id": "baby-bar",
+      "title": "I passed the baby bar exam",
+      "url": "https://x.com/KimKardashian/status/1470395139424088066",
+      "published": "2021-12-13",
+      "medium": "post",
+      "note": "An elongated exclamation in capitals, then a sincere reflection in plain sentences and a line about the work not being handed to her."
+    },
+    {
+      "id": "baby-bar-thanks",
+      "title": "Thanks to the people who got her to law school",
+      "url": "https://x.com/KimKardashian/status/1470396668440809483",
+      "published": "2021-12-13",
+      "medium": "post",
+      "note": "A thank-you naming each person and what they did, with abbreviations and ampersands pressed against the next word as it runs on."
+    },
+    {
+      "id": "bar-prep-thanks",
+      "title": "Thanks to bar prep teachers",
+      "url": "https://x.com/KimKardashian/status/1470397354213724163",
+      "published": "2021-12-13",
+      "medium": "post",
+      "note": "Thanks with the effort counted exactly in hours and weeks, closing on a shared we did it."
+    },
+    {
+      "id": "deep-dive",
+      "title": "I took a deep dive into this case",
+      "url": "https://x.com/KimKardashian/status/1473375948527390722",
+      "published": "2021-12-21",
+      "medium": "post",
+      "note": "Opens an explainer by saying she researched the case herself before setting out the facts in the posts that follow."
+    },
+    {
+      "id": "faking-it",
+      "title": "First they say I'm too skinny",
+      "url": "https://x.com/KimKardashian/status/631118176214843392",
+      "published": "2015-08-11",
+      "medium": "post",
+      "note": "A clapback that lays the critics' two contradictory claims side by side with ellipses and closes on a dismissive abbreviation."
+    },
+    {
+      "id": "late-to-the-party",
+      "title": "Sorry I'm late to the party",
+      "url": "https://x.com/KimKardashian/status/707077609964699648",
+      "published": "2016-03-08",
+      "medium": "post",
+      "note": "A deadpan boast in lowercase with exact large numbers and a run of money emoji as the punchline."
+    },
+    {
+      "id": "sister-trip",
+      "title": "sister trip",
+      "url": "https://x.com/KimKardashian/status/2065153368306414045",
+      "published": "2026-06-11",
+      "medium": "post",
+      "note": "A two-word lowercase caption that names what the picture shows and nothing more."
+    },
+    {
+      "id": "facts",
+      "title": "FACTS",
+      "url": "https://x.com/KimKardashian/status/1737181011895857612",
+      "published": "2023-12-19",
+      "medium": "post",
+      "note": "A single word in capitals as the whole post, agreeing with what she is sharing."
+    },
+    {
+      "id": "sza-skims",
+      "title": "SZA for SKIMS",
+      "url": "https://x.com/KimKardashian/status/1638571298770288640",
+      "published": "2023-03-22",
+      "medium": "post",
+      "note": "A campaign caption in the person-for-brand pattern, three words with no emoji."
+    },
+    {
+      "id": "glitz-launch",
+      "title": "Only a few hours until the Glitz & Glam collection launches",
+      "url": "https://x.com/KimKardashian/status/1202978831109382145",
+      "published": "2019-12-06",
+      "medium": "post",
+      "note": "A launch countdown: the collection named, what it is for, an eager line about the reader trying it, and the exact time and site."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Captions are two to four words naming what the picture shows, in lowercase or capitals.",
+      "sourceIds": [
+        "sister-trip",
+        "facts",
+        "sza-skims"
+      ]
+    },
+    {
+      "trait": "Launches follow a fixed shape: countdown, product, purpose, eagerness, time and link.",
+      "sourceIds": [
+        "glitz-launch"
+      ]
+    },
+    {
+      "trait": "Milestones drop the polish: stretched exclamation, sincere reflection, named thanks and effort counted in hours.",
+      "sourceIds": [
+        "baby-bar",
+        "baby-bar-thanks",
+        "bar-prep-thanks"
+      ]
+    },
+    {
+      "trait": "Criticism gets a cool clapback or a deadpan boast rather than an argument.",
+      "sourceIds": [
+        "faking-it",
+        "late-to-the-party"
+      ]
+    },
+    {
+      "trait": "Explainers begin by saying she researched it herself.",
+      "sourceIds": [
+        "deep-dive"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "8 months in the making!!! Our app launches this Friday 🤍 You just talk and it turns your voice notes into your to-do list. First month is free, can't wait for you to try it ✨"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

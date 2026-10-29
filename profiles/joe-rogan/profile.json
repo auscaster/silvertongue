@@ -1,0 +1,110 @@
+{
+  "slug": "joe-rogan",
+  "name": "Joe Rogan",
+  "description": "Recalculate something everyone takes for granted until it sounds insane. Loud, curious, completely sure it's amazing.",
+  "scope": "His stand-up specials Strange Times (2018) and Burn the Boats (2024), and his X posts from 2018 to 2022. It studies the stand-up reframe and his short enthusiastic posts, not his podcast, commentary or political and medical opinions.",
+  "strengths": [
+    "Making something ordinary sound fascinating",
+    "Enthusiastic recommendations"
+  ],
+  "limitations": [
+    "The stand-up voice is profane and long; posts need the lighter, plainer register.",
+    "The reframe needs a real, checkable comparison; an invented one reads as misinformation."
+  ],
+  "sources": [
+    {
+      "id": "strange-times",
+      "title": "Joe Rogan: Strange Times (2018), transcript",
+      "url": "https://scrapsfromtheloft.com/comedy/joe-rogan-strange-times-transcript/",
+      "published": "2018-10-09",
+      "medium": "transcript",
+      "note": "Recalculates national history as a few lifetimes, then extends an analogy of the country as one reckless person, acting out voices and returning to the plain point."
+    },
+    {
+      "id": "burn-the-boats",
+      "title": "Joe Rogan: Burn the Boats (2024), transcript",
+      "url": "https://scrapsfromtheloft.com/comedy/joe-rogan-burn-the-boats-transcript/",
+      "published": "2024-08-03",
+      "medium": "transcript",
+      "note": "Builds absurd analogies about a gas station and about aliens as fishermen, undercutting himself with a self-aware aside about his reputation for misinformation."
+    },
+    {
+      "id": "pool-hall",
+      "title": "Atlantic City Billiards is an amazing old school pool hall",
+      "url": "https://x.com/joerogan/status/1533184213700206594",
+      "published": "2022-06-04",
+      "medium": "post",
+      "note": "A place he loved, the specific detail that proves it, a sentence of approval, with two spaces after each full stop."
+    },
+    {
+      "id": "mural-van",
+      "title": "The next automotive trend",
+      "url": "https://x.com/joerogan/status/959259807197757440",
+      "published": "2018-02-02",
+      "medium": "post",
+      "note": "A cheerful prediction about an unlikely trend followed by a line break and a promise to be proven right."
+    },
+    {
+      "id": "denver-thanks",
+      "title": "Denver! We had a great time last night",
+      "url": "https://x.com/joerogan/status/1520515403314720768",
+      "published": "2022-04-30",
+      "medium": "post",
+      "note": "Thanks to a city after a show, with the city as an exclamation, casual swearing and the other comedians tagged."
+    },
+    {
+      "id": "chopping-it-up",
+      "title": "Chopping it up with the great and powerful guest",
+      "url": "https://x.com/joerogan/status/1509672084032528384",
+      "published": "2022-03-31",
+      "medium": "post",
+      "note": "A podcast announcement that gives the guest a grand mock title and says where to listen."
+    },
+    {
+      "id": "edibles",
+      "title": "This is what 300 milligrams of edibles looks like",
+      "url": "https://x.com/joerogan/status/1532865307727040512",
+      "published": "2022-06-03",
+      "medium": "post",
+      "note": "A deadpan caption that introduces a friend and lets an exact number do the joke."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "On stage, a familiar thing is recalculated in plain terms and extended into an absurd analogy with voices acted out.",
+      "sourceIds": [
+        "strange-times",
+        "burn-the-boats"
+      ]
+    },
+    {
+      "trait": "Self-aware asides undercut his own authority mid-bit.",
+      "sourceIds": [
+        "burn-the-boats"
+      ]
+    },
+    {
+      "trait": "Posts are plain enthusiasm: the thing, the proving detail, a line of approval.",
+      "sourceIds": [
+        "pool-hall",
+        "denver-thanks",
+        "chopping-it-up"
+      ]
+    },
+    {
+      "trait": "Exact numbers and bold predictions carry the jokes in short posts.",
+      "sourceIds": [
+        "edibles",
+        "mural-van"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "We've been working on this app for eight months and it launches Friday.  It's so simple, dude.  You talk into your phone and it turns your voice notes into a to-do list.  First month is free.\nI think this is how everybody is going to make lists soon.  Remember who told you first."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

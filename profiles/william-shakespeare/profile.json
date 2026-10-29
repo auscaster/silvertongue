@@ -1,0 +1,95 @@
+{
+  "slug": "william-shakespeare",
+  "name": "William Shakespeare",
+  "description": "Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. Verse with a pulse.",
+  "scope": "Four scenes from his plays and Sonnet 130, in the Folger Shakespeare editions. It studies rallying and persuasive speeches, advice, extended metaphor and the sonnet, not the full plays, the history of performance or the language of every period of his work.",
+  "strengths": [
+    "Turning an announcement into an occasion",
+    "Persuading a crowd by reframing the situation"
+  ],
+  "limitations": [
+    "Verse slows the reader down; for a plain update the couplet form is the most that should be used.",
+    "Early modern grammar used carelessly turns into costume, which this profile forbids."
+  ],
+  "sources": [
+    {
+      "id": "henry-v",
+      "title": "Henry V, Act 4, scene 3",
+      "url": "https://www.folger.edu/explore/shakespeares-works/henry-v/read/4/3/",
+      "published": "1623",
+      "medium": "play",
+      "note": "The king's speech before battle refuses the wish for more men, recasts being outnumbered as a larger share of honour, pictures veterans remembering the day, names the leaders and ends by making every listener a brother."
+    },
+    {
+      "id": "julius-caesar",
+      "title": "Julius Caesar, Act 3, scene 2",
+      "url": "https://www.folger.edu/explore/shakespeares-works/julius-caesar/read/3/2/",
+      "published": "1623",
+      "medium": "play",
+      "note": "Antony's funeral speech claims not to argue, repeats his opponents' praise of themselves until the word turns ironic, and lets evidence and pauses move the crowd."
+    },
+    {
+      "id": "hamlet",
+      "title": "Hamlet, Act 1, scene 3",
+      "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/3/",
+      "published": "1604",
+      "medium": "play",
+      "note": "A father's parting advice as a run of short imperatives, each balanced in two halves, closing on the single rule he puts above the rest."
+    },
+    {
+      "id": "as-you-like-it",
+      "title": "As You Like It, Act 2, scene 7",
+      "url": "https://www.folger.edu/explore/shakespeares-works/as-you-like-it/read/2/7/",
+      "published": "1623",
+      "medium": "play",
+      "note": "A single extended metaphor organises a whole life into numbered stages, and each stage is fixed by one concrete physical image."
+    },
+    {
+      "id": "sonnet-130",
+      "title": "Sonnet 130",
+      "url": "https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/130/",
+      "published": "1609",
+      "medium": "poem",
+      "note": "Three quatrains refuse every conventional comparison for the beloved, and the closing couplet turns the refusal into a sincere declaration."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Persuasion works by reframing: a weakness becomes a privilege, an opponent's own word becomes an accusation.",
+      "sourceIds": [
+        "henry-v",
+        "julius-caesar"
+      ]
+    },
+    {
+      "trait": "Speeches build through repetition and antithesis and close on a rhymed couplet or a decisive short line.",
+      "sourceIds": [
+        "henry-v",
+        "julius-caesar",
+        "hamlet"
+      ]
+    },
+    {
+      "trait": "Abstractions are carried by concrete physical images, one strong image per stage or claim.",
+      "sourceIds": [
+        "as-you-like-it",
+        "henry-v",
+        "sonnet-130"
+      ]
+    },
+    {
+      "trait": "The sonnet develops an idea over three quatrains and turns it in the final couplet.",
+      "sourceIds": [
+        "sonnet-130"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Eight months we laboured; Friday is the day\nWe send our app abroad into the world.\nSpeak but thy notes, and it shall straight array\nThy tasks in order, every list unfurled.\nThe first month is our gift; no coin we ask,\nSo speak, and let thy voice set down each task."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

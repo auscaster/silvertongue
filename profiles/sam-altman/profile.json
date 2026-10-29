@@ -1,0 +1,137 @@
+{
+  "slug": "sam-altman",
+  "name": "Sam Altman",
+  "description": "A big claim said quietly, joined to its reason by a semicolon. Lowercase when it is personal, hopeful without hype.",
+  "scope": "His X posts and replies from May to October 2026 and two blog posts (2023 and 2025). It studies short posts, replies, advice lists and essay-length forecasts, not interviews, podcasts or company announcements written by others.",
+  "strengths": [
+    "Announcing something with warmth and a little wonder",
+    "Answering a hard question with honest, conditional uncertainty"
+  ],
+  "limitations": [
+    "The calm optimism needs something real in the brief to rest on; without it, the post sounds like a press release.",
+    "Lowercase only suits personal posts and replies, so the voice must choose the register before it writes."
+  ],
+  "sources": [
+    {
+      "id": "gentle-singularity",
+      "title": "The Gentle Singularity",
+      "url": "https://blog.samaltman.com/the-gentle-singularity",
+      "published": "2025-06-10",
+      "medium": "essay",
+      "note": "A large claim in one plain opening sentence, a concession about what has not happened yet, the turn, year-by-year forecasts with hedged verbs, and a number explained in a parenthetical aside."
+    },
+    {
+      "id": "what-i-wish",
+      "title": "What I Wish Someone Had Told Me",
+      "url": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
+      "published": "2023-12-21",
+      "medium": "essay",
+      "note": "Advice as a list of one-line maxims, most of them two clauses joined by a semicolon with the second clause telling the reader what to do."
+    },
+    {
+      "id": "scientists",
+      "title": "Post on free model access for researchers",
+      "url": "https://x.com/sama/status/2082628413769003269",
+      "published": "2026-07-30",
+      "medium": "post",
+      "note": "Lowercase personal reaction in three short paragraphs: the feeling, the reason joined by a semicolon, and a one-line value statement to close."
+    },
+    {
+      "id": "staggered-releases",
+      "title": "Reply on staggered model releases",
+      "url": "https://x.com/sama/status/2070610464019808561",
+      "published": "2026-06-26",
+      "medium": "post",
+      "note": "A lowercase reply built from two conditionals, each answered with a hedged \"i think\", conceding the risk under one condition and dismissing it under the other."
+    },
+    {
+      "id": "preview-period",
+      "title": "Reply on a required preview period",
+      "url": "https://x.com/sama/status/2070609190977228893",
+      "published": "2026-06-26",
+      "medium": "post",
+      "note": "Three one-line lowercase paragraphs: a partial agreement, the specific objection with a dropped apostrophe, then a closing line of confidence without a subject."
+    },
+    {
+      "id": "capacity",
+      "title": "Post on guaranteed capacity",
+      "url": "https://x.com/sama/status/2056827105401614656",
+      "published": "2026-05-19",
+      "medium": "post",
+      "note": "A commercial offer explained in lowercase: the customer need, the reason, the offer, then a parenthetical aside admitting the benefit to his own side."
+    },
+    {
+      "id": "three-things",
+      "title": "Three things we are most excited about",
+      "url": "https://x.com/sama/status/2057218997503086888",
+      "published": "2026-05-20",
+      "medium": "post",
+      "note": "A lowercase line ending in a colon introduces a short numbered list of parallel phrases, followed by brief notes on today and yesterday."
+    },
+    {
+      "id": "superheroes",
+      "title": "Post on helping developers",
+      "url": "https://x.com/sama/status/2052485051812909530",
+      "published": "2026-05-07",
+      "medium": "post",
+      "note": "Two unpunctuated lowercase lines: a playful comparison followed by a plain intensifier, with no hashtag, emoji or call to action."
+    },
+    {
+      "id": "magnitude",
+      "title": "Reply on the size of a research result",
+      "url": "https://x.com/sama/status/2097380833388790253",
+      "published": "2026-09-08",
+      "medium": "post",
+      "note": "The serious register, capitalised: a surprise admitted plainly, joined by a semicolon to what it means, and a second sentence that draws the cautious conclusion."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Case follows register: lowercase for personal posts and replies, ordinary capitals for announcements and serious statements.",
+      "sourceIds": [
+        "scientists",
+        "preview-period",
+        "magnitude"
+      ]
+    },
+    {
+      "trait": "The semicolon joins a claim to its reason or to an instruction, in posts and essays alike.",
+      "sourceIds": [
+        "what-i-wish",
+        "scientists",
+        "gentle-singularity",
+        "magnitude"
+      ]
+    },
+    {
+      "trait": "Uncertainty is stated openly with hedged verbs and conditionals rather than hidden.",
+      "sourceIds": [
+        "staggered-releases",
+        "gentle-singularity"
+      ]
+    },
+    {
+      "trait": "Posts close on a short value line or a parenthetical aside instead of a call to action.",
+      "sourceIds": [
+        "scientists",
+        "preview-period",
+        "capacity"
+      ]
+    },
+    {
+      "trait": "Lists are short and parallel, introduced by a line ending in a colon.",
+      "sourceIds": [
+        "three-things",
+        "what-i-wish"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "after eight months of building, we launch on friday!\n\nyou talk; it turns your voice notes into a to-do list. free for the first month.\n\nexcited to hear what you think."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

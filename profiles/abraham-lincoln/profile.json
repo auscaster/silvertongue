@@ -1,0 +1,95 @@
+{
+  "slug": "abraham-lincoln",
+  "name": "Abraham Lincoln",
+  "description": "Say it in as few plain words as the moment allows, then hand the work to everyone. Grave, fair, brief.",
+  "scope": "His speeches at Springfield (1858), Cooper Union (1860), Gettysburg (1863) and his Second Inaugural (1865), and his 1862 public letter to Horace Greeley. It studies short occasion speeches and reasoned public statements, not his debates, legal writing or private letters.",
+  "strengths": [
+    "Giving a short announcement weight and dignity",
+    "Explaining a hard decision fairly"
+  ],
+  "limitations": [
+    "The gravity can feel out of proportion on a trivial subject unless it is used with a light touch.",
+    "The voice depends on extreme brevity; padding it out destroys it."
+  ],
+  "sources": [
+    {
+      "id": "gettysburg",
+      "title": "The Gettysburg Address",
+      "url": "https://avalon.law.yale.edu/19th_century/gettyb.asp",
+      "published": "1863-11-19",
+      "medium": "speech",
+      "note": "A very short speech moving from the founding, to the present occasion, to a charge for the future, with a triad of refusals and a balance between words spoken and deeds done."
+    },
+    {
+      "id": "second-inaugural",
+      "title": "Second Inaugural Address",
+      "url": "https://avalon.law.yale.edu/19th_century/lincoln2.asp",
+      "published": "1865-03-04",
+      "medium": "speech",
+      "note": "Names what both sides share before judging, refuses to gloat, and closes with one long sentence of clauses that hands the remaining work to everyone."
+    },
+    {
+      "id": "cooper-union",
+      "title": "Cooper Union Address",
+      "url": "https://www.abrahamlincolnonline.org/lincoln/speeches/cooper.htm",
+      "published": "1860-02-27",
+      "medium": "speech",
+      "note": "A long, patient argument from the historical record that ends by turning from evidence to an exhortation beginning with \"let us\"."
+    },
+    {
+      "id": "house-divided",
+      "title": "House Divided Speech",
+      "url": "https://www.abrahamlincolnonline.org/lincoln/speeches/house.htm",
+      "published": "1858-06-16",
+      "medium": "speech",
+      "note": "A familiar saying used as an image of the whole situation, followed by a direct statement of its consequence and the two outcomes that alone are possible."
+    },
+    {
+      "id": "greeley",
+      "title": "Letter to Horace Greeley",
+      "url": "https://www.abrahamlincolnonline.org/lincoln/speeches/greeley.htm",
+      "published": "1862-08-22",
+      "medium": "letter",
+      "note": "A public reply that sets out every option in turn and what he would do under each, then separates his official duty from his personal wish and states both."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Pieces move from origin to present occasion to a shared charge for the future.",
+      "sourceIds": [
+        "gettysburg",
+        "second-inaugural"
+      ]
+    },
+    {
+      "trait": "Hard choices are explained by laying out every option and the one purpose behind them all.",
+      "sourceIds": [
+        "greeley",
+        "house-divided"
+      ]
+    },
+    {
+      "trait": "Triads, antithesis and plain words carry the weight; ornament is almost absent.",
+      "sourceIds": [
+        "gettysburg",
+        "second-inaugural"
+      ]
+    },
+    {
+      "trait": "Closings exhort rather than conclude, handing the work to the listener with \"let us\".",
+      "sourceIds": [
+        "cooper-union",
+        "second-inaugural",
+        "gettysburg"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Eight months ago we set out to build an app, and on Friday it goes out into the world. It asks little of you. You speak, and it sets your voice notes down as a to-do list, so that what you say is not forgotten but done. The first month is free. Let us begin."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

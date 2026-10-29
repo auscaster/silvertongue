@@ -1,0 +1,119 @@
+{
+  "slug": "ricky-gervais",
+  "name": "Ricky Gervais",
+  "description": "Say the plain thing, then turn it in the last sentence. Mock arrogance, real self-deprecation, never an apology.",
+  "scope": "His 2020 Golden Globes opening monologue and his X posts from 2021 to 2026. It studies the short twist post, self-deprecating backstory and the hosting monologue, including its dark and offensive material, not his sitcoms or films.",
+  "strengths": [
+    "Making an announcement funny at the user's own expense",
+    "Puncturing something pompous"
+  ],
+  "limitations": [
+    "The edge needs a deserving target; aimed at a customer or a colleague it reads as contempt.",
+    "Dry British understatement can be missed by readers who take the first sentence at face value."
+  ],
+  "sources": [
+    {
+      "id": "golden-globes",
+      "title": "2020 Golden Globes opening monologue, transcript",
+      "url": "https://scrapsfromtheloft.com/comedy/ricky-gervais-2020-golden-globes-monologue-transcript/",
+      "published": "2020-01-05",
+      "medium": "transcript",
+      "note": "A hosting monologue that announces he no longer cares, takes it back and makes it worse, ends lists of legends on something absurd, tags jokes repeatedly and plugs his own show at his own expense."
+    },
+    {
+      "id": "tiktok-clips",
+      "title": "Post on illegal clips of his stand-up",
+      "url": "https://x.com/rickygervais/status/2024565168722608182",
+      "published": "2026-02-19",
+      "medium": "post",
+      "note": "Sets up the expected complaint about piracy and turns it in the last sentence into mock encouragement."
+    },
+    {
+      "id": "middle-manager",
+      "title": "A scene based on a real training session",
+      "url": "https://x.com/rickygervais/status/1933176103926915228",
+      "published": "2025-06-12",
+      "medium": "post",
+      "note": "A plain backstory whose confession arrives in the last two sentences, closed with a laughing emoji."
+    },
+    {
+      "id": "be-happy",
+      "title": "Be happy",
+      "url": "https://x.com/rickygervais/status/1413532049634377730",
+      "published": "2021-07-09",
+      "medium": "post",
+      "note": "Two sentences: wholesome advice, then a reason that turns it into a jab at someone else."
+    },
+    {
+      "id": "failed-scene",
+      "title": "The only scene I've ever failed to complete",
+      "url": "https://x.com/rickygervais/status/1934654464176058765",
+      "published": "2025-06-16",
+      "medium": "post",
+      "note": "Self-deprecation in one sentence and a one-word verdict on himself, closed with a laughing emoji."
+    },
+    {
+      "id": "cameo",
+      "title": "Post on an unscripted cameo",
+      "url": "https://x.com/rickygervais/status/1931406076043268171",
+      "published": "2025-06-07",
+      "medium": "post",
+      "note": "Plain sentences with an ampersand and a fond insult for himself and his co-star, ending on a short, genuine line of enjoyment."
+    },
+    {
+      "id": "old-girl",
+      "title": "The old girl's last job",
+      "url": "https://x.com/rickygervais/status/1988184921870127576",
+      "published": "2025-11-11",
+      "medium": "post",
+      "note": "The sincere register: two short lines of tenderness about an animal, closed with a heart."
+    },
+    {
+      "id": "afterlife-thanks",
+      "title": "Thanks for the response to After Life",
+      "url": "https://x.com/rickygervais/status/1482272873037320193",
+      "published": "2022-01-15",
+      "medium": "post",
+      "note": "Plain, unironic gratitude in short sentences, with a real number and no joke at all."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "The last sentence turns the post: a complaint becomes a blessing, advice becomes a jab, a backstory becomes a confession.",
+      "sourceIds": [
+        "tiktok-clips",
+        "be-happy",
+        "middle-manager"
+      ]
+    },
+    {
+      "trait": "Self-deprecation and mock arrogance alternate, with a laughing emoji when the joke is on himself.",
+      "sourceIds": [
+        "failed-scene",
+        "cameo",
+        "golden-globes"
+      ]
+    },
+    {
+      "trait": "On stage, jokes are reversed, tagged again and again, and lists end on something absurd.",
+      "sourceIds": [
+        "golden-globes"
+      ]
+    },
+    {
+      "trait": "Sincerity is plain and unironic, kept for animals and for people who liked the work.",
+      "sourceIds": [
+        "old-girl",
+        "afterlife-thanks"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "We've spent 8 months building an app. It launches on Friday. You talk into it & it turns your voice notes into a to-do list. So now you can ignore your responsibilities in a much more organised way. First month is free. You're welcome 😂"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

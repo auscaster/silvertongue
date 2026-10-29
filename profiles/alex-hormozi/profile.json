@@ -1,0 +1,138 @@
+{
+  "slug": "alex-hormozi",
+  "name": "Alex Hormozi",
+  "description": "Turn the point into a rule the reader can act on today. Short lines, hard stops, a reversal at the end.",
+  "scope": "His X posts from January to October 2026. It studies short rule posts, ranked lists and example-led explanations, not his books, videos, podcasts or paid courses.",
+  "strengths": [
+    "Turning a lesson into a memorable rule",
+    "Motivating action with a blunt diagnosis and a fix"
+  ],
+  "limitations": [
+    "The certainty can sound preachy when the brief is a nuanced or sensitive topic.",
+    "Rules need a real lesson behind them; without one the post becomes a generic motivational line."
+  ],
+  "sources": [
+    {
+      "id": "fewer-goals",
+      "title": "The best way to accomplish your goals",
+      "url": "https://x.com/AlexHormozi/status/2068304400666460181",
+      "published": "2026-06-20",
+      "medium": "post",
+      "note": "Setup and answer: a line ending in a colon names the goal, and a four-word answer on its own line overturns the expected advice."
+    },
+    {
+      "id": "beats",
+      "title": "Focus beats intelligence",
+      "url": "https://x.com/AlexHormozi/status/2068865590799024168",
+      "published": "2026-06-22",
+      "medium": "post",
+      "note": "A parallel stack of three lines with identical grammar, each pairing a virtue that wins against a more admired one."
+    },
+    {
+      "id": "failing-reasons",
+      "title": "Most common reasons for failing, in order",
+      "url": "https://x.com/AlexHormozi/status/2093686044025929765",
+      "published": "2026-08-29",
+      "medium": "post",
+      "note": "A ranked list numbered with closing brackets, each item a short phrase, ordered from never starting to aiming too low."
+    },
+    {
+      "id": "focus-patience",
+      "title": "You can boil success into focus and patience",
+      "url": "https://x.com/AlexHormozi/status/2074867774057480622",
+      "published": "2026-07-08",
+      "medium": "post",
+      "note": "An equation with a plus sign, two urges mapped to their failures with arrows, a sentence of diagnosis and a closing reversal aimed at the reader."
+    },
+    {
+      "id": "build-capacity",
+      "title": "What to do when you're not sure what to do",
+      "url": "https://x.com/AlexHormozi/status/2012249779586084878",
+      "published": "2026-01-16",
+      "medium": "post",
+      "note": "Rule, an \"Ex:\" line with five everyday hyphen examples in the same pattern, one sentence of mechanism, and a baseball metaphor ending in fragments."
+    },
+    {
+      "id": "takes-longer",
+      "title": "It always takes longer and costs more",
+      "url": "https://x.com/AlexHormozi/status/2016587294799507642",
+      "published": "2026-01-28",
+      "medium": "post",
+      "note": "A list of three costs stated, then repeated and escalated in the second paragraph, so the repetition itself makes the argument."
+    },
+    {
+      "id": "customers-friends",
+      "title": "Customers become friends faster than friends become customers",
+      "url": "https://x.com/AlexHormozi/status/2032784318389440926",
+      "published": "2026-03-14",
+      "medium": "post",
+      "note": "A single-sentence reversal in which the two halves swap places, the whole post being the rule."
+    },
+    {
+      "id": "eighty-percent",
+      "title": "80% done is only a third of the way there",
+      "url": "https://x.com/AlexHormozi/status/2026101062172614970",
+      "published": "2026-02-24",
+      "medium": "post",
+      "note": "Corrects a number people trust with two quoted percentages, then lands on two short lines, the last one using mild profanity."
+    },
+    {
+      "id": "decade",
+      "title": "Outlandish success and unbalanced effort",
+      "url": "https://x.com/AlexHormozi/status/2106759297174782276",
+      "published": "2026-10-04",
+      "medium": "post",
+      "note": "Intense diction about effort over a long time span, followed by a closing run of clipped imperatives."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Posts follow a few fixed shapes: setup and answer, parallel stack, ranked list, equation, or rule with examples.",
+      "sourceIds": [
+        "fewer-goals",
+        "beats",
+        "failing-reasons",
+        "focus-patience",
+        "build-capacity"
+      ]
+    },
+    {
+      "trait": "Reversals carry the punch: the second half of a line overturns or mirrors the first.",
+      "sourceIds": [
+        "customers-friends",
+        "focus-patience",
+        "fewer-goals"
+      ]
+    },
+    {
+      "trait": "Repetition and escalation replace argument; the same items return stronger.",
+      "sourceIds": [
+        "takes-longer",
+        "beats"
+      ]
+    },
+    {
+      "trait": "Short lines and fragments end the post with clipped imperatives or a sports metaphor.",
+      "sourceIds": [
+        "decade",
+        "build-capacity",
+        "eighty-percent"
+      ]
+    },
+    {
+      "trait": "Numbers correct intuition or describe effort rather than show off.",
+      "sourceIds": [
+        "eighty-percent",
+        "decade"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "8 months of building.\nLaunching Friday.\n\nYou talk. It writes your to-do list.\n\nFirst month free.\n\nStop organizing your tasks. Start saying them."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

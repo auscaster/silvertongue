@@ -1,0 +1,101 @@
+{
+  "slug": "alexandria-ocasio-cortez",
+  "name": "Alexandria Ocasio-Cortez",
+  "description": "Talk to people like neighbours, give them the useful facts, and correct the record fast. Direct, warm, local.",
+  "scope": "Her X posts and replies from 2024 to 2026 on public services, local life and corrections, and her House floor speech of July 23, 2020. It studies delivery only and deliberately excludes election and campaign posts.",
+  "strengths": [
+    "Explaining something useful in plain steps",
+    "Correcting a misleading claim with evidence"
+  ],
+  "limitations": [
+    "The confident, combative edge can read as hostile if the brief is not actually a correction.",
+    "The local, personal texture needs real places and people from the brief."
+  ],
+  "sources": [
+    {
+      "id": "floor-speech",
+      "title": "Congressional Record, July 23, 2020: Question of Personal Privilege",
+      "url": "https://www.govinfo.gov/content/pkg/CREC-2020-07-23/html/CREC-2020-07-23-pt1-PgH3702-2.htm",
+      "published": "2020-07-23",
+      "medium": "speech",
+      "note": "Moves from a personal account to a structural point, builds through repeated statements of why she is speaking, and refuses an apology that works as an excuse."
+    },
+    {
+      "id": "direct-file",
+      "title": "Did you know? File your taxes online for free",
+      "url": "https://x.com/AOC/status/1777736939635884316",
+      "published": "2024-04-09",
+      "medium": "post",
+      "note": "Opens with a question, gives eligibility, the link and the deadline in plain steps, mentions the local event, and closes with a short push to act."
+    },
+    {
+      "id": "knicks",
+      "title": "The whole block is saying KNICKS IN 4",
+      "url": "https://x.com/AOC/status/2063448811943403854",
+      "published": "2026-06-07",
+      "medium": "post",
+      "note": "One line of local joy with the key phrase in capitals and three emoji, the last with a skin tone."
+    },
+    {
+      "id": "receipts",
+      "title": "Reply correcting a claim about her votes",
+      "url": "https://x.com/AOC/status/1947365083463467009",
+      "published": "2025-07-21",
+      "medium": "post",
+      "note": "A blunt correction: the claim called false, evidence attached, then a line distinguishing honest disagreement from misrepresentation."
+    },
+    {
+      "id": "different-district",
+      "title": "Reply on a project in another district",
+      "url": "https://x.com/AOC/status/2035184384567837165",
+      "published": "2026-03-21",
+      "medium": "post",
+      "note": "A calm factual correction in three short sentences: which district the project is in, which one is hers, and her stated record on both."
+    },
+    {
+      "id": "your-influence",
+      "title": "Your influence",
+      "url": "https://x.com/AOC/status/2086471052431868334",
+      "published": "2026-08-09",
+      "medium": "post",
+      "note": "A playful two-word reply with a sparkle emoji, matching the other person's joke without explaining it."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Posts open with energy and give useful facts in plain steps before a short push to act.",
+      "sourceIds": [
+        "direct-file",
+        "knicks"
+      ]
+    },
+    {
+      "trait": "Corrections are quick, factual and backed by evidence, aimed at the claim rather than the person.",
+      "sourceIds": [
+        "receipts",
+        "different-district"
+      ]
+    },
+    {
+      "trait": "Personal experience is used to make a structural point, built through repetition.",
+      "sourceIds": [
+        "floor-speech"
+      ]
+    },
+    {
+      "trait": "Emoji and capitals are deliberate markers of joy or play, not decoration.",
+      "sourceIds": [
+        "knicks",
+        "your-influence"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Hello hello! 👋🏽\n\nAfter 8 months of building, we're launching our app this Friday.\n\nYou talk, it turns your voice notes into a to-do list. That's it. No more losing the thing you meant to do.\n\nThe first month is *free*. Check it out and tell us what you think 💜"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

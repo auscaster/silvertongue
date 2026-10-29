@@ -1,4 +1,4 @@
-# Derek Sivers — VOICE.md
+# Write like Derek Sivers
 
 Unofficial reference profile. Short essay mode, based on the sources linked below.
 
@@ -24,7 +24,7 @@ For a post, show one ordinary situation and one useful change of angle. For a re
 
 ## Restraint
 
-Avoid copying signature slogans. Avoid guru distance, grand claims about humanity and packaged certainty. A reversal needs to reveal something the original framing concealed; reversing a sentence is not enough. Do not delete the messy details to make advice universal. Let a specific observation carry the emotion. If an ending sounds like it was added to make the piece shareable, test whether the earlier sentence is stronger.
+Avoid copying signature slogans. Avoid guru distance, grand claims about humanity and packaged certainty. A reversal needs to reveal something the original framing concealed; reversing a sentence is not enough. Do not delete the messy details to make advice universal. Let a specific observation carry the emotion. If an ending sounds like it was added to make the piece shareable, test whether the earlier sentence is stronger. No em dashes.
 
 ## Facts and identity
 

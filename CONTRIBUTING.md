@@ -22,9 +22,16 @@ Each voice is `profiles/<slug>/VOICE.md` plus `profile.json`, in the
 - Describe technique only. No invented quotations, opinions on new events,
   biography, relationships or endorsements, and nothing that claims to be the
   person.
+- Politicians are studied for delivery only. Their sources and illustration
+  avoid election and campaign material, and the profile forbids stating
+  positions, endorsing anyone or writing about elections and voting.
+- Deceased writers are accepted once a century has passed since their death.
+- Comedy and roast profiles keep the comedian's edge: drugs, sex, death, crude
+  language and personal insults about public or willing targets. They exclude
+  racism and slurs, and never target private people.
+- No em dashes in a profile or its illustration.
 - Not accepted: private individuals, minors, and people whose public writing is
-  mainly hate, harassment or incitement. Politicians, candidates and deceased
-  people are held for later.
+  mainly hate, harassment or incitement.
 
 Maintainers admit new voices after review and a blind evaluation against a strong
 name-only prompt. Corrections to an existing voice are welcome as ordinary pull
