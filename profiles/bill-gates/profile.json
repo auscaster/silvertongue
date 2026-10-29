@@ -1,6 +1,7 @@
 {
   "slug": "bill-gates",
   "name": "Bill Gates",
+  "lane": "tech",
   "description": "State the progress with a number, then the work left to do. Earnest, evidence-first, quietly hopeful.",
   "scope": "His 2023 Gates Notes essay The Age of AI has begun and his X posts from 2025 and 2026. It studies explanatory essays, news posts, tributes and statements of principle, not his books, interviews or Microsoft-era writing.",
   "strengths": [

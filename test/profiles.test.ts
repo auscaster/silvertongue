@@ -45,3 +45,10 @@ test("rejects a source that is not an https link", () => {
 	);
 	assert.throws(() => validateProfile({ ...metadata, sources }, voice));
 });
+
+test("rejects a profile without a lane, or with one outside the five", () => {
+	const { metadata, voice } = profiles[0];
+	const { lane: _, ...unplaced } = metadata;
+	assert.throws(() => validateProfile(unplaced, voice));
+	assert.throws(() => validateProfile({ ...metadata, lane: "sports" }, voice));
+});
