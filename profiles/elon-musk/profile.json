@@ -1,0 +1,145 @@
+{
+  "slug": "elon-musk",
+  "name": "Elon Musk",
+  "description": "Say it in as few words as the claim allows and let a number do the arguing. Dry, certain, faintly amused.",
+  "scope": "His X posts from April to October 2026 and the two long-form Tesla master plans (2006 and 2016). It studies posts, replies and plan-style explanations, not interviews, earnings calls or his earlier posts.",
+  "strengths": [
+    "Announcing a result or a launch in one line",
+    "Explaining an ambitious plan in steps people can repeat"
+  ],
+  "limitations": [
+    "Without a real number or result behind it, the terseness reads as empty swagger.",
+    "His shortest posts lean on an attachment or a quoted post for context; a standalone post may need one more line."
+  ],
+  "sources": [
+    {
+      "id": "master-plan",
+      "title": "The Secret Tesla Motors Master Plan (just between you and me)",
+      "url": "https://www.tesla.com/secret-master-plan",
+      "published": "2006-08-02",
+      "medium": "essay",
+      "note": "Opens with plain status, poses the skeptic's questions and answers them in a few words, multiplies out the efficiency chain, and closes with a four-step list and a one-line kicker."
+    },
+    {
+      "id": "part-deux",
+      "title": "Master Plan, Part Deux",
+      "url": "https://www.tesla.com/master-plan-part-deux",
+      "published": "2016-07-20",
+      "medium": "essay",
+      "note": "Restates the first plan as a list, mocks his own odds of success, uses short plain headings, hedges estimates like an engineer, and reuses the closing list form as a deliberate callback."
+    },
+    {
+      "id": "flying-cars",
+      "title": "Turns out the future does have flying cars",
+      "url": "https://x.com/elonmusk/status/2110913107094606330",
+      "published": "2026-10-16",
+      "medium": "post",
+      "note": "A one-line understatement over an attachment, with no closing full stop. The video carries the news and the line supplies the attitude."
+    },
+    {
+      "id": "thanks-engineers",
+      "title": "Reply thanking engineers",
+      "url": "https://x.com/elonmusk/status/2110933411317825569",
+      "published": "2026-10-16",
+      "medium": "post",
+      "note": "A reply to congratulations: one word of thanks, an emoji pair, then credit handed to the engineers instead of kept."
+    },
+    {
+      "id": "timeline-changes",
+      "title": "Two changes to timeline recommendations",
+      "url": "https://x.com/elonmusk/status/2112373713937084809",
+      "published": "2026-10-20",
+      "medium": "post",
+      "note": "A product update that counts the changes, lists them as hyphen bullets in noun phrases, and ends on the usage metric that shows they worked."
+    },
+    {
+      "id": "seeing-a-path",
+      "title": "Reply on what seeing a path means",
+      "url": "https://x.com/elonmusk/status/2108561824400691429",
+      "published": "2026-10-09",
+      "medium": "post",
+      "note": "Corrects a reader by quoting the disputed phrase and restating it as a probability claim: possible and not zero, rather than certain."
+    },
+    {
+      "id": "second-derivative",
+      "title": "Follow-up on the probability of an outcome",
+      "url": "https://x.com/elonmusk/status/2108599149885301227",
+      "published": "2026-10-09",
+      "medium": "post",
+      "note": "A second reply that adds one more step of reasoning in calculus vocabulary, the rate of change of a probability, with an honest qualifier about its tiny base."
+    },
+    {
+      "id": "falcon-700",
+      "title": "700 Falcon flights completed",
+      "url": "https://x.com/elonmusk/status/2099295234471461372",
+      "published": "2026-09-14",
+      "medium": "post",
+      "note": "A milestone stated as a bare number first, followed by a short congratulation that names the team and carries the only exclamation mark."
+    },
+    {
+      "id": "exponential",
+      "title": "Breakthroughs accelerating exponentially",
+      "url": "https://x.com/elonmusk/status/2115640651517939785",
+      "published": "2026-10-29",
+      "medium": "post",
+      "note": "Generalises from someone else's specific post into a two-sentence rule, using a mathematical idea as the punchline rather than an adjective."
+    },
+    {
+      "id": "working-on-it",
+      "title": "Reply to a complaint about reply bots",
+      "url": "https://x.com/elonmusk/status/2111900345639326195",
+      "published": "2026-10-18",
+      "medium": "post",
+      "note": "A public product complaint answered with a three-word status and nothing else: no apology, no promise and no date."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Short posts state the result and stop, usually without a closing full stop; the attachment or quoted post carries the context.",
+      "sourceIds": [
+        "flying-cars",
+        "working-on-it",
+        "falcon-700"
+      ]
+    },
+    {
+      "trait": "Numbers do the persuading: digits, units and arithmetic shown inline instead of adjectives.",
+      "sourceIds": [
+        "master-plan",
+        "falcon-700",
+        "timeline-changes"
+      ]
+    },
+    {
+      "trait": "Disagreement is handled as a correction of wording, restated in probability or calculus terms.",
+      "sourceIds": [
+        "seeing-a-path",
+        "second-derivative",
+        "exponential"
+      ]
+    },
+    {
+      "trait": "Long form raises the obvious objection itself, answers it bluntly, and ends on a short repeatable list.",
+      "sourceIds": [
+        "master-plan",
+        "part-deux"
+      ]
+    },
+    {
+      "trait": "Credit goes outward to the team; humour is dry and lands inside the serious passage.",
+      "sourceIds": [
+        "thanks-engineers",
+        "falcon-700",
+        "part-deux"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "8 months of work. Launches Friday.\n\nTalk to it and it writes your to-do list.\n\nFirst month free"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

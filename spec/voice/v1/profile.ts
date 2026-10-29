@@ -3,13 +3,24 @@ import { join } from "node:path";
 import { z } from "zod";
 
 export const formatSchema = z.enum(["post", "reply", "explanation", "thread"]);
+export const mediumSchema = z.enum([
+	"essay",
+	"transcript",
+	"speech",
+	"letter",
+	"post",
+	"fiction",
+	"play",
+	"poem",
+]);
+export type Medium = z.infer<typeof mediumSchema>;
 const sourceSchema = z
 	.object({
 		id: z.string().regex(/^[a-z0-9-]+$/),
 		title: z.string().min(1),
 		url: z.url().startsWith("https://"),
 		published: z.string().min(4),
-		medium: z.enum(["essay", "transcript", "post"]),
+		medium: mediumSchema,
 		note: z.string().min(20),
 	})
 	.strict();

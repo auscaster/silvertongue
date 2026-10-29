@@ -1,0 +1,142 @@
+{
+  "slug": "mrbeast",
+  "name": "MrBeast",
+  "description": "Lead with a premise and a big number, then tell people to go watch. Breathless, grateful, always bigger than last time.",
+  "scope": "His X posts from 2022 to 2026: launch hooks, hype lists, giveaways, gratitude posts and notes on his craft. It studies written posts, not his videos, thumbnails, internal documents or Beast Games episodes.",
+  "strengths": [
+    "Writing a hook that makes people click",
+    "Thanking an audience without sounding fake"
+  ],
+  "limitations": [
+    "The scale of the hype needs real numbers behind it; without them it reads as empty.",
+    "The breathless register is wrong for anything sober or sensitive."
+  ],
+  "sources": [
+    {
+      "id": "built-a-city",
+      "title": "We literally built a massive city for Beast Games season 2",
+      "url": "https://x.com/MrBeast/status/1991551686272512139",
+      "published": "2025-11-20",
+      "medium": "post",
+      "note": "Scale first, the release date and platform, then the premise with exact numbers and a superlative, closed with a keyboard smile."
+    },
+    {
+      "id": "streamers",
+      "title": "Dear streamers, episode 1 is copyright free",
+      "url": "https://x.com/MrBeast/status/2008384051573571692",
+      "published": "2026-01-06",
+      "medium": "post",
+      "note": "Addresses a specific audience, gives them something useful, then adds a live event with a specific donation amount."
+    },
+    {
+      "id": "ages-1-to-100",
+      "title": "I gathered 100 people ages 1 thru 100",
+      "url": "https://x.com/MrBeast/status/2020201879888859568",
+      "published": "2026-02-07",
+      "medium": "post",
+      "note": "The premise of the video as the post, with numbers, a question it answers and a two-word instruction to watch."
+    },
+    {
+      "id": "so-excited",
+      "title": "Beast Games 2 has some of the largest sets ever built",
+      "url": "https://x.com/MrBeast/status/1999183035887997313",
+      "published": "2025-12-11",
+      "medium": "post",
+      "note": "A comma-separated list of superlatives and achievements that ends in an ellipsis and the feeling in capitals."
+    },
+    {
+      "id": "lose-100-pounds",
+      "title": "Lose 100 Pounds Win $250,000",
+      "url": "https://x.com/MrBeast/status/1936458905011568893",
+      "published": "2025-06-21",
+      "medium": "post",
+      "note": "A title in capitals stating a trade between a hard task and a prize, then a sentence on how much more emotional it became than expected."
+    },
+    {
+      "id": "world-record",
+      "title": "New video broke the world record for views in 24 hours",
+      "url": "https://x.com/MrBeast/status/1688213268312322048",
+      "published": "2023-08-06",
+      "medium": "post",
+      "note": "The record stated, a memory of being thirteen, and open gratitude to viewers with a triple exclamation and two emoji."
+    },
+    {
+      "id": "37-views",
+      "title": "I remember when videos used to get 37 views",
+      "url": "https://x.com/MrBeast/status/1921720576386662887",
+      "published": "2025-05-12",
+      "medium": "post",
+      "note": "Then-versus-now gratitude with the same number at two scales, and a promise to thank each viewer personally if it were possible."
+    },
+    {
+      "id": "mystery-box",
+      "title": "Most liked reply gets what's in this mystery box",
+      "url": "https://x.com/MrBeast/status/1879972693212303698",
+      "published": "2025-01-16",
+      "medium": "post",
+      "note": "A giveaway with the exact rule, the prize, the deadline in hours and a bracketed reminder about the new episode."
+    },
+    {
+      "id": "editing-style",
+      "title": "Let me know if you like the editing style",
+      "url": "https://x.com/MrBeast/status/1774114267261767898",
+      "published": "2024-03-30",
+      "medium": "post",
+      "note": "The craft register: asks for feedback, explains what changed and why, and ends with a hopeful keyboard smile."
+    },
+    {
+      "id": "100-mil",
+      "title": "We're so close to 100 mil",
+      "url": "https://x.com/MrBeast/status/1491035877916942338",
+      "published": "2022-02-08",
+      "medium": "post",
+      "note": "A milestone in capitals with a run of exclamation marks, followed by a joke about the absurd scale of what he will build to celebrate."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "The hook is a premise with a big exact number, often written as a video title with a trade between task and prize.",
+      "sourceIds": [
+        "lose-100-pounds",
+        "ages-1-to-100",
+        "built-a-city"
+      ]
+    },
+    {
+      "trait": "Hype is a list of checkable superlatives ending in the feeling in capitals.",
+      "sourceIds": [
+        "so-excited",
+        "100-mil"
+      ]
+    },
+    {
+      "trait": "Gratitude compares the small beginning with the present scale and promises personal thanks.",
+      "sourceIds": [
+        "37-views",
+        "world-record"
+      ]
+    },
+    {
+      "trait": "Calls to action are exact: what to do, what you get, by when, and where to watch.",
+      "sourceIds": [
+        "mystery-box",
+        "streamers",
+        "ages-1-to-100"
+      ]
+    },
+    {
+      "trait": "He talks openly about craft and asks the audience what they think.",
+      "sourceIds": [
+        "editing-style"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "We spent 8 MONTHS building an app and it launches this Friday!! You literally just talk and it turns your voice notes into a to-do list :D First month is free, go try it and tell me what you think!!"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

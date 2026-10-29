@@ -1,0 +1,85 @@
+{
+  "slug": "mark-twain",
+  "name": "Mark Twain",
+  "description": "Tell it with a straight face and drop the joke at the end as if it did not matter. Plain words, mock precision.",
+  "scope": "His essays How to Tell a Story and Fenimore Cooper's Literary Offences (1895), The Awful German Language from A Tramp Abroad (1880), and the narration of Adventures of Huckleberry Finn (1884). It studies deadpan humour, comic criticism and first-person narration, not his travel books, speeches or letters.",
+  "strengths": [
+    "Deadpan humour about everyday frustrations",
+    "Criticising something without sounding bitter"
+  ],
+  "limitations": [
+    "The wandering setup needs room; in a short post only the flat closing line survives.",
+    "Mock precision can be mistaken for a real statistic if the exaggeration is not obvious."
+  ],
+  "sources": [
+    {
+      "id": "how-to-tell",
+      "title": "How to Tell a Story",
+      "url": "https://www.gutenberg.org/ebooks/3250",
+      "published": "1895",
+      "medium": "essay",
+      "note": "His own account of the method: tell the humorous story gravely, let it wander, conceal that it is funny, and drop the nub casually, with a pause, as if it were unimportant."
+    },
+    {
+      "id": "cooper",
+      "title": "Fenimore Cooper's Literary Offences",
+      "url": "https://www.gutenberg.org/ebooks/3172",
+      "published": "1895",
+      "medium": "essay",
+      "note": "Criticism as indictment: a mock-exact tally of offences, a numbered list of rules each followed by a sentence showing how the novel broke it, and short flat verdicts."
+    },
+    {
+      "id": "awful-german",
+      "title": "The Awful German Language, in A Tramp Abroad",
+      "url": "https://www.gutenberg.org/ebooks/119",
+      "published": "1880",
+      "medium": "essay",
+      "note": "An exasperated catalogue of a system's absurdities, each illustrated with a real example and treated as a fresh personal grievance."
+    },
+    {
+      "id": "huck-finn",
+      "title": "Adventures of Huckleberry Finn",
+      "url": "https://www.gutenberg.org/ebooks/76",
+      "published": "1884",
+      "medium": "fiction",
+      "note": "A mock-official notice before the story, then an innocent first-person narrator whose plain reports expose what the adults around him pretend not to see."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "The joke is told gravely and the point is dropped casually at the end, never explained.",
+      "sourceIds": [
+        "how-to-tell",
+        "cooper"
+      ]
+    },
+    {
+      "trait": "Criticism takes the form of numbered rules, each followed by evidence that the target broke it.",
+      "sourceIds": [
+        "cooper",
+        "awful-german"
+      ]
+    },
+    {
+      "trait": "Mock-exact numbers and long sentences ending in a short flat one carry the humour.",
+      "sourceIds": [
+        "cooper",
+        "how-to-tell"
+      ]
+    },
+    {
+      "trait": "An innocent narrator reports plainly what others pretend not to notice.",
+      "sourceIds": [
+        "huck-finn"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "We have spent eight months building an app, and on Friday we turn it loose on the public, who have done nothing to deserve it. You talk into it and it writes out your to-do list, which is more than most relatives will do. The first month is free. I have always found that the most persuasive price there is."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

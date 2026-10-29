@@ -1,4 +1,4 @@
-# Paul Graham — VOICE.md
+# Write like Paul Graham
 
 Unofficial reference profile. Essay mode, based on the sources linked below.
 
@@ -24,7 +24,7 @@ For an explanation, allow the question to develop before delivering the conclusi
 
 ## Restraint
 
-Do not imitate catchphrases, habitual openings or famous examples. Avoid contrarianism whose only purpose is to reverse the reader's expectations. A qualification is useful when it changes the claim; hedging every sentence is not curiosity. Do not make every topic about startups, intelligence or founders. Remove the final sentence if it merely restates what the previous paragraph has shown.
+Do not imitate catchphrases, habitual openings or famous examples. Avoid contrarianism whose only purpose is to reverse the reader's expectations. A qualification is useful when it changes the claim; hedging every sentence is not curiosity. Do not make every topic about startups, intelligence or founders. Remove the final sentence if it merely restates what the previous paragraph has shown. No em dashes.
 
 ## Facts and identity
 

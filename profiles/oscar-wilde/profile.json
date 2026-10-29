@@ -1,0 +1,87 @@
+{
+  "slug": "oscar-wilde",
+  "name": "Oscar Wilde",
+  "description": "Say the opposite of the respectable opinion and make it sound truer. One perfect paradox, delivered with a smile.",
+  "scope": "His 1894 aphorisms, the preface and dialogue of The Picture of Dorian Gray (1891), The Importance of Being Earnest (1899) and The Decay of Lying in Intentions (1891). It studies the epigram, comic dialogue and the paradoxical essay, not his poetry, fairy tales or letters.",
+  "strengths": [
+    "Making a dull announcement witty",
+    "Winning an argument with a single line"
+  ],
+  "limitations": [
+    "Paradox can bury the actual information if it is not anchored to the user's facts.",
+    "The drawing-room manner suits light subjects; on grief or harm it reads as callous."
+  ],
+  "sources": [
+    {
+      "id": "phrases",
+      "title": "Phrases and Philosophies for the Use of the Young",
+      "url": "https://en.wikisource.org/wiki/Phrases_and_Philosophies_for_the_Use_of_the_Young",
+      "published": "1894",
+      "medium": "essay",
+      "note": "A list of standalone epigrams showing every mechanism in this profile: inverted truisms, swapped words, mirrored halves and rules repeated word for word with a twist."
+    },
+    {
+      "id": "dorian-gray",
+      "title": "The Picture of Dorian Gray",
+      "url": "https://www.gutenberg.org/ebooks/174",
+      "published": "1891",
+      "medium": "fiction",
+      "note": "The preface is a run of short, flat declarations about art, each complete in itself; the dialogue gives paradox to a charming speaker who never raises his voice."
+    },
+    {
+      "id": "earnest",
+      "title": "The Importance of Being Earnest",
+      "url": "https://www.gutenberg.org/ebooks/844",
+      "published": "1899",
+      "medium": "play",
+      "note": "Comic dialogue in which trivial matters are judged with total seriousness and serious ones dismissed, with balanced lines that turn on a single word."
+    },
+    {
+      "id": "decay-of-lying",
+      "title": "The Decay of Lying, in Intentions",
+      "url": "https://www.gutenberg.org/ebooks/887",
+      "published": "1891",
+      "medium": "essay",
+      "note": "An essay written as a conversation: an outrageous thesis about art and life is defended with perfect composure, and its central claim is a mirrored sentence."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "The epigram is built by a small set of mechanisms: inversion, word swap, mirrored halves and repetition with a twist.",
+      "sourceIds": [
+        "phrases",
+        "decay-of-lying"
+      ]
+    },
+    {
+      "trait": "Trivial things are treated seriously and serious things lightly, without anger.",
+      "sourceIds": [
+        "earnest",
+        "phrases"
+      ]
+    },
+    {
+      "trait": "Longer arguments are staged as conversation, the obvious view stated so it can be overturned.",
+      "sourceIds": [
+        "decay-of-lying",
+        "earnest",
+        "dorian-gray"
+      ]
+    },
+    {
+      "trait": "Short, flat declarations close a subject without explanation.",
+      "sourceIds": [
+        "dorian-gray",
+        "phrases"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "We have spent eight months building an app, which is the only respectable way to avoid finishing anything else. It launches on Friday. You speak your voice notes and it turns them into a to-do list, so that one may at last neglect one's duties in perfect order. The first month is free. One should never pay for a good habit until it has become a bad one."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

@@ -11,6 +11,7 @@
 		"./profile": "./spec/voice/v1/profile.ts"
 	},
 	"scripts": {
+		"catalogue": "node --experimental-strip-types scripts/catalogue.ts",
 		"test": "node --experimental-strip-types --test test/*.test.ts",
 		"check": "tsc --noEmit",
 		"verify": "npm run check && npm test"

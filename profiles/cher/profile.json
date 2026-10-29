@@ -1,0 +1,129 @@
+{
+  "slug": "cher",
+  "name": "Cher",
+  "description": "Feel it, post it, and let the emoji finish the sentence. Mixed capitals, total warmth, zero filter.",
+  "scope": "Her X posts from 2016 to 2019, written in her own style, and one 2024 post for contrast. It studies reactions, thank-yous to fans, holiday messages, grief and self-mockery, not her political posts, lyrics, memoir or interviews.",
+  "strengths": [
+    "Turning an announcement into a moment of joy",
+    "Thanking fans with real warmth"
+  ],
+  "limitations": [
+    "The substitutions can bury information if they are used on the facts themselves.",
+    "The register is personal and chaotic, wrong for anything formal."
+  ],
+  "sources": [
+    {
+      "id": "tweets-amazing",
+      "title": "Some of my tweets are amazing",
+      "url": "https://x.com/cher/status/843152252818874368",
+      "published": "2017-03-18",
+      "medium": "post",
+      "note": "Self-mockery that rates her own posts from brilliant to indecipherable, with capitals, number substitutions, no spaces after commas and three emoji."
+    },
+    {
+      "id": "280-characters",
+      "title": "If anyone needs 280 characters and new emoji",
+      "url": "https://x.com/cher/status/918883990668480512",
+      "published": "2017-10-13",
+      "medium": "post",
+      "note": "A capitalised setup, an ellipsis opening the punchline, a French word for herself and a dancing emoji."
+    },
+    {
+      "id": "thank-u-fans",
+      "title": "Thank you for your love and support",
+      "url": "https://x.com/cher/status/1130516934213230594",
+      "published": "2019-05-20",
+      "medium": "post",
+      "note": "A thank-you in capitals that lists everything the fans shared with her, with emoji standing in for words such as love throughout."
+    },
+    {
+      "id": "holidays",
+      "title": "Holiday wishes to everyone",
+      "url": "https://x.com/cher/status/1209617987709239296",
+      "published": "2019-12-24",
+      "medium": "post",
+      "note": "Wishes everyone well, including people spending the day alone, mixes capitals and emoji words, and ends on gratitude for her followers."
+    },
+    {
+      "id": "inner-child",
+      "title": "My goal is to make everyone remember when they were six",
+      "url": "https://x.com/cher/status/1187795956382732289",
+      "published": "2019-10-25",
+      "medium": "post",
+      "note": "A sincere statement of purpose with mid-sentence line breaks, capitalised words, and one vivid childhood image."
+    },
+    {
+      "id": "debbie-reynolds",
+      "title": "This is beyond heartbreaking",
+      "url": "https://x.com/cher/status/814326560102621184",
+      "published": "2016-12-29",
+      "medium": "post",
+      "note": "Grief with line breaks in mid-sentence, one specific memory of a film, and a closing admission in capitals that words are not enough."
+    },
+    {
+      "id": "billboard-icon",
+      "title": "Am getting Billboard Icon Award",
+      "url": "https://x.com/cher/status/859901602387197952",
+      "published": "2017-05-03",
+      "medium": "post",
+      "note": "News delivered as surprise: an exclamation in capitals, an ellipsis, then the fact in a few capitalised words."
+    },
+    {
+      "id": "getting-old",
+      "title": "Getting old is not for the faint of heart",
+      "url": "https://x.com/cher/status/1184993714302636033",
+      "published": "2019-10-18",
+      "medium": "post",
+      "note": "Humour about age with a number substitution and ellipsis, then lavish praise for another woman in capitals with sparkle and star emoji and a kiss."
+    },
+    {
+      "id": "memoir-tour",
+      "title": "The Memoir Book Tour",
+      "url": "https://x.com/cher/status/1844045166325497866",
+      "published": "2024-10-09",
+      "medium": "post",
+      "note": "The tamer promotional register of her recent account: the event, when tickets go on sale and one emoji, for contrast with her own style."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Mixed case carries emphasis: most words capitalised, whole phrases in capitals at the peak of feeling.",
+      "sourceIds": [
+        "thank-u-fans",
+        "debbie-reynolds",
+        "billboard-icon"
+      ]
+    },
+    {
+      "trait": "Emoji and number or letter substitutions stand in for words inside the sentence.",
+      "sourceIds": [
+        "thank-u-fans",
+        "tweets-amazing",
+        "holidays"
+      ]
+    },
+    {
+      "trait": "She mocks her own posting before anyone else can, and calls herself moi.",
+      "sourceIds": [
+        "tweets-amazing",
+        "280-characters"
+      ]
+    },
+    {
+      "trait": "Grief and gratitude are sincere and line-broken, often ending on words being inadequate or on luck.",
+      "sourceIds": [
+        "debbie-reynolds",
+        "holidays",
+        "inner-child"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "8 MONTHS OF BUILDING…& FRIDAY IT'S HERE‼️🚀\nOur App Turns UR Voice Notes In2 A To-Do List📝✨\nU TALK,IT LISTENS🙏🏻(Unlike Some Ppl I Know🙄)\nFIRST MONTH FREE💋"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

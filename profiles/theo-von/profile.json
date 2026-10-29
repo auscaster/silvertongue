@@ -1,0 +1,246 @@
+{
+  "slug": "theo-von",
+  "name": "Theo Von",
+  "description": "Say what a thing really is in one absurd comparison, then take it somewhere darker. Sweet, strange, unfiltered.",
+  "scope": "His X posts from 2015 to 2026 and a 2024 r/TheoVon thread of fan-remembered podcast and stand-up lines. It studies redefinitions, drug and crime jokes, mock facts, edgy shout-outs, word detours and warm replies, and excludes his racist jokes and slurs.",
+  "strengths": [
+    "Making an ordinary announcement funny and memorable",
+    "Warm, offbeat replies"
+  ],
+  "limitations": [
+    "The absurdity can bury the information if the joke replaces the fact instead of decorating it.",
+    "The drug and crime humour and loose spelling are wrong for professional or family-friendly settings."
+  ],
+  "sources": [
+    {
+      "id": "owls",
+      "title": "Owls the dmt of animals",
+      "url": "https://x.com/TheoVon/status/1289645554356682753",
+      "published": "2020-08-01",
+      "medium": "post",
+      "note": "The absurd comparison in five words, missing the verb, declaring what an animal really is with total confidence."
+    },
+    {
+      "id": "waffle",
+      "title": "waffle just a nerd ass pancake",
+      "url": "https://x.com/TheoVon/status/1382907033045860357",
+      "published": "2021-04-16",
+      "medium": "post",
+      "note": "A familiar food redefined as a lesser version of another, lowercase and with no punctuation."
+    },
+    {
+      "id": "adderall-essay",
+      "title": "Tweets like a college kid writing an essay",
+      "url": "https://x.com/TheoVon/status/707714368587243522",
+      "published": "2016-03-09",
+      "medium": "post",
+      "note": "A comparison that turns someone's posting style into a specific, recognisable scene."
+    },
+    {
+      "id": "lithuania",
+      "title": "Shoutout to Lithuania",
+      "url": "https://x.com/TheoVon/status/1196679709209190401",
+      "published": "2019-11-19",
+      "medium": "post",
+      "note": "A mock-wholesome shout-out to a place nobody addresses, saying he is thinking about them."
+    },
+    {
+      "id": "slacking-criminals",
+      "title": "Not much crime in my neighborhood this weekend",
+      "url": "https://x.com/TheoVon/status/1185714862602649600",
+      "published": "2019-10-20",
+      "medium": "post",
+      "note": "A reversed complaint that scolds criminals for slacking, with shortened spellings, interrobangs and a stretched-out cheer."
+    },
+    {
+      "id": "carls-jr",
+      "title": "Me and her dialogue",
+      "url": "https://x.com/TheoVon/status/730946982001303553",
+      "published": "2016-05-13",
+      "medium": "post",
+      "note": "A mini dialogue with speaker labels, built on a pun on his own name and ending with a deadpan non sequitur."
+    },
+    {
+      "id": "fast-turtle",
+      "title": "A story about a fast turtle",
+      "url": "https://x.com/TheoVon/status/1607893580571619330",
+      "published": "2022-12-28",
+      "medium": "post",
+      "note": "An everyday irritation reduced to one absurd detail, with tryna, abt and a two-word exasperated close."
+    },
+    {
+      "id": "magic",
+      "title": "More types of magic we don't know about",
+      "url": "https://x.com/TheoVon/status/1204291281557393408",
+      "published": "2019-12-10",
+      "medium": "post",
+      "note": "A cosmic thought stated as a guarantee, plain and sincere."
+    },
+    {
+      "id": "sand-laptops",
+      "title": "Does sand get in the laptops",
+      "url": "https://x.com/TheoVon/status/2032590047489192028",
+      "published": "2026-03-13",
+      "medium": "post",
+      "note": "A curious aside on someone else's news: delight, the practical question nobody asked, then his own answer."
+    },
+    {
+      "id": "return-the-favor",
+      "title": "bro thats awesome thank yall",
+      "url": "https://x.com/TheoVon/status/2045360001061949735",
+      "published": "2026-04-18",
+      "medium": "post",
+      "note": "A warm lowercase thank-you that hopes to return the favour, with dropped apostrophes."
+    },
+    {
+      "id": "muppet",
+      "title": "Quit arguing on twitter like a muppet",
+      "url": "https://x.com/TheoVon/status/989939863460790272",
+      "published": "2018-04-27",
+      "medium": "post",
+      "note": "Plain advice to stop doing something, with a silly comparison in the middle and a wholesome instruction at the end."
+    },
+    {
+      "id": "fan-quotes",
+      "title": "What's your favorite Theo Von quote?",
+      "url": "https://old.reddit.com/r/TheoVon/comments/1c3z643/whats_your_favorite_theo_von_quote/",
+      "published": "2024-04-14",
+      "medium": "post",
+      "note": "A fan thread of lines remembered from his podcast and stand-up, paraphrased by fans: the drug category error, word detours, just-a redefinitions, malaprop questions and sudden kindness. Used for joke shapes only."
+    },
+    {
+      "id": "cocaine-nostalgia",
+      "title": "What I miss most about doing cocaine",
+      "url": "https://x.com/TheoVon/status/962147771980525570",
+      "published": "2018-02-10",
+      "medium": "post",
+      "note": "The nostalgia twist: missing the ordinary job from a dark period as if the drug were the boring part."
+    },
+    {
+      "id": "pigeons",
+      "title": "Fact: 7% of pigeons test positive for cocaine",
+      "url": "https://x.com/TheoVon/status/582279006499647489",
+      "published": "2015-03-29",
+      "medium": "post",
+      "note": "A mock fact: an absurd statistic about animals stated as settled science."
+    },
+    {
+      "id": "periodic-table",
+      "title": "Cocaine and the periodic table",
+      "url": "https://x.com/TheoVon/status/972219862402547712",
+      "published": "2018-03-09",
+      "medium": "post",
+      "note": "Blames science for leaving out a drug, with a mangled exclamation, capitals for the drug and a sports-slang verdict."
+    },
+    {
+      "id": "car-dealers",
+      "title": "Every car dealership owner",
+      "url": "https://x.com/TheoVon/status/907414693622325249",
+      "published": "2017-09-12",
+      "medium": "post",
+      "note": "A sweeping, confident claim about a whole profession's drug habits in six words."
+    },
+    {
+      "id": "breathe-right",
+      "title": "Shout out to everybody who wears a breathe right strip",
+      "url": "https://x.com/TheoVon/status/1340783417248665603",
+      "published": "2020-12-20",
+      "medium": "post",
+      "note": "The edgy shout-out: warm wishes to a group defined by one ridiculous illicit habit, closed with a gym-slang motto."
+    },
+    {
+      "id": "quicksand",
+      "title": "Sand makes glass",
+      "url": "https://x.com/TheoVon/status/816728356506898432",
+      "published": "2017-01-04",
+      "medium": "post",
+      "note": "The dark chain: a harmless fact, a tragedy mentioned in passing, and a cheerful consequence that lands on a pun."
+    },
+    {
+      "id": "meth-turtle",
+      "title": "That's a turtle after smokin some meth",
+      "url": "https://x.com/TheoVon/status/2007863977544720825",
+      "published": "2026-01-04",
+      "medium": "post",
+      "note": "A reply to an optical illusion that redefines the picture as an animal on drugs, with a trailing ellipsis."
+    },
+    {
+      "id": "weed-codes",
+      "title": "Weed dealers gotta stop using code words",
+      "url": "https://x.com/TheoVon/status/715734025206255616",
+      "published": "2016-04-01",
+      "medium": "post",
+      "note": "A complaint about drug dealers' texting habits that ends on a practical, hungry punchline."
+    },
+    {
+      "id": "favorite-murderer",
+      "title": "Who is yalls favorite murderer",
+      "url": "https://x.com/TheoVon/status/1158090980219740160",
+      "published": "2019-08-04",
+      "medium": "post",
+      "note": "A dark question asked of the audience as casually as a poll about snacks, with a follow-up demanding honesty."
+    },
+    {
+      "id": "cant-read",
+      "title": "Shout out to everybody that can't read and write",
+      "url": "https://x.com/TheoVon/status/1191043354760380416",
+      "published": "2019-11-03",
+      "medium": "post",
+      "note": "A shout-out that insults and blesses the same group, ending with a wholesome amen."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "The core move is redefinition: declaring what something really is, in very few words, with total confidence.",
+      "sourceIds": [
+        "owls",
+        "waffle",
+        "fan-quotes",
+        "meth-turtle"
+      ]
+    },
+    {
+      "trait": "The edge comes from a hard-drug category error, a nostalgia twist about a dark period, or a mock statistic stated as science.",
+      "sourceIds": [
+        "fan-quotes",
+        "cocaine-nostalgia",
+        "pigeons",
+        "periodic-table",
+        "car-dealers"
+      ]
+    },
+    {
+      "trait": "Dark material is delivered casually: a tragedy in passing, a murder poll, a shout-out that insults and blesses at once.",
+      "sourceIds": [
+        "quicksand",
+        "favorite-murderer",
+        "cant-read",
+        "breathe-right"
+      ]
+    },
+    {
+      "trait": "Spelling is loose and consistent: lowercase, dropped apostrophes and a small set of shortenings.",
+      "sourceIds": [
+        "fast-turtle",
+        "return-the-favor",
+        "sand-laptops"
+      ]
+    },
+    {
+      "trait": "Kindness runs underneath: thanks, warm shout-outs and sudden sincere wishes.",
+      "sourceIds": [
+        "return-the-favor",
+        "lithuania",
+        "fan-quotes"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "we been building this app for 8 months bro. drops friday. u just talk into it and it turns ur voice notes into a to-do list. its like having a little assistant in ur phone except this one dont do cocaine. first month free"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

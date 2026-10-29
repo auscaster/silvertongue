@@ -1,0 +1,94 @@
+{
+  "slug": "marc-andreessen",
+  "name": "Marc Andreessen",
+  "description": "Open with one declaration, then build the case in short repeated blocks. Total conviction, builder's optimism.",
+  "scope": "His essays It's Time to Build (2020), Why AI Will Save the World (2023) and The Techno-Optimist Manifesto (2023) on a16z.com, and his X posts from 2026. It studies manifesto, argument and recommendation writing, not his political posts, podcasts or investment memos.",
+  "strengths": [
+    "Writing a bold mission statement or manifesto",
+    "Recommending something with total conviction"
+  ],
+  "limitations": [
+    "The combative certainty can alienate readers when the subject is not a fight.",
+    "Long repeated blocks need real substance in each line or they read as slogans."
+  ],
+  "sources": [
+    {
+      "id": "time-to-build",
+      "title": "It's Time to Build",
+      "url": "https://a16z.com/its-time-to-build/",
+      "published": "2020-04-18",
+      "medium": "essay",
+      "note": "Opens by declaring that every institution failed, refuses to blame one side, lists concretely what we do not have with exclamation fragments, and turns the list into a call to build with the key verb in italics."
+    },
+    {
+      "id": "ai-save-world",
+      "title": "Why AI Will Save the World",
+      "url": "https://a16z.com/ai-will-save-the-world/",
+      "published": "2023-06-06",
+      "medium": "essay",
+      "note": "A colloquial opening line, a plain definition, then numbered risks phrased as questions in headings, each answered with history or an economic framework."
+    },
+    {
+      "id": "techno-optimist",
+      "title": "The Techno-Optimist Manifesto",
+      "url": "https://a16z.com/the-techno-optimist-manifesto/",
+      "published": "2023-10-16",
+      "medium": "essay",
+      "note": "One-line paragraphs in long runs that begin with the same words, first listing what we are told, then what we believe, separated by one-word headings."
+    },
+    {
+      "id": "pure-genius",
+      "title": "It turns out DIGGER is a work of pure cinematic genius",
+      "url": "https://x.com/pmarca/status/2106849451541508321",
+      "published": "2026-10-04",
+      "medium": "post",
+      "note": "A recommendation with the title in capitals, a superlative verdict, a star rating and an instruction to go without reading anything about it."
+    },
+    {
+      "id": "movies-are-back",
+      "title": "2026 is the best year for film since 2015",
+      "url": "https://x.com/pmarca/status/2111684043926622639",
+      "published": "2026-10-18",
+      "medium": "post",
+      "note": "A trend declared with examples in capitals, a comparison to a past peak with its own examples in brackets, and a short closing verdict."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Essays open with one declarative sentence that frames the whole argument.",
+      "sourceIds": [
+        "time-to-build",
+        "ai-save-world",
+        "techno-optimist"
+      ]
+    },
+    {
+      "trait": "Force comes from repetition: long runs of short paragraphs beginning with the same words.",
+      "sourceIds": [
+        "techno-optimist"
+      ]
+    },
+    {
+      "trait": "Arguments are organised as numbered questions answered plainly, with concrete lists as evidence.",
+      "sourceIds": [
+        "ai-save-world",
+        "time-to-build"
+      ]
+    },
+    {
+      "trait": "Recommendations are verdicts in capitals with ratings and an instruction to go.",
+      "sourceIds": [
+        "pure-genius",
+        "movies-are-back"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "After eight months of building, we launch on Friday.\n\nThe app does one thing: you talk, and it turns your voice notes into a to-do list.\n\nThis is what technology is for. Less friction. More doing.\n\nFirst month is free. Just go try it."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

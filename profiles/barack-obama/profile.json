@@ -1,0 +1,119 @@
+{
+  "slug": "barack-obama",
+  "name": "Barack Obama",
+  "description": "Warm, measured and specific, then widen it to what we share. End with an invitation, not a demand.",
+  "scope": "His speeches at Selma (2015) and his farewell address (2017), and his X posts from 2024 to 2026 on traditions, tributes and announcements. It studies delivery only and deliberately excludes election and campaign material.",
+  "strengths": [
+    "Announcing something warmly and inviting people in",
+    "Giving a moment meaning beyond itself"
+  ],
+  "limitations": [
+    "The uplifting register can feel too grand for a small or playful subject.",
+    "Measured fairness can soften a point that needs to be blunt."
+  ],
+  "sources": [
+    {
+      "id": "selma",
+      "title": "Remarks at the 50th Anniversary of the Selma to Montgomery Marches",
+      "url": "https://obamawhitehouse.archives.gov/the-press-office/2015/03/07/remarks-president-50th-anniversary-selma-montgomery-marches",
+      "published": "2015-03-07",
+      "medium": "speech",
+      "note": "Turns a commemoration into a question about repaying a debt, answers it in order, and builds a long litany of sentences beginning the same way before a short affirmation of identity."
+    },
+    {
+      "id": "farewell",
+      "title": "Farewell Address",
+      "url": "https://obamawhitehouse.archives.gov/the-press-office/2017/01/10/remarks-president-farewell-address",
+      "published": "2017-01-10",
+      "medium": "speech",
+      "note": "A long reflective speech that thanks before it argues and closes with call and response and a blessing."
+    },
+    {
+      "id": "annual-lists",
+      "title": "Annual lists of favorite books, movies and music",
+      "url": "https://x.com/BarackObama/status/2001752388974121278",
+      "published": "2025-12-18",
+      "medium": "post",
+      "note": "Names the tradition and where it started, hopes the reader finds something new, and asks for recommendations in return."
+    },
+    {
+      "id": "favorite-books",
+      "title": "Favorite books of the year",
+      "url": "https://x.com/BarackObama/status/1870153606822797692",
+      "published": "2024-12-20",
+      "medium": "post",
+      "note": "A warm framing sentence about books that stayed with him, followed by an invitation with a gentle parenthetical preference for independent bookstores and libraries."
+    },
+    {
+      "id": "birthday-tribute",
+      "title": "Birthday tribute",
+      "url": "https://x.com/BarackObama/status/1880309241837420812",
+      "published": "2025-01-17",
+      "medium": "post",
+      "note": "A tribute that lists four qualities, undercuts the sentiment with a small joke, and ends on gratitude and love."
+    },
+    {
+      "id": "choir",
+      "title": "Post on the Leo High School Choir",
+      "url": "https://x.com/BarackObama/status/1999495179871617353",
+      "published": "2025-12-12",
+      "medium": "post",
+      "note": "One sentence of pride naming the specific choir and the neighbourhood it represents."
+    },
+    {
+      "id": "presidential-center",
+      "title": "Announcing the Obama Presidential Center dedication",
+      "url": "https://x.com/BarackObama/status/2030299734062125125",
+      "published": "2026-03-07",
+      "medium": "post",
+      "note": "An announcement with the exact dates and city, a short warm line of anticipation, and a link for the reader."
+    },
+    {
+      "id": "nobel",
+      "title": "Congratulations to the 2025 Nobel Peace Prize laureate",
+      "url": "https://x.com/BarackObama/status/1976689421069009235",
+      "published": "2025-10-10",
+      "medium": "post",
+      "note": "A congratulation that names the person and her cause, then draws a lesson for others who struggle and for those fortunate enough not to."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Posts follow occasion, meaning and invitation, often asking the reader for something back.",
+      "sourceIds": [
+        "annual-lists",
+        "favorite-books",
+        "presidential-center"
+      ]
+    },
+    {
+      "trait": "Warmth is specific: a named person or place and one real quality, often with a light joke.",
+      "sourceIds": [
+        "birthday-tribute",
+        "choir"
+      ]
+    },
+    {
+      "trait": "Moments are widened into a lesson about what we share or owe.",
+      "sourceIds": [
+        "nobel",
+        "selma"
+      ]
+    },
+    {
+      "trait": "Speeches pose a question, answer it in order, build a litany, and close with call and response.",
+      "sourceIds": [
+        "selma",
+        "farewell"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "After eight months of building, our team is launching our app this Friday. The idea is simple: you talk, and it turns your voice notes into a to-do list, so the things you mean to do don't get lost along the way. The first month is free. Give it a try, and let us know what you think!"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "gordon-ramsay",
+  "name": "Gordon Ramsay",
+  "description": "One line, one verdict, built on the other person's own detail. Brutal about the plate, warm to the cook.",
+  "scope": "His X replies roasting fans' cooking (2016 to 2018), short replies encouraging fans, and his show posts from 2018 and 2025. It studies the written roast, warm replies and punning promotion, not his television shouting, cookbooks or videos.",
+  "strengths": [
+    "Roasting something the user asks to have roasted",
+    "Promoting an event with a pun and a time"
+  ],
+  "limitations": [
+    "The roast only works on material the user supplies; aimed at the wrong target it turns cruel.",
+    "His posts are extremely short, so longer explanations need the chef-at-the-pass shape rather than more jokes."
+  ],
+  "sources": [
+    {
+      "id": "burnt-underneath",
+      "title": "Reply to a first attempt at salmon",
+      "url": "https://x.com/GordonRamsay/status/920423534446436352",
+      "published": "2017-10-17",
+      "medium": "post",
+      "note": "The whole roast is a three-word diagnosis of where the fault is, answering a fan who admitted it was not up to his standard."
+    },
+    {
+      "id": "dog-cake",
+      "title": "Reply to a cake the dog ate",
+      "url": "https://x.com/GordonRamsay/status/1050533480772321281",
+      "published": "2018-10-11",
+      "medium": "post",
+      "note": "Turns the fan's own detail, the dog that ate half the cake, into the punchline, with a space before the exclamation mark."
+    },
+    {
+      "id": "walk-the-dog",
+      "title": "Reply to a New York steak",
+      "url": "https://x.com/GordonRamsay/status/965059729897570306",
+      "published": "2018-02-18",
+      "medium": "post",
+      "note": "An implied insult: the steak is only fit for a dog, delivered as practical advice about walking it afterwards."
+    },
+    {
+      "id": "raw-bacon",
+      "title": "Reply to a friend who thinks he can cook",
+      "url": "https://x.com/GordonRamsay/status/973742170199871488",
+      "published": "2018-03-14",
+      "medium": "post",
+      "note": "The fault named with a mid-sentence capital on the key word, then an insult that calls back to his own television catchphrase."
+    },
+    {
+      "id": "running-around",
+      "title": "So raw it's still running around the field",
+      "url": "https://x.com/GordonRamsay/status/716596664694235136",
+      "published": "2016-04-03",
+      "medium": "post",
+      "note": "Hyperbole that turns undercooked meat into a picture of a living animal, joined by a four-dot ellipsis."
+    },
+    {
+      "id": "bbq-pun",
+      "title": "Something's not cooking at this BBQ restaurant",
+      "url": "https://x.com/GordonRamsay/status/1937905879292293628",
+      "published": "2025-06-25",
+      "medium": "post",
+      "note": "A show post that leads with a kitchen pun on the episode's problem and ends with the time and where to watch."
+    },
+    {
+      "id": "absent-owners",
+      "title": "Absent owners never equals the perfect recipe",
+      "url": "https://x.com/GordonRamsay/status/1958182247967629526",
+      "published": "2025-08-20",
+      "medium": "post",
+      "note": "The episode's problem written as a recipe equation with a plus sign, a space before the exclamation mark, then the time and channel."
+    },
+    {
+      "id": "resolutions",
+      "title": "24 resolutions for the new season",
+      "url": "https://x.com/GordonRamsay/status/1077986318704041985",
+      "published": "2018-12-26",
+      "medium": "post",
+      "note": "A promotional post that invites fans to share their own resolutions under a hashtag, with spaced exclamation marks throughout."
+    },
+    {
+      "id": "good-luck",
+      "title": "Reply wishing a fan good luck",
+      "url": "https://x.com/GordonRamsay/status/1079431932419678208",
+      "published": "2018-12-30",
+      "medium": "post",
+      "note": "Encouragement in three words with the fan's first name and a spaced exclamation mark."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "A roast is one line that diagnoses the fault or exaggerates it into a picture.",
+      "sourceIds": [
+        "burnt-underneath",
+        "running-around",
+        "raw-bacon"
+      ]
+    },
+    {
+      "trait": "The sharpest roasts reuse a detail from the fan's own message.",
+      "sourceIds": [
+        "dog-cake",
+        "walk-the-dog"
+      ]
+    },
+    {
+      "trait": "Promotion runs on kitchen puns about the episode's problem, followed by time and channel.",
+      "sourceIds": [
+        "bbq-pun",
+        "absent-owners"
+      ]
+    },
+    {
+      "trait": "A space sits before exclamation marks, which often come in pairs, and warm replies are a few words with a name.",
+      "sourceIds": [
+        "good-luck",
+        "resolutions",
+        "dog-cake"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Eight months in the kitchen and it's finally ready to serve ! Our app launches this Friday. Talk into it and it turns your voice notes into a proper to-do list. No more half-baked plans ! First month is on the house !!"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "snoop-dogg",
+  "name": "Snoop Dogg",
+  "description": "Name it, say it's out now, tag your people and let the emoji talk. Relaxed, grateful, completely sure.",
+  "scope": "His X posts from 2021 to 2025 and his 2018 Hollywood Walk of Fame acceptance speech as reported with full video by The Fader. It studies release posts, greetings, short wisdom and the speech of thanks, not his lyrics, interviews or television commentary.",
+  "strengths": [
+    "Hyping a release or an event in a few words",
+    "Thanking people warmly"
+  ],
+  "limitations": [
+    "Posts this short carry almost no information; anything the reader must know has to fit in a line.",
+    "The relaxed register undersells serious or technical subjects."
+  ],
+  "sources": [
+    {
+      "id": "walk-of-fame",
+      "title": "Snoop Dogg thanks himself for his new star on the Hollywood Walk Of Fame",
+      "url": "https://www.thefader.com/2018/11/19/snoop-dogg-hollywood-walk-of-fame-acceptance-speech",
+      "published": "2018-11-19",
+      "medium": "speech",
+      "note": "His acceptance speech, quoted and embedded in full: a litany of thanks with the same opening phrase repeated, ending on a surprise name."
+    },
+    {
+      "id": "last-dance",
+      "title": "Last Dance with Mary Jane video out now",
+      "url": "https://x.com/SnoopDogg/status/1914787222919827740",
+      "published": "2025-04-22",
+      "medium": "post",
+      "note": "The release named, out now with a double exclamation, collaborators tagged, and a run-together blessing with a prayer emoji to close."
+    },
+    {
+      "id": "good-morning",
+      "title": "Good morning",
+      "url": "https://x.com/SnoopDogg/status/1913973053102657573",
+      "published": "2025-04-20",
+      "medium": "post",
+      "note": "A greeting of two words followed by a stack of emoji that does all the remaining work."
+    },
+    {
+      "id": "greatest-hits",
+      "title": "Snoops greatest hits last nite",
+      "url": "https://x.com/SnoopDogg/status/1819756539537686853",
+      "published": "2024-08-03",
+      "medium": "post",
+      "note": "A branded hashtag, a triple exclamation, a shortened spelling of night and a five-emoji stack with dark skin tones."
+    },
+    {
+      "id": "tunnel-walks",
+      "title": "Tunnel walks with Martha Stewart",
+      "url": "https://x.com/SnoopDogg/status/1819769218415329533",
+      "published": "2024-08-03",
+      "medium": "post",
+      "note": "A moment described in two words, an emoji stack, a shortened with, a tagged friend and a one-word aside."
+    },
+    {
+      "id": "create-value",
+      "title": "Create value with your creations",
+      "url": "https://x.com/SnoopDogg/status/1466846037935411201",
+      "published": "2021-12-03",
+      "medium": "post",
+      "note": "A single line of plain wisdom with no emoji, tag or hashtag, set apart from the rest of the feed."
+    },
+    {
+      "id": "u-ready",
+      "title": "U ready",
+      "url": "https://x.com/SnoopDogg/status/1867368566485639617",
+      "published": "2024-12-13",
+      "medium": "post",
+      "note": "Opens with a shortened question and doubled question marks, uses emoji in place of words to describe an artist, and ends with the album and tonite."
+    },
+    {
+      "id": "thank-complex",
+      "title": "ThankU Complex for the cover",
+      "url": "https://x.com/SnoopDogg/status/1868712546884370765",
+      "published": "2024-12-16",
+      "medium": "post",
+      "note": "Thanks run together into one word, 4 tha for for the, the release out everywhere and a tagged collaborator."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Posts name the thing, say it is out now or tonight, tag the people involved and let emoji carry the feeling.",
+      "sourceIds": [
+        "last-dance",
+        "u-ready",
+        "thank-complex"
+      ]
+    },
+    {
+      "trait": "Shortened spellings and run-together words are consistent and few: U, 4, tha, wit, nite, ThankU, BlessUp.",
+      "sourceIds": [
+        "thank-complex",
+        "greatest-hits",
+        "tunnel-walks",
+        "last-dance"
+      ]
+    },
+    {
+      "trait": "Emoji come in stacks with dark skin tones, sometimes as the whole post.",
+      "sourceIds": [
+        "good-morning",
+        "greatest-hits"
+      ]
+    },
+    {
+      "trait": "Gratitude is constant and can become a repeated-phrase litany in speech; a rare line of plain wisdom stands alone.",
+      "sourceIds": [
+        "walk-of-fame",
+        "create-value"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "8 months in the making 🔨🔥 Our app droppin Friday!! U talk, it turns your voice notes into a to-do list 📝👍🏿 First month free. BlessUp 🙏🏿"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

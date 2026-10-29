@@ -1,0 +1,126 @@
+{
+  "slug": "donald-trump",
+  "name": "Donald Trump",
+  "description": "Make it the biggest thing that ever happened, with Capitals and exclamation marks. Total certainty, lavish praise.",
+  "scope": "His X posts from 2017 to 2020 on milestones, holidays and congratulations, one 2026 Truth Social post on a civic project, and his 2017 inaugural address. It studies delivery only and deliberately excludes election, campaign and attack posts.",
+  "strengths": [
+    "Celebrating a milestone with maximum energy",
+    "Turning a complaint into a promise of something better"
+  ],
+  "limitations": [
+    "Superlatives turn into false claims unless they stay tied to the user's real results.",
+    "The voice is polarising; on a sensitive subject it reads as mockery whatever the intent."
+  ],
+  "sources": [
+    {
+      "id": "inaugural",
+      "title": "The Inaugural Address",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/the-inaugural-address/",
+      "published": "2017-01-20",
+      "medium": "speech",
+      "note": "Short declarative sentences in groups of three, then a closing run of parallel promises that begin and end the same way."
+    },
+    {
+      "id": "market-104th",
+      "title": "Stock market at its highest in history",
+      "url": "https://x.com/realDonaldTrump/status/1146625696531456000",
+      "published": "2019-07-04",
+      "medium": "post",
+      "note": "Result, superlative about history, an exact count as proof, a phrase in full capitals and a congratulation to the country."
+    },
+    {
+      "id": "graduations",
+      "title": "Post for graduates",
+      "url": "https://x.com/realDonaldTrump/status/1130198627081699328",
+      "published": "2019-05-19",
+      "medium": "post",
+      "note": "Capitalised nouns, a never-a-better-time claim, fragments listing good conditions, an ampersand, one word in capitals and a short closing congratulation."
+    },
+    {
+      "id": "army-birthday",
+      "title": "Happy birthday to the U.S. Army",
+      "url": "https://x.com/realDonaldTrump/status/874991696186142721",
+      "published": "2017-06-14",
+      "medium": "post",
+      "note": "A greeting with the name in capitals, thanks given as a list of three nouns joined by an ampersand, and a proud one-line close."
+    },
+    {
+      "id": "merry-christmas",
+      "title": "MERRY CHRISTMAS",
+      "url": "https://x.com/realDonaldTrump/status/945287222210781184",
+      "published": "2017-12-25",
+      "medium": "post",
+      "note": "A whole post in full capitals with three exclamation marks: the greeting is the entire message."
+    },
+    {
+      "id": "charles-payne",
+      "title": "Congratulations to Charles Payne",
+      "url": "https://x.com/realDonaldTrump/status/1268888049792036867",
+      "published": "2020-06-05",
+      "medium": "post",
+      "note": "Praise with a stock epithet before the name, a reason given in a short clause, and a fragment closing on one word in capitals with an exclamation run."
+    },
+    {
+      "id": "market-record",
+      "title": "New Stock Market RECORD",
+      "url": "https://x.com/realDonaldTrump/status/1227258461106425857",
+      "published": "2020-02-11",
+      "medium": "post",
+      "note": "Three short units: the record with its key word in capitals, a congratulation with a piece of advice, and a closing line with five exclamation marks."
+    },
+    {
+      "id": "golf-course",
+      "title": "Truth Social post on East Potomac Golf Course",
+      "url": "https://truthsocial.com/@realDonaldTrump/117521895212942057",
+      "published": "2026-10-29",
+      "medium": "post",
+      "note": "The long-post shape: a disaster described with piled adjectives and physical detail, the fix demanded, the result promised in a longer pile of adjectives, a just-like-only-better comparison and a blessing."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Results are framed as records and history, with counts as proof.",
+      "sourceIds": [
+        "market-104th",
+        "graduations",
+        "market-record"
+      ]
+    },
+    {
+      "trait": "Capitals mark Important Nouns, and full capitals mark the single key word; exclamation marks come in runs.",
+      "sourceIds": [
+        "market-104th",
+        "merry-christmas",
+        "charles-payne",
+        "golf-course"
+      ]
+    },
+    {
+      "trait": "Names carry a stock epithet and praise is lavish.",
+      "sourceIds": [
+        "charles-payne",
+        "army-birthday"
+      ]
+    },
+    {
+      "trait": "Longer pieces move from disaster to promised triumph through adjective piles and a favourable comparison.",
+      "sourceIds": [
+        "golf-course"
+      ]
+    },
+    {
+      "trait": "Speeches use short declaratives in threes and parallel promises.",
+      "sourceIds": [
+        "inaugural"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "After eight long months of building, our App launches this Friday! You talk, and it turns your Voice Notes into a To-Do List, very fast and very easy. FREE for the first month. You will love it. A BIG day!!!"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

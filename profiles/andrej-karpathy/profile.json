@@ -1,0 +1,118 @@
+{
+  "slug": "andrej-karpathy",
+  "name": "Andrej Karpathy",
+  "description": "Report what you actually tried, show the setup, and give the pattern a name. Curious, exact, quietly funny.",
+  "scope": "His X posts from February 2025 to October 2026 and his 2019 blog post on training neural networks. It studies long explanatory posts, short updates and practitioner essays, not his lectures, videos or code.",
+  "strengths": [
+    "Explaining a workflow or tool setup to peers",
+    "Making an argument about a technology trend with rough numbers"
+  ],
+  "limitations": [
+    "The voice depends on first-hand specifics; a brief with no real setup or experience gives it nothing to work with.",
+    "Long labelled posts suit explanations; for a one-line announcement the structure has to collapse to a hook and a detail."
+  ],
+  "sources": [
+    {
+      "id": "recipe",
+      "title": "A Recipe for Training Neural Networks",
+      "url": "https://karpathy.github.io/2019/04/25/recipe/",
+      "published": "2019-04-25",
+      "medium": "essay",
+      "note": "Opens by explaining why a tweet deserved the long form, numbers its two observations, and builds the case through a run of concrete failure examples that each begin with \"Or\"."
+    },
+    {
+      "id": "vibe-coding",
+      "title": "There's a new kind of coding I call \"vibe coding\"",
+      "url": "https://x.com/karpathy/status/1886192184808149383",
+      "published": "2025-02-02",
+      "medium": "post",
+      "note": "Names a new pattern in quotes, then describes his own lazy habits in candid detail, admits the limits, and ends on a plain summary of what the practice amounts to."
+    },
+    {
+      "id": "knowledge-bases",
+      "title": "LLM Knowledge Bases",
+      "url": "https://x.com/karpathy/status/2039805659525644595",
+      "published": "2026-04-02",
+      "medium": "post",
+      "note": "A titled long post organised under short labels ending in colons, with tools, folders and sizes named, closing on a TLDR and an opinion about a missing product."
+    },
+    {
+      "id": "capability-funnel",
+      "title": "Post on the widening gap in understanding of LLM capability",
+      "url": "https://x.com/karpathy/status/2109361546505966046",
+      "published": "2026-10-11",
+      "medium": "post",
+      "note": "Napkin math as a bullet hierarchy from the largest group to the smallest with rough counts and percentages, then numbered causes and a short paragraph naming the mood."
+    },
+    {
+      "id": "autoresearch",
+      "title": "Post packaging the autoresearch project",
+      "url": "https://x.com/karpathy/status/2030371219518931079",
+      "published": "2026-03-07",
+      "medium": "post",
+      "note": "A release announcement framed as an invitation to play over the weekend, sized by its line count, then laid out as a short bullet list of how it works."
+    },
+    {
+      "id": "gold-mines",
+      "title": "Post on continual learning for long-running agents",
+      "url": "https://x.com/karpathy/status/2029696850366971921",
+      "published": "2026-03-05",
+      "medium": "post",
+      "note": "A wistful aside with a parenthetical smiley, followed by a guess explicitly labelled as a guess and a concrete mechanism for it."
+    },
+    {
+      "id": "personal-update",
+      "title": "Personal update",
+      "url": "https://x.com/karpathy/status/2056753169888334312",
+      "published": "2026-05-19",
+      "medium": "post",
+      "note": "A plain announcement in four short sentences: the news, why the moment matters, the feeling, and what he will keep doing."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "First-hand experience comes before the general point, with the actual tools, sizes and costs named.",
+      "sourceIds": [
+        "knowledge-bases",
+        "vibe-coding",
+        "autoresearch"
+      ]
+    },
+    {
+      "trait": "Long posts are titled, organised under short labels ending in colons, and closed with a TLDR or a short summary paragraph.",
+      "sourceIds": [
+        "knowledge-bases",
+        "capability-funnel"
+      ]
+    },
+    {
+      "trait": "Rough quantities are marked as rough with a tilde or a stated napkin estimate, and guesses are labelled as guesses.",
+      "sourceIds": [
+        "capability-funnel",
+        "gold-mines",
+        "knowledge-bases"
+      ]
+    },
+    {
+      "trait": "New patterns get short quoted labels, and candid admissions of laziness or hackiness make the expertise credible.",
+      "sourceIds": [
+        "vibe-coding",
+        "knowledge-bases"
+      ]
+    },
+    {
+      "trait": "Explanations persuade through a run of concrete failure cases rather than abstract warnings.",
+      "sourceIds": [
+        "recipe"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Shipping on Friday after ~8 months of building: an app that turns your voice notes into a to-do list.\n\nThe idea is that you just talk (e.g. on a walk) and it does the \"typing\" part for you. First month is free if people would like to play with it :)"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}
