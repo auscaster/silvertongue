@@ -134,7 +134,7 @@ Featured voices. All 27 are listed in [`profiles/`](profiles/README.md).
 | --- | --- | --- |
 | **Any agent** | Hand it a `VOICE.md` with your brief | Now |
 | **Claude Code, Codex and other skill hosts** | `npx skills add auscaster/silvertongue` | Next |
-| **Any MCP client** | `https://silvertongue.dev/mcp`, or `npx -y silvertongue`, with voice switching mid-thread | Now |
+| **Any MCP client** | `https://mcp.silvertongue.dev/mcp`, or `npx -y silvertongue`, with voice switching mid-thread | Now |
 | **Your browser** | An extension for Chrome, Edge, Firefox and Safari that writes in any compose box | Next |
 
 Start now with any voice:

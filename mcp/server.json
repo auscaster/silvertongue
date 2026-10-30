@@ -22,7 +22,7 @@
 	"remotes": [
 		{
 			"type": "streamable-http",
-			"url": "https://silvertongue.dev/mcp"
+			"url": "https://mcp.silvertongue.dev/mcp"
 		}
 	],
 	"packages": [
