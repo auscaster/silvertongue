@@ -1,0 +1,33 @@
+name: registry
+
+# A tag mcp-v<version> publishes server.json, the hosted endpoint's entry
+# dev.silvertongue/silvertongue, to the official MCP Registry. The domain key's public half is the
+# TXT record on silvertongue.dev; the private half is this environment's secret. There is no
+# package to publish: clients connect to https://mcp.silvertongue.dev/mcp directly.
+
+on:
+  push:
+    tags: ["mcp-v*"]
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    environment: release
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: The tag names the entry's version
+        run: test "mcp-v$(jq -r .version server.json)" = "$GITHUB_REF_NAME"
+      - name: Publish the MCP Registry entry
+        env:
+          MCP_REGISTRY_PRIVATE_KEY: ${{ secrets.MCP_REGISTRY_PRIVATE_KEY }}
+        run: |
+          curl --fail --location --silent --show-error --output mcp-publisher.tar.gz \
+            https://github.com/modelcontextprotocol/registry/releases/download/v1.7.9/mcp-publisher_linux_amd64.tar.gz
+          echo "ab128162b0616090b47cf245afe0a23f3ef08936fdce19074f5ba0a4469281ac  mcp-publisher.tar.gz" | sha256sum --check
+          tar -xzf mcp-publisher.tar.gz mcp-publisher
+          ./mcp-publisher validate server.json
+          ./mcp-publisher login dns --domain silvertongue.dev --private-key "$MCP_REGISTRY_PRIVATE_KEY"
+          ./mcp-publisher publish server.json

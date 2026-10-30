@@ -2,7 +2,7 @@
 
 Profiles are instructions to a model, so profile content that steers a model into
 ignoring the user's facts, exposing their text or acting outside the writing task
-is in scope. So are ways for the agent skill or the MCP bridge to send anything
+is in scope. So are ways for the agent skill or the MCP server to send anything
 beyond the request the user or their agent made, to leak credentials, or to run
 code they should not.
 

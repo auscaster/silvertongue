@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/silvertongue-lockup-white.svg">
-  <img alt="Silvertongue" src="assets/silvertongue-lockup-black.svg" width="460">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/silvertongue-wordmark-white.png">
+  <img alt="Silvertongue" src="assets/silvertongue-wordmark-black.png" width="400">
 </picture>
 
 <h3>Write like anyone famous.</h3>
@@ -134,7 +134,7 @@ Featured voices. All 27 are listed in [`profiles/`](profiles/README.md).
 | --- | --- | --- |
 | **Any agent** | Hand it a `VOICE.md` with your brief | Now |
 | **Claude Code, Codex and other skill hosts** | `npx skills add auscaster/silvertongue` | Next |
-| **Any MCP client** | `https://mcp.silvertongue.dev/mcp`, or `npx -y silvertongue`, with voice switching mid-thread | Now |
+| **Any MCP client** | `https://mcp.silvertongue.dev/mcp`, with voice switching mid-thread | Now |
 | **Your browser** | An extension for Chrome, Edge, Firefox and Safari that writes in any compose box | Next |
 
 Start now with any voice:
@@ -177,8 +177,8 @@ Code is [Apache-2.0](LICENSE). Profiles are [CC BY 4.0](PROFILE-LICENSE.md). The
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/silvertongue-symbol-white.svg">
-  <img alt="" src="assets/silvertongue-symbol-black.svg" width="28">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/silvertongue-symbol-white.png">
+  <img alt="" src="assets/silvertongue-symbol-black.png" width="28">
 </picture>
 <br>
 <sub>Made by <a href="https://auscaster.com">auscaster</a></sub>

@@ -16,23 +16,12 @@
 	],
 	"repository": {
 		"url": "https://github.com/auscaster/silvertongue",
-		"source": "github",
-		"subfolder": "mcp"
+		"source": "github"
 	},
 	"remotes": [
 		{
 			"type": "streamable-http",
 			"url": "https://mcp.silvertongue.dev/mcp"
-		}
-	],
-	"packages": [
-		{
-			"registryType": "npm",
-			"identifier": "silvertongue",
-			"version": "0.1.0",
-			"transport": {
-				"type": "stdio"
-			}
 		}
 	]
 }
