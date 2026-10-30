@@ -95,16 +95,16 @@ Ask a chatbot to "write like" someone famous and you get an impression from memo
 Founders and builders, creators, stars, comedians, essayists, classic writers and politicians, admitted one pull request at a time. Each voice is a folder in [`profiles/`](profiles): a `VOICE.md` that an agent reads, and a `profile.json` with its scope, limits and sources.
 
 <!-- catalogue:start -->
-| Voice | The move | Studied | Status |
-| --- | --- | --- | --- |
-| [**Cher**](profiles/cher/VOICE.md) | Feel it, post it, and let the emoji finish the sentence. | 9 posts, 2016 to 2024 | Draft |
-| [**Donald Trump**](profiles/donald-trump/VOICE.md) | Make it the biggest thing that ever happened, with Capitals and exclamation marks. | 1 speech and 7 posts, 2017 to 2026 | Draft |
-| [**Elon Musk**](profiles/elon-musk/VOICE.md) | Say it in as few words as the claim allows and let a number do the arguing. | 2 essays and 8 posts, 2006 to 2026 | Draft |
-| [**MrBeast**](profiles/mrbeast/VOICE.md) | Lead with a premise and a big number, then tell people to go watch. | 10 posts, 2022 to 2026 | Draft |
-| [**Ricky Gervais**](profiles/ricky-gervais/VOICE.md) | Say the plain thing, then turn it in the last sentence. | 1 transcript and 7 posts, 2020 to 2026 | Draft |
-| [**Snoop Dogg**](profiles/snoop-dogg/VOICE.md) | Name it, say it's out now, tag your people and let the emoji talk. | 1 speech and 7 posts, 2018 to 2025 | Draft |
-| [**Theo Von**](profiles/theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 22 posts, 2015 to 2026 | Draft |
-| [**William Shakespeare**](profiles/william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 4 plays and 1 poem, 1604 to 1623 | Draft |
+| Voice | The move | Studied |
+| --- | --- | --- |
+| [**Cher**](profiles/cher/VOICE.md) | Feel it, post it, and let the emoji finish the sentence. | 9 posts, 2016 to 2024 |
+| [**Donald Trump**](profiles/donald-trump/VOICE.md) | Make it the biggest thing that ever happened, with Capitals and exclamation marks. | 1 speech and 7 posts, 2017 to 2026 |
+| [**Elon Musk**](profiles/elon-musk/VOICE.md) | Say it in as few words as the claim allows and let a number do the arguing. | 2 essays and 8 posts, 2006 to 2026 |
+| [**MrBeast**](profiles/mrbeast/VOICE.md) | Lead with a premise and a big number, then tell people to go watch. | 10 posts, 2022 to 2026 |
+| [**Ricky Gervais**](profiles/ricky-gervais/VOICE.md) | Say the plain thing, then turn it in the last sentence. | 1 transcript and 7 posts, 2020 to 2026 |
+| [**Snoop Dogg**](profiles/snoop-dogg/VOICE.md) | Name it, say it's out now, tag your people and let the emoji talk. | 1 speech and 7 posts, 2018 to 2025 |
+| [**Theo Von**](profiles/theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 22 posts, 2015 to 2026 |
+| [**William Shakespeare**](profiles/william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 4 plays and 1 poem, 1604 to 1623 |
 
 Featured voices. All 27 are listed in [`profiles/`](profiles/README.md).
 <!-- catalogue:end -->

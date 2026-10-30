@@ -19,11 +19,11 @@ function table(profiles: VoiceProfile[], base: string): string {
 		.toSorted((a, b) => a.metadata.name.localeCompare(b.metadata.name))
 		.map(
 			(p) =>
-				`| [**${p.metadata.name}**](${base}${p.metadata.slug}/VOICE.md) | ${theMove(p.metadata)} | ${studied(p.metadata)} | ${p.metadata.evaluation === "unbenchmarked" ? "Draft" : "Admitted"} |`,
+				`| [**${p.metadata.name}**](${base}${p.metadata.slug}/VOICE.md) | ${theMove(p.metadata)} | ${studied(p.metadata)} |`,
 		);
 	return [
-		"| Voice | The move | Studied | Status |",
-		"| --- | --- | --- | --- |",
+		"| Voice | The move | Studied |",
+		"| --- | --- | --- |",
 		...rows,
 	].join("\n");
 }
