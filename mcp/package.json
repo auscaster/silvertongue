@@ -2,7 +2,7 @@
 	"name": "silvertongue",
 	"version": "0.1.0",
 	"description": "Famous writing voices for your agent: a stdio bridge to Silvertongue's hosted MCP server.",
-	"mcpName": "com.auscaster/silvertongue",
+	"mcpName": "dev.silvertongue/silvertongue",
 	"license": "Apache-2.0",
 	"type": "module",
 	"bin": {
