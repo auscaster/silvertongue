@@ -39,5 +39,5 @@ and a draft must never be presented as their words.
 
 `SILVERTONGUE_MCP_URL` points the bridge at another endpoint (HTTPS, or HTTP on loopback).
 
-More at [auscaster.com/silvertongue](https://auscaster.com/silvertongue); source on
+Every voice, its sources and the profile format are on
 [GitHub](https://github.com/auscaster/silvertongue). The bridge is Apache-2.0.
