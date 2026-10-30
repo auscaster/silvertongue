@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"silvertongue": {
+			"type": "http",
+			"url": "https://mcp.silvertongue.dev/mcp"
+		}
+	}
+}

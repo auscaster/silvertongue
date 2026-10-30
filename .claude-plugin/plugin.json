@@ -1,0 +1,14 @@
+{
+	"name": "silvertongue",
+	"version": "0.1.0",
+	"description": "Write like anyone famous: search studied writing voices and write your point in one, with every source linked.",
+	"author": {
+		"name": "auscaster",
+		"url": "https://github.com/auscaster"
+	},
+	"repository": "https://github.com/auscaster/silvertongue",
+	"homepage": "https://github.com/auscaster/silvertongue",
+	"icon": ".claude-plugin/icon.png",
+	"license": "Apache-2.0",
+	"keywords": ["silvertongue", "writing", "voice", "style", "famous voices", "posts", "threads"]
+}

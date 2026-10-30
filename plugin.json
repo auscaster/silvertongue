@@ -1,0 +1,34 @@
+{
+	"$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+	"name": "silvertongue",
+	"version": "0.1.0",
+	"description": "Write like anyone famous: search studied writing voices and write your point in one, with every source linked.",
+	"author": {
+		"name": "auscaster",
+		"url": "https://github.com/auscaster"
+	},
+	"repository": "https://github.com/auscaster/silvertongue",
+	"homepage": "https://github.com/auscaster/silvertongue",
+	"license": "Apache-2.0",
+	"keywords": ["silvertongue", "writing", "voice", "style", "famous voices", "posts", "threads"],
+	"extensions": {
+		"com.openai": {
+			"interface": {
+				"displayName": "Silvertongue",
+				"shortDescription": "Write like anyone famous",
+				"longDescription": "Search famous writing voices, each studied from what the person actually published, and write your own point in one for a post, reply, explanation or thread. Voices are unofficial: nobody named wrote or endorsed them, and drafts are never presented as their words.",
+				"developerName": "auscaster",
+				"category": "Productivity",
+				"capabilities": ["Search famous writing voices", "Read a voice's sources and limits", "Write in a voice for a format and platform"],
+				"websiteURL": "https://github.com/auscaster/silvertongue",
+				"defaultPrompt": [
+					"Write my launch post as Theo Von, short, for X.",
+					"Which comedy voices are there, and what does each one do?",
+					"Rewrite this reply in Ricky Gervais's voice, clean edge."
+				],
+				"composerIcon": "./.claude-plugin/icon.png",
+				"logo": "./.claude-plugin/icon.png"
+			}
+		}
+	}
+}
