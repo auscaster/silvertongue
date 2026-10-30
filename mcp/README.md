@@ -5,7 +5,7 @@ Silvertongue server, for MCP clients that only run local servers. Every voice, t
 comes live from the server, so new voices arrive without a new package.
 
 Clients that take a remote server can skip this package and add
-`https://silvertongue.auscaster.com/mcp` directly.
+`https://silvertongue.dev/mcp` directly.
 
 ## Use it
 
