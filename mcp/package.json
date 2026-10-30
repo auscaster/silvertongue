@@ -19,7 +19,7 @@
 		"url": "git+https://github.com/auscaster/silvertongue.git",
 		"directory": "mcp"
 	},
-	"homepage": "https://auscaster.com/silvertongue",
+	"homepage": "https://github.com/auscaster/silvertongue#readme",
 	"bugs": {
 		"url": "https://github.com/auscaster/silvertongue/issues"
 	},
