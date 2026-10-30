@@ -68,7 +68,7 @@ async function hosted() {
 }
 
 test("the endpoint is the hosted one, or HTTPS, or loopback", () => {
-	assert.equal(endpointFrom({}).href, "https://silvertongue.dev/mcp");
+	assert.equal(endpointFrom({}).href, "https://mcp.silvertongue.dev/mcp");
 	assert.equal(endpointFrom({ SILVERTONGUE_MCP_URL: "http://127.0.0.1:9/mcp" }).port, "9");
 	assert.throws(() => endpointFrom({ SILVERTONGUE_MCP_URL: "http://example.com/mcp" }), /HTTPS/);
 	assert.throws(() => endpointFrom({ SILVERTONGUE_MCP_URL: "https://u:p@example.com/mcp" }), /credentials/);
