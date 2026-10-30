@@ -30,24 +30,22 @@ Pick a voice. Switch any time. Keep your point.
 
 ## An example, side by side
 
-<!-- demo:start donald-trump elon-musk cher theo-von mrbeast william-shakespeare snoop-dogg ricky-gervais -->
+<!-- demo:start william-shakespeare snoop-dogg cher theo-von mrbeast donald-trump elon-musk ricky-gervais -->
 > **The brief:** After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.
 
 <table>
 <tr>
-<th width="25%"><a href="profiles/donald-trump/VOICE.md">Donald Trump</a></th>
-<th width="25%"><a href="profiles/elon-musk/VOICE.md">Elon Musk</a></th>
+<th width="25%"><a href="profiles/william-shakespeare/VOICE.md">William Shakespeare</a></th>
+<th width="25%"><a href="profiles/snoop-dogg/VOICE.md">Snoop Dogg</a></th>
 <th width="25%"><a href="profiles/cher/VOICE.md">Cher</a></th>
 <th width="25%"><a href="profiles/theo-von/VOICE.md">Theo Von</a></th>
 </tr>
 <tr>
 <td valign="top">
-<p>After eight long months of building, our App launches this Friday! You talk, and it turns your Voice Notes into a To-Do List, very fast and very easy. FREE for the first month. You will love it. A BIG day!!!</p>
+<p>Eight months we laboured; Friday is the day<br>We send our app abroad into the world.<br>Speak but thy notes, and it shall straight array<br>Thy tasks in order, every list unfurled.<br>The first month is our gift; no coin we ask,<br>So speak, and let thy voice set down each task.</p>
 </td>
 <td valign="top">
-<p>8 months of work. Launches Friday.</p>
-<p>Talk to it and it writes your to-do list.</p>
-<p>First month free</p>
+<p>8 months in the making 🔨🔥 Our app droppin Friday!! U talk, it turns your voice notes into a to-do list 📝👍🏿 First month free. BlessUp 🙏🏿</p>
 </td>
 <td valign="top">
 <p>8 MONTHS OF BUILDING…&amp; FRIDAY IT'S HERE‼️🚀<br>Our App Turns UR Voice Notes In2 A To-Do List📝✨<br>U TALK,IT LISTENS🙏🏻(Unlike Some Ppl I Know🙄)<br>FIRST MONTH FREE💋</p>
@@ -58,8 +56,8 @@ Pick a voice. Switch any time. Keep your point.
 </tr>
 <tr>
 <th width="25%"><a href="profiles/mrbeast/VOICE.md">MrBeast</a></th>
-<th width="25%"><a href="profiles/william-shakespeare/VOICE.md">William Shakespeare</a></th>
-<th width="25%"><a href="profiles/snoop-dogg/VOICE.md">Snoop Dogg</a></th>
+<th width="25%"><a href="profiles/donald-trump/VOICE.md">Donald Trump</a></th>
+<th width="25%"><a href="profiles/elon-musk/VOICE.md">Elon Musk</a></th>
 <th width="25%"><a href="profiles/ricky-gervais/VOICE.md">Ricky Gervais</a></th>
 </tr>
 <tr>
@@ -67,10 +65,12 @@ Pick a voice. Switch any time. Keep your point.
 <p>We spent 8 MONTHS building an app and it launches this Friday!! You literally just talk and it turns your voice notes into a to-do list :D First month is free, go try it and tell me what you think!!</p>
 </td>
 <td valign="top">
-<p>Eight months we laboured; Friday is the day<br>We send our app abroad into the world.<br>Speak but thy notes, and it shall straight array<br>Thy tasks in order, every list unfurled.<br>The first month is our gift; no coin we ask,<br>So speak, and let thy voice set down each task.</p>
+<p>After eight long months of building, our App launches this Friday! You talk, and it turns your Voice Notes into a To-Do List, very fast and very easy. FREE for the first month. You will love it. A BIG day!!!</p>
 </td>
 <td valign="top">
-<p>8 months in the making 🔨🔥 Our app droppin Friday!! U talk, it turns your voice notes into a to-do list 📝👍🏿 First month free. BlessUp 🙏🏿</p>
+<p>8 months of work. Launches Friday.</p>
+<p>Talk to it and it writes your to-do list.</p>
+<p>First month free</p>
 </td>
 <td valign="top">
 <p>We've spent 8 months building an app. It launches on Friday. You talk into it &amp; it turns your voice notes into a to-do list. So now you can ignore your responsibilities in a much more organised way. First month is free. You're welcome 😂</p>
