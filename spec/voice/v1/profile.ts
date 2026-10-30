@@ -26,7 +26,7 @@ const sourceSchema = z
 	.object({
 		id: z.string().regex(/^[a-z0-9-]+$/),
 		title: z.string().min(1),
-		url: z.url().startsWith("https://"),
+		url: z.url({ protocol: /^https$/ }),
 		published: z.string().min(4),
 		medium: mediumSchema,
 		note: z.string().min(20),
