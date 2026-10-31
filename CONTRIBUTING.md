@@ -38,8 +38,9 @@ Each voice is `profiles/<slug>/VOICE.md` plus `profile.json`, in the
 
 Maintainers admit new voices after review and a blind evaluation against a strong
 name-only prompt. Corrections to an existing voice are welcome as ordinary pull
-requests. If a profile names you and you want to claim, correct or remove it, open
-an issue or write to the address on the profile page.
+requests. If a profile studies you and you want it removed, ask privately through
+the [terms](https://auscaster.com/silvertongue/terms#removing-a-profile-that-studies-you):
+it comes out within seven days, and no reason is needed.
 
 ## Licences
 

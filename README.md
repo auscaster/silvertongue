@@ -16,7 +16,7 @@ Pick a voice. Switch any time. Keep your point.
 [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-111?style=flat-square)](LICENSE)
 [![Profiles: CC BY 4.0](https://img.shields.io/badge/profiles-CC%20BY%204.0-111?style=flat-square)](PROFILE-LICENSE.md)
 
-[How it works](#how-it-works) · [Example](#an-example-side-by-side) · [Why it wins](#why-it-beats-write-like) · [The catalogue](#the-catalogue) · [Use it everywhere](#use-it-everywhere) · [Add a voice](#add-a-voice) · [Claim your voice](#claim-your-voice)
+[How it works](#how-it-works) · [Example](#an-example-side-by-side) · [Why it wins](#why-it-beats-write-like) · [The catalogue](#the-catalogue) · [Use it everywhere](#use-it-everywhere) · [Add a voice](#add-a-voice) · [Remove or correct a voice](#remove-or-correct-a-voice)
 
 </div>
 
@@ -159,13 +159,13 @@ npm ci && npm run verify
 
 Add `profiles/<slug>/VOICE.md` and `profile.json`, run `npm run catalogue && npm run verify`, and open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) has the rules: study the medium the voice is for, link every source, describe technique only.
 
-## Claim your voice
+## Remove or correct a voice
 
-In the catalogue yourself? Open an issue to claim your voice, correct it or have it removed. Creator-verified official voices are on the way.
+If a profile studies you, or a character whose rights you hold, and you want it out, [ask privately](https://auscaster.com/silvertongue/terms#removing-a-profile-that-studies-you): it comes out of the catalogue and the service within seven days, and no reason is needed. To fix something in a profile, [open an issue](https://github.com/auscaster/silvertongue/issues/new?template=correct-a-voice.yml) or a pull request.
 
 ## House rules
 
-- **Style, never identity.** No invented quotes, opinions or endorsements, and no claiming to be the person. Every voice is an unofficial study until its owner claims it.
+- **Style, never identity.** No invented quotes, opinions or endorsements, and no claiming to be the person. Every voice is an unofficial study.
 - **Politics is delivery only.** Politician voices never state positions, endorse anyone or write about elections and voting.
 - **Sources linked, never copied.** Profiles point at the originals.
 - **Drafts, never autoposts.** You decide what gets sent.
