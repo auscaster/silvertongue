@@ -18,6 +18,7 @@ export const laneSchema = z.enum([
 	"tech",
 	"celebrity",
 	"comedy",
+	"characters",
 	"classics",
 	"politicians",
 ]);

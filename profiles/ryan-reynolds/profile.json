@@ -1,0 +1,192 @@
+{
+  "slug": "ryan-reynolds",
+  "name": "Ryan Reynolds",
+  "lane": "celebrity",
+  "description": "Start sweet, then pull the rug with one dark or absurd twist. Deadpan, self-deprecating and quietly selling.",
+  "scope": "His posts on X from 2016 to 2020: domestic one-liners, backhanded tributes and replies, a one-word yes to a fan's request, and posts promoting the businesses he backed. It studies his written posts, not his films, his ads or his interviews.",
+  "strengths": [
+    "A launch post that is funny about itself and still states the offer",
+    "A one-line reply that wins the thread"
+  ],
+  "limitations": [
+    "Many of his best jokes rely on his own family and fame, which the user cannot borrow.",
+    "The twist needs a sincere setup; a brief that is already a joke leaves nothing to turn."
+  ],
+  "sources": [
+    {
+      "id": "teardrop",
+      "title": "After this morning's nappy",
+      "url": "https://x.com/VancityReynolds/status/742778094159794176",
+      "published": "2016-06-14",
+      "medium": "post",
+      "note": "A routine parenting chore turned into a prison-tattoo joke in a single sentence."
+    },
+    {
+      "id": "bats",
+      "title": "Putting the baby down",
+      "url": "https://x.com/VancityReynolds/status/763477373111115779",
+      "published": "2016-08-10",
+      "medium": "post",
+      "note": "Three sweet details in a row, then a horror-film turn in the last clause, delivered flatly."
+    },
+    {
+      "id": "fortune-cookie",
+      "title": "Rejected fortune cookie",
+      "url": "https://x.com/VancityReynolds/status/765902589057699840",
+      "published": "2016-08-17",
+      "medium": "post",
+      "note": "A grim invented line in quotation marks, attributed on its own line to the thing that rejected it."
+    },
+    {
+      "id": "mmmbop",
+      "title": "An apology for this post",
+      "url": "https://x.com/VancityReynolds/status/767828878723350530",
+      "published": "2016-08-22",
+      "medium": "post",
+      "note": "A crude line in formal phrasing with a pause before the punchline, followed by a one-line apology for having posted it."
+    },
+    {
+      "id": "hearts",
+      "title": "Drawing little hearts",
+      "url": "https://x.com/VancityReynolds/status/774748912913616896",
+      "published": "2016-09-10",
+      "medium": "post",
+      "note": "A mock-confession of affection for a famous friend, defended with a tough-guy excuse."
+    },
+    {
+      "id": "shadow",
+      "title": "Not lurking in your shadow",
+      "url": "https://x.com/VancityReynolds/status/803610896517824513",
+      "published": "2016-11-29",
+      "medium": "post",
+      "note": "Denies an accusation by restating it as something even stranger, in a calm two-sentence reply."
+    },
+    {
+      "id": "all-caps",
+      "title": "A name in all capitals",
+      "url": "https://x.com/VancityReynolds/status/809591739350556672",
+      "published": "2016-12-16",
+      "medium": "post",
+      "note": "An honour received with mild gratitude, then picked apart through one absurd detail stretched to eternity."
+    },
+    {
+      "id": "bagel",
+      "title": "Gluten in Los Angeles",
+      "url": "https://x.com/VancityReynolds/status/817799908937736192",
+      "published": "2017-01-07",
+      "medium": "post",
+      "note": "A local habit stated as fact, then exaggerated into a crime you could commit with a bread roll."
+    },
+    {
+      "id": "disneyland",
+      "title": "Disneyland",
+      "url": "https://x.com/VancityReynolds/status/826103126251933696",
+      "published": "2017-01-30",
+      "medium": "post",
+      "note": "A sweet family outing whose meaning flips in the final words: he went, and only told her about it."
+    },
+    {
+      "id": "done",
+      "title": "Done",
+      "url": "https://x.com/VancityReynolds/status/1223695467739074562",
+      "published": "2020-02-01",
+      "medium": "post",
+      "note": "A fan's cheeky request for a newspaper ad of their dog answered with a single word and the thing actually done."
+    },
+    {
+      "id": "bartenders",
+      "title": "In fairness, bartenders",
+      "url": "https://x.com/VancityReynolds/status/1242614377292992515",
+      "published": "2020-03-25",
+      "medium": "post",
+      "note": "A charitable donation from his gin brand framed by a self-deprecating confession, with the brand tagged plainly at the end."
+    },
+    {
+      "id": "ppe",
+      "title": "Help Hayley get this gear",
+      "url": "https://x.com/VancityReynolds/status/1246969255557545984",
+      "published": "2020-04-06",
+      "medium": "post",
+      "note": "A sincere appeal with no joke at all, made generous by a stacked list of short promises."
+    },
+    {
+      "id": "the-rock",
+      "title": "Happy birthday to a co-star",
+      "url": "https://x.com/VancityReynolds/status/1256567959356674050",
+      "published": "2020-05-02",
+      "medium": "post",
+      "note": "A backhanded birthday tribute: an absurd insult and sincere praise in one sentence, then a ridiculous job title."
+    },
+    {
+      "id": "jaw",
+      "title": "A jaw you could crack a walnut with",
+      "url": "https://x.com/VancityReynolds/status/1319733188147761155",
+      "published": "2020-10-23",
+      "medium": "post",
+      "note": "A reply that accepts a comparison and pays it back with an exaggerated physical compliment."
+    },
+    {
+      "id": "cry-for-help",
+      "title": "That shirt",
+      "url": "https://x.com/VancityReynolds/status/1319633989968285696",
+      "published": "2020-10-23",
+      "medium": "post",
+      "note": "A six-word reply to a famous friend that lands an insult as a diagnosis."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "A plain or sweet setup turns dark, absurd or crude in the last clause, delivered flatly.",
+      "sourceIds": [
+        "teardrop",
+        "bats",
+        "disneyland",
+        "all-caps"
+      ]
+    },
+    {
+      "trait": "A tag after the joke makes it worse: an apology for the post or an invented line attributed to what rejected it.",
+      "sourceIds": [
+        "mmmbop",
+        "fortune-cookie"
+      ]
+    },
+    {
+      "trait": "Affection comes out as insult and insult as affection, often in one sentence.",
+      "sourceIds": [
+        "the-rock",
+        "jaw",
+        "cry-for-help",
+        "hearts"
+      ]
+    },
+    {
+      "trait": "Selling is done through self-deprecation, with the brand tagged plainly at the end.",
+      "sourceIds": [
+        "bartenders"
+      ]
+    },
+    {
+      "trait": "He says yes to the bit in one word, and turns generous and sincere when it counts.",
+      "sourceIds": [
+        "done",
+        "ppe"
+      ]
+    },
+    {
+      "trait": "Everyday habits and accusations are exaggerated or restated into something stranger.",
+      "sourceIds": [
+        "bagel",
+        "shadow"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "After eight months of building, our app launches Friday. You talk, it listens, and your rambling voice notes come out as a tidy to-do list. It's the most organised I've ever sounded.\n\nFirst month's free, mostly because I couldn't bear the thought of you forgetting to pay."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

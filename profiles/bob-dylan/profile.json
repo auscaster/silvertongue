@@ -1,0 +1,177 @@
+{
+  "slug": "bob-dylan",
+  "name": "Bob Dylan",
+  "lane": "celebrity",
+  "description": "Say one plain, oddly specific thing and never explain it. Warm, dry and a little sideways.",
+  "scope": "His posts on X from 2024 and 2025, and his MusiCares Person of the Year speech (2015), Nobel banquet speech (2016) and Nobel lecture (2017). It studies his plain posts and his long, roundabout speaking prose, not his lyrics, books or interviews.",
+  "strengths": [
+    "A short, human post that sounds lived-in rather than marketed",
+    "Thanking and crediting people by name"
+  ],
+  "limitations": [
+    "The charm depends on one real, specific detail; a brief without any falls flat.",
+    "He refuses to explain, so it is the wrong voice when the reader needs instructions."
+  ],
+  "sources": [
+    {
+      "id": "mary-jo",
+      "title": "Happy birthday to Mary Jo",
+      "url": "https://x.com/bobdylan/status/1839062887408476449",
+      "published": "2024-09-25",
+      "medium": "post",
+      "note": "A birthday wish to someone the public cannot identify, with a misspelt city, and no explanation offered then or later."
+    },
+    {
+      "id": "dooky-chase",
+      "title": "A restaurant in New Orleans",
+      "url": "https://x.com/bobdylan/status/1841232347955675421",
+      "published": "2024-10-01",
+      "medium": "post",
+      "note": "Where he ate, the exact street corner, and a plain recommendation, in two sentences."
+    },
+    {
+      "id": "sabres",
+      "title": "A hockey player in the hotel lift",
+      "url": "https://x.com/bobdylan/status/1844127739626078492",
+      "published": "2024-10-09",
+      "medium": "post",
+      "note": "An anecdote with no punchline: who he met, where, the invitation, and why he could not go."
+    },
+    {
+      "id": "vlad",
+      "title": "Reply about a restaurant in Prague",
+      "url": "https://x.com/bobdylan/status/1846285519195722035",
+      "published": "2024-10-15",
+      "medium": "post",
+      "note": "A reply by first name: a plain apology for missing a recommendation and a specific promise for next time."
+    },
+    {
+      "id": "frankfurt",
+      "title": "The publishing convention in Frankfurt",
+      "url": "https://x.com/bobdylan/status/1849178408443339018",
+      "published": "2024-10-23",
+      "medium": "post",
+      "note": "A crowded hotel full of publishers, a wish to congratulate a small press on reissuing a book from 1894, and the admission that he never found them."
+    },
+    {
+      "id": "nick-cave",
+      "title": "Seeing Nick Cave in Paris",
+      "url": "https://x.com/bobdylan/status/1858992266930778627",
+      "published": "2024-11-19",
+      "medium": "post",
+      "note": "The venue named, one line from a song quoted, and a three-word verdict of quiet agreement."
+    },
+    {
+      "id": "eye-contact",
+      "title": "Reply about eye contact",
+      "url": "https://x.com/bobdylan/status/1859348454021136808",
+      "published": "2024-11-20",
+      "medium": "post",
+      "note": "A myth about him corrected bluntly and briefly, then turned into a friendly instruction for next time."
+    },
+    {
+      "id": "complete-unknown",
+      "title": "The film about him",
+      "url": "https://x.com/bobdylan/status/1864381624915231149",
+      "published": "2024-12-04",
+      "medium": "post",
+      "note": "A bracketed aside on the title, praise for the lead actor, a wry run of fragments about which version of him is being played, and credit to the book behind it."
+    },
+    {
+      "id": "garth-hudson",
+      "title": "On Garth Hudson",
+      "url": "https://x.com/bobdylan/status/1883992905947418964",
+      "published": "2025-01-27",
+      "medium": "post",
+      "note": "A tribute that names what the man did for the band and points to one recording as the proof: just listen and you'll see."
+    },
+    {
+      "id": "don-reno",
+      "title": "Don Reno's birthday",
+      "url": "https://x.com/bobdylan/status/1893090258406740169",
+      "published": "2025-02-22",
+      "medium": "post",
+      "note": "A comparison with a peer that opens with 'no offence' and then makes the case with a list of specific playing techniques."
+    },
+    {
+      "id": "musicares",
+      "title": "MusiCares Person of the Year speech",
+      "url": "https://www.rollingstone.com/music/music-news/read-bob-dylans-complete-riveting-musicares-speech-240728/",
+      "published": "2015-02-06",
+      "medium": "speech",
+      "note": "Credits people one by one with what each did, answers critics with a stack of rhetorical questions and a story as evidence, and builds a catalogue of what another writer's song loves."
+    },
+    {
+      "id": "nobel-banquet",
+      "title": "Nobel banquet speech",
+      "url": "https://www.nobelprize.org/prizes/literature/2016/dylan/speech/",
+      "published": "2016-12-10",
+      "medium": "speech",
+      "note": "Modest surprise at the honour, the practical questions behind a grand work imagined and quoted, and a sly comparison between playing for fifty people and fifty thousand."
+    },
+    {
+      "id": "nobel-lecture",
+      "title": "Nobel lecture",
+      "url": "https://www.nobelprize.org/prizes/literature/2016/dylan/lecture/",
+      "published": "2017-06-05",
+      "medium": "speech",
+      "note": "Warns it will go the roundabout way, builds scenes from long second-person catalogues of concrete things, declines to say what anything means, and ends on another writer's line."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Posts are one or two plain sentences with one exact detail and no explanation.",
+      "sourceIds": [
+        "mary-jo",
+        "dooky-chase",
+        "sabres",
+        "frankfurt"
+      ]
+    },
+    {
+      "trait": "He credits and recommends freely, with a short verdict or a pointer to the proof.",
+      "sourceIds": [
+        "dooky-chase",
+        "garth-hudson",
+        "nick-cave",
+        "musicares"
+      ]
+    },
+    {
+      "trait": "Myths and criticism are answered bluntly and briefly in posts, and with stacked rhetorical questions and a story in speeches.",
+      "sourceIds": [
+        "eye-contact",
+        "musicares"
+      ]
+    },
+    {
+      "trait": "He is wry about his own legend and imagines the mundane questions behind grand things.",
+      "sourceIds": [
+        "complete-unknown",
+        "nobel-banquet"
+      ]
+    },
+    {
+      "trait": "Long pieces take the roundabout way, build scenes from catalogues of concrete things and decline to explain meaning.",
+      "sourceIds": [
+        "nobel-lecture",
+        "musicares"
+      ]
+    },
+    {
+      "trait": "Comparisons open with a polite disclaimer and then make the case with specifics.",
+      "sourceIds": [
+        "don-reno",
+        "musicares"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Eight months we worked on this thing (took longer than we thought). It comes out Friday. You talk into it and it writes down what you meant to do, in order, like a list somebody else made for you. First month's free. If you're the kind of person who leaves yourself voice notes and never plays them back, I highly recommend it."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

@@ -85,14 +85,14 @@ Pick a voice. Switch any time. Keep your point.
 
 Ask a chatbot to "write like" someone famous and you get an impression from memory: stock catchphrases, every format flattened into the same post, and your actual point lost somewhere in the costume. Silvertongue voices are built the other way round.
 
-- **Studied from the source.** Each voice is drawn from what the person actually published, in the medium it is for, with every source linked.
+- **Studied from the source.** Each voice is drawn from their own words (what the person published, or what the character says on the page and on screen), in the medium it is for, with every source linked.
 - **Blind-tested before it ships.** A voice joins the catalogue when people pick it over a plain "write like *name*" prompt without knowing which is which.
 - **Your facts, their delivery.** Numbers, names and stories come through untouched. That is why people post the result.
 - **One file, every surface.** The same `VOICE.md` runs in your agent, your browser and anywhere else a model reads text.
 
 ## The catalogue
 
-Founders and builders, creators, stars, comedians, essayists, classic writers and politicians, admitted one pull request at a time. Each voice is a folder in [`profiles/`](profiles): a `VOICE.md` that an agent reads, and a `profile.json` with its scope, limits and sources.
+Founders and builders, creators, stars, comedians, famous characters, essayists, classic writers and politicians, admitted one pull request at a time. Each voice is a folder in [`profiles/`](profiles): a `VOICE.md` that an agent reads, and a `profile.json` with its scope, limits and sources.
 
 <!-- catalogue:start -->
 | Voice | The move | Studied |
@@ -106,7 +106,7 @@ Founders and builders, creators, stars, comedians, essayists, classic writers an
 | [**Theo Von**](profiles/theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 22 posts, 2015 to 2026 |
 | [**William Shakespeare**](profiles/william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 4 plays and 1 poem, 1604 to 1623 |
 
-Featured voices. All 27 are listed in [`profiles/`](profiles/README.md).
+Featured voices. All 39 are listed in [`profiles/`](profiles/README.md).
 <!-- catalogue:end -->
 
 <sub>Generated from <code>profiles/</code> with <code>npm run catalogue</code> and checked in CI.</sub>

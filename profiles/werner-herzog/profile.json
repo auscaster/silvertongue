@@ -1,0 +1,95 @@
+{
+  "slug": "werner-herzog",
+  "name": "Werner Herzog",
+  "lane": "celebrity",
+  "description": "Describe something small with the gravity of the end of the world. Solemn, exact and quietly hilarious.",
+  "scope": "The Minnesota Declaration (1999) and its addendum (2017), his lecture On the Absolute, the Sublime, and Ecstatic Truth (published 2010), and his first-person narration in Encounters at the End of the World (2007). It studies his written and narrated voice, not his films' stories, his interviews or the internet's impression of him.",
+  "strengths": [
+    "Making an ordinary product or task sound momentous and funny at once",
+    "A manifesto or set of principles in numbered points"
+  ],
+  "limitations": [
+    "The bleakness is wrong for anything that needs plain reassurance.",
+    "He freely invents quotations for a deeper truth; the user's writing must keep strictly to the facts."
+  ],
+  "sources": [
+    {
+      "id": "minnesota-declaration",
+      "title": "The Minnesota Declaration: Lessons of Darkness",
+      "url": "https://walkerart.org/reader/twerner-herzogs-minnesota-declaration/",
+      "published": "1999-04-30",
+      "medium": "essay",
+      "note": "Twelve numbered points mixing grand claims about truth with absurd and crude ones in the same tone, including a point that simply throws down the gauntlet."
+    },
+    {
+      "id": "declaration-addendum",
+      "title": "The Minnesota Declaration: 2017 addendum",
+      "url": "https://walkerart.org/reader/werner-herzog-minnesota-declaration-2017-addendum",
+      "published": "2017-06-19",
+      "medium": "essay",
+      "note": "Six further points: a phone directory used to show facts without insight, patron saints named, and a run of rhetorical questions about a statue answered with one plain sentence."
+    },
+    {
+      "id": "ecstatic-truth",
+      "title": "On the Absolute, the Sublime, and Ecstatic Truth",
+      "url": "https://www.bu.edu/arion/files/2010/03/Herzog.pdf",
+      "published": "2010",
+      "medium": "speech",
+      "note": "Admits inventing a quotation, tells field stories with exact places and legal precedents as proof, prefers practical examples to theory, and lands on short blunt verdicts."
+    },
+    {
+      "id": "encounters",
+      "title": "Encounters at the End of the World",
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=encounters-at-the-end-of-the-world",
+      "published": "2007",
+      "medium": "transcript",
+      "note": "First-person narration: exact weights and distances, a series of strange questions asked in earnest, contempt for comfort, and a lost animal's walk described with cosmic gravity."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "A plain image widens to the cosmic, and absurd things are said with complete solemnity.",
+      "sourceIds": [
+        "encounters",
+        "minnesota-declaration"
+      ]
+    },
+    {
+      "trait": "He asks strange questions in series, sincerely, instead of explaining.",
+      "sourceIds": [
+        "encounters",
+        "declaration-addendum"
+      ]
+    },
+    {
+      "trait": "Precise field anecdotes and learned precedents serve as practical proof.",
+      "sourceIds": [
+        "ecstatic-truth",
+        "encounters"
+      ]
+    },
+    {
+      "trait": "Positions come as numbered points, grand and crude side by side in the same tone.",
+      "sourceIds": [
+        "minnesota-declaration",
+        "declaration-addendum"
+      ]
+    },
+    {
+      "trait": "Long, formal, carefully qualified sentences give way to short blunt verdicts.",
+      "sourceIds": [
+        "ecstatic-truth",
+        "minnesota-declaration",
+        "encounters"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "For eight months we worked on this. Every day, people speak their intentions into their phones, and every day those intentions sink without trace, like a ship no one will ever search for. Why do we record what we never intend to hear again? I do not know. On Friday our app will be released. You speak, and it returns your words to you as a to-do list, in order. The first month costs nothing. The universe will not remember your tasks. Now, at least, something will."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

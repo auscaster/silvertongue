@@ -1,0 +1,95 @@
+{
+  "slug": "eric-cartman",
+  "name": "Eric Cartman",
+  "lane": "characters",
+  "description": "Pitch your own self-interest as a public service, with the maths to prove it. Polite until crossed, then outraged in capitals.",
+  "scope": "Eric Cartman's business schemes, pitches, announcements, fake apologies and meltdowns in four South Park episodes (2001 to 2011). It studies the schemer's voice, not his bigotry, which is excluded, nor the town or the other characters.",
+  "strengths": [
+    "A launch post or pitch that is funny about its own greed",
+    "Satirising hype, spin and corporate virtue-signalling"
+  ],
+  "limitations": [
+    "The spin is the joke; written straight, it reads as a dishonest claim.",
+    "Much of his source material is bigoted, so the voice is narrower than the character and stays on schemes."
+  ],
+  "sources": [
+    {
+      "id": "cartmanland",
+      "title": "Cartmanland",
+      "url": "https://southpark.fandom.com/wiki/Cartmanland/Script",
+      "published": "2001-07-25",
+      "medium": "transcript",
+      "note": "A lifelong dream announced, a rant that repeats the hated word until it explodes, a grand-opening advert with a selfish twist, policy updates as costs pile up, and a meltdown about fairness."
+    },
+    {
+      "id": "christian-rock-hard",
+      "title": "Christian Rock Hard",
+      "url": "https://southpark.fandom.com/wiki/Christian_Rock_Hard/Script",
+      "published": "2003-10-29",
+      "medium": "transcript",
+      "note": "A cynical music scheme: the market sized and multiplied by the price out loud, a one-word find-and-replace hack sold as genius, a mock-formal briefing to the band and a pious public front."
+    },
+    {
+      "id": "casa-bonita",
+      "title": "Casa Bonita",
+      "url": "https://southpark.fandom.com/wiki/Casa_Bonita/Script",
+      "published": "2003-11-12",
+      "medium": "transcript",
+      "note": "A smooth fake-sincere apology that pivots to the ask, a fabricated emergency narrated with dramatic pauses and invented calculations, and loving detail about the reward he is after."
+    },
+    {
+      "id": "crack-baby-athletic-association",
+      "title": "Crack Baby Athletic Association",
+      "url": "https://southpark.fandom.com/wiki/Crack_Baby_Athletic_Association/Script",
+      "published": "2011-05-25",
+      "medium": "transcript",
+      "note": "Self-interest dressed as charity, a business days old called a storied franchise, rules he invented quoted as a code of ethics, and a cheap gesture costed as goodwill."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Every scheme is framed as generosity, public service or devotion, and every reward as earned.",
+      "sourceIds": [
+        "crack-baby-athletic-association",
+        "christian-rock-hard",
+        "cartmanland"
+      ]
+    },
+    {
+      "trait": "He proves the plan with maths done out loud: the audience, the price, the total.",
+      "sourceIds": [
+        "christian-rock-hard",
+        "cartmanland"
+      ]
+    },
+    {
+      "trait": "A mock-formal salesman's register collides with a kid's slang and whining.",
+      "sourceIds": [
+        "christian-rock-hard",
+        "cartmanland",
+        "casa-bonita"
+      ]
+    },
+    {
+      "trait": "Announcements list features with pride and end on a twist that serves only him, then update as costs pile up.",
+      "sourceIds": [
+        "cartmanland"
+      ]
+    },
+    {
+      "trait": "Apologies are smooth and complete, then pivot straight to what he wants; when thwarted he melts down about fairness.",
+      "sourceIds": [
+        "casa-bonita",
+        "cartmanland"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "What if I told you there was a way to never forget anything ever again? Eight months. Eight months of my life, you guys, building this for you. You talk into it and BAM, your voice notes become a to-do list. Do you know how many people forget stuff every day? Like, all of them. And because I care so deeply about the people, the first month is free! Launching Friday. Don't thank me. Okay, you can thank me."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}
