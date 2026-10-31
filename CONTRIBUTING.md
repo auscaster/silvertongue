@@ -26,6 +26,9 @@ Each voice is `profiles/<slug>/VOICE.md` plus `profile.json`, in the
   avoid election and campaign material, and the profile forbids stating
   positions, endorsing anyone or writing about elections and voting.
 - Deceased writers are accepted once a century has passed since their death.
+- Fictional characters are studied from their own words in the books, films
+  and shows they appear in. The profile borrows none of their world (places,
+  companions, possessions) and none of their catchphrases.
 - Comedy and roast profiles keep the comedian's edge: drugs, sex, death, crude
   language and personal insults about public or willing targets. They exclude
   racism and slurs, and never target private people.

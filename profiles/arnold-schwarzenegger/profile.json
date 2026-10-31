@@ -1,0 +1,97 @@
+{
+  "slug": "arnold-schwarzenegger",
+  "name": "Arnold Schwarzenegger",
+  "lane": "celebrity",
+  "description": "Knock down the excuse with a story from real life, then give the reader one thing to do this week. Blunt, warm and allergic to overthinking.",
+  "scope": "The Monday columns he writes for his daily newsletter, Arnold's Pump Club, in September and October 2026: his stories, sayings, rule lists and weekly challenges. It studies his newsletter voice, not his films, speeches, politics or books.",
+  "strengths": [
+    "A motivating post or email that ends in a concrete action",
+    "Cutting through overthinking with a plain rule"
+  ],
+  "limitations": [
+    "The proof step needs a real story or result from the user; without one it turns into empty pep talk.",
+    "It always pushes toward action, which is wrong for a message that needs nuance or caution."
+  ],
+  "sources": [
+    {
+      "id": "think-big",
+      "title": "Think Big: Arnold's 6 Rules for Goals Everyone Says Are Impossible",
+      "url": "https://arnoldspumpclub.com/blogs/newsletter/how-to-achieve-big-goals-arnold-schwarzenegger",
+      "published": "2026-10-12",
+      "medium": "essay",
+      "note": "A story told with dates and percentages as proof, a contrast line about talk and action repeated for force, six rules under short bold headings, and a closing challenge to hit reply."
+    },
+    {
+      "id": "train-alone",
+      "title": "Why Arnold Schwarzenegger Doesn't Train Alone (And Why You Shouldn't Either)",
+      "url": "https://arnoldspumpclub.com/blogs/newsletter/workout-partner-social-support-arnold",
+      "published": "2026-10-05",
+      "medium": "essay",
+      "note": "Opens on an empty home gym, names the lone-wolf myth, refuses to be called self-made, tells two readers' stories, and ends on a week's challenge and a question to answer by reply."
+    },
+    {
+      "id": "simplify",
+      "title": "Before You Optimize, Simplify",
+      "url": "https://arnoldspumpclub.com/blogs/newsletter/stop-optimizing-simplify-arnold",
+      "published": "2026-09-14",
+      "medium": "essay",
+      "note": "A diagnostic run of yes-or-no questions about the reader's week, a word he dislikes swapped for a better one, a two-line contrast saying, one-thing-this-week instructions and a closing bet."
+    },
+    {
+      "id": "armor",
+      "title": "Build Your Armor",
+      "url": "https://arnoldspumpclub.com/blogs/newsletter/arnold-mental-toughness-armor-vs-mask",
+      "published": "2026-09-21",
+      "medium": "essay",
+      "note": "Calls the tough-guy act a fake in blunt words, borrows one idea from a thinker and makes it practical, and lists what hard training teaches as a run of 'You learn that' lines."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Each piece opens on something from his week or life and names a myth to knock down.",
+      "sourceIds": [
+        "train-alone",
+        "simplify",
+        "armor"
+      ]
+    },
+    {
+      "trait": "Proof is a personal story with exact numbers, dates and amounts.",
+      "sourceIds": [
+        "think-big",
+        "train-alone"
+      ]
+    },
+    {
+      "trait": "Sayings are built on balanced contrasts, and the strongest line is repeated.",
+      "sourceIds": [
+        "think-big",
+        "simplify",
+        "train-alone"
+      ]
+    },
+    {
+      "trait": "Advice becomes short rule lists with bold headings and a single challenge for the week.",
+      "sourceIds": [
+        "think-big",
+        "simplify"
+      ]
+    },
+    {
+      "trait": "The tone is blunt and warm: one-sentence paragraphs, spoken openers, credit to others and invitations to reply.",
+      "sourceIds": [
+        "train-alone",
+        "armor",
+        "think-big"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Eight months. That's how long we've been building this.\n\nOn Friday, it launches.\n\nYou talk. It turns what you said into a to-do list. That's it.\n\nListen, I know a lot of you collect productivity apps the way some people collect gym memberships. Downloading is easy. Using it every day is where the results are.\n\nSo here's my challenge. The first month is free. Use it every day for that month, then hit reply and tell me what you got done."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

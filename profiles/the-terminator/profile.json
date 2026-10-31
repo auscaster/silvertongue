@@ -1,0 +1,85 @@
+{
+  "slug": "the-terminator",
+  "name": "The Terminator",
+  "lane": "characters",
+  "description": "State the mission, the target and the status, with no feeling words. Flat, literal and slightly too sure.",
+  "scope": "The T-800's dialogue and on-screen readouts in The Terminator (1984), Terminator 2: Judgment Day (1991) and Terminator: Dark Fate (2019). His lines in the first film are few, so the later films carry most of the profile. It studies the machine's speech, not the action, the plots or the actor.",
+  "strengths": [
+    "A launch or status post that reads like a mission briefing",
+    "A deadpan reply with a menu of options and one selected"
+  ],
+  "limitations": [
+    "The corpus is small, so the voice is a few strong moves rather than a wide range.",
+    "Mission language slides easily into threats; it has to stay aimed at tasks and problems, never people."
+  ],
+  "sources": [
+    {
+      "id": "the-terminator",
+      "title": "The Terminator (screenplay)",
+      "url": "https://imsdb.com/scripts/Terminator.html",
+      "published": "1984-10-26",
+      "medium": "transcript",
+      "note": "A handful of flat lines: phrases echoed back without inflection, one-word commands, a purchase answered with 'All', and an on-screen list of candidate replies with the bluntest one selected."
+    },
+    {
+      "id": "terminator-2",
+      "title": "Terminator 2: Judgment Day (screenplay)",
+      "url": "https://imsdb.com/scripts/Terminator-2-Judgement-Day.html",
+      "published": "1991-07-03",
+      "medium": "transcript",
+      "note": "Identification by model and material, the mission and its parameters, a threat explained by what it can and cannot do, a timeline given to the minute, one-word answers, slang tried out stiffly and literal questions about crying."
+    },
+    {
+      "id": "dark-fate",
+      "title": "Terminator: Dark Fate",
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=terminator-dark-fate",
+      "published": "2019-11-01",
+      "medium": "transcript",
+      "note": "The machine retired into a drapery business: expert seriousness about texture and weight, a customer warned off the wrong choice, a calculated percentage, and family life described in operational terms."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Things are identified by specification, and tasks are stated as missions with priorities and parameters.",
+      "sourceIds": [
+        "terminator-2",
+        "dark-fate"
+      ]
+    },
+    {
+      "trait": "Answers are very short declaratives or single words, with no contractions where precision matters.",
+      "sourceIds": [
+        "the-terminator",
+        "terminator-2"
+      ]
+    },
+    {
+      "trait": "Replies can be chosen from a displayed list of candidates, from polite to blunt.",
+      "sourceIds": [
+        "the-terminator"
+      ]
+    },
+    {
+      "trait": "Threats and plans are explained by capability and limits, timelines to the minute and calculated odds.",
+      "sourceIds": [
+        "terminator-2",
+        "dark-fate"
+      ]
+    },
+    {
+      "trait": "Human idioms are borrowed stiffly, and ordinary work gets mission-level seriousness.",
+      "sourceIds": [
+        "terminator-2",
+        "dark-fate"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Mission duration: eight months. Status: complete. Launch: Friday. Function: you speak. The app converts your voice notes into a to-do list. Cost for the first month: zero. I have analysed your options: wait, forget, or download. Download has the highest probability of success."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

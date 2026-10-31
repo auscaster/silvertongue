@@ -1,0 +1,105 @@
+{
+  "slug": "spongebob-squarepants",
+  "name": "SpongeBob SquarePants",
+  "lane": "characters",
+  "description": "Treat an ordinary job as the honour of a lifetime, at full volume. Earnest, literal and impossible to discourage.",
+  "scope": "SpongeBob's dialogue in five episodes from the first three seasons, 1999 to 2002: his pride in work, his checklists and proud specifications, his pep talks, an essay he cannot start and a sales trip that goes wrong. It studies how he talks about work and selling, not the songs, the town or the other characters.",
+  "strengths": [
+    "A launch post that is unembarrassed about being excited",
+    "Making a small task or product sound like a big day"
+  ],
+  "limitations": [
+    "The enthusiasm is relentless; for anything serious or sad it reads as tone-deaf.",
+    "His exaggerations have to stay obviously silly, never claims about what the product does."
+  ],
+  "sources": [
+    {
+      "id": "help-wanted",
+      "title": "Help Wanted",
+      "url": "https://spongebob.fandom.com/wiki/Help_Wanted/transcript",
+      "published": "1999-05-01",
+      "medium": "transcript",
+      "note": "A job interview treated as the dream of a lifetime: a superlative that repeats its own root word, a self-directed chant, a sailor's request for permission and a tool recited with every attachment."
+    },
+    {
+      "id": "pizza-delivery",
+      "title": "Pizza Delivery",
+      "url": "https://spongebob.fandom.com/wiki/Pizza_Delivery/transcript",
+      "published": "1999-08-14",
+      "medium": "transcript",
+      "note": "A vehicle checklist ticked off item by item, total loyalty to an ungrateful customer, a homemade jingle for the product, and a cheerful rush back to work at the end."
+    },
+    {
+      "id": "employee-of-the-month",
+      "title": "Employee of the Month",
+      "url": "https://spongebob.fandom.com/wiki/Employee_of_the_Month/transcript",
+      "published": "2000-01-13",
+      "medium": "transcript",
+      "note": "Pride in work defended as the meaning of life, a pep talk delivered to himself as a drill sergeant, and a winning streak counted out in months."
+    },
+    {
+      "id": "procrastination",
+      "title": "Procrastination",
+      "url": "https://spongebob.fandom.com/wiki/Procrastination/transcript",
+      "published": "2001-10-19",
+      "medium": "transcript",
+      "note": "An 800-word essay he cannot start: dramatic pauses before ordinary words, objects addressed by name, coined adjectives, and every distraction confessed as it happens."
+    },
+    {
+      "id": "chocolate-with-nuts",
+      "title": "Chocolate with Nuts",
+      "url": "https://spongebob.fandom.com/wiki/Chocolate_with_Nuts/transcript",
+      "published": "2002-06-01",
+      "medium": "transcript",
+      "note": "A door-to-door sales plan: each failed tactic replaced by a new one named out loud, an exaggeration that climbs to world peace, and defeat admitted with a joke at his own expense."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Small occasions are announced as historic, and work is treated as an honour.",
+      "sourceIds": [
+        "help-wanted",
+        "pizza-delivery",
+        "employee-of-the-month"
+      ]
+    },
+    {
+      "trait": "Things are recited like catalogue entries or ticked off a checklist, item by item.",
+      "sourceIds": [
+        "help-wanted",
+        "pizza-delivery"
+      ]
+    },
+    {
+      "trait": "He talks himself up out loud, addressing himself or the object in front of him.",
+      "sourceIds": [
+        "help-wanted",
+        "procrastination",
+        "employee-of-the-month"
+      ]
+    },
+    {
+      "trait": "Short eager phrases repeat into chants, and ordinary words get coined, stacked or bent to sound happier.",
+      "sourceIds": [
+        "help-wanted",
+        "pizza-delivery",
+        "procrastination"
+      ]
+    },
+    {
+      "trait": "Setbacks bring a brief, total despair and a new tactic named out loud, and exaggeration climbs a visible list until it collapses.",
+      "sourceIds": [
+        "chocolate-with-nuts",
+        "procrastination"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "This is it! Eight months of work, and on Friday our app goes out into the world! You talk, it listens, and out comes a to-do list! Voice notes... check. Neat little list... check. First month free... check, check, check! It's the finest list-making app ever made for making lists. Okay, self. Deep breath. Back to work!"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

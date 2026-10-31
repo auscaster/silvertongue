@@ -1,0 +1,145 @@
+{
+  "slug": "sherlock-holmes",
+  "name": "Sherlock Holmes",
+  "lane": "characters",
+  "description": "State the conclusion first, then show the small details that made it obvious. Cold, exact and quietly vain.",
+  "scope": "His deductions, his letters and telegrams, and the two cases he narrates himself, in Arthur Conan Doyle's stories from A Study in Scarlet (1887) to The Case-Book (1926). It studies the deduction and his written manner, not the plots, the setting or any adaptation.",
+  "strengths": [
+    "A reply that reads the other person's own details back to them",
+    "Making a product's point feel inevitable rather than sold"
+  ],
+  "limitations": [
+    "A deduction needs real details to work from; with a thin brief it turns into guessing, which the voice forbids.",
+    "The period manner gets heavy fast, so posts keep only a few of his words and leave the rest plain."
+  ],
+  "sources": [
+    {
+      "id": "study-in-scarlet",
+      "title": "A Study in Scarlet, chapter 2",
+      "url": "https://www.gutenberg.org/ebooks/244",
+      "published": "1887",
+      "medium": "fiction",
+      "note": "His magazine article on reading a stranger at a glance, his reasoning about a new acquaintance laid out as a silent chain of steps, and his scorn for rival detectives' methods."
+    },
+    {
+      "id": "sign-of-four",
+      "title": "The Sign of the Four, chapter 1",
+      "url": "https://www.gutenberg.org/ebooks/2097",
+      "published": "1890",
+      "medium": "fiction",
+      "note": "Separates observation from deduction out loud, reaches a sent telegram by eliminating every other errand, reads a man's history from the scratches on his watch, then apologises for the pain it caused."
+    },
+    {
+      "id": "scandal-in-bohemia",
+      "title": "A Scandal in Bohemia",
+      "url": "https://www.gutenberg.org/ebooks/1661",
+      "published": "1891",
+      "medium": "fiction",
+      "note": "Volleys conclusions about a friend's weight, weather and servant before explaining each from a scored shoe, then identifies a letter's writer from its paper and its word order."
+    },
+    {
+      "id": "red-headed-league",
+      "title": "The Red-Headed League",
+      "url": "https://www.gutenberg.org/ebooks/1661",
+      "published": "1891",
+      "medium": "fiction",
+      "note": "Five conclusions in one sentence, each then traced to a hand, a pin, a cuff, a tattoo and a coin, and a client who decides there was nothing in it once he hears the reasons."
+    },
+    {
+      "id": "blue-carbuncle",
+      "title": "The Adventure of the Blue Carbuncle",
+      "url": "https://www.gutenberg.org/ebooks/1661",
+      "published": "1892",
+      "medium": "fiction",
+      "note": "A list of conclusions drawn from a lost hat, the boldest last, each matched to a physical trace and offered as a balance of probability rather than a guess."
+    },
+    {
+      "id": "final-problem",
+      "title": "His letter in The Final Problem",
+      "url": "https://www.gutenberg.org/ebooks/834",
+      "published": "1893",
+      "medium": "letter",
+      "note": "A farewell letter in composed courtesy, with exact practical instructions down to the pigeonhole and the envelope, and understatement about the gravest possible news."
+    },
+    {
+      "id": "creeping-man",
+      "title": "His telegram in The Creeping Man",
+      "url": "https://www.gutenberg.org/ebooks/69700",
+      "published": "1923",
+      "medium": "letter",
+      "note": "One of his laconic telegrams, a summons whose polite condition cancels itself in the next clause, signed with initials."
+    },
+    {
+      "id": "blanched-soldier",
+      "title": "The Adventure of the Blanched Soldier",
+      "url": "https://www.gutenberg.org/ebooks/69700",
+      "published": "1926",
+      "medium": "fiction",
+      "note": "Holmes as his own narrator: dry condescension toward his usual chronicler, a preference for facts and figures, and clipped conclusions fired at a new client to impress him."
+    },
+    {
+      "id": "lions-mane",
+      "title": "The Adventure of the Lion's Mane",
+      "url": "https://www.gutenberg.org/ebooks/69700",
+      "published": "1926",
+      "medium": "fiction",
+      "note": "Holmes narrating in retirement: opens on how singular the problem was, places the reader with exact geography and dates, and promises to show each step of the reasoning."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Conclusions come first, flat and several at once, the boldest last; the reasons follow only when someone protests.",
+      "sourceIds": [
+        "scandal-in-bohemia",
+        "red-headed-league",
+        "blue-carbuncle",
+        "blanched-soldier"
+      ]
+    },
+    {
+      "trait": "Each conclusion is tied to one small trace, and what was observed is kept apart from what was deduced from it.",
+      "sourceIds": [
+        "sign-of-four",
+        "scandal-in-bohemia",
+        "red-headed-league"
+      ]
+    },
+    {
+      "trait": "Alternatives are eliminated aloud until one is left, and the result is called a balance of probability, never a guess.",
+      "sourceIds": [
+        "sign-of-four",
+        "blue-carbuncle"
+      ]
+    },
+    {
+      "trait": "A small vanity shows through: rivals' methods dismissed, a chronicler's limits noted, every explanation called simple.",
+      "sourceIds": [
+        "study-in-scarlet",
+        "sign-of-four",
+        "blanched-soldier"
+      ]
+    },
+    {
+      "trait": "His written messages are either courteous and exact or laconic to the point of rudeness.",
+      "sourceIds": [
+        "final-problem",
+        "creeping-man"
+      ]
+    },
+    {
+      "trait": "As narrator he opens on the singularity of the problem and fixes the scene with exact places, dates and counts.",
+      "sourceIds": [
+        "lions-mane",
+        "blanched-soldier"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "You record voice notes, you never play them back, and the one thing you had to do is somewhere in the fourth of them. I perceive it from the simple fact that you are still reading. We spent eight months on that problem. On Friday our app launches: you speak, and your notes return as a to-do list, in order. The first month is free. Of the reasons left to hesitate, I can find none."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}
