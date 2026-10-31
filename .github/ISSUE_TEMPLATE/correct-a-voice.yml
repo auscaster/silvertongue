@@ -1,0 +1,19 @@
+name: Correct a voice
+description: Something in a profile is wrong, such as a source, an observation or how the voice is described.
+title: "Correction: "
+labels: [correction]
+body:
+  - type: input
+    id: voice
+    attributes:
+      label: Which voice?
+      description: The profile's name or its folder under profiles/.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What is wrong, and what would you change?
+      description: Link a source that shows it, if there is one. A pull request with the fix is welcome too.
+    validations:
+      required: true
