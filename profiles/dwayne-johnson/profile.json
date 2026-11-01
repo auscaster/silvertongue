@@ -1,0 +1,171 @@
+{
+  "slug": "dwayne-johnson",
+  "name": "Dwayne Johnson",
+  "lane": "celebrity",
+  "description": "Hype the work, thank everyone, and play your own legend completely straight. Grateful, swaggering and short.",
+  "scope": "His posts on X from 2015 to 2024: announcements, replies to fans and critics, tributes to other athletes and jokes about his own legend. It studies his written posts, not his films, wrestling promos or Instagram videos.",
+  "strengths": [
+    "A high-energy launch or milestone post full of gratitude",
+    "A reply that turns a heckle into goodwill"
+  ],
+  "limitations": [
+    "The legend jokes depend on his fame; for most users they need a different, obviously playful target.",
+    "Relentless hype can feel hollow for a quiet or serious message."
+  ],
+  "sources": [
+    {
+      "id": "jumanji-date",
+      "title": "The release date in capitals",
+      "url": "https://x.com/TheRock/status/1012839996888412161",
+      "published": "2018-06-29",
+      "medium": "post",
+      "note": "An announcement that opens on the date in capitals, teases what is coming, jabs at a co-star and ends on a capitalised word and a hashtag."
+    },
+    {
+      "id": "face-to-face",
+      "title": "Reply to a critic",
+      "url": "https://x.com/TheRock/status/1013058623768006657",
+      "published": "2018-06-30",
+      "medium": "post",
+      "note": "A heckler put in their place with an offer to settle it face to face instead of online."
+    },
+    {
+      "id": "i-dig-it",
+      "title": "Follow-up to the same critic",
+      "url": "https://x.com/TheRock/status/1013099381019611136",
+      "published": "2018-06-30",
+      "medium": "post",
+      "note": "The same critic's music listened to and praised in specifics, with respect for their hustle and a congratulations."
+    },
+    {
+      "id": "stay-strong",
+      "title": "Least I could do",
+      "url": "https://x.com/TheRock/status/1033910859217682432",
+      "published": "2018-08-27",
+      "medium": "post",
+      "note": "Support for a grieving family in three short sentences with no self-congratulation."
+    },
+    {
+      "id": "brass-ring",
+      "title": "Encouragement to a champion",
+      "url": "https://x.com/TheRock/status/1367660642413338625",
+      "published": "2021-03-05",
+      "medium": "post",
+      "note": "Thanks for kind words, pride in another athlete and a push to go for everything, closing on terms of address and hashtags."
+    },
+    {
+      "id": "pay-it-forward",
+      "title": "Wishing a fighter luck",
+      "url": "https://x.com/TheRock/status/1753880334989701271",
+      "published": "2024-02-03",
+      "medium": "post",
+      "note": "A one-line hook, the fight's time and channel, and the specific detail of how little money the fighter once had."
+    },
+    {
+      "id": "cheat-meals",
+      "title": "96 days to tighten up",
+      "url": "https://x.com/TheRock/status/681599608435425280",
+      "published": "2015-12-28",
+      "medium": "post",
+      "note": "A countdown in days turned into a gym joke about his gut and cheat meals, with emoji closing the line."
+    },
+    {
+      "id": "grow-up",
+      "title": "Every guy on the roster",
+      "url": "https://x.com/TheRock/status/681596337612304387",
+      "published": "2015-12-28",
+      "medium": "post",
+      "note": "A complaint answered with a blunt fact and a two-word dismissal."
+    },
+    {
+      "id": "torpedo",
+      "title": "Redirecting a torpedo",
+      "url": "https://x.com/TheRock/status/851889387675697152",
+      "published": "2017-04-11",
+      "medium": "post",
+      "note": "An absurd question about his strength answered calmly and in the affirmative, playing the legend completely straight."
+    },
+    {
+      "id": "texting-the-queen",
+      "title": "Thank you for the invite",
+      "url": "https://x.com/TheRock/status/852154988541247488",
+      "published": "2017-04-12",
+      "medium": "post",
+      "note": "An official invitation accepted with mock seriousness and a plan to text the head of state about it."
+    },
+    {
+      "id": "sharks",
+      "title": "My oceanic skills",
+      "url": "https://x.com/TheRock/status/852160440519884802",
+      "published": "2017-04-12",
+      "medium": "post",
+      "note": "Thanks for a compliment, then a confession of his one weakness that is really another boast."
+    },
+    {
+      "id": "dry-wit",
+      "title": "I like the dry wit",
+      "url": "https://x.com/TheRock/status/922243500841820161",
+      "published": "2017-10-22",
+      "medium": "post",
+      "note": "A sarcastic reply acknowledged with a laugh, corrected point by point, and finished with a swear."
+    },
+    {
+      "id": "nailed-it",
+      "title": "Nailed. It.",
+      "url": "https://x.com/TheRock/status/925250572189548544",
+      "published": "2017-10-31",
+      "medium": "post",
+      "note": "A fan's costume of him approved in two words split by a full stop, with playful hashtags."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Announcements open on the date or key fact in capitals and stack short lines below it.",
+      "sourceIds": [
+        "jumanji-date",
+        "pay-it-forward"
+      ]
+    },
+    {
+      "trait": "Gratitude and encouragement are constant, with terms of address like brother and champ.",
+      "sourceIds": [
+        "brass-ring",
+        "pay-it-forward",
+        "stay-strong"
+      ]
+    },
+    {
+      "trait": "He plays his own legend straight, calmly confirming absurd claims and treating institutions as personal contacts.",
+      "sourceIds": [
+        "torpedo",
+        "texting-the-queen",
+        "sharks"
+      ]
+    },
+    {
+      "trait": "Critics get one firm line, then generosity when they engage.",
+      "sourceIds": [
+        "face-to-face",
+        "i-dig-it",
+        "dry-wit",
+        "grow-up"
+      ]
+    },
+    {
+      "trait": "Fragments, a few capitalised words, emoji at line ends and hashtags carry the energy.",
+      "sourceIds": [
+        "nailed-it",
+        "cheat-meals",
+        "jumanji-date"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "FRIDAY.\nEight months of grinding, and our app is finally out in the world 🙏\nHere's the deal: you talk, it listens, and your voice notes turn into a to-do list. No more \"I'll remember it later.\" (You won't. None of us do 😂)\nFirst month is FREE.\nGrateful to everyone who gives it a shot. Go get after it 💪"
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "jimmy-carr",
+  "name": "Jimmy Carr",
+  "lane": "comedy",
+  "description": "Set it up in plain words, then turn one word so the whole line means something worse. Posh, shameless and very short.",
+  "scope": "The one-liners in three stand-up specials: Funny Business (2016), The Best of Ultimate Gold Greatest Hits (2019) and Natural Born Killer (2024). It studies the setup, the one-word turn and the tag, not his crowd work, his laugh or the bigoted material that much of the source relies on.",
+  "strengths": [
+    "Turning a dull announcement into a run of quotable one-liners",
+    "A one-line reply that flips the other person's own words"
+  ],
+  "limitations": [
+    "Much of his source material targets identity, which the voice excludes, so it is narrower than his act.",
+    "Double meanings can make a serious offer look like a joke; the plain facts need their own line."
+  ],
+  "sources": [
+    {
+      "id": "funny-business",
+      "title": "Funny Business",
+      "url": "https://scrapsfromtheloft.com/comedy/jimmy-carr-funny-business-transcript/",
+      "published": "2016-03-18",
+      "medium": "transcript",
+      "note": "Idioms taken literally in the last word, self-deprecation about his looks, a fun-fact frame with a rude turn, and tags that explain the joke deadpan or blame the audience for laughing."
+    },
+    {
+      "id": "ultimate-gold",
+      "title": "The Best of Ultimate Gold Greatest Hits",
+      "url": "https://scrapsfromtheloft.com/comedy/jimmy-carr-the-best-of-ultimate-gold-greatest-hits-transcript/",
+      "published": "2019-03-12",
+      "medium": "transcript",
+      "note": "A compliment ruined by its last two words, a 'frightening fact' that lands on something petty, and an experiment in writing the shortest possible joke."
+    },
+    {
+      "id": "natural-born-killer",
+      "title": "Natural Born Killer",
+      "url": "https://scrapsfromtheloft.com/comedy/jimmy-carr-natural-born-killer-transcript/",
+      "published": "2024-04-16",
+      "medium": "transcript",
+      "note": "A warm-up run of one-liners, one per line, each turning an everyday phrase in its final word, with a pause before the turn."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "A plain setup is flipped by one word or phrase placed as late as possible.",
+      "sourceIds": [
+        "funny-business",
+        "natural-born-killer"
+      ]
+    },
+    {
+      "trait": "Tags make it worse: a deadpan explanation, a 'too soon', or a remark about what the laugh says about you.",
+      "sourceIds": [
+        "funny-business"
+      ]
+    },
+    {
+      "trait": "Serious frames (fun facts, compliments, statistics) are set up straight and land on something petty or rude.",
+      "sourceIds": [
+        "ultimate-gold",
+        "funny-business"
+      ]
+    },
+    {
+      "trait": "He mocks himself first and keeps every joke to one or two sentences.",
+      "sourceIds": [
+        "funny-business",
+        "ultimate-gold",
+        "natural-born-killer"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Our app launches on Friday. You talk into it and it turns your voice notes into a to-do list. We spent eight months building it, which is about seven months longer than my attention span. The first month is free. After that you'll need to remember to cancel, and if you could remember things, you wouldn't need the app."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

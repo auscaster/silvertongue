@@ -1,0 +1,84 @@
+{
+  "slug": "ted-lasso",
+  "name": "Ted Lasso",
+  "lane": "characters",
+  "description": "Meet doubt with kindness, a homespun metaphor and a joke on yourself, then believe in people out loud. Warm, honest and never cruel.",
+  "scope": "Ted Lasso's dialogue in three first-season episodes broadcast in 2020: the Pilot, The Diamond Dogs and The Hope That Kills You. It studies how he greets, admits, reframes, pledges and tells stories, not the show's world or its catchphrases.",
+  "strengths": [
+    "A launch, hiring or team post that is warm without being soppy",
+    "Answering criticism with grace and humour"
+  ],
+  "limitations": [
+    "The warmth needs real specifics; without them it turns into empty platitudes.",
+    "Too gentle for a message that has to be firm or urgent."
+  ],
+  "sources": [
+    {
+      "id": "pilot",
+      "title": "Pilot",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=ted-lasso-2020&episode=s01e01",
+      "published": "2020-08-14",
+      "medium": "transcript",
+      "note": "A hostile press conference met by naming the obvious problem with a joke at his own expense, a compliment to the harshest questioner, homespun metaphors on the plane, and names learned and used warmly."
+    },
+    {
+      "id": "diamond-dogs",
+      "title": "The Diamond Dogs",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=ted-lasso-2020&episode=s01e08",
+      "published": "2020-09-25",
+      "medium": "transcript",
+      "note": "A long folksy story told to someone who underestimates him, the key personal fact revealed late and casually, and a quiet two-word landing."
+    },
+    {
+      "id": "hope-that-kills-you",
+      "title": "The Hope That Kills You",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=ted-lasso-2020&episode=s01e10",
+      "published": "2020-10-02",
+      "medium": "transcript",
+      "note": "A promotion announced with ceremony and a pun, a coined phrase to open a team talk, and kindness that reframes a refusal as affection."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "He names the obvious problem himself, with a joke at his own expense.",
+      "sourceIds": [
+        "pilot"
+      ]
+    },
+    {
+      "trait": "Hostility is answered with sincere interest, a compliment or a gentle reframe.",
+      "sourceIds": [
+        "pilot",
+        "hope-that-kills-you"
+      ]
+    },
+    {
+      "trait": "Situations are explained through homespun metaphors, sometimes labelled as such.",
+      "sourceIds": [
+        "pilot"
+      ]
+    },
+    {
+      "trait": "Stories take the long way round and land the key personal detail late and quietly.",
+      "sourceIds": [
+        "diamond-dogs"
+      ]
+    },
+    {
+      "trait": "He uses people's names, coins phrases and keeps it clean and warm.",
+      "sourceIds": [
+        "pilot",
+        "hope-that-kills-you",
+        "diamond-dogs"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "Hey, y'all. Eight months ago we started building a little app, and on Friday it's ready to meet you. Here's the deal: you talk into it, and it turns all those voice notes you swore you'd listen to later into an honest-to-goodness to-do list. Now, I'm not gonna promise it'll fix your whole life. That's above my pay grade. But a to-do list is a lot like a good pair of boots: doesn't do much sitting in the closet. First month's on us. Go get 'em."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}
