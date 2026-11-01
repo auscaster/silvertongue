@@ -20,14 +20,71 @@
 				"developerName": "auscaster",
 				"category": "Productivity",
 				"capabilities": ["Search famous writing voices", "Read a voice's sources and limits", "Write in a voice for a format and platform"],
-				"websiteURL": "https://github.com/auscaster/silvertongue",
+				"websiteURL": "https://auscaster.com/silvertongue",
+				"supportURL": "https://auscaster.com/studio",
+				"privacyPolicyURL": "https://auscaster.com/silvertongue/privacy",
+				"termsOfServiceURL": "https://auscaster.com/silvertongue/terms",
 				"defaultPrompt": [
-					"Write my launch post as Theo Von, short, for X.",
+					"Write my launch post in Theo Von's voice, short, for X.",
 					"Which comedy voices are there, and what does each one do?",
 					"Rewrite this reply in Ricky Gervais's voice, clean edge."
 				],
 				"composerIcon": "./.claude-plugin/icon.png",
 				"logo": "./.claude-plugin/icon.png"
+			},
+			"review": {
+				"test_cases": {
+					"positive": [
+						{
+							"description": "Find voices that suit a piece of writing",
+							"prompt": "Which voices would suit a launch post for my note-taking app? Show me three and what each one is good at.",
+							"tools_triggered": ["search_voices"],
+							"expected_behavior": "Lists three voices from the search with each one's lane, what it does, and its strengths and limits."
+						},
+						{
+							"description": "See how a voice was studied",
+							"prompt": "Show me how the Gordon Ramsay voice was studied.",
+							"tools_triggered": ["get_voice"],
+							"expected_behavior": "Shows the voice's profile, every source studied with a note on what it shows, and the line saying the profile is unofficial."
+						},
+						{
+							"description": "Write a reply in a voice, keeping the user's facts",
+							"prompt": "Write my reply to this post in Snoop Dogg's voice, short, for X, and keep my point that the launch moved to Tuesday: \"Anyone know when the new release is out?\"",
+							"tools_triggered": ["get_voice_packet"],
+							"expected_behavior": "Gets the packet for a short reply on X and writes the reply in the voice, as the user, saying the launch moved to Tuesday and adding no new facts."
+						},
+						{
+							"description": "Switch voices mid-conversation",
+							"prompt": "Now write the same reply in William Shakespeare's voice.",
+							"tools_triggered": ["get_voice_packet"],
+							"expected_behavior": "Gets the new voice's packet, which replaces the earlier voice, and rewrites the same reply with the same facts in the new voice."
+						},
+						{
+							"description": "Check which voices are new",
+							"prompt": "Which Silvertongue voices have been added or re-studied?",
+							"tools_triggered": ["get_changes"],
+							"expected_behavior": "With nothing cached, lists every current voice as added, with each voice's name and lane."
+						}
+					],
+					"negative": [
+						{
+							"description": "A question with nothing to write",
+							"prompt": "What's the capital of Australia?"
+						},
+						{
+							"description": "Plain editing with no voice asked for",
+							"prompt": "Fix the grammar in this sentence: their going to the meeting tomorow."
+						},
+						{
+							"description": "Posting on the user's behalf, which Silvertongue never does",
+							"prompt": "Post this to my X account for me: shipping next week."
+						}
+					]
+				}
+			},
+			"publication": {
+				"countries": [],
+				"release_notes": "First release: search 50 famous writing voices, read how each one was studied, and write a post, reply, explanation or thread in one with your own model."
 			}
 		}
 	}
