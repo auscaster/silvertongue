@@ -1,6 +1,6 @@
 # Voices
 
-All 39 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
+All 50 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
 
 | Voice | The move | Studied |
 | --- | --- | --- |
@@ -10,20 +10,28 @@ All 39 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Andrej Karpathy**](andrej-karpathy/VOICE.md) | Report what you actually tried, show the setup, and give the pattern a name. | 1 essay and 6 posts, 2019 to 2026 |
 | [**Arnold Schwarzenegger**](arnold-schwarzenegger/VOICE.md) | Knock down the excuse with a story from real life, then give the reader one thing to do this week. | 4 essays, 2026 |
 | [**Barack Obama**](barack-obama/VOICE.md) | Warm, measured and specific, then widen it to what we share. | 2 speeches and 6 posts, 2015 to 2026 |
+| [**Bill Burr**](bill-burr/VOICE.md) | Argue the side nobody else will until it gets ridiculous, then admit you might be an idiot. | 3 transcripts, 2014 to 2019 |
 | [**Bill Gates**](bill-gates/VOICE.md) | State the progress with a number, then the work left to do. | 1 essay and 8 posts, 2023 to 2026 |
 | [**Bob Dylan**](bob-dylan/VOICE.md) | Say one plain, oddly specific thing and never explain it. | 10 posts and 3 speeches, 2015 to 2025 |
 | [**Cher**](cher/VOICE.md) | Feel it, post it, and let the emoji finish the sentence. | 9 posts, 2016 to 2024 |
 | [**Derek Sivers**](derek-sivers/VOICE.md) | A small story, a change of angle, something you can actually try. | 3 essays, 2009 to 2016 |
 | [**Donald Trump**](donald-trump/VOICE.md) | Make it the biggest thing that ever happened, with Capitals and exclamation marks. | 1 speech and 7 posts, 2017 to 2026 |
+| [**Dwayne Johnson**](dwayne-johnson/VOICE.md) | Hype the work, thank everyone, and play your own legend completely straight. | 13 posts, 2015 to 2024 |
+| [**Dwight Schrute**](dwight-schrute/VOICE.md) | Answer with total certainty, official procedure and a title, then add one detail nobody needed. | 3 transcripts, 2006 to 2007 |
 | [**Edgar Allan Poe**](edgar-allan-poe/VOICE.md) | Fix on one effect and drive every sentence at it. | 1 essay, 1 work of fiction and 1 poem, 1843 to 1846 |
 | [**Elon Musk**](elon-musk/VOICE.md) | Say it in as few words as the claim allows and let a number do the arguing. | 2 essays and 8 posts, 2006 to 2026 |
 | [**Eric Cartman**](eric-cartman/VOICE.md) | Pitch your own self-interest as a public service, with the maths to prove it. | 4 transcripts, 2001 to 2011 |
 | [**Gandalf the Grey**](gandalf-the-grey/VOICE.md) | Take their words apart, remind them who they could be, and send them off with honest counsel. | 3 transcripts, 2001 to 2013 |
 | [**Gordon Ramsay**](gordon-ramsay/VOICE.md) | One line, one verdict, built on the other person's own detail. | 9 posts, 2016 to 2025 |
 | [**James Bond**](james-bond/VOICE.md) | Name the exact detail like a connoisseur, then undercut the drama with one dry line. | 3 transcripts, 1963 to 1997 |
+| [**Jane Austen**](jane-austen/VOICE.md) | Report it with perfect composure and let one well-placed clause do the damage. | 3 works of fiction and 4 letters, 1796 to 1817 |
+| [**Jeff Bezos**](jeff-bezos/VOICE.md) | Name the principle, break it into a few named parts, and argue each with one example and a number. | 3 letters, 2017 to 2021 |
+| [**Jerry Seinfeld**](jerry-seinfeld/VOICE.md) | Ask what the idea of an everyday thing is, act out the meeting that decided it, and land a clean reversal. | 2 transcripts and 1 speech, 1998 to 2024 |
+| [**Jimmy Carr**](jimmy-carr/VOICE.md) | Set it up in plain words, then turn one word so the whole line means something worse. | 3 transcripts, 2016 to 2024 |
 | [**Joe Rogan**](joe-rogan/VOICE.md) | Recalculate something everyone takes for granted until it sounds insane. | 2 transcripts and 5 posts, 2018 to 2024 |
 | [**Kim Kardashian**](kim-kardashian/VOICE.md) | Keep the caption short and let the picture work, until it matters. | 10 posts, 2015 to 2026 |
 | [**Marc Andreessen**](marc-andreessen/VOICE.md) | Open with one declaration, then build the case in short repeated blocks. | 3 essays and 2 posts, 2020 to 2026 |
+| [**Marcus Aurelius**](marcus-aurelius/VOICE.md) | Talk to yourself, reduce the thing to what it really is, and get back to work. | 7 essays, 1862 |
 | [**Mark Twain**](mark-twain/VOICE.md) | Tell it with a straight face and drop the joke at the end as if it did not matter. | 3 essays and 1 work of fiction, 1880 to 1895 |
 | [**MrBeast**](mrbeast/VOICE.md) | Lead with a premise and a big number, then tell people to go watch. | 10 posts, 2022 to 2026 |
 | [**Naval Ravikant**](naval-ravikant/VOICE.md) | Reduce an idea to its mechanism, then its shortest useful form. | 3 transcripts, 2019 to 2021 |
@@ -38,8 +46,11 @@ All 39 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Snoop Dogg**](snoop-dogg/VOICE.md) | Name it, say it's out now, tag your people and let the emoji talk. | 1 speech and 7 posts, 2018 to 2025 |
 | [**Spock**](spock/VOICE.md) | Report it as data, give the figure exactly, and leave the feeling to one dry understatement. | 7 transcripts, 1967 to 1968 |
 | [**SpongeBob SquarePants**](spongebob-squarepants/VOICE.md) | Treat an ordinary job as the honour of a lifetime, at full volume. | 5 transcripts, 1999 to 2002 |
+| [**Sun Tzu**](sun-tzu/VOICE.md) | State the principle, number its factors, and give the rule for each case. | 6 essays, 1910 |
+| [**Ted Lasso**](ted-lasso/VOICE.md) | Meet doubt with kindness, a homespun metaphor and a joke on yourself, then believe in people out loud. | 3 transcripts, 2020 |
 | [**The Terminator**](the-terminator/VOICE.md) | State the mission, the target and the status, with no feeling words. | 3 transcripts, 1984 to 2019 |
 | [**Theo Von**](theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 22 posts, 2015 to 2026 |
 | [**Tony Hinchcliffe**](tony-hinchcliffe/VOICE.md) | Set up a real fact, pivot on a double meaning, land the insult on one word. | 1 transcript and 6 posts, 2016 to 2024 |
+| [**Warren Buffett**](warren-buffett/VOICE.md) | Lead with the number, own the mistake, and explain it as if to a smart sister. | 4 letters, 2009 to 2025 |
 | [**Werner Herzog**](werner-herzog/VOICE.md) | Describe something small with the gravity of the end of the world. | 2 essays, 1 speech and 1 transcript, 1999 to 2017 |
 | [**William Shakespeare**](william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 4 plays and 1 poem, 1604 to 1623 |

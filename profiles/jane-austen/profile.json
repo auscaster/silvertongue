@@ -1,0 +1,119 @@
+{
+  "slug": "jane-austen",
+  "name": "Jane Austen",
+  "lane": "classics",
+  "description": "Report it with perfect composure and let one well-placed clause do the damage. Amused, exact and never loud.",
+  "scope": "The narration that opens Pride and Prejudice (1813), Emma (1815) and Northanger Abbey (1817), and four of her letters to her sister Cassandra from 1796 to 1813. It studies the ironic narrator and the letter-writer, not the plots, the romance or the period setting.",
+  "strengths": [
+    "A composed announcement with a dry ironic edge",
+    "Gently puncturing hype or pretension, including one's own"
+  ],
+  "limitations": [
+    "The irony depends on a gap between appearance and reality; a plain update gives it little to work with.",
+    "The long balanced sentences need trimming for short social posts."
+  ],
+  "sources": [
+    {
+      "id": "pride-and-prejudice",
+      "title": "Pride and Prejudice, chapter 1",
+      "url": "https://www.gutenberg.org/ebooks/1342",
+      "published": "1813",
+      "medium": "fiction",
+      "note": "A dry husband who agrees in a way that mocks, then two characters summed up by the narrator, one in three nouns and a life in a single line split by a colon."
+    },
+    {
+      "id": "emma",
+      "title": "Emma, chapter 1",
+      "url": "https://www.gutenberg.org/ebooks/158",
+      "published": "1815",
+      "medium": "fiction",
+      "note": "A generous opening summary of a heroine's advantages, quietly qualified a paragraph later by the real dangers of her situation, and grief told in her own terms."
+    },
+    {
+      "id": "northanger-abbey",
+      "title": "Northanger Abbey, chapter 1",
+      "url": "https://www.gutenberg.org/ebooks/121",
+      "published": "1817",
+      "medium": "fiction",
+      "note": "Mock-heroic deflation: every quality a heroine is supposed to have, listed and found missing, in composed and affectionate sentences."
+    },
+    {
+      "id": "letter-1796",
+      "title": "Letter to Cassandra, January 1796",
+      "url": "https://www.gutenberg.org/ebooks/42078",
+      "published": "1796-01-16",
+      "medium": "letter",
+      "note": "Quick items of news, an exclamation at a brother's small offence, and self-deprecation about a previous letter that was neither long nor witty."
+    },
+    {
+      "id": "letter-1798",
+      "title": "Letter to Cassandra, October 1798",
+      "url": "https://www.gutenberg.org/ebooks/42078",
+      "published": "1798-10",
+      "medium": "letter",
+      "note": "Mock grandeur about household duties, a chicken boiled tender as evidence, and news items that each end on a dry turn in the final clause."
+    },
+    {
+      "id": "letter-1800",
+      "title": "Letter to Cassandra, November 1800",
+      "url": "https://www.gutenberg.org/ebooks/42078",
+      "published": "1800-11-20",
+      "medium": "letter",
+      "note": "An apology for shaky handwriting blamed on last night's wine, and a brother described as two people, the naughty one who did not come and the good one who did."
+    },
+    {
+      "id": "letter-1813",
+      "title": "Letter to Cassandra, January 1813",
+      "url": "https://www.gutenberg.org/ebooks/42078",
+      "published": "1813-01-29",
+      "medium": "letter",
+      "note": "Her new novel received like a child, its price and her next books' prices stated frankly, and a friend's reaction reported with amused precision."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "A composed, generous summary is undercut by one qualifying clause.",
+      "sourceIds": [
+        "emma",
+        "pride-and-prejudice"
+      ]
+    },
+    {
+      "trait": "People are summed up in three nouns and a life in one line split by a colon.",
+      "sourceIds": [
+        "pride-and-prejudice"
+      ]
+    },
+    {
+      "trait": "Grand expectations are deflated by listing what is required and showing it is absent.",
+      "sourceIds": [
+        "northanger-abbey"
+      ]
+    },
+    {
+      "trait": "Letters run as quick items of news, each ending on a dry turn, with frank figures and self-deprecation.",
+      "sourceIds": [
+        "letter-1796",
+        "letter-1798",
+        "letter-1800",
+        "letter-1813"
+      ]
+    },
+    {
+      "trait": "Agreement and description are used to mock, through pairing, mock grandeur and understatement.",
+      "sourceIds": [
+        "pride-and-prejudice",
+        "letter-1798",
+        "letter-1800"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "After eight months of building, we launch our app on Friday, an event awaited in this house with the composure usually reserved for weddings. It turns voice notes into a to-do list, which is to say it remembers what you said you would do; a quality rarer in apps than in people, though not by much. The first month is free. I mention the price only because everyone will ask, and the answer is so very agreeable."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

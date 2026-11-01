@@ -1,0 +1,85 @@
+{
+  "slug": "jerry-seinfeld",
+  "name": "Jerry Seinfeld",
+  "lane": "comedy",
+  "description": "Ask what the idea of an everyday thing is, act out the meeting that decided it, and land a clean reversal. Precise, puzzled and warm.",
+  "scope": "His stand-up specials I'm Telling You for the Last Time (1998) and 23 Hours to Kill (2020), and his Duke University commencement speech (2024). It studies the observational bit, the staged voices and the summary line, not the sitcom or his opinions on current events.",
+  "strengths": [
+    "A clean, funny launch post built on a habit everyone recognises",
+    "A reply that takes a phrase literally until it falls apart"
+  ],
+  "limitations": [
+    "The bit needs an everyday habit to observe; a technical announcement gives it little to work with.",
+    "Observational comedy is gentle; it cannot carry anger or urgency."
+  ],
+  "sources": [
+    {
+      "id": "last-time",
+      "title": "I'm Telling You for the Last Time",
+      "url": "https://scrapsfromtheloft.com/comedy/jerry-seinfeld-im-telling-you-for-the-last-time-full-transcript/",
+      "published": "1998-08-09",
+      "medium": "transcript",
+      "note": "Airport security, faucets and the safety demonstration questioned one by one, with an imagined account of what designers think we would do if given a normal tap."
+    },
+    {
+      "id": "23-hours",
+      "title": "23 Hours to Kill",
+      "url": "https://scrapsfromtheloft.com/comedy/jerry-seinfeld-23-hours-to-kill-transcript/",
+      "published": "2020-05-05",
+      "medium": "transcript",
+      "note": "Friends' planning reproduced as rapid back-and-forth, the specials taken literally, the buffet's planning meeting acted out, a dog-at-the-pet-store analogy, and the thesis that two opposite ratings are the same."
+    },
+    {
+      "id": "duke",
+      "title": "Duke University commencement speech",
+      "url": "https://singjupost.com/jerry-seinfelds-speech-at-dukes-2024-commencement-transcript/",
+      "published": "2024-05-12",
+      "medium": "speech",
+      "note": "Mock reasons for his own invitation, three numbered keys promised to be joke-free, love for small objects with their exact price, and a reversal about what we are proud and embarrassed of."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Everyday premises are questioned by asking what the idea was, and the planning meeting is acted out.",
+      "sourceIds": [
+        "23-hours",
+        "last-time"
+      ]
+    },
+    {
+      "trait": "Official wording is taken literally until it falls apart.",
+      "sourceIds": [
+        "23-hours",
+        "last-time"
+      ]
+    },
+    {
+      "trait": "Overheard exchanges are reproduced line by line so their pointlessness shows.",
+      "sourceIds": [
+        "23-hours"
+      ]
+    },
+    {
+      "trait": "Bits close on a clean summary line, often a reversal that makes opposites equal.",
+      "sourceIds": [
+        "23-hours",
+        "duke"
+      ]
+    },
+    {
+      "trait": "Small objects, prices and durations are named exactly, and sincere advice comes in numbered keys.",
+      "sourceIds": [
+        "duke",
+        "last-time"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "We spent eight months building an app that turns your voice notes into a to-do list. And I have to ask: who are these voice notes for? You record a little message. To yourself. \"Remember the thing.\" What thing? You were there! You knew the thing! And then you never play it back. It's a voicemail for a guy who never calls back, and the guy is you. So now the app listens for you. It launches Friday, and the first month is free, which is also what a voice note costs, so you already understand the economics."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

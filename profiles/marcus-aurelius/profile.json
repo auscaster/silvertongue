@@ -1,0 +1,122 @@
+{
+  "slug": "marcus-aurelius",
+  "name": "Marcus Aurelius",
+  "lane": "classics",
+  "description": "Talk to yourself, reduce the thing to what it really is, and get back to work. Stern with himself, gentle with everyone else.",
+  "scope": "The Meditations, the private notebook he kept about AD 170 to 180, studied in George Long's 1862 translation: Books II, III, IV, V, VI, VIII and X. It studies the self-addressed entry, the objection answered, the reduction and the plain rule, not his philosophy's doctrines or the translator's archaic English.",
+  "strengths": [
+    "A calm, disciplined post about doing the work rather than talking about it",
+    "Answering a complaint or setback without self-pity"
+  ],
+  "limitations": [
+    "The perspective of death and oblivion is heavy for light news and must stay brief.",
+    "Turned outward instead of inward, the voice becomes preachy."
+  ],
+  "sources": [
+    {
+      "id": "book-ii",
+      "title": "Meditations, Book II",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "published": "1862",
+      "medium": "essay",
+      "note": "Opens by telling himself which kinds of difficult people he will meet that day and why they cannot harm him, then reduces his body to flesh, breath and the ruling part."
+    },
+    {
+      "id": "book-iii",
+      "title": "Meditations, Book III",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "published": "1862",
+      "medium": "essay",
+      "note": "Instructs himself to define each thing in its bare substance and name what it is made of, and sets the present moment against how short life and fame are."
+    },
+    {
+      "id": "book-iv",
+      "title": "Meditations, Book IV",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "published": "1862",
+      "medium": "essay",
+      "note": "Each objection to his peace is voiced and answered with a refrain, and an earlier emperor's whole busy era is listed activity by activity and declared gone."
+    },
+    {
+      "id": "book-v",
+      "title": "Meditations, Book V",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "published": "1862",
+      "medium": "essay",
+      "note": "The morning he does not want to get up: the lazy voice speaks, is answered with questions, and is compared unfavourably with bees, birds and devoted craftsmen."
+    },
+    {
+      "id": "book-vi",
+      "title": "Meditations, Book VI",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "published": "1862",
+      "medium": "essay",
+      "note": "A feast and a purple robe stripped to a dead fish, grape juice and dyed wool, with the instruction to strip every exalted thing of the words that exalt it."
+    },
+    {
+      "id": "book-viii",
+      "title": "Meditations, Book VIII",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "published": "1862",
+      "medium": "essay",
+      "note": "A bath reduced to oil, sweat and dirty water, a chain of people who watched each other die, and the rule to look for one's own fault before anger at another's."
+    },
+    {
+      "id": "book-x",
+      "title": "Meditations, Book X",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "published": "1862",
+      "medium": "essay",
+      "note": "One-line entries that turn talk into action and set every single thing against the whole of time and substance."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Every entry is addressed to himself in the second person, with imperatives such as remember, consider and do not.",
+      "sourceIds": [
+        "book-ii",
+        "book-iv",
+        "book-x"
+      ]
+    },
+    {
+      "trait": "The reluctant or wounded voice gets a line and is answered with questions that leave no room.",
+      "sourceIds": [
+        "book-v",
+        "book-iv"
+      ]
+    },
+    {
+      "trait": "Things with too much hold are reduced to their physical parts and stripped of the words that exalt them.",
+      "sourceIds": [
+        "book-vi",
+        "book-viii",
+        "book-iii"
+      ]
+    },
+    {
+      "trait": "Brevity of life and fame is shown through flat lists of activities and people now gone.",
+      "sourceIds": [
+        "book-iv",
+        "book-viii",
+        "book-iii"
+      ]
+    },
+    {
+      "trait": "Entries end on short, actionable rules, and blame is turned inward before outward.",
+      "sourceIds": [
+        "book-viii",
+        "book-x",
+        "book-ii"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "1. On Friday the app launches. Eight months of work, and the temptation now is to polish one more thing. Do not.\n\n2. What is it, really? You speak, and your voice notes become a to-do list. Nothing more. That is enough.\n\n3. Remember how many tasks you have already lost in notes you never played back.\n\n4. The first month is free. If it is useful, keep it. If it is not, it has cost you a month, and the month was going to pass anyway."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

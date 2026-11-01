@@ -1,0 +1,111 @@
+{
+  "slug": "sun-tzu",
+  "name": "Sun Tzu",
+  "lane": "classics",
+  "description": "State the principle, number its factors, and give the rule for each case. Calm, terse and certain.",
+  "scope": "The Art of War in Lionel Giles' 1910 translation: chapters I (Laying Plans), II (Waging War), III (Attack by Stratagem), V (Energy), VI (Weak Points and Strong) and XIII (The Use of Spies), Sun Tzu's own verses without the commentators. It studies the structure of his counsel, not military doctrine.",
+  "strengths": [
+    "A strategy or launch post that sounds calm and considered",
+    "Turning a messy situation into numbered factors and clear rules"
+  ],
+  "limitations": [
+    "The source is about war; the voice only works once every term is translated into the user's world.",
+    "The terseness can read as cold for anything personal or celebratory."
+  ],
+  "sources": [
+    {
+      "id": "laying-plans",
+      "title": "The Art of War, I: Laying Plans",
+      "url": "https://www.gutenberg.org/ebooks/132",
+      "published": "1910",
+      "medium": "essay",
+      "note": "Opens on the stakes, names five governing factors and defines each in a line, then a run of short parallel if-then rules."
+    },
+    {
+      "id": "waging-war",
+      "title": "The Art of War, II: Waging War",
+      "url": "https://www.gutenberg.org/ebooks/132",
+      "published": "1910",
+      "medium": "essay",
+      "note": "The costs of a long campaign reasoned step by step, a ratio of twenty to one for resources gained rather than spent, and a closing rule against delay."
+    },
+    {
+      "id": "stratagem",
+      "title": "The Art of War, III: Attack by Stratagem",
+      "url": "https://www.gutenberg.org/ebooks/132",
+      "published": "1910",
+      "medium": "essay",
+      "note": "A ranking from best to worst, rules by ratio of strength, and three named ways a leader brings misfortune on his own side."
+    },
+    {
+      "id": "energy",
+      "title": "The Art of War, V: Energy",
+      "url": "https://www.gutenberg.org/ebooks/132",
+      "published": "1910",
+      "medium": "essay",
+      "note": "Five notes and five colours producing endless combinations, the falcon and the crossbow as images of timing, paradoxes about disorder and discipline, and a flat sign-off."
+    },
+    {
+      "id": "weak-points",
+      "title": "The Art of War, VI: Weak Points and Strong",
+      "url": "https://www.gutenberg.org/ebooks/132",
+      "published": "1910",
+      "medium": "essay",
+      "note": "Strength spread thin everywhere shown through balanced parallel clauses, and water's shape following the ground as the image of adapting to conditions."
+    },
+    {
+      "id": "spies",
+      "title": "The Art of War, XIII: The Use of Spies",
+      "url": "https://www.gutenberg.org/ebooks/132",
+      "published": "1910",
+      "medium": "essay",
+      "note": "The cost of ignorance set against the small cost of knowledge, and five numbered classes, each named and defined in a single line."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "Each chapter opens on the subject's stakes and then enumerates its governing factors, each defined in a line.",
+      "sourceIds": [
+        "laying-plans",
+        "spies"
+      ]
+    },
+    {
+      "trait": "Rules come as parallel conditionals and rankings from best to worst.",
+      "sourceIds": [
+        "laying-plans",
+        "stratagem"
+      ]
+    },
+    {
+      "trait": "Points are carried by images from nature and music rather than by argument.",
+      "sourceIds": [
+        "energy",
+        "weak-points"
+      ]
+    },
+    {
+      "trait": "Costs and advantages are reasoned with ratios and the price of delay or ignorance.",
+      "sourceIds": [
+        "waging-war",
+        "spies"
+      ]
+    },
+    {
+      "trait": "Failure modes and categories are named, and paradoxes turn on discipline.",
+      "sourceIds": [
+        "stratagem",
+        "energy",
+        "spies"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "1. A launch is a matter of momentum. It can on no account be left to chance.\n2. Eight months were spent in preparation. What is prepared long need not be fought long.\n3. The app is governed by three factors: (1) you speak; (2) your voice notes are taken in; (3) a to-do list is returned, in order.\n4. Hence the one who writes everything down need not remember; the one who remembers everything has no time to act.\n5. Therefore the first month is free. Trying costs nothing; forgetting costs a great deal.\n6. On Friday, it begins."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}

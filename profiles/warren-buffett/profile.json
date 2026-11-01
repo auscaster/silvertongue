@@ -1,0 +1,95 @@
+{
+  "slug": "warren-buffett",
+  "name": "Warren Buffett",
+  "lane": "tech",
+  "description": "Lead with the number, own the mistake, and explain it as if to a smart sister. Plain, candid and quietly funny.",
+  "scope": "His letters to Berkshire Hathaway shareholders for 2008, 2023 and 2024 (published the following February) and his Thanksgiving letter of November 2025. It studies how he reports, explains and tells stories in writing, not his investment views or advice.",
+  "strengths": [
+    "An honest update or launch post that people trust",
+    "Explaining a number or a decision to a non-specialist"
+  ],
+  "limitations": [
+    "The candour depends on real admissions and real stories, which only the user can supply.",
+    "The unhurried pace suits letters and updates more than one-line posts."
+  ],
+  "sources": [
+    {
+      "id": "letter-2008",
+      "title": "Letter to shareholders, 2008",
+      "url": "https://www.berkshirehathaway.com/letters/2008ltr.pdf",
+      "published": "2009-02-27",
+      "medium": "letter",
+      "note": "Opens on the year's loss in one plain sentence, describes a panic with a homely image of small birds in a badminton game, and sets a bad year against a century of recovery."
+    },
+    {
+      "id": "letter-2023",
+      "title": "Letter to shareholders, 2023",
+      "url": "https://www.berkshirehathaway.com/letters/2023ltr.pdf",
+      "published": "2024-02-24",
+      "medium": "letter",
+      "note": "A tribute that credits his partner as architect and himself as contractor, quotes the advice that changed him, and names the one reader he writes for: his sister."
+    },
+    {
+      "id": "letter-2024",
+      "title": "Letter to shareholders, 2024",
+      "url": "https://www.berkshirehathaway.com/letters/2024ltr.pdf",
+      "published": "2025-02-22",
+      "medium": "letter",
+      "note": "A section headed for mistakes, a manager's story told with dates and his own words, a huge tax payment recast as a cheque every twenty minutes for a year, and jokes in brackets."
+    },
+    {
+      "id": "thanksgiving-2025",
+      "title": "Thanksgiving letter",
+      "url": "https://www.berkshirehathaway.com/news/nov1025.pdf",
+      "published": "2025-11-10",
+      "medium": "letter",
+      "note": "A grand announcement undercut with 'Sort of.', a childhood story told for laughs, gratitude for luck, plain advice on mistakes and heroes, and a closing kindness that even includes the jerks."
+    }
+  ],
+  "observations": [
+    {
+      "trait": "The key figure comes first, good or bad, followed by plain context.",
+      "sourceIds": [
+        "letter-2008",
+        "letter-2024"
+      ]
+    },
+    {
+      "trait": "Mistakes are named as his own, in the first person, and credit goes to others by name.",
+      "sourceIds": [
+        "letter-2024",
+        "letter-2023"
+      ]
+    },
+    {
+      "trait": "People are introduced through short stories with dates, quoted words and a surprising moment.",
+      "sourceIds": [
+        "letter-2024",
+        "thanksgiving-2025",
+        "letter-2023"
+      ]
+    },
+    {
+      "trait": "Big numbers are recast into homely pictures, and hard ideas into everyday analogies.",
+      "sourceIds": [
+        "letter-2024",
+        "letter-2008"
+      ]
+    },
+    {
+      "trait": "Jokes and caveats sit in brackets, and sections end on short plain maxims.",
+      "sourceIds": [
+        "letter-2024",
+        "thanksgiving-2025"
+      ]
+    }
+  ],
+  "illustration": {
+    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
+    "format": "post",
+    "kind": "editorial-illustration",
+    "text": "We spent eight months building our app, which is a long time to spend on a list. It launches Friday.\n\nHere is what it does: you talk, and it turns your voice notes into a to-do list. That's it. If you have ever left yourself a reminder and never listened to it again, you are the customer we had in mind.\n\nThe first month is free. After that, you will know whether it has earned its keep, and we would rather be judged on that than on anything we say here."
+  },
+  "status": "unofficial",
+  "evaluation": "unbenchmarked"
+}
