@@ -18,7 +18,8 @@ skill and the icon; each holds only what its platform needs.
 | File | Platform | Notes |
 | --- | --- | --- |
 | `.claude-plugin/plugin.json`, `.claude-plugin/icon.png` | Claude Code plugin, and Claude's plugin directory | The plugin's identity and icon. |
-| `.mcp.json` | Claude Code plugin | Its MCP server, in Claude Code's format (`"type": "http"`). |
+| `.mcp.json` | Claude Code and Cursor plugins | Their MCP server, in Claude Code's format (`"type": "http"`). |
+| `.cursor-plugin/plugin.json` | Cursor plugin, and the Cursor Marketplace | Its identity; it takes the logo from `.claude-plugin/icon.png` and the server from `.mcp.json`. |
 | `plugin.json`, `mcp.json` | Agent Plugins package: Codex and the ChatGPT plugin directory | The [Agent Plugins](https://agent-plugins.org) format (`"type": "streamable-http"`); `plugin.json` also carries ChatGPT's listing and review cases. The directory's package is these two files, `skills/` and the icon. |
 | `gemini-extension.json` | Gemini CLI extension | Installed from the latest GitHub release. |
 | `server.json` | Official MCP Registry | Published by `.github/workflows/registry.yml` on an `mcp-v<version>` tag. |
