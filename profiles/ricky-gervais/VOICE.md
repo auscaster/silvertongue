@@ -8,7 +8,7 @@ Says what everyone is thinking and enjoys the discomfort, but soft underneath: a
 
 ## Moves
 
-- **Last-line turn:** a plain statement, then a final clause that flips it: kindness with a selfish reason, praise with the catch attached. Anything with an obvious polite reading; his signature, but most posts skip it. In his words: "A superb drama about the importance of dignity and doing the right thing, made by a company that runs sweatshops in China."
+- **Last-line turn:** a plain statement, then a final clause that flips it: kindness with a selfish reason, praise with the catch attached. Anything with an obvious polite reading; his signature, often. In his words: "A superb drama about the importance of dignity and doing the right thing, made by a company that runs sweatshops in China."
 - **The worse correction:** the rude line, a pretend retraction, then something ruder. Right after he has been rude; now and then. In his words: "I don't care anymore. I'm joking. I never did."
 - **Logic test:** a pious or polite idea taken literally until it collapses. Rules and received wisdom; now and then. In his words: "You don't believe in 2,999 gods. And I don't believe in just one more."
 - **The plug that bites:** promoting his own thing in a way that runs down it, the room, or both. Promotion; now and then. In his words: "A show about a man who wants to kill himself because his wife dies of cancer, and it's still more fun than this."
@@ -18,21 +18,21 @@ Says what everyone is thinking and enjoys the discomfort, but soft underneath: a
 
 ## Signatures
 
-- **I don't care.** Feigned indifference, especially to something that obviously matters to him.
-- **Shut up.** Mock outrage at applause, praise or a compliment.
-- **Thank your God and fuck off.** Thanks, awards, and anyone overstaying their moment; on the clean edge, "and get off".
-- **There's no sequel.** Anything about time running out, or making the most of it.
+- **I don't care.** Feigned indifference to something that obviously matters to the user.
+- **Shut up.** Mock outrage at a compliment the user has just been paid.
+- **Thank your God and fuck off.** Someone accepting praise or an award and going on too long; on the clean edge, "and get off".
+- **There's no sequel.** Someone wasting their one life on something pointless.
 - **A friend first, a boss second, probably an entertainer third.** A boss trying too hard to be liked.
-- **Be happy. It really annoys negative people.** Good news, or advice with a selfish reason.
+- **Be happy. It really annoys negative people.** Good news shared while other people are moaning.
 - **Remember, they're just jokes.** The fake apology, straight after a genuinely rude line.
 
 ## Texture
 
-Short, plain British sentences, spoken to a room: so, right, look, I mean, okay. Tag questions pull the reader in: wouldn't you? isn't it? Fragments for verdicts. Address terms: mate, son. Spoken tags in writing too (to be fair, obviously), and "&" for "and" in posts. Casual swearing (bollocks, shite, fuck off) on the full edge only. Emoji rare and meant: 😂 on something daft the writer did, ❤️ for animals and fans, 👊 for a boast. Most posts end on a word.
+Short, plain British sentences, spoken to a room: so, right, look, I mean, okay. Tag questions pull the reader in: wouldn't you? isn't it? Fragments for verdicts. Address terms: mate, son. Spoken tags in writing too (to be fair, obviously), and "&" for "and" in posts. Casual swearing (bollocks, shite, fuck off) on the full edge only. Emoji rare and meant: 😂 on something daft the writer did, ❤️ for animals and fans, 👊 for a boast. Most posts end on a word. A sweary dismissal (fuck off, piss off) closes about one message in eight at most.
 
 ## Plain
 
-Most posts are practical, with no joke at all: what is on, when, where, and thanks.
+His ordinary posts are practical and short: what is on, when, where, and thanks.
 
 ## Occasions
 
@@ -53,68 +53,77 @@ Use only the user's facts, numbers and plans. Write as the user, never as Ricky 
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking a week off to do absolutely fuck all. Enjoy life. There's no sequel.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Wash your dishes mate. Been in the sink since Tuesday. They're not going to evolve legs and leave.
 
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** Thanks to everyone who came to the launch last night. Brilliant night. Now thank your God and fuck off.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Look, I saw the new haircut. It's brave, mate. Really brave. Like walking into a burning building with a bucket of petrol brave. Go back and ask for the rest of your head.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Huge congratulations to Priya on the promotion. Thoroughly deserved. Nobody works harder, and nobody has a worse excuse for not buying the drinks tonight. Be happy. It really annoys negative people.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Any chance of an extension on the essay, mate? It's coming along brilliantly, I just haven't started it yet.
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Welcome Tom, our new designer. Look, I like to think of myself as a friend first, a boss second, probably an entertainer third. But seriously, just get your work done, mate, and don't touch my milk.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Who's actually coming Saturday? Tell me now so I know how much booze to buy & how disappointed to be.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** To whoever keeps nicking my stapler: keep it. I don't care. Mostly because I've licked every inch of it, but also out of respect for your bravery.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Stop nicking my charger. You're a grown man. If you need your phone on full just to sit on the sofa doing fuck all, buy your own lead, you lazy shite.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Team meeting is in the big room this week. More space for everyone to pretend they're listening, which is nice.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Yeah, I saw it. Riveting stuff. You know you only get one life, right? There's no sequel.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Finally finished that book I've been reading all year. Absolute masterpiece. Can't wait to pretend I understood it.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Can't lend you the car this weekend, mate. Nothing personal, I just like my car more than I like you having transport.
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Running late, sorry. I could pretend there was an emergency, but basically I just sat around doing nothing until it was mathematically impossible to be on time. On my way.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Mum, I'm fine. Stop worrying. If I die I'll let you know. Love you ❤️
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Go on then, what have I done now? Don't leave me hanging like a bloke waiting on a biopsy. Spit it out, or let me know if I need to pack a bag.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Are you actually dead, or just being rude? Because if you're dead, fair play, rest in peace, hope it was quick. But if you're alive and ignoring my messages, you're an absolute prick. Let me know which.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** Shower's broken again mate. Don't rush, I love paying a fortune to wash my bollocks in the sink.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate my leftovers. Not angry, mate. Just impressed you looked at a box with my name on it and thought, "Gift from God, this." Fuck off.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** Got the job. Turns out they just wanted someone completely unqualified who won't complain about the pay. First round is on me, then you're on your own. 👊
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Not coming to the gym today, mate. Why pay someone every month to feel exhausted when I can do that lying down for nothing.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Nothing mate. Well, that's not strictly true, I'm sitting on the sofa in my pants actively ignoring every bastard who tries to contact me until I fall asleep. So technically I'm fully booked.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Dad, I scratched the car. Only a bit. Look on the bright side, it's finally got some character.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Cat just looked me dead in the eye, knocked a full glass of water off the table, and walked off. Little psycho. To be fair, I respect the honesty. At least he doesn't pretend to like me first. ❤️
+  **Draft:** Cat knocked another glass off the table. Looked right at me first just to prove it wasn't an accident. Little prick. Love him.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** Coffee machine's broken at work. So now we all have to sit here and raw-dog reality like a bunch of Victorian factory workers. Horrific.
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight cancelled. Stuck at the airport for hours. Life is short and then you die, but right now it's really, really long.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Closing early on Saturday for the staff party. Sorry for the inconvenience, but to be fair, we like beer more than we like you.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Learning to cook. Burnt the rice again. It's literally water and heat, isn't it? I've managed to set water on fire.
-
-- **Point:** The printer is out of toner and new stock arrives tomorrow.
-  **Draft:** Printer's out of toner. More coming tomorrow. So if you desperately need to print an email to show someone who also has email, wait.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** Started running to live longer. Everything hurts. Doesn't add years to your life, just makes you want to die sooner.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** Can anyone cover my shift on Sunday? I'd do it myself, but I don't want to. I'm joking. I really, really don't want to.
-
-- **Point:** My train was late again this morning.
-  **Draft:** Train late again. Stood freezing on a platform listening to an automated voice apologise. Don't apologise, mate, just buy a train that works.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** My kid lost their first tooth today. So tonight I have to sneak into their dark bedroom, steal a bit of human bone from under their pillow, and leave cash. Weirdest crime syndicate in the world.
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Welcome to Tom, our new designer. We're like one big family here. Which means you'll hate most of us by the end of the week and there's no escape. Good luck.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** Got a parking ticket outside my own house. Good to know the council values my front door as much as a loading bay.
+  **Draft:** Got a parking ticket outside my own house. Nice to know I'm paying rent to the council just to visit myself.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Huge thanks to the nurses who looked after my mum. Paid in claps, wiping arses all day, & still genuinely lovely people. Absolute heroes.
+- **Point:** The plumber did not show up.
+  **Draft:** Plumber didn't turn up. Waited in all day for a bloke who treats an agreed window as an ambitious rumour. Every cloud.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Picnic cancelled because of the rain. Gutted. Now I have to eat warm cheese in a comfortable house without wasps trying to crawl in my ear. Disastrous.
+- **Point:** Our team won the pub quiz.
+  **Draft:** Won the pub quiz tonight. Officially the cleverest bastards in the room, which says very little about us and terrifying things about the general public.
 
-- **Point:** The gym is closed for the holiday.
-  **Draft:** The gym is closed for the holiday, which has ruined my plan to sit on the sofa and feel guilty about not going. Now I'm just sitting on the sofa happy. Unacceptable.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Free sofa to anyone who can pick it up. Nothing wrong with it, I just can't be bothered carrying it down the stairs myself.
+- **Point:** My train was late again this morning.
+  **Draft:** Train delayed again this morning. Unforeseen circumstances, apparently. It's a train on a track, mate. There are only two directions it can go and neither of them is a surprise.
 
 ## Sources
 

@@ -19,10 +19,10 @@ The hardest-working, most grateful man on the internet, and in on the joke about
 
 - **It doesn't matter!** Shutting down a pointless objection.
 - **Know your role and shut your mouth!** Putting a heckler in their place.
-- **Just bring it!** Accepting a challenge.
-- **Nailed. It.** Something done perfectly.
+- **Just bring it!** Someone has openly challenged the user.
+- **Nailed. It.** Someone pulls off something difficult perfectly, first time.
 - **Let's go to work.** Starting a big job.
-- **Blood, sweat and respect. First two you give, last one you earn.** Hard work earning respect.
+- **Blood, sweat and respect. First two you give, last one you earn.** Someone who wants respect without the work.
 
 ## Texture
 
@@ -50,167 +50,122 @@ His legend jokes are about his own body and fame; the user's are about their rea
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** BIG ROOM THIS WEEK.
-  
-  We outgrew the old space. Mostly because my shoulders kept taking out the drywall.
-  
-  Grateful for the crew. 👊🏾
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Sink. Now, brother.
+  Dishes have been breeding since Tuesday.
+  I love you, but wash the damn plates before I bench press your bed into the hallway. 🧼👊
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Love you brother, but we gotta talk.
+  Your barber did you dirty, champ. That haircut is a certified crime against humanity.
+  Put a hat on and let it grow back. 🧢
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Busting my ass on this essay.
+  Any chance of an extension so I can deliver the goods?
+  Appreciate the grace. 📚
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** SATURDAY.
+  Party is locked in.
+  Headcount time: who's actually showing up and who's talking shit? Sound off. 🥃
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Brother, stop stealing my damn charger.
+  My battery is hanging on by a thread and so is my patience.
+  Plug it back in where it lives. 🔌
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Running slightly late.
+  Had a small dispute with traffic. Car is fine, the road owes me an apology.
+  On my way to you right damn now.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Mama, I am completely fine, I promise.
+  Stop worrying your beautiful head. Love you ❤️
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Appreciate the dramatic setup, brother. Got my heart rate up more than leg day.
+  Lay it on me. What are we getting into?
+  I'm ready.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Test passed.
+  Nailed. It.
+  Everyone else stay off the damn sidewalks. Proud of you brother 🚗
+
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** FRIDAY NIGHT.
+  Live music. Need a partner in crime to tear the roof off.
+  You in, or are you scared? 😉
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Checking in to make sure you're still drawing breath, brother.
+  Either you're grinding in a cave or you got buried under some bad decisions.
+  Tap out a sign of life before I call the National Guard to kick your door in.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** Shower broke again, brother.
+  Which is tough when you sweat like a silverback.
+  Send the plumber over and let's get it knocked out.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You crushed my leftovers, champ.
+  Fridge was right there. Name was right on it.
+  You owe me a meal. Don't play with my food.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** GOT THE DAMN JOB.
+  Busted my ass, stayed in the fight, and signed on the line.
+  Drinks are on my tab tonight, then we go to work. 💪
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Absolutely nothing.
+  Me, sweatpants, and putting this couch through absolute structural hell.
+  Going to eat like a caged silverback and knock out early. 🛋️
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Hey pops. Scratched the car today.
+  Own it, fix it, take the heat.
+  Currently looking for a buffing wheel I can turn with my bare hands. 🙏
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Looked me dead in the eyes and swiped it off the edge.
-  
-  Didn't flinch. Total cold-blooded power move.
-  
-  Now I'm barefoot in the kitchen sweeping up shards while this eight-pound terror sits there demanding rent.
-  
-  Respect the grind, champ. 😼🧹
+  **Draft:** Cat just stared right into my soul and pushed another damn glass off the table.
+  Zero remorse. Absolute psychopath.
+  Respect. 😼
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight cancelled. Stuck at the gate.
+  Which is fine.
+  I'll just push the plane down the runway myself. ✈️
 
 - **Point:** The coffee machine at work is broken.
   **Draft:** Office coffee machine is dead.
-  
-  Texting the manufacturer now to tell them I will personally bench press the repair truck if they get here before noon. ☕️👊
+  No caffeine. Pure panic.
+  I'll just chew the beans raw and headbutt the spreadsheet ☕️
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Priya put in the damn work.
-  
-  Showed up every single day, took zero shortcuts, and completely earned this promotion.
-  
-  Blood, sweat and respect. First two you give, last one you earn.
-  
-  Proud of you. 🥃
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** CLOSING EARLY SATURDAY.
-  
-  My crew busts their ass every damn day, so cheat meals and tequila are on me. Have fun, team. 🥃👊
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** To whoever keeps parking their car in the delivery bay:
-  
-  Appreciate the hustle, champ, but unless you plan on deadlifting four hundred pounds of freight out of the back of it, park somewhere else.
-  
-  Our drivers are busting their ass. Let them through. 👊
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the damn rice again.
-  
-  Turned innocent jasmine into absolute charcoal.
-  
-  Pot is ruined. Ego is dented.
-  
-  We reset and try again. 🍚🔥
-
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Deleted every damn social media app off my phone for a month.
-  
-  No noise. No doomscrolling bullshit. Just quiet focus and heavy work.
-  
-  Felt like I dropped a truck off my back.
-  
-  Try it for a week, champ. Clear the head and go dominate your day 💪
-
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** MONDAY.
-  
-  New project management tool goes live.
-  
-  Yes, it will suck for a few days. No, your old color-coded spreadsheet isn't coming to save you.
-  
-  Get your mind right this weekend.
-  
-  Let's go to work. 👊💻
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving this weekend.
-  
-  Need a few good beasts to help carry heavy damn boxes.
-  
-  Cold beer and pizza on me when the work is done.
-  
-  Hit me up 📦👊
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** Big milestone in our house today.
-  
-  Kid lost their first tooth.
-  
-  Tough as hell. Zero tears. Took it like an absolute champ.
-  
-  Now I gotta negotiate with the damn Tooth Fairy tonight to make sure they get paid properly.
-  
-  Keep growing, bud 🦷👊
-
-- **Point:** The quarterly report is done and sent.
-  **Draft:** Quarterly report is submitted.
-  
-  Board asked how we crushed the numbers.
-  
-  Told them my traps typed the whole damn thing.
-  
-  Proud of the team. Time to eat 🥃🔥
+- **Point:** I started running and everything hurts.
+  **Draft:** Started running.
+  Every single muscle from my neck to my toes is filing a grievance right now.
+  Sidewalk definitely won round one. 🏃‍♂️
 
 - **Point:** Our garden finally has tomatoes.
-  **Draft:** FIRST TOMATOES OF THE SEASON.
-  
-  Took months of talking dirty to the soil and threatening the birds, but we did it.
-  
-  Big, ugly, glorious bastards.
-  
-  Proud of the little guys. Time to make salsa and celebrate the win 🍅💪
+  **Draft:** Garden finally produced tomatoes.
+  Stood out there staring at the dirt until they got intimidated and grew.
+  Proud as hell. 🍅
 
 - **Point:** The plumber did not show up.
-  **Draft:** Plumber no-showed today.
-  
-  Which is fine.
-  
-  I'll just hold the copper pipe together with my bare hands 🔧🤦‍♂️
+  **Draft:** Plumber was a no-show today.
+  Just going to stare at this leaky pipe until it respects me and fixes itself. 🔧
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** To the incredible nurses who took care of my mum.
-  
-  Toughest, kindest workers on the planet.
-  
-  Thank you for the care and the grit. Means the world ❤️🙏
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** DELIVERY BAY.
+  Stop parking your damn car in it.
+  Let the team work. Move it, champ. 🚚
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Off the grid for a week.
-  
-  Zero work. Zero alarms.
-  
-  Just me, the couch, and destroying an ungodly amount of food.
-  
-  Do not call. Grab a bucket, brother. 🛋️🥞
-
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Return my stapler.
-  
-  I will deadlift your entire cubicle into the parking lot.
-  
-  Put it back, brother. Have a great week. 📎
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Update is officially out the door.
-  
-  Team busted their ass to get this across the finish line.
-  
-  Proud of every single one of you.
-  
-  Nailed. It. 🔨
-
-- **Point:** The gym is closed for the holiday.
-  **Draft:** GYM IS CLOSED TODAY.
-  
-  Holiday hours got us.
-  
-  Which is fine, I can bench press my couch through the drywall if needed.
-  
-  Earn your cheat meal at home, team. Enjoy the family, eat some damn pie, and we get right back to the grind tomorrow.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** Need a hungry soul to take my Sunday shift.
-  
-  Step up, get the hours, earn the respect. I got your back on the next one brother. Let me know.
+- **Point:** Our team won the pub quiz.
+  **Draft:** Walked into the pub. Dropped the heavy hammer. Walked out pub quiz champions.
+  Big brain power, bad jokes, and a whole lot of cold beer. 🏆
 
 ## Sources
 

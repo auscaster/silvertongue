@@ -50,65 +50,77 @@ Use only the user's facts, targets, events and numbers. A roast exaggerates; it 
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** We're moving the team meeting to the big conference room this week. Big upgrade. Finally enough space for all of you to do absolutely nothing.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Saw the new haircut. Did you win that in the divorce? Bold choice paying an actual adult money to make you look like a freshly circumcised thumb. Put a hat on before someone calls animal control.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Finally finished the book I've been reading all year. Took twelve months. The exact same pace as a third-grader sounding out the dirty words.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks. You too. Hope you took a break from ruining someone else's life to send this.
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Any chance of an extension on the essay? My research is moving slower than my will to live. Need a little extra time before I embarrass us both.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Stop taking my phone charger. You know what else can't hold a charge to save its life? Your whole fucking personality. Bring it back.
+
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Yeah, I saw it. Unbelievable cry for help. Go call your mother.
+
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Can't lend you the car this weekend, pal. I love you, but I like my transmission inside the vehicle. Use your legs.
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Running late. Traffic is moving slower than an open mic on a Tuesday. Order a drink on my tab and pretend you have mysterious options. Be there soon.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** I'm alive. Stop checking my location like you're tracking an escaped felon. I love you, take a Xanax.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Okay, about what? You have sixty seconds, uninterrupted. Hit me with whatever imaginary crime against humanity you solved in the shower this morning.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Congrats on passing your driving test. The DMV just handed a deadly weapon to a guy who still struggles with velcro. Proud of you.
+
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** Come to the gig on Friday. I need at least one hot person in the room so the band doesn't look like a fucking tragedy. You in?
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** Shower is broken again. You know what else produces zero drip and costs me way too much every month? You. Fix it.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate my leftovers. You have the impulse control of a golden retriever and the palate of a raccoon. Replace them.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Not making it to the gym today. Go ahead and grunt through your sets without me like a divorced dad at a self-checkout. You got this, pal.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We lost. It happens. Hard to win when half of you were playing like your shoes were tied together. On to the next one.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Our cat pushed another glass off the table this morning. Dead eye contact the entire time. Beautiful form. Completely ruined my drink. Who wrote that for you? Where has that kind of commitment been your entire life?
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Closing early this Saturday. Staff party. We have to celebrate these absolute animals before half of them fail a drug test.
-
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. Stuck at the gate watching a grown man eat pretzels off his own lap like a raccoon in a dumpster. Absolute hell.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Huge congratulations to Priya on the big promotion. Truly well deserved. I haven't seen someone climb the corporate ladder this fast since my last parole hearing. Go celebrate before they realize what they did.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the rice again. You know what else has zero moisture and smells like regret? My entire dating history. Uber Eats it is.
+  **Draft:** The cat knocked another glass off the table. Stared right at me while doing it. Pure, unadulterated sociopath. I respect him.
 
 - **Point:** Welcome to our new designer, Tom.
-  **Draft:** Make some noise for the great Tom, our brand new designer. We finally have someone on the payroll who knows how to make terrible ideas look expensive. Let's see how long his soul lasts. Welcome aboard, pal.
+  **Draft:** Make some noise for the great Tom, our new designer. Let's see how long this talent lasts before our feedback turns him into a shell of a man. Welcome aboard.
 
-- **Point:** I started running and everything hurts.
-  **Draft:** Took up running this week. Everything hurts. My shins feel like they got hit by a fucking truck. Nice to know my lungs have officially given up custody.
-
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** Office wifi is down all afternoon for maintenance. You know what else won't be working? Every single one of you. Enjoy staring at your desks.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Free couch. You pick it up. Beautiful piece of shit, perfect for whoever just got kicked out of their house.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** Need someone to cover my shift this Sunday. You get a full shift of pure, uninterrupted misery and all the minimum wage you can carry. DM me.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We need a part-time barista. Must know how to pull espresso and pretend to care about oat milk. If your résumé fits on a napkin, apply.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving this weekend. I need two strong guys to help carry boxes and pretend their lower back isn't ruined by noon. Beer is free. Don't be soft.
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** Stop parking in the delivery bay. It says loading only, not free valet for people with bad credit. Move your piece of shit.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** Got a parking ticket directly outside my own house. Beautiful. The city meter maid has stalked me harder than my first probation officer. Pure extortion.
+  **Draft:** Got a parking ticket right outside my own house. Truly incredible work. I hope you took a break from eating crayons to write that.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Huge thank you to the nurses who took care of my mom. Unbelievable work. Truly. Managing that woman without a tranquilizer gun is a medical miracle.
+- **Point:** We are hiring a part-time barista.
+  **Draft:** We're hiring a part-time barista. Perfect gig for an aspiring screenwriter who wants to disappoint their parents in shifts. DM to apply.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Update is finally live. Absolutely killer set from the team. Who wrote it, and where was that kind of hustle your entire careers? Outstanding work.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** Elevator is completely broken. Take the stairs. A devastating day for the laziest people in this building.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Whoever keeps stealing my stapler from my desk. I hope you took a break from eating glue to bring it back.
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Giving away a free sofa, just come haul it out yourself. Perfect for your next divorce. First degenerate with a truck wins.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Picnic is cancelled due to rain. You know what else is completely washed out? My desire to sit on wet grass and pretend I like any of you.
+- **Point:** I started running and everything hurts.
+  **Draft:** Started running. Every single muscle in my body feels like it's being sued. Absolute nightmare.
 
-- **Point:** The gym is closed for the holiday.
-  **Draft:** Gym is closed for the holiday. Unbelievable. Most of you haven't lifted anything heavier than your own bad decisions all year anyway. Go eat pie and let your sweatpants do what they were born to do.
+- **Point:** To the group chat: I got the job!
+  **Draft:** Got the job. My excuse for not picking up the tab officially died today. Drinks on me, freeloaders.
 
 ## Sources
 

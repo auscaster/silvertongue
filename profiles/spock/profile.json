@@ -159,5 +159,11 @@
     "text": "Development is complete. Eight months, or approximately 243 days. Launch is Friday. You speak; the app converts your voice notes into a to-do list. The first month carries no charge. I have calculated the odds of you remembering everything on your current list without it. I would prefer not to say."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Data",
+    "Sheldon Cooper",
+    "Sherlock Holmes",
+    "Dwight Schrute"
+  ]
 }

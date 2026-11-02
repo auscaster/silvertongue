@@ -50,65 +50,80 @@ His jokes lean on his own kids, marriage and fame; the user's may not have any o
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Team meeting is in the big conference room this week. Mostly so there's enough space for all of us to quietly disassociate at the exact same time.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** The dishes in the sink have officially been there since Tuesday. I think two of the bowls just got engaged. Please wash them.
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, you too. It wouldn't truly feel like a fresh start without an unsettling reminder of my worst decisions.
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Love the new haircut, man. It takes real courage to walk into a barbershop and ask them to make your head look like a thumb with an attitude problem.
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Hi, could I please get an extension on the essay? I'm currently staring at a blinking cursor that's judging me harder than my father ever could.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Quick headcount for Saturday so I know how much spinach dip to make, and which family heirlooms to bury in the yard.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Love you so much, but if you take my phone charger out of the wall one more time, I will gently break into your room and replace every pair of your socks with wet ones.
+
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. I'm having the memory surgically removed tomorrow, but yes, I saw it.
+
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Can't lend you the car this weekend. I love you like a brother, which is why I know what you do to things you love. Hard pass.
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Running a few minutes behind because I wanted to look effortlessly charming, which apparently requires intense panic and three ruined shirts. Sprinting toward you now, fully prepared to disappoint you face to face.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** I am completely fine, Mum. Fed, hydrated, and only making about four life-ruining decisions an hour. You can stand down.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Just clearing my afternoon, burning my hard drives, and drafting a full written confession to crimes I haven't even committed yet. What did I do?
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Huge congrats on passing your driving test. I have alerted local authorities and moved my entire family into an underground bunker.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Just checking in to see if you're still alive. If you are, text back. If you aren't, please let me know immediately so I can start telling everyone we were passionately in love.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower is broken again, so I've been aggressively dry-rubbing myself with a bath towel like a rotisserie chicken. Any chance of a fix?
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** I got the job. Looking forward to finding out which basic task exposes me as a complete fraud first. Drinks are on me until my card bounces.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Not making the gym today. My body has filed for a restraining order against the squat rack. Go get those gains without me.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We lost, but on the bright side, none of us died and I got to watch our dignity leave our bodies in real time. Great game.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Big plans tonight. I will be staring at my living room ceiling until one of us blinks, then eating handfuls of shredded cheese directly over the sink like a startled goblin.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Our cat just pushed an entire glass of water off the kitchen table, maintained uninterrupted eye contact the whole way down, and then softly purred. I've never felt more professionally managed in my own home.
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The office coffee machine is broken, so everyone is wandering the hallways making direct eye contact like we're about to eat each other.
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** To whoever is in the delivery bay: your hazard lights don't make you invisible, they just set a nice ambient mood for when the forklift gently repositions you into the dumpster.
+  **Draft:** Watched our cat look me dead in the eye and slowly push a full glass off the table. Terrific to know I share a roof with a tiny furry mob boss.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. On the bright side, the gate agent gave me a tiny voucher for food, so I can legally purchase half an almond.
+  **Draft:** My flight was cancelled, so I've decided to make a life here. The gate is my living room now, and the guy asleep on his neck pillow is my uncle.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Huge congratulations to Priya on the big promotion. Nobody deserves this level of unbearable, soul-crushing corporate stress more than you. You're going to crush it.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Decided to expand my culinary horizons tonight and make rice. Proud to report I've successfully fused starch with stainless steel at an atomic level.
-
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Rain cancelled the picnic, so I ate a tub of potato salad in the shower while crying. I can't be gangsta every second of the day.
-
-- **Point:** The printer is out of toner and new stock arrives tomorrow.
-  **Draft:** Office printer is officially out of toner. If you desperately need something in black and white today, I suggest staring into the void until tomorrow.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** My neighbor's dog spent the whole night barking at the moon. Absolutely thrilling to watch an innocent animal slowly realise we are utterly alone in the universe.
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** To whoever keeps parking in the delivery bay, I admire the sheer, blinding confidence. Unfortunately, so does the tow truck.
 
 - **Point:** I started running and everything hurts.
-  **Draft:** Started running this week. It's wonderful to finally find a cardio routine that makes every single organ in my body actively file for divorce.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Thrilled to welcome our brilliant new designer, Tom, to the team. He brings world-class taste, unmatched vision, and a quiet, dignified optimism we intend to fully destroy by Thursday.
-
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** Office wifi will be down this afternoon for routine maintenance. Please use this rare, precious window to make unblinking eye contact with a coworker.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Giving away a free sofa to anyone who can pick it up. It has brought our family immense joy, comfort, and one unresolved biological mystery.
-
-- **Point:** The lift is out of order, so use the stairs.
-  **Draft:** The elevator is out of service, so please take the stairs. Think of it as a mandatory wellness journey where we get to hear what each other's knees sound like under pressure. Maximum effort.
-
-- **Point:** Our team won the pub quiz.
-  **Draft:** We took first place at pub trivia tonight. Mostly because I carried the dead weight of three lifelong friends whose only real contribution was being legally present.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving this weekend. In exchange for carrying heavy boxes, I am offering lukewarm beer and the rare gift of watching me weep openly in a hallway.
+  **Draft:** Started running. Turns out my body was not built for cardio so much as designed to gently ferment on a sofa.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** Got a parking ticket directly outside my own front door. Really nice to know the city respects my property enough to charge me for visiting.
+  **Draft:** Got a parking ticket directly outside my own house. Nice to know the city hates me being here almost as much as my family does.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Massive thank you to the nurses who cared for my mum this week. You are actual saints, and I'm sorry about whatever she told you I did as a teenager.
+- **Point:** The plumber did not show up.
+  **Draft:** The plumber didn't show up today. Which is totally fine, because standing alone in a cold bathroom watching a toilet gently fill with dread is how I prefer to grow as a person.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Our team just shipped the new update. Words cannot express how proud I am of them, mostly because HR explicitly forbade me from trying.
+- **Point:** We are hiring a part-time barista.
+  **Draft:** We need a part-time barista. Requirements: steam milk, maintain calm eye contact, and pretend to care about a stranger's oat milk journey.
 
 ## Sources
 

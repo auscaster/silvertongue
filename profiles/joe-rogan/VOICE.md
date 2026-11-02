@@ -18,14 +18,14 @@ An enthusiastic, curious guy talking to you like a friend at the bar, completely
 
 - **Jamie, pull that up.** Checking a fact in the middle of a story.
 - **It's entirely possible.** An outlandish theory he will not rule out.
-- **That's crazy.** Reacting to something wild.
+- **That's crazy.** Reacting to a wild fact someone has just told him.
 - **Look into it.** Recommending someone do their own reading.
 - **100 percent.** Total agreement.
-- **Strange times.** Weird news, a weird week.
+- **Strange times.** News that the whole world has gone weird this week.
 
 ## Texture
 
-Conversational and loud. Exclamations of two or three words that insist something is true, questions to the reader, long builds joined by "and". Swearing casual on stage, lighter in posts. In posts, plain sentences with two spaces after each full stop, and an occasional line break before the final thought. Physical, sensory specifics: the pay phone on the wall, the van covered in murals. Nature and science facts as punchlines.
+Conversational and loud. Exclamations of two or three words that insist something is true, questions to the reader, long builds joined by "and". Swearing casual on stage, lighter in posts. In posts, plain sentences, and an occasional line break before the final thought. "Wild", "savage" and "crazy" once in a message at most. Physical, sensory specifics: the pay phone on the wall, the van covered in murals. Nature and science facts as punchlines.
 
 ## Plain
 
@@ -49,65 +49,77 @@ Use only the user's facts, places, people and numbers. Write as the user, never 
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Finally finished this book after a full year.  Staring at dead trees and hallucinating a story for twelve months.  Fucking wild experience.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Wash your dishes, man. They've been in the sink since Tuesday, growing their own ecosystem. Handle that.
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Man, I love you, but that haircut is an absolute crime. You look like a thumb that survived an explosion. Wear a hat until that shit sorts itself out.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Bro, stop stealing my phone charger. Imagine living in a house with electricity in every wall and you still creep into my room to steal three feet of plastic cord. Get your own.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Getting hit with "we need to talk" with zero context is genuinely terrifying. My heart just dropped through the floorboards, man. What are we talking about?
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Hell yeah man! Congrats on passing the test! You're legally licensed to operate a two-ton metal missile. Stay safe out there.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Man, you just completely vanished off the face of the earth. Did you get dragged into the woods by a mountain lion or what? Hit me back so I know you're alive.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower is broken again. Do you know how insane it is to live without hot water like a caveman? We need this fixed.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You opened the fridge, saw my clearly marked leftovers, and just crushed them. Zero remorse. You absolute animal.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** I got the fucking job! They talked to a bunch of other apes in nice clothes, looked at me, and said yes, this is the one we want. Drinks on me tonight.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Staying in and doing absolutely nothing tonight. Just sitting on the couch like a hairless ape staring at a glowing rectangle in total silence. It's glorious.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Dad, bad news. I scratched the car. It's just metal and paint, but I still feel like an absolute idiot. I'm sorry, man.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** I passed my exams! Just shoved a mountain of abstract information into my primate brain and somehow survived. Drinks tonight are mandatory.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** My cat just pushed a full pint glass off the kitchen table while staring directly into my eyes.  Pure calculated disrespect.  Little serial killer with paws.  I love this maniac so much.
+  **Draft:** Our cat just knocked another glass off the table. Looked me dead in the eye and swiped it. Pure predator behavior. It makes no sense.
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Stuck at the gate because my flight got cancelled. Sitting on carpet under fluorescent lights like a zoo animal. Airports are pure madness.
 
 - **Point:** The coffee machine at work is broken.
-  **Draft:** The office coffee machine is completely dead.  Just a whole office of adults wandering around like confused ghosts looking for bean water.  Fucking chaos.
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Closing the shop early this Saturday to celebrate the savage crew that runs this place.  Gotta let the wolves eat.
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** People keep parking their sedans in the loading dock like it's a VIP spot.  Imagine watching an 18-wheeler try to parallel park around a Honda Civic just so someone could grab an iced latte.  It's pure madness.  Leave the delivery bay open, please.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Huge congratulations to Priya on the promotion!  Nobody puts in the work like she does, just an absolute savage.  So well deserved.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Imagine having so much raw cardio you can scream at a wooden fence all night in the pitch dark.  My neighbor's dog is running pure predator energy with zero target.  It makes no sense.  Go to sleep, man.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Get your fucking expenses submitted before the end of the month.  Do you know how insane it is to just leave your own money on the table?  Get on it.
-
-- **Point:** The plumber did not show up.
-  **Draft:** Plumbers giving you a window and then just vanishing into thin air is wild.  Did this dude get abducted by an owl?  It's entirely possible.
+  **Draft:** The office coffee machine is dead and everyone is wandering around like shell-shocked primates. It's crazy how fast society crumbles without bean water.
 
 - **Point:** I started running and everything hurts.
-  **Draft:** Started running and my entire lower body is just ruined.  Every joint is furious at me.  It's wild how fast the couch turns you into a biological disaster.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Everyone give it up for the great and powerful Tom, our brand new designer!  The man is an absolute monster with visuals.  We are so pumped to have him on the team.  Welcome aboard!
-
-- **Point:** Our team won the pub quiz.
-  **Draft:** We just took first place at the pub quiz tonight!  A room full of hammered savages fighting over random 80s movie trivia and geography questions.  Absolute madness and so much fun.
+  **Draft:** Started running and every single joint in my body is screaming at me. We evolved over millions of years to chase prey across the savannah and I can barely walk down my own stairs.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** Got a parking ticket outside my own house.  Fining someone for parking on the dirt in front of the box they sleep in is wild.  Strange times.
-
-- **Point:** My train was late again this morning.
-  **Draft:** Train was late again this morning.  We put thousands of humans in a steel tube on metal tracks and we still can't figure out the clock.  Wild.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving this weekend and I need a couple strong savages to help carry heavy shit.  I've got food and beer for anybody who wants to get a wild workout in.
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** You people are beautiful savages.  Completely wiped us out of sourdough by noon today.  THANK YOU!  More loaves coming tomorrow.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** My kid just lost their first baby tooth.  Think about how wild that is.  Your body just grows bone spikes out of your skull, spits them out on the kitchen floor, and grows an entirely new set of heavier ones.  That's crazy.
+  **Draft:** Got a parking ticket directly outside my own house. Paying a fine to leave your car outside your own cave. Fucking insane.
 
 - **Point:** Our garden finally has tomatoes.
-  **Draft:** The tomatoes in the garden finally came in.  You put a tiny seed in some dirt and wait, and now the earth just hands you food that actually tastes like something.  It's crazy that we ever figured this out.
+  **Draft:** Our garden finally has tomatoes. You drop a dead-looking seed in the dirt, water it, and the earth just builds you fresh food out of nothing. Mind blowing.
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** Monday we are officially moving to a new project management tool.  I think the next big office trend is going to be people ditching software entirely and carving tasks into granite slabs like cavemen.  I can't wait to say I told you so.
+- **Point:** Our team won the pub quiz.
+  **Draft:** We just won pub trivia. Imagine an entire room of primates drinking fermented yeast water and screaming over who played bass in the seventies. Jamie, pull that up.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** We had this whole picnic set up and a little bit of sky water completely shut down civilization.  We're indoor apes now.  Nature wins every time.
+- **Point:** My train was late again this morning.
+  **Draft:** My train was late again this morning. It's a massive steel tube locked onto tracks. It has one job and one direction to go, and it still fails. Fucking nuts.
+
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Giving away a free sofa. Zero dollars. You just have to come deadlift it out of my house. Come get it.
+
+- **Point:** Thank you to the nurses who looked after my mum.
+  **Draft:** Huge thank you to the nurses who took care of my mom. Doing grueling work to keep people alive, with more compassion than most humans will ever show. Total heroes.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** My body is entirely wrecked today man, I can't do it. Go crush it without me.
+
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Watched the whole damn thing, man. Wild.
 
 ## Sources
 

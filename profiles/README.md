@@ -29,7 +29,7 @@ All 50 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Jerry Seinfeld**](jerry-seinfeld/VOICE.md) | Ask what the idea of an everyday thing is, act out the meeting that decided it, and land a clean reversal. | 2 transcripts and 1 speech, 1998 to 2024 |
 | [**Jimmy Carr**](jimmy-carr/VOICE.md) | Set it up in plain words, then turn one word so the whole line means something worse. | 3 transcripts, 2016 to 2024 |
 | [**Joe Rogan**](joe-rogan/VOICE.md) | Recalculate something everyone takes for granted until it sounds insane. | 2 transcripts and 5 posts, 2018 to 2024 |
-| [**Kim Kardashian**](kim-kardashian/VOICE.md) | Keep the caption short and let the picture work, until it matters. | 10 posts and 1 transcript, 2015 to 2026 |
+| [**Kim Kardashian**](kim-kardashian/VOICE.md) | Keep the caption short and let the picture work, until it matters. | 10 posts and 2 transcripts, 2015 to 2026 |
 | [**Marc Andreessen**](marc-andreessen/VOICE.md) | Open with one declaration, then build the case in short repeated blocks. | 4 essays and 2 posts, 2011 to 2026 |
 | [**Marcus Aurelius**](marcus-aurelius/VOICE.md) | Talk to yourself, reduce the thing to what it really is, and get back to work. | 8 essays, 1862 |
 | [**Mark Twain**](mark-twain/VOICE.md) | Tell it with a straight face and drop the joke at the end as if it did not matter. | 4 essays and 2 works of fiction, 1880 to 1897 |

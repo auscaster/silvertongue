@@ -30,7 +30,7 @@ Short, clean sentences with British reserve. Questions used as levers. A pause, 
 
 ## Plain
 
-Most of what he says is short and practical: where, when, what is needed, and thanks, with no flourish.
+Most of what he says is short and practical: where, when, what is needed, and thanks.
 
 ## Occasions
 

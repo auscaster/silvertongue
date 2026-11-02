@@ -142,5 +142,11 @@
     "text": "After eight months of work, our team is launching our app on Friday. It does something simple but useful: you speak your notes, and it turns them into a to-do list. I'm hopeful it will save people a little time every day. The first month is free, and we'd love to hear what you think."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Satya Nadella",
+    "Warren Buffett",
+    "Hans Rosling",
+    "Sundar Pichai"
+  ]
 }

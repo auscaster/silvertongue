@@ -9,7 +9,8 @@ private repositories, captured source text, evaluation outputs or compose prompt
 
 - Node 22.18 or later. Run `npm run verify` before finishing; it must pass.
 - Profiles live in `profiles/<slug>/` and follow `spec/voice/v2/`. They study
-  technique, link their sources and never copy them.
+  technique, link their sources and never copy them. Write and revise them by
+  `spec/voice/v2/GUIDE.md`; the bar it states comes from `spec/voice/v2/bar.ts`.
 - Specifications in `spec/` are contracts. Every rule gets a test; breaking changes
   get a new format version.
 - The skill and the MCP Registry entry point at the hosted service. They never carry prompts,

@@ -43,6 +43,7 @@ export const metadataSchema = z
 		scope: z.string().min(30),
 		status: z.literal("unofficial"),
 		evaluation: z.literal("unbenchmarked"),
+		lookalikes: z.array(z.string().min(1)).min(4).max(8),
 		strengths: z.array(z.string()).min(2),
 		limitations: z.array(z.string()).min(2),
 		sources: z.array(sourceSchema).min(3),
@@ -158,13 +159,20 @@ function checkSignatures(voice: string, signatures: readonly Signature[]) {
 /** A real line of theirs is a line, never a passage. */
 export const MOST_LINE_CHARACTERS = 160;
 
+const quoted = (text: string) =>
+	[...text.matchAll(/"([^"]+)"/g)].map(([, line]) => line);
+
+/** The real lines the Moves section quotes, one at most to a move. */
+export const linesOf = (voice: string): string[] =>
+	quoted(section(voice, "Moves") ?? "");
+
 /**
  * A move may show itself in one real line of theirs, in double quotes, and each line is one an
  * observation records, citing the source it was heard or read in.
  */
 function checkLines(voice: string, observations: Metadata["observations"]) {
 	for (const move of (section(voice, "Moves") ?? "").split(/^- /m).slice(1)) {
-		const lines = [...move.matchAll(/"([^"]+)"/g)].map(([, line]) => line);
+		const lines = quoted(move);
 		if (lines.length > 1)
 			throw new Error(
 				`A move quotes at most one real line: "${lines[0].slice(0, 60)}".`,
@@ -229,6 +237,65 @@ export function endingOf(text: string): { word: string; tail: string } {
 	};
 }
 
+/** A text's words in lower case, so a phrase is found in it whatever its case and marks. */
+const words = (text: string) =>
+	(text.replaceAll("’", "'").match(WORD) ?? []).map((w) => w.toLowerCase());
+const within = (text: string, phrase: string) =>
+	` ${words(text).join(" ")} `.includes(` ${words(phrase).join(" ")} `);
+
+/** At most this share of the pool lands a signature, so the pool teaches the voice, not a line on the end. */
+export const MOST_SIGNED_SHARE = 1 / 4;
+/** A run of three words in more drafts than this is a pet phrase, which the writer learns as a reflex. */
+export const MOST_DRAFTS_PER_PHRASE = 2;
+
+/**
+ * The writer copies the pool's shape more than any instruction, so the pool holds what a draft
+ * should do: a signature in a few drafts, one at most, never a real line from Moves, and no pet
+ * phrase across many drafts.
+ */
+function checkPool(
+	examples: readonly Example[],
+	signatures: readonly Signature[],
+	lines: readonly string[],
+) {
+	let signed = 0;
+	for (const { draft } of examples) {
+		const found = signatures.filter((g) => within(draft, g.phrase));
+		// A line inside a longer one ("Believe." in "Do you believe in miracles?") lands with it.
+		const landed = found.filter(
+			(g) => !found.some((h) => h !== g && within(h.phrase, g.phrase)),
+		);
+		if (landed.length > 1)
+			throw new Error(
+				`An example lands two signatures, "${landed[0].phrase}" and "${landed[1].phrase}".`,
+			);
+		signed += landed.length;
+	}
+	if (signed > examples.length * MOST_SIGNED_SHARE)
+		throw new Error(
+			`At most a quarter of the examples land a signature; ${signed} of ${examples.length} do.`,
+		);
+	const phrases = new Set(signatures.map((g) => words(g.phrase).join(" ")));
+	for (const line of lines.filter(
+		(l) => words(l).length >= 3 && !phrases.has(words(l).join(" ")),
+	))
+		if (examples.some((e) => within(e.draft, line)))
+			throw new Error(
+				`An example uses the real line "${line.slice(0, 60)}": a line in Moves shows a move's shape, never an example's words.`,
+			);
+	const drafts = new Map<string, number>();
+	for (const { draft } of examples) {
+		const w = words(draft);
+		const runs = new Set(w.slice(2).map((_, i) => w.slice(i, i + 3).join(" ")));
+		for (const run of runs) drafts.set(run, (drafts.get(run) ?? 0) + 1);
+	}
+	for (const [run, n] of drafts)
+		if (n > MOST_DRAFTS_PER_PHRASE)
+			throw new Error(
+				`"${run}" appears in ${n} examples; a phrase in more than ${MOST_DRAFTS_PER_PHRASE} becomes a reflex.`,
+			);
+}
+
 /**
  * The pool shows a range, so no two drafts open or end alike: a different first two words, a
  * different last word, and no closing run of marks or emoji used twice.
@@ -260,6 +327,10 @@ function checkExamples(voice: string, examples: readonly Example[]) {
 			);
 		if (draft.includes("—") || point.includes("—"))
 			throw new Error("An example uses an em dash.");
+		if (/\S {2,}\S/.test(draft))
+			throw new Error(
+				`An example has a doubled space: "${draft.slice(0, 60)}".`,
+			);
 		const { word, tail } = endingOf(draft);
 		once("opening", openingOf(draft), draft);
 		once("last word", word, draft);
@@ -283,9 +354,17 @@ export function validateProfile(
 	for (const name of sections)
 		if (!section(voice, name))
 			throw new Error(`VOICE.md is missing ${name}.`);
-	checkSignatures(voice, signaturesOf(voice));
-	checkExamples(voice, examplesOf(voice));
+	const signatures = signaturesOf(voice);
+	const examples = examplesOf(voice);
+	checkSignatures(voice, signatures);
+	checkExamples(voice, examples);
 	checkLines(voice, m.observations);
+	checkPool(examples, signatures, linesOf(voice));
+	const lookalikes = new Set(m.lookalikes.map((n) => n.toLowerCase()));
+	if (lookalikes.size !== m.lookalikes.length || lookalikes.has(m.name.toLowerCase()))
+		throw new Error(
+			"Lookalikes are other people, each named once, never the voice itself.",
+		);
 	const sources = new Set(m.sources.map((s) => s.id));
 	if (sources.size !== m.sources.length)
 		throw new Error("Duplicate source ID.");

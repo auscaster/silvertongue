@@ -112,5 +112,11 @@
     "text": "Six new features sounds like a good month. But if support requests doubled, the team may have shipped a second product along with the first: a set of problems customers now need help solving.\n\nThe interesting work this month is finding out which parts require an explanation. Fix those, and customers get something the feature count cannot measure: software they can use without asking permission."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Derek Sivers",
+    "Sam Altman",
+    "Naval Ravikant",
+    "Patrick Collison"
+  ]
 }

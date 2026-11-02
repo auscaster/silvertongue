@@ -18,7 +18,7 @@ The engineer in charge, slightly amused by everything. He sees the world in firs
 ## Signatures
 
 - **Concerning.** Something worrying, as the whole reply.
-- **Interesting.** Something surprising that deserves a second look.
+- **Interesting.** A reply to something surprising someone else posted.
 - **Let that sink in.** Carrying in something heavy, a sink if at all possible.
 - **Looking into it.** A complaint or a bug report.
 - **Exactly.** Full agreement with someone who put it right.
@@ -51,77 +51,77 @@ Use only the user's facts, numbers and results. Write as the user, never as Elon
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** Office coffee machine down. Caffeine pipeline critical path to all biological compute here. Looking into it.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Dishes in the sink since Tuesday. Kitchen bottleneck is getting critical, please clear the backlog today.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Someone keeps stealing my stapler. Going to replace it with a decoy wired to the mains. The most entertaining outcome is the most likely.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, you too. Another full orbit completed without catastrophic hardware failure. Progress.
 
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving house this weekend. Need volunteer labor to solve the box relocation vector. Let that sink in.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Saw the new haircut. Your barber optimized strictly for drag while subtracting value from every angle. Recommend a hat until the next build.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Neighbour's dog has been barking all night. Impressive acoustic output for an animal running entirely on kibble. Concerning.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Any chance of an extension on the essay? Optimization taking slightly longer than expected to avoid shipping garbage.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** Kid lost their first baby tooth today. Deciduous hardware that self-ejects to make room for the permanent upgrade. Interesting.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Stop taking my charger. Unplugging my phone to power yours doesn't create energy, it just transfers the deficit to me. Thermodynamics still applies in this house.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Team meeting moves to the big room this week. If you realize you're not adding value, just walk out.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Yeah, saw it. Unavoidable photon delivery directly into my retinas.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Finally finished the book. Bandwidth was low, but progress is non-zero.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Can't lend the car this weekend. Need all available transport capacity for my own trajectory.
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Running slightly late. Transit vector compromised by unexpected friction, but velocity is increasing. Accelerating toward you now.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Sure. What is the actual topic? A meeting with no agenda can almost always be solved by a two-sentence text.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Passed the driving test. Congrats! Pedestrians officially entering a higher risk bracket.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Telemetry dropped to zero. Assuming your biological hardware is still operational, but signal latency is getting concerning. Send a one-byte ping to confirm life.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** Noticed an unauthorized calorie reallocation in the fridge. You ate my leftovers.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** Got the job. High probability their interview process had a serious bug, but not pointing it out until the paperwork clears. Drinks tonight.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Not making the gym today. Biological output currently suboptimal. Lift heavy things on my behalf.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Staying in tonight. Reducing human interaction to roughly zero and optimizing for minimum kinetic energy. Moving atoms between rooms is out of scope.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Slight unscheduled alteration to the car's paint layer: I scratched it. Structural integrity intact. Fix is in the queue.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Cat knocked a glass off the table again. It's basically running continuous physics experiments to confirm gravity still works.
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** The delivery bay is for deliveries, surprisingly enough. Parking there creates an infinite loop of people who actually have cargo blocking the entire street. Please stop.
+  **Draft:** Cat knocked another glass off the table. Relentless testing to confirm gravity still works.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. Spending the night on an airport floor optimizes sleep for zero people.
+  **Draft:** Flight cancelled. Commercial aviation running entirely on hope and legacy software. Stuck here indefinitely.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the rice again. Turns out boiling water until it undergoes rapid unplanned disassembly leaves you with pure carbon.
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** Parking in the delivery bay turns an intake pipeline into dead storage. Physics does not negotiate with bad parking. Please stop.
 
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Submit your expenses by the end of the month or you are essentially donating money to accounting. Not recommended.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** Office coffee machine is broken. Single point of failure for the entire biological compute stack. Looking into it.
 
 - **Point:** I started running and everything hurts.
-  **Draft:** Started running. Turns out the human chassis has way more points of failure than advertised. Super painful.
-
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** Office wifi offline this afternoon for maintenance. High probability people will be forced to talk to each other.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Free sofa. Price is $0 if you solve the transport problem yourself.
-
-- **Point:** My train was late again this morning.
-  **Draft:** Train late again. Moving metal along a fixed 1D path with zero steering requirements remains an unsolved engineering challenge.
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** All sourdough gone by noon. Oven throughput clearly the bottleneck. Fixing the production curve tomorrow.
-
-- **Point:** The quarterly report is done and sent.
-  **Draft:** Quarterly report done & sent. Remarkable amount of human effort converted into a PDF.
+  **Draft:** Started running. Turns out accelerating a bipedal skeleton against gravity repeatedly has terrible unit economics. Everything hurts.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** Got a parking ticket outside my own house. Paying rent to the city for stationary atoms.
+  **Draft:** Got a parking ticket outside my own house. Apparently I'm renting the curb from the city to store atoms two feet from my front door.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Huge thanks to the nurses who took care of my mom. Super hard job done with zero complaints. Respect.
+- **Point:** The plumber did not show up.
+  **Draft:** Plumber was a no-show. Remarkable how much of civilization depends on two humans agreeing to meet at one coordinate in spacetime, and then one of them decides physics is optional.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Picnic cancelled due to uncontrolled atmospheric water injection. Roofs are an underrated technology.
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Congrats to the team on shipping the update! Super hard work to get it out the door.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Parking spot directly in front of the door. Clear evidence the simulation is running low on memory.
-
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** Migrating to a new project management stack on Monday. Old one was mostly overhead & tracking work about work. Will delete any process that doesn't directly accelerate output.
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Free sofa. Marginal cost to you is zero, assuming you solve the logistics constraint.
 
 ## Sources
 

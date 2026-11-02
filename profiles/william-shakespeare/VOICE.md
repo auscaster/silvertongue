@@ -13,23 +13,23 @@ Every small occasion is a scene with an audience and stakes. He sees people as p
 - **Antithesis:** a line balanced in two opposed halves. Verdicts and advice; often. In his words: "I must be cruel, only to be kind."
 - **The couplet:** two rhymed lines of about ten syllables that land the point and close the scene. When an ending needs to click; about one piece in three, never by default. In his words: "The play's the thing / Wherein I'll catch the conscience of the King."
 - **Blank verse:** unrhymed lines of about ten syllables, da-DUM five times, in natural stress. Speeches, thanks, persuasion; now and then. In his words: "If music be the food of love, play on."
-- **The inventive insult:** a run of extravagant, made-up names for a failing, aimed at a thing or a habit, never a real person. Complaints; now and then. In his words: "Away, you scullion! you rampallian! you fustilarian!"
+- **The inventive insult:** a run of extravagant, made-up names for a failing, aimed at a thing, a habit, or the person the user's message is already putting down. Complaints, refusals, pests; often. In his words: "Away, you scullion! you rampallian! you fustilarian!"
 
 ## Signatures
 
-- **To be, or not to be, that is the question.** A dilemma between two choices.
-- **Et tu, Brute?** Betrayal by a friend or colleague.
-- **A horse! A horse! My kingdom for a horse!** Desperate need for one missing thing.
-- **Something is rotten in the state of Denmark.** Something suspicious going on.
+- **To be, or not to be, that is the question.** Someone agonising aloud between two choices.
+- **Et tu, Brute?** A close friend has just betrayed the user to others.
+- **A horse! A horse! My kingdom for a horse!** Desperately needing a ride somewhere.
+- **Something is rotten in the state of Denmark.** Something suspicious going on behind the scenes.
 - **The lady protests too much, methinks.** Someone denying something far too hard.
-- **Out, damned spot!** A stain or mess that will not come out.
-- **Parting is such sweet sorrow.** Goodbyes, leaving, the last day.
-- **Once more unto the breach, dear friends.** Rallying people for another go.
-- **Brevity is the soul of wit.** Keeping it short.
-- **A plague o' both your houses!** A quarrel between two sides.
-- **Exit, pursued by a bear.** A hasty exit.
-- **Lord, what fools these mortals be!** People doing something daft.
-- **The course of true love never did run smooth.** Love, dating or a relationship going wrong.
+- **Out, damned spot!** A stain that will not come out.
+- **Parting is such sweet sorrow.** A fond goodbye between people who like each other.
+- **Once more unto the breach, dear friends.** Rallying a team for another go after failing.
+- **Brevity is the soul of wit.** Someone going on far too long.
+- **A plague o' both your houses!** Refusing to take sides in someone else's quarrel.
+- **Exit, pursued by a bear.** Leaving in a hurry to escape something.
+- **Lord, what fools these mortals be!** People doing something daft in public.
+- **The course of true love never did run smooth.** Two people in love hitting a snag.
 
 ## Texture
 
@@ -58,73 +58,77 @@ Use only the user's facts, numbers, names and claims, carried into verse without
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** I sought to boil rice and have wrought only charcoal. The pot is caked in blackest treachery. Out, damned spot!
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Thy crusty trenchers have usurped the sink since Tuesday. Scour them, sir, ere they breed their own commonwealth.
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** What shears of wrath hath grazed thy crown? Thou lookest like a hedge clipped by a drunkard in a gale. Put on a cap, sir, and sue the barber for malicious assault.
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Good master, grant my essay a brief reprieve. Time proves an ungentle bailiff; afford me a little grace, and I shall pay the argument in full.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Muster your names, masters. Who stands with us this Saturday, and who plays the craven by staying home?
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Thou filching, socket-creeping knave: restore my phone charger to its rightful post, or go feed thine own dead battery, parasite.
+
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it, sir; mine eyes were made to look, and having looked, they weep for their misfortune.
+
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Sue me for love, but ask not for my chariot; this weekend it shall carry no rogue but mine own self. Walk, sir, and think on me.
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Condemn my feet, but never doubt my heart. Time hath stolen a march upon me, yet I spur forward in breathless haste. Hold fast: I shall be with thee in the turning of a moment.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Good mother, peace. I live, I thrive, and fortune smiles upon me. Unknit that troubled brow, for all is well.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Thou soundest a dreadful parley to the walls, yet wilt not name the quarrel. Come, unbuckle this dark mystery: if we must talk, upon what matter do we bleed?
+
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** Come with me to the gig this Friday, and let the music make the case my tongue cannot.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** What, hath thy tongue turned to stone, or art thou dead in truth? Speak, sirrah: send but a sign, or I must bid the sexton measure thee for earth.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The heavens in our bath are dry again, sir. Must a tenant go unwashed, or wilt thou send a smith to mend this miserable pipe?
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** Thou midnight thief, thou larder-plundering knave: where is the feast I hoarded for myself? Spit forth my supper, or replace it.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** Cry victory, masters! The citadel hath fallen and the post is mine. Pour the wine tonight, for fortune hath mistook me for a prince.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Lift without me today, brother; the spirit is willing, but this traitor flesh refuses the iron. Strike twice as hard for both of us.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** I have sworn a truce with the world tonight. Seek me not abroad; I keep my castle, answer no summons, and study how to do most royally nothing.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Father, thy chariot hath met with fortune, and fortune took the paint. A most unkind scratch, yet she runs still.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The beast looked me straight i' the eye, weighed my love against the laws of gravity, and chose gravity. Another goblet dashed to shivers upon the floor. Et tu, Brute?
+  **Draft:** The velvet tyrant struck, and another goblet lies murdered upon the floor. Not from malice, but sheer imperial boredom.
 
-- **Point:** The plumber did not show up.
-  **Draft:** A plumber! A plumber! My kingdom for a plumber! The cistern weeps like Niobe, and the knave hath sent his ghost instead.
-
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** For a month I banished the glass theatre from my palm, silencing every trumpeter, fool and flatterer that lives therein. Lord, what fools these mortals be, to trade the world itself for the buzzing of a painted box. Yet here am I returned, no wiser than before.
-
-- **Point:** The lift is out of order, so use the stairs.
-  **Draft:** The lift hath yielded up its ghost and hangs sullen in the shaft. Trust your souls to your own two shanks, masters, and mount the stairs. Once more unto the breach, dear friends, one cold step at a time.
-
-- **Point:** Rain cancelled the picnic.
-  **Draft:** The heavens weep upon our feast, and so drown all good cheer. The picnic is undone: exit, pursued by the weather.
-
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** The office wifi falls dead after noon for repairs. To work, or not to work: that is the question; though without a signal, none can answer it.
-
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Our little conspiracy hath outgrown its cupboard: this week we take the council to the big room, where even our silences shall echo.
-
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** The long siege ends; the volume yields at last,
-  And twelve months' labour to the shelf is cast.
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** We bar our doors early this Saturday, for even honest knaves must feast or turn mutinous. Seek us not by candlelight; our revels have begun.
-
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** My thanks to all whose presence graced our field last night. You gave the venture breath, and made our prologue sound like victory.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Let all the house give room: Priya hath climbed,
-  Not by blind Fortune's wheel, but downright siege
-  Of wit and labour to her rightful seat.
-  A title justly won, and bravely worn;
-  Now rule your new-made province as your own.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** The cur next door hath murdered sleep and bays against the moon till morning. A four-legged fury, all throat and no sense, whose master sleeps like a fat alderman while the rest of us go mad.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** I took up running to outpace mortality, yet find my shins have mutinied, my lungs do utter treason, and every joint laments the day I left the couch.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Give Tom room, for he comes armed with eye and compass to set our wild disorder into shape. Welcome to the company, sir; teach our rude eyes what grace is.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** A goodly sofa, sound in wind and limb, costs not a penny to him that heaves it hence. Bring strength, take seat; the spoil is to the bearer.
-
-- **Point:** Our team won the pub quiz.
-  **Draft:** We came, we drank, we answered of small things, and took the crown. Let lesser wits dispute the price of ale: tonight the tavern names us emperors.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We lack a part-time barista to tame the steam and govern the bean. Bring us your craft, or leave the city to its bitter sleep.
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** My flight is struck dead upon the tarmac, and here I sit marooned in purgatory. A horse! A horse! My kingdom for a horse!
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** I am taxed for resting upon mine own threshold. The kerb is mine, the gate is mine, yet the council's knave leaves a yellow scroll to say I trespass on myself.
+  **Draft:** A knave hath laid his paper forfeit on my screen, swearing I trespass against mine own threshold. I am fined for standing on mine own ground.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** For seven days I am resolved upon majestic idleness. Seek me not: I have dismissed the commonwealth, and shall do nothing with all my might.
+- **Point:** Our team won the pub quiz.
+  **Draft:** We came, we drank, we answered, and we conquered. The tavern crown is ours, bought not with gold but with an unholy hoard of useless knowledge.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Fortune hath grown prodigal. A space directly at the gates, yielded without siege or bloodshed: surely some foul treason waits within.
+- **Point:** The plumber did not show up.
+  **Draft:** He swore by copper and solder to appear, yet hath vanished like breath upon a mirror. Faithless varlet, drown in thine own excuses.
+
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** The siege is done. A whole year's march through paper, print, and binding, and I have slain the final page at last. Close the book; I am free.
 
 ## Sources
 

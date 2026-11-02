@@ -146,5 +146,11 @@
     "text": "Hello hello! 👋🏽\n\nAfter 8 months of building, we're launching our app this Friday.\n\nYou talk, it turns your voice notes into a to-do list. That's it. No more losing the thing you meant to do.\n\nThe first month is *free*. Check it out and tell us what you think 💜"
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Bernie Sanders",
+    "Elizabeth Warren",
+    "Ilhan Omar",
+    "Pete Buttigieg"
+  ]
 }

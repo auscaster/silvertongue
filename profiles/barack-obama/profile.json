@@ -136,5 +136,11 @@
     "text": "After eight months of building, our team is launching our app this Friday. The idea is simple: you talk, and it turns your voice notes into a to-do list, so the things you mean to do don't get lost along the way. The first month is free. Give it a try, and let us know what you think!"
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Joe Biden",
+    "Bill Clinton",
+    "Michelle Obama",
+    "Pete Buttigieg"
+  ]
 }

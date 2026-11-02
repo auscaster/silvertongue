@@ -100,6 +100,14 @@
       "published": "2021-10-10",
       "medium": "transcript",
       "note": "Her deadpan self-mockery out loud: the reputation joked about before anyone else can."
+    },
+    {
+      "id": "nobody-wants-to-work",
+      "title": "Kim Kardashian faces backlash after saying 'seems like nobody wants to work these days'",
+      "url": "https://etonline.com/kim-kardashian-faces-backlash-after-saying-seems-like-nobody-wants-to-work-these-days-180647",
+      "published": "2022-03-09",
+      "medium": "transcript",
+      "note": "Her Variety interview quoted in full: the blunt business advice that became a meme, and her register when talking about work."
     }
   ],
   "observations": [
@@ -161,6 +169,12 @@
       "sourceIds": [
         "deep-dive"
       ]
+    },
+    {
+      "trait": "Tough love on work, blunt and short: \"Get your fucking ass up and work. It seems like nobody wants to work these days.\"",
+      "sourceIds": [
+        "nobody-wants-to-work"
+      ]
     }
   ],
   "illustration": {
@@ -170,5 +184,11 @@
     "text": "8 months in the making!!! Our app launches this Friday 🤍 You just talk and it turns your voice notes into your to-do list. First month is free, can't wait for you to try it ✨"
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Kylie Jenner",
+    "Paris Hilton",
+    "Khloé Kardashian",
+    "Kris Jenner"
+  ]
 }

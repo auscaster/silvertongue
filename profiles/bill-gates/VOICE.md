@@ -56,7 +56,7 @@ Each is an ordinary point, then how he would handle it, written in this techniqu
   **Draft:** No surface is entirely safe. No drinking glass should have to test gravity twice in one morning. I still believe better table design can solve this.
 
 - **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** We are closing the shop early this Saturday so the team can celebrate together. I am excited to give everyone some well-deserved time off.
+  **Draft:** We are closing the shop early this Saturday so the team can celebrate together. Everyone here has earned an afternoon away from the till.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
   **Draft:** My flight was cancelled and I am spending the night by the gate. I expected to be home by now. At least it gives me time to finish my book.
@@ -98,7 +98,7 @@ Each is an ordinary point, then how he would handle it, written in this techniqu
   **Draft:** I want to share my deep thanks to the nurses who cared for my mum. Good healthcare always comes down to the dedication of the people on the front lines.
 
 - **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** Starting Monday, we are moving our team to a new project management tool. Changing software is always disruptive at first, but better visibility into our shared work will save everyone real time. I am excited to see how much easier it makes tracking our progress.
+  **Draft:** Starting Monday, we are moving our team to a new project management tool. Changing software is always disruptive at first, but better visibility into our shared work will save everyone real time. It should make our progress much easier to follow.
 
 - **Point:** I am proud of the team for shipping the update.
   **Draft:** Great engineering takes patience, and the team really delivered with this latest update. I'm excited to see what people build with it. This is a big deal.

@@ -2,6 +2,8 @@
 
 A voice profile is a directory `profiles/<slug>/` holding two files. `profile.ts`
 in this directory is the validator; `npm run verify` runs it over every profile.
+[GUIDE.md](GUIDE.md) is how to write a voice that is good, and the bar in `bar.ts` that
+every voice is admitted against.
 
 v2 replaces v1's recipe (Stance, Construction, Rhythm, Detail, Formats and Restraint)
 with what a writer is recognised by: what they notice, the moves they make of it and
@@ -20,7 +22,7 @@ these second-level sections, exactly as written:
 | `## Lens` | What they care about, what they find absurd, how they see things: what a draft finds to say |
 | `## Moves` | Each signature move as a mechanism: how it works, what material sets it off, roughly how often they use it, and one real line of theirs that shows it |
 | `## Texture` | How they speak: grammar, sentence shapes, rhythm, register, the words they reach for, punctuation and emoji, as tendencies with when each shows up |
-| `## Plain` | The register their writing rests on between the moves |
+| `## Plain` | The register their writing rests on between the moves: how their ordinary sentences sound, never a reason for a draft without an angle |
 | `## Occasions` | How they handle a post, a reply, a request, a complaint and good news |
 | `## Never` | What they never do: harms, their world, and the caricature |
 | `## Signatures` | Their catchphrases, each with the situation it belongs to |
@@ -78,9 +80,12 @@ Each is memorable, unmistakably theirs, and uses a different move. A few land a 
 where the point is its situation; most are carried by the lens, the moves and the way they
 speak, so the pool teaches the voice and not a catchphrase on the end. No two drafts share their
 first two words, their last word, or the run of marks or emoji they close on (a
-plain full stop, question mark or exclamation mark is not counted). A point is at
-most 300 characters and a draft at most 700. A writer shows a few drawn at random
-for each draft, so the pool is what keeps one voice from writing the same post twice.
+plain full stop, question mark or exclamation mark is not counted). At most a quarter of the
+drafts land a signature, and none lands two (a line inside a longer one lands with it). No
+draft uses a real line from Moves that is not also a signature, no run of three words appears
+in more than two drafts, and no draft has a doubled space. A point is at most 300 characters
+and a draft at most 700. A writer shows a few drawn at random for each draft, so the pool is
+what keeps one voice from writing the same post twice.
 
 ## profile.json
 
@@ -94,6 +99,7 @@ for each draft, so the pool is what keeps one voice from writing the same post t
 | `scope` | Which medium and period the profile studies |
 | `status` | `unofficial` |
 | `evaluation` | `unbenchmarked` until a blind evaluation is admitted |
+| `lookalikes` | Four to eight other people a reader could most easily mistake the voice for, each named once: the people the bar's judge tells it apart from |
 | `strengths`, `limitations` | At least two each |
 | `sources` | At least three, each with `id`, `title`, an `https` `url`, `published`, `medium` (`essay`, `transcript`, `speech`, `letter`, `post`, `fiction`, `play` or `poem`) and a `note` of at least 20 characters. Link to sources; never copy them |
 | `observations` | At least three, each a `trait` citing one or more source `id`s |

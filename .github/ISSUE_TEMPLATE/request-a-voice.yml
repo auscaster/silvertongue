@@ -22,3 +22,8 @@ body:
     attributes:
       label: What makes it distinct?
       description: What a plain "write like" prompt would miss.
+  - type: input
+    id: lookalikes
+    attributes:
+      label: Who could their writing be mistaken for?
+      description: People in the same field and register. A voice has to stand apart from them.

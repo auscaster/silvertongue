@@ -42,49 +42,15 @@ CI runs the same checks.
 ## Adding or correcting a voice
 
 Each voice is `profiles/<slug>/VOICE.md` plus `profile.json`, in the
-[v2 format](spec/voice/v2/README.md).
+[v2 format](spec/voice/v2/README.md). [Writing a voice](spec/voice/v2/GUIDE.md) is how to
+make one good, who can be a voice, and the bar every voice is held to.
 
-- Study the person across their whole output (speeches, interviews, books, shows
-  and posts) for what they notice and the moves they make, and their writing in
-  the medium the voice is for, ordinary pieces included, for what their plain
-  writing looks like. A handful of posts never makes a voice.
-- Record how they speak, not only what they say: their grammar, sentence shapes,
-  rhythm and the words they reach for.
-- Give each move one real line of theirs that shows it, taken from the source
-  itself (many quotes passed around online were never said), and record it as an
-  observation citing that source. List their catchphrases as signatures, each with
-  the situation it belongs to.
-- Build the example pool from varied everyday points, each memorable and
-  unmistakably theirs, with a different move. A few land a signature where the
-  point is its situation; most are carried by the lens, the moves and the way they
-  speak. Every opening and ending is different, and nothing else they actually
-  said appears.
-- Link every source over `https` and say what it shows. Never copy source text
-  into the repository beyond a short quotation.
-- Every observation cites the sources it rests on.
-- Describe technique only. No invented quotations, opinions on new events,
-  biography, relationships or endorsements, and nothing that claims to be the
-  person.
-- Politicians are studied for delivery only. Their sources and illustration
-  avoid election and campaign material, and the profile forbids stating
-  positions, endorsing anyone or writing about elections and voting.
-- Deceased writers are accepted once a century has passed since their death.
-- Fictional characters are studied from their own words in the books, films
-  and shows they appear in. The profile borrows none of their world (places,
-  companions, possessions), and quotes them only through their signatures and
-  moves.
-- Comedy and roast profiles keep the comedian's edge: drugs, sex, death, crude
-  language and personal insults about public or willing targets. They exclude
-  racism and slurs, and never target private people.
-- No em dashes in a profile or its illustration.
-- Not accepted: private individuals, minors, and people whose public writing is
-  mainly hate, harassment or incitement.
-
-Maintainers admit new voices after review and a blind evaluation against a strong
-name-only prompt. Corrections to an existing voice are welcome as ordinary pull
-requests. If a profile studies you and you want it removed, ask privately through
-the [terms](https://silvertongue.dev/terms#removing-a-profile-that-studies-you):
-it comes out within seven days, and no reason is needed.
+`npm run verify` checks the format and the example pool. Maintainers then run the
+evaluation the bar describes and admit a new voice only when it passes every criterion; a
+correction to an existing voice also has to beat the voice as it stands. No em dashes in a
+profile or its illustration. If a profile studies you and you want it removed, ask privately
+through the [terms](https://silvertongue.dev/terms#removing-a-profile-that-studies-you): it
+comes out within seven days, and no reason is needed.
 
 ## Licences
 

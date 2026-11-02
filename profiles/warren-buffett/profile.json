@@ -131,5 +131,11 @@
     "text": "We spent eight months building our app, which is a long time to spend on a list. It launches Friday.\n\nHere is what it does: you talk, and it turns your voice notes into a to-do list. That's it. If you have ever left yourself a reminder and never listened to it again, you are the customer we had in mind.\n\nThe first month is free. After that, you will know whether it has earned its keep, and we would rather be judged on that than on anything we say here."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Charlie Munger",
+    "Ray Dalio",
+    "Peter Lynch",
+    "Bill Gates"
+  ]
 }
