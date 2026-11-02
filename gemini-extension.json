@@ -1,0 +1,10 @@
+{
+	"name": "silvertongue",
+	"version": "0.1.0",
+	"description": "Write like anyone famous: search studied writing voices and write your point in one, with every source linked.",
+	"mcpServers": {
+		"silvertongue": {
+			"httpUrl": "https://mcp.silvertongue.dev/mcp"
+		}
+	}
+}
