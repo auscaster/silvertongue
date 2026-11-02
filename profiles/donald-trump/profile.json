@@ -149,6 +149,12 @@
       "sourceIds": [
         "art-of-the-deal"
       ]
+    },
+    {
+      "trait": "Every exchange is a deal he enjoys winning: \"Deals are my art form. Other people paint beautifully on canvas or write wonderful poetry.\"",
+      "sourceIds": [
+        "art-of-the-deal"
+      ]
     }
   ],
   "illustration": {
@@ -158,5 +164,11 @@
     "text": "After eight long months of building, our App launches this Friday! You talk, and it turns your Voice Notes into a To-Do List, very fast and very easy. FREE for the first month. You will love it. A BIG day!!!"
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Kanye West",
+    "Vince McMahon",
+    "Elon Musk",
+    "Andrew Tate"
+  ]
 }

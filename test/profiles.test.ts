@@ -33,10 +33,10 @@ const withExamples = (voice: string, drafts: readonly string[]) => {
 		.join("\n\n");
 	return voice.replace(section(voice, "Examples") as string, pool);
 };
-const distinct = Array.from(
-	{ length: 12 },
-	(_, i) =>
-		`${["Alpha", "Bravo", "Charlie", "Delta", "Echo", "Foxtrot", "Golf", "Hotel", "India", "Juliet", "Kilo", "Lima"][i]} opens here and closes on word${i}.`,
+const names = ["Alpha", "Bravo", "Charlie", "Delta", "Echo", "Foxtrot", "Golf", "Hotel", "India", "Juliet", "Kilo", "Lima"];
+// Twelve drafts that share no opening, ending or run of three words.
+const distinct = names.map(
+	(name, i) => `${name} ${names[(i + 1) % 12].toLowerCase()} closes on word${i}.`,
 );
 
 test("reads the example pool, with a draft on several lines", () => {
@@ -73,8 +73,8 @@ test("rejects two examples that open, end or close alike", () => {
 	const pool = (last: string) =>
 		withExamples(voice, [...distinct.slice(0, 11), last]);
 	assert.throws(
-		() => validateProfile(metadata, pool("Alpha opens again, differently at the end.")),
-		/opening "alpha opens"/,
+		() => validateProfile(metadata, pool("Alpha bravo again, differently at the end.")),
+		/opening "alpha bravo"/,
 	);
 	assert.throws(
 		() => validateProfile(metadata, pool("Somewhere new, it closes on word3!")),
@@ -209,4 +209,62 @@ test("two profiles never share a featured place", async () => {
 	} finally {
 		await rm(dir, { recursive: true, force: true });
 	}
+});
+
+test("rejects a pet phrase in more than two examples, and a doubled space", () => {
+	const { metadata, voice } = profiles[0];
+	const pet = (n: number) =>
+		withExamples(
+			voice,
+			distinct.map((d, i) => (i < n ? `${d} Cracking good show, ${names[i]}.` : d)),
+		);
+	assert.doesNotThrow(() => validateProfile(metadata, pet(2)));
+	assert.throws(() => validateProfile(metadata, pet(3)), /"cracking good show" appears in 3/);
+	assert.throws(
+		() => validateProfile(metadata, withExamples(voice, [...distinct.slice(0, 11), "Mike says hi.  Then goes."])),
+		/doubled space/,
+	);
+});
+
+test("a quarter of the pool at most lands a signature, one to a draft, and none uses a real line", () => {
+	const { metadata, voice } = profiles[0];
+	const signed = withSignatures(voice, [
+		...six.slice(0, 4),
+		"- **Believe.** Someone doubts they can do it.",
+		"- **Do you believe in miracles?** Something unlikely just happened.",
+	]);
+	const landing = (n: number, line = "one phrase") =>
+		withExamples(
+			signed,
+			distinct.map((d, i) => (i < n ? `${d} ${names[i]} ${line} ${names[(i + 5) % 12]}.` : d)),
+		);
+	assert.doesNotThrow(() => validateProfile(metadata, landing(3)));
+	assert.throws(() => validateProfile(metadata, landing(4)), /4 of 12 do/);
+	// A line inside a longer one lands with it, once.
+	assert.doesNotThrow(() => validateProfile(metadata, landing(1, "do you believe in miracles")));
+	assert.throws(() => validateProfile(metadata, landing(1, "one phrase or two phrase")), /lands two signatures/);
+	const line = "A real line they said, once, on the record.";
+	const moved = withExamples(
+		voice.replace(section(voice, "Moves") as string, `- **The move:** how it works. In their words: "${line}"`),
+		[...distinct.slice(0, 11), `Lima alpha said ${line}`],
+	);
+	const cited = {
+		...metadata,
+		observations: [...metadata.observations, { trait: `The move: "${line}"`, sourceIds: [metadata.sources[0].id] }],
+	};
+	assert.throws(() => validateProfile(cited, moved), /uses the real line/);
+});
+
+test("lookalikes are four or more other people, each named once", () => {
+	const { metadata, voice } = profiles[0];
+	const withLookalikes = (lookalikes: string[]) => ({ ...metadata, lookalikes });
+	assert.throws(() => validateProfile(withLookalikes(metadata.lookalikes.slice(0, 3)), voice));
+	assert.throws(
+		() => validateProfile(withLookalikes([...metadata.lookalikes.slice(0, 3), metadata.name]), voice),
+		/never the voice itself/,
+	);
+	assert.throws(
+		() => validateProfile(withLookalikes([...metadata.lookalikes, metadata.lookalikes[0]]), voice),
+		/each named once/,
+	);
 });

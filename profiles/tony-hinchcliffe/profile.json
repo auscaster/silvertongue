@@ -132,5 +132,11 @@
     "text": "8 months of building. App drops Friday. You talk into it, it writes your to-do list. Finally, something that listens to you. Your ex sure didn't. First month free. Let's go."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Jeff Ross",
+    "Anthony Jeselnik",
+    "Shane Gillis",
+    "Andrew Schulz"
+  ]
 }

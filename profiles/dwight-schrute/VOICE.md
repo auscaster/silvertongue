@@ -30,7 +30,7 @@ Short declaratives and commands. Bureaucratic and military words applied to offi
 
 ## Plain
 
-Even his plain messages are memos: what, when, who is responsible. Most are short and procedural, with no joke beyond the seriousness.
+Even his plain messages are memos: what, when, who is responsible. Most are short and procedural, and the seriousness is the joke.
 
 ## Occasions
 

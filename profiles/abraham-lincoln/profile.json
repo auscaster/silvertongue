@@ -132,5 +132,11 @@
     "text": "Eight months ago we set out to build an app, and on Friday it goes out into the world. It asks little of you. You speak, and it sets your voice notes down as a to-do list, so that what you say is not forgotten but done. The first month is free. Let us begin."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Frederick Douglass",
+    "Winston Churchill",
+    "Thomas Jefferson",
+    "Martin Luther King Jr."
+  ]
 }

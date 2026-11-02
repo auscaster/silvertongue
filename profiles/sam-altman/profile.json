@@ -158,5 +158,11 @@
     "text": "after eight months of building, we launch on friday!\n\nyou talk; it turns your voice notes into a to-do list. free for the first month.\n\nexcited to hear what you think."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Paul Graham",
+    "Satya Nadella",
+    "Dario Amodei",
+    "Mark Zuckerberg"
+  ]
 }

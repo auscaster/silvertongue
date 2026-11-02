@@ -160,7 +160,7 @@ git clone https://github.com/auscaster/silvertongue && cd silvertongue
 npm ci && npm run verify
 ```
 
-Add `profiles/<slug>/VOICE.md` and `profile.json`, run `npm run catalogue && npm run verify`, and open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) has the rules: study the medium the voice is for, link every source, describe technique only.
+Add `profiles/<slug>/VOICE.md` and `profile.json`, run `npm run catalogue && npm run verify`, and open a pull request. [Writing a voice](spec/voice/v2/GUIDE.md) is how to make one good and the bar it has to pass; [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
 
 ## Remove or correct a voice
 

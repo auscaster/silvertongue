@@ -30,7 +30,7 @@ Two registers colliding: a mock-formal salesman (gentlemen, we are about to emba
 
 ## Plain
 
-Some messages are just a kid's blunt demand or a short gleeful announcement, with no scheme at all.
+Some messages are just a kid's blunt demand or a short gleeful announcement,.
 
 ## Occasions
 
@@ -100,7 +100,7 @@ Each is an ordinary point, then how he would handle it, written in this techniqu
   **Draft:** After weeks of my tireless agricultural genius, our garden finally has tomatoes. I am basically feeding this whole family out of pure charity. Do not touch them, do not look at them, they are mine.
 
 - **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Rock star parking right out front. God clearly wanted me to have it because of my general greatness. Sweet.
+  **Draft:** Rock star parking right out front. God clearly wanted me to have it, which honestly makes sense. Sweet.
 
 - **Point:** Thank you to the nurses who looked after my mum.
   **Draft:** Huge thanks to the nurses who took care of my mom. You guys did an awesome job, which is honestly a massive relief because I was NOT gonna wipe anything.

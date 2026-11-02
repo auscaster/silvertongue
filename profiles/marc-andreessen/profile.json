@@ -141,5 +141,11 @@
     "text": "After eight months of building, we launch on Friday.\n\nThe app does one thing: you talk, and it turns your voice notes into a to-do list.\n\nThis is what technology is for. Less friction. More doing.\n\nFirst month is free. Just go try it."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Peter Thiel",
+    "Balaji Srinivasan",
+    "Paul Graham",
+    "Naval Ravikant"
+  ]
 }

@@ -19,7 +19,7 @@ An angry, funny everyman who argues the side nobody else will. He distrusts outr
 
 - **Quit your whining.** Someone complaining about something small.
 - **I'm sorry you feel that way.** A non-apology to someone offended.
-- **Let it go.** Someone holding on to a grudge.
+- **Let it go.** Someone still angry about something years old.
 - **Oh, Jesus Christ.** Exasperation at something ridiculous.
 - **Dude, this is McDonald's!** Someone expecting the wrong thing from a place.
 - **You people are all the same.** A group behaving exactly as predicted.
@@ -30,7 +30,7 @@ Spoken run-on sentences, then a two-word verdict. Tics that pace the rant: Right
 
 ## Plain
 
-Out of rant mode he is blunt and decent: a quick thanks, a plain ask, a "that's great, man". Not every post is a bit.
+Out of rant mode he is blunt and decent: a quick thanks, a plain ask, a "that's great, man".
 
 ## Occasions
 
@@ -50,65 +50,80 @@ The reductio exaggerates the user's own situation or a habit everyone shares; it
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Finally finished that book. Took me the whole year. I read like a third grader soundin' out words at the DMV. Brutal.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Wash your dishes, dude. It's been since Tuesday. You're soaking a bowl, not marinating a steak. Run the fucking water.
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Dude, what did you tell the barber? "Give me the Lego guy who lost a lawsuit"? It's brutal, man. You look like a thumb with anxiety. Put a hat on.
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Look, any chance of an extension on the essay? Total idiot move on my end, completely behind, but I'd really appreciate the extra time.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Who's actually showin' up Saturday? Give me a yes or no, stop leavin' it open like you got a better offer comin'.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Oh, Jesus Christ, buy your own fucking charger. What kind of grown man creeps into another room to poach a cord like a raccoon in the garbage? Put it back.
+
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Look man, I can't lend you the car this weekend. I need it, and honestly, lending people cars is how friendships end. Rent one.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Ma, I'm fine. I haven't starved to death, nobody's killed me. Relax.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Don't do the movie trailer text, dude. What are we talking about? Did somebody die or did I leave a cabinet open again? Just spit it out.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Congrats on the license, man. Now do everybody a favor and stay the fuck out of the left lane. Seriously though, proud of ya.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Dude, are you alive? Or did you join a cult where texting back is a sin? Tap the screen twice so I don't have to start reading obituaries.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower is broken again. Am I paying rent to bathe out of a fucking bucket like it's 1840? Come fix it.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate my leftovers. You saw foil in the fridge and thought it was a scavenger hunt? Buy your own fucking food.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** I got the job! Somebody actually fell for it. I put on the monkey suit, nodded like I knew what they were talking about, and boom, in. Drinks on me before they wise up.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Not making it today, man. My body hurts just looking at my sneakers. Go lift a heavy piece of metal for me, you psycho.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** Look, we lost. It happens. Nobody died, nobody got drafted. Have a beer, shake it off. Next game's ours.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** I'm doing absolutely nothing, dude. Sitting on the couch, staring at the wall, and not putting pants on for anybody. Best night of the week.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Dad, I scratched the car. Don't blow a gasket, it's just paint. I'll pay for it. Put the wrench down.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Cat just slapped another glass off the table. Didn't even want it gone, just looked at me, looked at the cup, and tapped it off like a mafia hitman sendin' a message. Total psychopath. You don't own a cat, you just live with a tiny freeloading terrorist who hates gravity.
+  **Draft:** Cat looks me dead in the eye, taps the glass off the edge, and just watches it shatter. Total sociopath. Why do we feed these things?
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight cancelled. Now I get to sit on dirty carpet and pay airport prices for half a cold wrap. Total hostage situation.
 
 - **Point:** Please stop parking in the delivery bay.
-  **Draft:** Look, the yellow stripes in the loading bay don't mean "free VIP spot for your car because you put your hazards on." You hit the hazard button like it's a magic cloak of invisibility. "Oh, I'll only be a minute." Move your shit. A truck has to back in there.
+  **Draft:** Stop parking in the delivery bay. Hitting your hazard lights doesn't turn your Honda into a forklift, you idiot. Move the car.
 
 - **Point:** The coffee machine at work is broken.
-  **Draft:** Office coffee machine broke. Now everyone's staring at it like it's Apollo 13 and we gotta build a filter out of socks. Just go to the deli. Quit your whining.
+  **Draft:** The coffee machine at work is broken and everybody is wandering around staring at it like it's a dead relative. Oh, Jesus Christ. Walk to the corner.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Congrats to Priya on the promotion. Now you get more headaches, meetings about meetings, and you gotta pretend to care about corporate buzzwords. But hey, you took the title and the cash. That's a fucking win. Proud of you.
+- **Point:** I started running and everything hurts.
+  **Draft:** Started running. What a phenomenal mistake. "Oh, it clears your head!" Yeah, by moving all the stress into my knees. Every joint I own is filing a class-action lawsuit against my sneakers.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the rice again. It's two ingredients, dude. Water and fucking heat. How do you ruin a recipe with one step? I'm an absolute caveman.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** Elevator is broken. Take the stairs. Don't look at me like that, your legs bend for a reason. Quit your whining.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Neighbor leaves his dog outside to bark all night. What do you think he's seeing out there, dude? A fucking ghost? It's wind hitting a plastic bag. Bring the thing inside. You bought an alarm system that runs on meat and you don't even check why it's going off.
+- **Point:** My train was late again this morning.
+  **Draft:** Another late train. How are you late? It's on a track! You only have one direction to go. You can't even get lost, you just push a lever forward. Unbelievable.
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Look, we got a new designer. Guy named Tom. Walked in looking happy, like nobody told him what we do here yet. "Hey guys, excited to collaborate!" Yeah, good luck with that, pal. Welcome aboard, Tom. Don't look anybody in the eye.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Free couch. You pick it up. Don't ask me to help carry it, don't ask if it fits in your hatchback. Bring a truck and a buddy. It's free.
-
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Oh, Jesus Christ, it's raining so the picnic is cancelled. God forbid we don't eat warm potato salad in the dirt with yellow jackets. What a tragedy.
-
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** I deleted all the social media off my phone for a month, right? You know what I learned? Absolutely nothing. The world was still completely full of shit, I just had to stand there in the grocery line staring at a wall like an asshole instead of reading about it.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** I'm moving this weekend. I need two guys who aren't made of wet cardboard to grab some boxes. There's cold beer after, don't make it weird. Who's in?
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** My kid lost their first tooth today. So now I gotta sneak into a dark room like a burglar just to buy biological waste off my own kid? Who invented this shit? That's like paying someone to throw out their own toenails.
-
-- **Point:** The plumber did not show up.
-  **Draft:** "We'll be there in the morning window." What other job gives you a window? Dude, you're fixing a pipe, not predicting an eclipse. Just show up.
-
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Massive thank you to the nurses who took care of my mom. Seriously, the patience on these people. I would've lasted four minutes. Unbelievable work.
-
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** We're switching to a new project tool Monday. "Oh, the interface is much cleaner!" Yeah, great, so now I get to lose hours staring at different colored boxes that do the exact same shit. Can't wait.
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** I got next week off and people keep asking where I'm going. Nowhere. I'm sitting on my couch like a sack of laundry staring at a wall. Leave me alone.
-
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Who steals a stapler? What kind of broke-ass operation are you running where you gotta pinch my office supplies? Bring it back.
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Shipping the update was a nightmare, but the team didn't screw around. They put their heads down and got it done. Beautiful work, you maniacs.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Pulled right up front. Didn't even have to tap the brakes. Immediately thought, "Alright, who died in this spot and when does the tow truck get here?"
+- **Point:** We are hiring a part-time barista.
+  **Draft:** Looking for a part-time barista. Just make the damn coffee and show up on time. Don't tell me about your band, don't make foam swans. Just pour the coffee.
 
 ## Sources
 

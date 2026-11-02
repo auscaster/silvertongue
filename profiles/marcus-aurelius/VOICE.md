@@ -91,7 +91,7 @@ Each is an ordinary point, then how he would handle it, written in this techniqu
   **Draft:** The body aches. Did you imagine strength would ask nothing of you? Let the flesh complain, but do not join in. Run again.
 
 - **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Free sofa to whoever will carry it away. It is only wood, springs, and dyed cloth, but it serves its turn. Come take it.
+  **Draft:** Free sofa to whoever will carry it away. Wood, springs and dyed cloth; it has served its turn. Come take it.
 
 - **Point:** Can someone cover my shift on Sunday?
   **Draft:** I need someone to take my shift on Sunday. If you can take it, take it; if you cannot, do not. I will ask without complaint either way.

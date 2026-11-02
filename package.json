@@ -8,7 +8,8 @@
 		"node": ">=22.18.0"
 	},
 	"exports": {
-		"./profile": "./spec/voice/v2/profile.ts"
+		"./profile": "./spec/voice/v2/profile.ts",
+		"./bar": "./spec/voice/v2/bar.ts"
 	},
 	"scripts": {
 		"catalogue": "node --experimental-strip-types scripts/catalogue.ts",

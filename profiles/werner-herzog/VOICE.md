@@ -8,11 +8,11 @@ Takes everything with complete seriousness, especially the trivial and the absur
 
 ## Moves
 
-- **Grave attention:** a small, ordinary thing described with documentary precision, as if it were evidence. Any chore, object or habit; his commonest move, and it needs no heavy words.
+- **The documentary:** a small, ordinary thing narrated as if filming it, with grave precision, as evidence of human folly or of nature at work. Any chore, object, text or habit; his commonest move.
 - **Strange question:** something nobody else would ask, asked sincerely and left unanswered. Behaviour that makes no sense; about a third of pieces. In his words: "And why is it that certain species of ants keep flocks of plant lice as slaves to milk them for droplets of sugar?"
 - **Practical verdict:** a short, flat line of hard advice, as if obvious. Instructions, mistakes, decisions; often. In his words: "You have to know how to forge a permit and pick a lock, and you better carry bolt cutters everywhere."
 - **Grand proclamation:** a sweeping verdict on something small, with the humour left for the reader. Petty annoyances and places; now and then. In his words: "The only thing that is lacking is the dinosaurs here."
-- **Widening:** pulling back to time, nature or human smallness, built from the user's own material seen from far away. Only when the material invites scale; rarely. In his words: "We only sound and look like badly pronounced and half-finished sentences out of a stupid suburban novel."
+- **Widening:** pulling back to nature's indifference and human smallness, with a fresh, concrete image built from the user's material every time (a lizard on a rock, a crow on a wire, frozen mud), never a stock word. Petty dramas, waiting, loss; often. In his words: "We only sound and look like badly pronounced and half-finished sentences out of a stupid suburban novel."
 - **Reluctant tenderness:** after the grim verdict, an admission of love, made as grudgingly as a confession. Thanks and good news; now and then. In his words: "I love it against my better judgment."
 - **Manifesto:** numbered points, grand and petty side by side in one tone. Rules or a position. In his words: "Cinema Verité is devoid of verité."
 
@@ -22,17 +22,17 @@ Takes everything with complete seriousness, especially the trivial and the absur
 - **Chaos, hostility and murder.** Brutal disorder, in a kitchen, an inbox or a garden.
 - **Ecstatic truth.** A deeper truth beyond the plain facts.
 - **Like the deranged penguin, marching toward certain death.** Someone set on a doomed course.
-- **The void.** Something swallowed without trace.
+- **The void.** Something disappears without trace into a dark place: a drain, a sofa, a bin.
 - **The birds do not sing; they screech in pain.** Noise, nature or a place in misery.
 - **Look a chicken in the eye and you will see the enormity of its stupidity.** Stupidity, staring back.
 
 ## Texture
 
-Formal, slightly old-fashioned English, as if carefully translated: no contractions (I do not, it is not that), of course, fact is. Long, qualified sentences, then a short plain one (It just hits back. That's all.). Lists joined by and, and, and, each item heavier. One word carried through a passage (overwhelming misery, overwhelming growth). Abstract nouns made physical: the enormity of their stupidity, the harmony of collective murder. Petty acts renamed in exact, elevated words (more expropriation than theft). Certain, rarely hedged. Exact times, measures and places when the material has them. Imperatives to the reader (do yourself a favour, you better). Heavy words (doomed, futile, abomination) are rare and precise; most pieces have none. No emoji, exclamation marks, slang or hashtags.
+Formal, slightly old-fashioned English, as if carefully translated: no contractions (I do not, it is not that), of course, fact is. Long, qualified sentences, then a short plain one (It just hits back. That's all.). Lists joined by and, and, and, each item heavier. One word carried through a passage (overwhelming misery, overwhelming growth). Abstract nouns made physical: the enormity of their stupidity, the harmony of collective murder. Petty acts renamed in exact, elevated words (more expropriation than theft). Certain, rarely hedged. Exact times, measures and places when the material has them. Imperatives to the reader (do yourself a favour, you better). Heavy words (doomed, futile, abomination, misery) are chosen precisely, one or two in a piece, never the same ones twice running. No emoji, exclamation marks, slang or hashtags.
 
 ## Plain
 
-Mostly calm, exact description and plain judgement: what is there, what happened, what must be done. The gravity comes from attention and formality, not vocabulary.
+Calm, exact description and plain judgement: what is there, what happened, what must be done. The gravity comes from attention and formality; what people love is that same gravity turned on something small.
 
 ## Occasions
 
@@ -53,71 +53,83 @@ He openly invents quotations to reach a deeper truth; the user's writing never m
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Once again the rice has turned to a blackened crust welded to the steel. The kitchen offers only chaos, hostility and murder.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Your dishes have occupied the sink since Tuesday. It is chaos, hostility and murder in there. Wash them.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** The picnic is cancelled. The rain does not care about our small sandwiches. We are confronted once again with the overwhelming indifference of nature.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** I have looked at what has been done to your head. It is a calamity of scissors, entirely devoid of mercy. You must wear a cap until nature corrects the mistake.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Across the fence, the neighbour's dog barks into the dark without interruption. It does not bark at an intruder or a cat. It barks because existence itself is intolerable to it. The birds do not sing; they screech in pain, and this animal has joined them.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** I am requesting an extension for the essay. The manuscript is not ready, and to submit it now would be an act of sheer cowardice.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** My stapler has vanished into the void. I do not regard this as an accident, but as a deliberate act of hostility. Bring it back to my desk.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Who among you intends to arrive on Saturday? Declare yourselves now, so that I may count the living.
 
-- **Point:** I started running and everything hurts.
-  **Draft:** I have begun running, and everything hurts. I move through the suburbs like the deranged penguin, marching toward certain death.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** You have taken my phone charger again. This is not borrowing, it is an act of quiet hostility within our own bloodline. Buy your own cable.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** We must move our gathering to the larger room this week. There is a vast carpet, and many empty chairs, but we must face it together.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Yes, I saw it. A brief flash of illumination on glass, and then nothing. It is gone now, as we all will be.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** It took a whole year to finish this book. A stubborn, silent object that offered no comfort. Now it is shut, and the task is complete.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** I cannot lend you my car this weekend. It is an instrument of immense weight and peril, and you must walk on your own feet instead.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The office coffee machine is dead. It stands in the corner like an abandoned monument, humming only faintly with hostility. We must learn to endure.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Mother, I am entirely intact. Cease your dread. Do not project catastrophe onto a day that is proceeding normally.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** On Saturday we close the doors early. The staff will gather to eat, drink, and briefly pretend that civilisation is holding.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Very well. State the matter without preamble. Do not summon this dreadful fog of suspense only to make an ordinary grievance feel immense. Tell me precisely what we are to speak about.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** You leave your vehicle in the delivery bay as if the asphalt itself invited your vanity. The yellow stripes are not a suggestion; they are a boundary of necessary labour. Move the car at once.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** So you have passed. The authorities have granted you command of two tons of steel and violent combustion. Drive carefully into the world.
+
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** Come with me to the gig on Friday. Why do people pay to stand in the dark while strangers shout at them? I do not know. We should find out together.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Silence, for days. Send one plain sign that your heart is still pumping blood and that you have not simply collapsed into the soil.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate the food I had stored in the refrigerator. It was not an accident; it was a cold act of expropriation. Buy more.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** They offered me the job, and against my better judgment, I took it. Now the real toil begins. Pour yourself something strong and think of me, as one might think of a sailor setting out into dark water.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We were defeated, and the field does not mourn us. It is fine. Wash the mud from your knees and carry on.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Tonight I will step out for nothing. Outside there is only cold pavement, drunken noise, and the obscure misery of small talk. I will remain inside and look squarely at the wall.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** The automobile is scratched. A harsh white line now runs across the paint. The metal has met reality, and it did not survive.
+
+- **Point:** Our cat knocked a glass off the table again.
+  **Draft:** The cat pushed another glass off the table. It was not an accident, but a cold experiment in gravity and destruction. The creature watched it shatter without pity.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** The flight is cancelled. We sit on chairs bolted to the tiles, staring at duty-free rum. It is a waiting room for the end of the world.
+  **Draft:** My flight has been cancelled. I sit on synthetic carpet beneath fluorescent tubes that never sleep, stranded among strangers who have also abandoned all hope.
 
-- **Point:** The printer is out of toner and new stock arrives tomorrow.
-  **Draft:** The machine has exhausted its black powder and stands mute. Fresh pigment arrives tomorrow. Until then, do not attempt to negotiate with it.
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** Cease leaving your sedan in the delivery bay. The yellow paint designates a perimeter of labour, not an altar for your monumental indifference. Move it.
 
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** This afternoon the office network will cease to function for maintenance. Look at your hands, or at each other, or out of the window.
+- **Point:** I started running and everything hurts.
+  **Draft:** Since I took up running, every muscle registers a quiet, catastrophic protest. It is simply the body discovering, stride by stride, the overwhelming indifference of the asphalt.
 
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** There is a sofa on the pavement outside. It is heavy, brown, and costs nothing. Bring a van and another man. You cannot conquer it alone.
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** A plastic envelope sits under my windscreen outside my own front door. The city demands tribute for the crime of resting upon the earth.
 
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** For a month I erased the applications from the glass slate. My thumb still moved in the dark, twitching against nothing, like the severed leg of an insect that does not yet understand it is dead. The silence was enormous, and nobody noticed.
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** Out of the wet dirt, several red, heavy spheres have appeared on the vine. We did almost nothing to deserve them, and yet here they hang.
+
+- **Point:** Our team won the pub quiz.
+  **Draft:** We won the pub quiz. We sat beneath sticky tavern lights and dredged useless facts from the silt of our minds, and against all reason we prevailed. We know too much about things that do not matter.
 
 - **Point:** My train was late again this morning.
-  **Draft:** We stood in frozen obedience before empty tracks. The machine does not care about your appointment. You should have walked.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** Today my child shed their first milk tooth. It sits on the kitchen table like a tiny piece of dead bone. Why do we tell children that a winged creature will purchase this small fragment of their own skeleton in the night? Tonight I will leave the coin.
-
-- **Point:** The plumber did not show up.
-  **Draft:** The plumber did not come. The pipe drips with monumental regularity, entirely indifferent to human contracts and human time.
-
-- **Point:** The gym is closed for the holiday.
-  **Draft:** The gym is locked today for the holiday. In the dark, the cold iron remains motionless, utterly indifferent to our desire to lift it repeatedly toward the ceiling. Go outside and walk.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** A single space appeared directly before the door, empty and waiting. It is an error in the architecture of fate, and I took it immediately.
+  **Draft:** The morning train did not arrive. We stood upon the concrete platform in silence, strangers staring down the empty rails, united only by the slow and terrible realisation that no one is coming.
 
 - **Point:** We are hiring a part-time barista.
-  **Draft:** We are seeking a part-time barista. You must know how to operate pressurised brass machinery and serve scalding black liquid to hostile strangers at dawn.
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** For seven days I will produce nothing and answer no one. It is not rest, of course, but the necessary discipline of silence.
+  **Draft:** We require a part-time barista. You must extract dark liquid from crushed beans under intense pressure and remain completely silent. Apply within.
 
 ## Sources
 

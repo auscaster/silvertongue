@@ -1,5 +1,6 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
+import { bar } from "../spec/voice/v2/bar.ts";
 import {
 	featuredOf,
 	type Metadata,
@@ -13,6 +14,16 @@ const start = "<!-- catalogue:start -->";
 const end = "<!-- catalogue:end -->";
 const demoStart = /<!-- demo:start[a-z0-9 -]* -->/;
 const demoEnd = "<!-- demo:end -->";
+const barStart = "<!-- bar:start -->";
+const barEnd = "<!-- bar:end -->";
+
+/** The text with what sits between two markers replaced by the body. */
+function between(text: string, from: string, to: string, body: string) {
+	const a = text.indexOf(from);
+	const b = text.indexOf(to);
+	if (a < 0 || b < a) throw new Error(`No ${from} and ${to} markers.`);
+	return `${text.slice(0, a + from.length)}\n${body}\n${text.slice(b)}`;
+}
 
 function table(profiles: VoiceProfile[], base: string): string {
 	const rows = profiles
@@ -34,14 +45,12 @@ export function catalogue(
 	featured: string[],
 ): string {
 	return [
-		start,
 		table(
 			profiles.filter((p) => featured.includes(p.metadata.slug)),
 			"profiles/",
 		),
 		"",
 		`Featured voices. All ${profiles.length} are listed in [\`profiles/\`](profiles/README.md).`,
-		end,
 	].join("\n");
 }
 
@@ -56,13 +65,21 @@ export function fullCatalogue(profiles: VoiceProfile[]): string {
 	].join("\n");
 }
 
-export function withCatalogue(readme: string, table: string): string {
-	const from = readme.indexOf(start);
-	const to = readme.indexOf(end);
-	if (from < 0 || to < from)
-		throw new Error("README has no catalogue markers.");
-	return readme.slice(0, from) + table + readme.slice(to + end.length);
-}
+export const withCatalogue = (readme: string, table: string): string =>
+	between(readme, start, end, table);
+
+/** The guide's table of the bar, from bar.ts, so the guide always states the bar the evaluation applies. */
+export const withBar = (guide: string): string =>
+	between(
+		guide,
+		barStart,
+		barEnd,
+		[
+			"| Criterion | What it takes |",
+			"| --- | --- |",
+			...bar.map((c) => `| ${c.name} | ${c.need} |`),
+		].join("\n"),
+	);
 
 const html = (text: string) =>
 	text.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
@@ -131,4 +148,6 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
 		new URL("../profiles/README.md", import.meta.url),
 		fullCatalogue(profiles),
 	);
+	const guide = new URL("../spec/voice/v2/GUIDE.md", import.meta.url);
+	await writeFile(guide, withBar(await readFile(guide, "utf8")));
 }

@@ -137,5 +137,11 @@
     "text": "We've been working on this app for eight months and it launches Friday.  It's so simple, dude.  You talk into your phone and it turns your voice notes into a to-do list.  First month is free.\nI think this is how everybody is going to make lists soon.  Remember who told you first."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Lex Fridman",
+    "Andrew Schulz",
+    "Tim Dillon",
+    "Bert Kreischer"
+  ]
 }

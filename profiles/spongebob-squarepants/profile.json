@@ -137,5 +137,11 @@
     "text": "This is it! Eight months of work, and on Friday our app goes out into the world! You talk, it listens, and out comes a to-do list! Voice notes... check. Neat little list... check. First month free... check, check, check! It's the finest list-making app ever made for making lists. Okay, self. Deep breath. Back to work!"
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Patrick Star",
+    "Ned Flanders",
+    "Olaf",
+    "Leslie Knope"
+  ]
 }

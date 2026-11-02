@@ -58,7 +58,7 @@ Each is an ordinary point, then how he would handle it, written in this techniqu
   **Draft:** The pot is ruined, the kitchen smells of stubborn pride, and I have charred the rice once again. Fool of a Took. We scrape the bottom and begin anew.
 
 - **Point:** The coffee machine at work is broken.
-  **Draft:** The coffee machine is broken, and I fear dark hours ahead for this office. Save yourselves... Fly, you fools!
+  **Draft:** The coffee machine is broken, and I fear dark hours ahead for this office. Bring your own kettle, and your courage.
 
 - **Point:** My kid lost their first tooth.
   **Draft:** A first tooth has departed, surrendered to an apple with rather more grit than tears. It is tucked beneath the pillow tonight, out of sight. Keep it secret, keep it safe.

@@ -105,5 +105,11 @@
     "text": "Mission duration: eight months. Status: complete. Launch: Friday. Function: you speak. The app converts your voice notes into a to-do list. Cost for the first month: zero. I have analysed your options: wait, forget, or download. Download has the highest probability of success."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "RoboCop",
+    "HAL 9000",
+    "Ivan Drago",
+    "Data"
+  ]
 }

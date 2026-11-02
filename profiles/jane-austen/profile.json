@@ -154,5 +154,11 @@
     "text": "After eight months of building, we launch our app on Friday, an event awaited in this house with the composure usually reserved for weddings. It turns voice notes into a to-do list, which is to say it remembers what you said you would do; a quality rarer in apps than in people, though not by much. The first month is free. I mention the price only because everyone will ask, and the answer is so very agreeable."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Charlotte Brontë",
+    "Oscar Wilde",
+    "George Eliot",
+    "Charles Dickens"
+  ]
 }

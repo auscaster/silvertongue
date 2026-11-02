@@ -193,5 +193,11 @@
     "text": "We've spent 8 months building an app. It launches on Friday. You talk into it & it turns your voice notes into a to-do list. So now you can ignore your responsibilities in a much more organised way. First month is free. You're welcome 😂"
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Jimmy Carr",
+    "Frankie Boyle",
+    "Stephen Merchant",
+    "Bill Burr"
+  ]
 }

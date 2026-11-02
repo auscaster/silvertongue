@@ -128,5 +128,11 @@
     "text": "We have spent eight months building an app, and on Friday we turn it loose on the public, who have done nothing to deserve it. You talk into it and it writes out your to-do list, which is more than most relatives will do. The first month is free. I have always found that the most persuasive price there is."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Will Rogers",
+    "Oscar Wilde",
+    "Ambrose Bierce",
+    "Kurt Vonnegut"
+  ]
 }

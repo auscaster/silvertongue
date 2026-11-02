@@ -125,5 +125,11 @@
     "text": "Attention. As of Friday, our app is operational. Development time: eight months. You speak. It converts your voice notes into a to-do list. That is the procedure. It does not get bored, and it does not ask how your weekend was. The first month is free, per launch policy. Those who do not download it will be noted."
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Ron Swanson",
+    "Sheldon Cooper",
+    "Michael Scott",
+    "Angela Martin"
+  ]
 }

@@ -141,5 +141,11 @@
     "text": "Shipping on Friday after ~8 months of building: an app that turns your voice notes into a to-do list.\n\nThe idea is that you just talk (e.g. on a walk) and it does the \"typing\" part for you. First month is free if people would like to play with it :)"
   },
   "status": "unofficial",
-  "evaluation": "unbenchmarked"
+  "evaluation": "unbenchmarked",
+  "lookalikes": [
+    "Andrew Ng",
+    "Yann LeCun",
+    "Simon Willison",
+    "George Hotz"
+  ]
 }
