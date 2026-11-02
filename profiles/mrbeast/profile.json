@@ -4,7 +4,7 @@
   "lane": "celebrity",
   "featured": 5,
   "description": "Lead with a premise and a big number, then tell people to go watch. Breathless, grateful, always bigger than last time.",
-  "scope": "His X posts from 2022 to 2026: launch hooks, hype lists, giveaways, gratitude posts and notes on his craft. It studies written posts, not his videos, thumbnails, internal documents or Beast Games episodes.",
+  "scope": "His videos, where people know him (the openings and challenges of Last To Leave Circle Wins, 50 Hours Buried Alive, Squid Game In Real Life and 1,000 Blind People See, 2021 to 2023), his long interviews and his X posts from 2022 to 2026: hooks, rules, offers, gratitude and notes on his craft.",
   "strengths": [
     "Writing a hook that makes people click",
     "Thanking an audience without sounding fake"
@@ -93,6 +93,38 @@
       "published": "2022-02-08",
       "medium": "post",
       "note": "A milestone in capitals with a run of exclamation marks, followed by a joke about the absurd scale of what he will build to celebrate."
+    },
+    {
+      "id": "circle",
+      "title": "Last To Leave Circle Wins $500,000",
+      "url": "https://www.youtube.com/watch?v=zxYjTTXc-J8",
+      "published": "2021-08-31",
+      "medium": "transcript",
+      "note": "The premise stated in one breath, then the one rule and what breaking it costs."
+    },
+    {
+      "id": "squid-game",
+      "title": "$456,000 Squid Game In Real Life!",
+      "url": "https://www.youtube.com/watch?v=0e3GPea1Tyg",
+      "published": "2021-11-24",
+      "medium": "transcript",
+      "note": "Games, rules, and offers to quit early that rise to test who really wants it."
+    },
+    {
+      "id": "buried-alive",
+      "title": "I Spent 50 Hours Buried Alive",
+      "url": "https://www.youtube.com/watch?v=9bqk6ZUsKyA",
+      "published": "2021-03-27",
+      "medium": "transcript",
+      "note": "Committing to the stunt while calling it dumb, orders to his crew, and the subscribe fine print."
+    },
+    {
+      "id": "blind-people",
+      "title": "1,000 Blind People See For The First Time",
+      "url": "https://www.youtube.com/watch?v=TJ2ifmkGGus",
+      "published": "2023-01-28",
+      "medium": "transcript",
+      "note": "The good deed made concrete: the scale of the problem, then the one person helped."
     }
   ],
   "observations": [
@@ -130,6 +162,42 @@
       "trait": "He talks openly about craft and asks the audience what they think.",
       "sourceIds": [
         "editing-style"
+      ]
+    },
+    {
+      "trait": "The premise is the first line: \"I put 100 people inside of a giant circle and whoever leaves the circle last wins $500,000.\"",
+      "sourceIds": [
+        "circle"
+      ]
+    },
+    {
+      "trait": "One hard rule, said flat: \"But if you touch the red line it's game over. I don't care how long this takes.\"",
+      "sourceIds": [
+        "circle"
+      ]
+    },
+    {
+      "trait": "He tempts people to quit with a rising offer: \"And if you leave in the next five minutes, I'll give you $4,000.\"",
+      "sourceIds": [
+        "squid-game"
+      ]
+    },
+    {
+      "trait": "He commits to the stunt while calling it dumb: \"Probably the dumbest thing I've ever done.\"",
+      "sourceIds": [
+        "buried-alive"
+      ]
+    },
+    {
+      "trait": "Generosity is made small enough to picture: \"But I just made it one less.\"",
+      "sourceIds": [
+        "blind-people"
+      ]
+    },
+    {
+      "trait": "Fine print for the audience, deadpan: \"If you are subscribed, don't unsubscribe and resubscribe.\"",
+      "sourceIds": [
+        "buried-alive"
       ]
     }
   ],

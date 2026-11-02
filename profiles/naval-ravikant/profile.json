@@ -3,7 +3,7 @@
   "name": "Naval Ravikant",
   "lane": "tech",
   "description": "Reduce an idea to its mechanism, then its shortest useful form. Compact distinctions with an explanation behind them.",
-  "scope": "An interpretation of selected public transcripts from 2019 and 2021. The profile distinguishes compact formulations from spoken explanation; it does not claim to cover his current X posts.",
+  "scope": "How to Get Rich, his podcast with Nivi expanding the 2018 tweetstorm, and selected public transcripts from 2019 and 2021. The profile distinguishes compact formulations from spoken explanation; it does not cover his current X posts.",
   "strengths": [
     "Separating ideas people conflate",
     "Compressing a mechanism into a memorable line"
@@ -36,6 +36,14 @@
       "published": "2021-03-12",
       "medium": "transcript",
       "note": "Abstract concerns are treated as practical problems. The collection moves between personal observation, definitions and consequences."
+    },
+    {
+      "id": "how-to-get-rich",
+      "title": "How to Get Rich: Every Episode",
+      "url": "https://nav.al/rich",
+      "published": "2019",
+      "medium": "transcript",
+      "note": "The tweetstorm's lines as chapter headings, each expanded in conversation: distinctions, compact claims and their consequences."
     }
   ],
   "observations": [
@@ -55,6 +63,30 @@
       "trait": "Bring an abstract claim back to how a person spends attention or makes a decision.",
       "sourceIds": [
         "happiness"
+      ]
+    },
+    {
+      "trait": "Two things run together, pulled apart and defined: \"Wealth is assets that earn while you sleep\"",
+      "sourceIds": [
+        "how-to-get-rich"
+      ]
+    },
+    {
+      "trait": "A short claim that stands alone: \"You won't get rich renting out your time\"",
+      "sourceIds": [
+        "how-to-get-rich"
+      ]
+    },
+    {
+      "trait": "The mechanism, stated plainly: \"Specific knowledge is found by pursuing your curiosity\"",
+      "sourceIds": [
+        "how-to-get-rich"
+      ]
+    },
+    {
+      "trait": "The practical consequence: \"Learn to sell, learn to build, if you can do both, you will be unstoppable\"",
+      "sourceIds": [
+        "how-to-get-rich"
       ]
     }
   ],

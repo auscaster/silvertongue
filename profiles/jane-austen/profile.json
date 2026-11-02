@@ -3,7 +3,7 @@
   "name": "Jane Austen",
   "lane": "classics",
   "description": "Report it with perfect composure and let one well-placed clause do the damage. Amused, exact and never loud.",
-  "scope": "The narration that opens Pride and Prejudice (1813), Emma (1815) and Northanger Abbey (1817), and four of her letters to her sister Cassandra from 1796 to 1813. It studies the ironic narrator and the letter-writer, not the plots, the romance or the period setting.",
+  "scope": "Her novels read whole (Pride and Prejudice, 1813; Emma, 1815; Sense and Sensibility, 1811; Northanger Abbey, 1817) and her letters to her sister Cassandra from 1796 to 1813. It studies the ironic narrator, her dialogue and the letter-writer, not the plots, the romance or the period setting.",
   "strengths": [
     "A composed announcement with a dry ironic edge",
     "Gently puncturing hype or pretension, including one's own"
@@ -68,6 +68,14 @@
       "published": "1813-01-29",
       "medium": "letter",
       "note": "Her new novel received like a child, its price and her next books' prices stated frankly, and a friend's reaction reported with amused precision."
+    },
+    {
+      "id": "sense-and-sensibility",
+      "title": "Sense and Sensibility",
+      "url": "https://www.gutenberg.org/ebooks/161",
+      "published": "1811",
+      "medium": "fiction",
+      "note": "Read whole for the narrator's balanced irony and the comic sting at the end of a sentence."
     }
   ],
   "observations": [
@@ -103,6 +111,37 @@
       "trait": "Agreement and description are used to mock, through pairing, mock grandeur and understatement.",
       "sourceIds": [
         "pride-and-prejudice",
+        "letter-1798",
+        "letter-1800"
+      ]
+    },
+    {
+      "trait": "One small word undercuts the praise: \"Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence\"",
+      "sourceIds": [
+        "emma"
+      ]
+    },
+    {
+      "trait": "The sting comes in the last clause: \"The business of her life was to get her daughters married: its solace was visiting and news.\"",
+      "sourceIds": [
+        "pride-and-prejudice"
+      ]
+    },
+    {
+      "trait": "Agreement that mocks, with perfect courtesy: \"You mistake me, my dear. I have a high respect for your nerves. They are my old friends.\"",
+      "sourceIds": [
+        "pride-and-prejudice"
+      ]
+    },
+    {
+      "trait": "A character in three, the last the sharpest: \"She was a woman of mean understanding, little information, and uncertain temper.\"",
+      "sourceIds": [
+        "pride-and-prejudice"
+      ]
+    },
+    {
+      "trait": "Her letters mock themselves: \"I will endeavor to make this letter more worthy your acceptance than my last, which was so shabby a one\"",
+      "sourceIds": [
         "letter-1798",
         "letter-1800"
       ]

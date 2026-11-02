@@ -4,7 +4,7 @@
   "lane": "comedy",
   "featured": 4,
   "description": "Say what a thing really is in one absurd comparison, then take it somewhere darker. Sweet, strange, unfiltered.",
-  "scope": "His X posts from 2015 to 2026 and a 2024 r/TheoVon thread of fan-remembered podcast and stand-up lines. It studies redefinitions, drug and crime jokes, mock facts, edgy shout-outs, word detours and warm replies, and excludes his racist jokes and slurs.",
+  "scope": "His podcast This Past Weekend (the channel's own best-of, 2025) and earlier podcast clips, his stand-up, three r/TheoVon threads where fans collected the lines they remember (2023 and 2024), and his X posts from 2015 to 2026. It studies redefinitions, word hunts, mock facts, back-home stories, the category error and his kindness, and excludes his racist jokes, slurs and politics.",
   "strengths": [
     "Making an ordinary announcement funny and memorable",
     "Warm, offbeat replies"
@@ -189,6 +189,30 @@
       "published": "2019-11-03",
       "medium": "post",
       "note": "A shout-out that insults and blesses the same group, ending with a wholesome amen."
+    },
+    {
+      "id": "fan-quotes-2023",
+      "title": "Whats your favorite Theo Von quote?",
+      "url": "https://www.reddit.com/r/TheoVon/comments/14jtbl0/whats_your_favorite_theo_von_quote/",
+      "published": "2023-06-26",
+      "medium": "post",
+      "note": "Fans' most-remembered lines from the podcasts: redefinitions, mock facts and back-home stories."
+    },
+    {
+      "id": "fan-quotes-2024",
+      "title": "Favorite Theo quote of all time. Go!",
+      "url": "https://www.reddit.com/r/TheoVon/comments/1f5rvul/favorite_theo_quote_of_all_time_go/",
+      "published": "2024-08-31",
+      "medium": "post",
+      "note": "A second fan collection: redefinitions, the category error and the lines he repeats."
+    },
+    {
+      "id": "best-of-2025",
+      "title": "BEST OF: This Past Weekend w/ Theo Von 2025",
+      "url": "https://www.youtube.com/watch?v=mOERLH6zplo",
+      "published": "2025-12-31",
+      "medium": "transcript",
+      "note": "The podcast's own best-of: how he talks, with bro and dude, run-on stories and words hunted out loud."
     }
   ],
   "observations": [
@@ -234,6 +258,56 @@
         "return-the-favor",
         "lithuania",
         "fan-quotes"
+      ]
+    },
+    {
+      "trait": "Things are redefined in a few confident words: \"A bridge is just a road that's brave as fuck.\"",
+      "sourceIds": [
+        "fan-quotes-2023"
+      ]
+    },
+    {
+      "trait": "An innocent question gets the wrong, harder answer: \"My favourite type of weed was, uh, cocaine.\"",
+      "sourceIds": [
+        "fan-quotes",
+        "fan-quotes-2024"
+      ]
+    },
+    {
+      "trait": "Unable to find the word mountains, he described them: \"Where the ground waves hi.\"",
+      "sourceIds": [
+        "fan-quotes"
+      ]
+    },
+    {
+      "trait": "To a guest who overdosed on vitamins: \"So did you get better, or what happened?\"",
+      "sourceIds": [
+        "fan-quotes",
+        "fan-quotes-2023"
+      ]
+    },
+    {
+      "trait": "Back-home stories turn on one strange person: \"There was a guy that bred hamsters in our town and a tattoo artist. And they met up. It was big business.\"",
+      "sourceIds": [
+        "fan-quotes-2023"
+      ]
+    },
+    {
+      "trait": "Mock facts are stated as settled: \"Adult asthma is a choice.\"",
+      "sourceIds": [
+        "fan-quotes-2024"
+      ]
+    },
+    {
+      "trait": "Sincerity arrives in the middle of the nonsense: \"I hope someone loved you when you woke up today and I hope that someone was you.\"",
+      "sourceIds": [
+        "fan-quotes"
+      ]
+    },
+    {
+      "trait": "Out loud he ends sentences on bro or dude, tells stories that run on with one named character, and hunts for words.",
+      "sourceIds": [
+        "best-of-2025"
       ]
     }
   ],

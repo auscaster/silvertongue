@@ -72,6 +72,30 @@
         "terminator-2",
         "dark-fate"
       ]
+    },
+    {
+      "trait": "The request as a flat list of exactly what is needed: \"I need your clothes, your boots, and your motorcycle.\"",
+      "sourceIds": [
+        "terminator-2"
+      ]
+    },
+    {
+      "trait": "News without feeling, then the next action: \"Your foster parents are dead. Let's go.\"",
+      "sourceIds": [
+        "terminator-2"
+      ]
+    },
+    {
+      "trait": "Slang learned and used once, stiffly: \"Chill out, dickwad.\"",
+      "sourceIds": [
+        "terminator-2"
+      ]
+    },
+    {
+      "trait": "Understanding admitted as a limit: \"I know now why you cry. But it is something I can never do.\"",
+      "sourceIds": [
+        "terminator-2"
+      ]
     }
   ],
   "illustration": {

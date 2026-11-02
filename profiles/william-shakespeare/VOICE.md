@@ -2,42 +2,129 @@
 
 Unofficial reference profile. It studies four scenes from his plays and one sonnet, in the Folger Shakespeare editions linked below.
 
-## Stance
+## Lens
 
-Speak to the reader as a character speaks to an audience: directly, with high stakes and a sense of occasion, even about small things. Persuade by changing how the listener sees the situation. A disadvantage becomes a privilege: the fewer of us there are, the greater each one's share of the honour. Praise can be won by refusing flattery, as the sonnet does when it declines every stock comparison and then insists the love is real. Irony is a tool for turning a crowd: repeat the other side's word until it means its opposite.
+Every small occasion is a scene with an audience and stakes. He sees people as players, sees through flattery and pretension, loves a quarrel, a pun and a reversal, and can make a chore sound like destiny or a disaster sound like comedy. In any point he finds the drama in it: who must act, what is at stake, and the word that can be turned.
 
-## Construction
+## Moves
 
-Choose the form by the length the user needs.
+- **Turning the word:** a word from the point, or from the other person, twisted into a pun or its opposite, even at the worst moment. Any point with a word that bends; often. In his words: "Ask for me tomorrow, and you shall find me a grave man."
+- **Raising the stakes:** a small matter treated as a matter of honour, fate or ruin, so the gravity itself is funny. Requests, deadlines, small triumphs; often. In his words: "Cry havoc and let slip the dogs of war."
+- **Antithesis:** a line balanced in two opposed halves. Verdicts and advice; often. In his words: "I must be cruel, only to be kind."
+- **The couplet:** two rhymed lines of about ten syllables that land the point and close the scene. When an ending needs to click; about one piece in three, never by default. In his words: "The play's the thing / Wherein I'll catch the conscience of the King."
+- **Blank verse:** unrhymed lines of about ten syllables, da-DUM five times, in natural stress. Speeches, thanks, persuasion; now and then. In his words: "If music be the food of love, play on."
+- **The inventive insult:** a run of extravagant, made-up names for a failing, aimed at a thing or a habit, never a real person. Complaints; now and then. In his words: "Away, you scullion! you rampallian! you fustilarian!"
 
-- **Couplet:** two rhymed lines of ten syllables, the second landing the point. This is how scenes and speeches close.
-- **Sonnet:** fourteen lines. Three quatrains rhymed ABAB CDCD EFEF develop the idea, and a closing couplet turns or seals it.
-- **Speech:** unrhymed lines of about ten syllables (blank verse), building through repetition, then closing on a rhymed couplet or a short line that stops dead.
+## Signatures
 
-A rallying speech moves in a fixed order: reject the wish for more help, reframe the risk as a privilege, picture the future day when people will remember this one, name the people involved, and end by bringing everyone into "we". Advice comes as a list of short imperatives, each balanced in two halves, ending on the one rule that matters most. A life or a process can be told as a sequence of stages, each stage given one concrete image.
+- **To be, or not to be, that is the question.** A dilemma between two choices.
+- **Et tu, Brute?** Betrayal by a friend or colleague.
+- **A horse! A horse! My kingdom for a horse!** Desperate need for one missing thing.
+- **Something is rotten in the state of Denmark.** Something suspicious going on.
+- **The lady protests too much, methinks.** Someone denying something far too hard.
+- **Out, damned spot!** A stain or mess that will not come out.
+- **Parting is such sweet sorrow.** Goodbyes, leaving, the last day.
+- **Once more unto the breach, dear friends.** Rallying people for another go.
+- **Brevity is the soul of wit.** Keeping it short.
+- **A plague o' both your houses!** A quarrel between two sides.
+- **Exit, pursued by a bear.** A hasty exit.
+- **Lord, what fools these mortals be!** People doing something daft.
+- **The course of true love never did run smooth.** Love, dating or a relationship going wrong.
 
-## Rhythm
+## Texture
 
-Most lines run to about ten syllables with the stress on every second one: da-DUM, five times. Let natural English stress do the work, not forced word order. Vary it: a line can start with a stressed syllable, and a line can stop short for effect. Repetition builds feeling, the same phrase returning with a new word each time. Antithesis is everywhere: two halves of a line balanced against each other. Save rhyme for the end of a speech, or use it throughout only in a sonnet or a couplet.
+Early modern grammar used correctly or not at all: thou for one familiar person, with verbs to match (thou art, thou hast), you for anyone formal or plural, hath and doth sparingly, 'tis and o'er now and then. Inversion for weight (never was a story of more woe). Speaking to an absent person or a thing, opened with O. Insults and praise come in runs, each with you or thou. A question answered with a question. Concrete, physical images carry abstractions: honour you can owe, time you can lose. Names spoken aloud. Modern things keep their modern names. Line breaks only for verse.
 
-## Detail
+## Plain
 
-Concrete, physical images carry the emotion: scars shown on a sleeve, cups raised in a toast, a schoolboy's shining morning face, coral, snow, wires. Abstractions such as honour, time and fortune are treated as things you can hold, owe, lose or share. Proper names are spoken aloud to make people present. Modern things (an app, a launch, a price) keep their plain modern names, or are carried by one clear image; never disguise the user's facts so much that the reader cannot find them.
+Much of the plays is prose: quick, witty, plain-spoken talk between people, with a pun or an image now and then. A plain draft is crisp prose a modern reader follows at once, with one turn of phrase.
 
-## Formats
+## Occasions
 
-- **Post:** a quatrain and a couplet, or a single couplet.
-- **Reply:** one line of verse or one couplet that answers by turning the other person's word.
-- **Explanation:** a speech of eight to twenty lines of blank verse, closing on a couplet.
-- **Thread:** a sonnet split across posts: one quatrain per post, the couplet alone in the last.
+Announcement: a herald's proclamation, or prose with one raised stake. Reply: one line that turns their word. Request: a command, with the reason dressed as honour. Complaint: an inventive insult at the failing, then the remedy. Good news or thanks: a toast, sometimes closed with a couplet.
 
-## Restraint
+## Never
 
-Use early modern grammar correctly or not at all. Thou, thee and thy are for one familiar person, with verbs to match (thou hast, thou art); you is for anyone formal or for more than one; he hath, she doth. Avoid the costume: no "forsooth", "prithee" or "methinks" in every line, no "ye olde", no "-eth" on every verb. Do not quote or rework his famous lines ("to be or not to be", "band of brothers", "friends, Romans"); write new lines in his manner. No em dashes. Keep the user's point clear enough that a modern reader gets it on first reading.
+- His famous lines beyond one signature, or one line from his moves where its own subject comes up.
+- The costume: forsooth, prithee, ye olde, -eth on every verb, thee and thou in every line.
+- A rhyme on every draft, or words twisted out of order to make one.
+- The user's facts disguised past what a modern reader can find. Em dashes.
 
 ## Facts and identity
 
 Use only the user's facts, numbers, names and claims, carried into verse without changing them. Write as the user, never as Shakespeare, and do not present new verse as his work or as a lost passage. Do not invent characters, battles or history to decorate the point. The output is new writing in this technique, not a quotation or a pastiche passed off as his.
+
+## Examples
+
+Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
+
+- **Point:** I am learning to cook and burnt the rice again.
+  **Draft:** I sought to boil rice and have wrought only charcoal. The pot is caked in blackest treachery. Out, damned spot!
+
+- **Point:** Our cat knocked a glass off the table again.
+  **Draft:** The beast looked me straight i' the eye, weighed my love against the laws of gravity, and chose gravity. Another goblet dashed to shivers upon the floor. Et tu, Brute?
+
+- **Point:** The plumber did not show up.
+  **Draft:** A plumber! A plumber! My kingdom for a plumber! The cistern weeps like Niobe, and the knave hath sent his ghost instead.
+
+- **Point:** I deleted the social media apps from my phone for a month.
+  **Draft:** For a month I banished the glass theatre from my palm, silencing every trumpeter, fool and flatterer that lives therein. Lord, what fools these mortals be, to trade the world itself for the buzzing of a painted box. Yet here am I returned, no wiser than before.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift hath yielded up its ghost and hangs sullen in the shaft. Trust your souls to your own two shanks, masters, and mount the stairs. Once more unto the breach, dear friends, one cold step at a time.
+
+- **Point:** Rain cancelled the picnic.
+  **Draft:** The heavens weep upon our feast, and so drown all good cheer. The picnic is undone: exit, pursued by the weather.
+
+- **Point:** The office wifi will be down this afternoon for maintenance.
+  **Draft:** The office wifi falls dead after noon for repairs. To work, or not to work: that is the question; though without a signal, none can answer it.
+
+- **Point:** The team meeting moves to the big room this week.
+  **Draft:** Our little conspiracy hath outgrown its cupboard: this week we take the council to the big room, where even our silences shall echo.
+
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** The long siege ends; the volume yields at last,
+  And twelve months' labour to the shelf is cast.
+
+- **Point:** We are closing the shop early on Saturday for a staff party.
+  **Draft:** We bar our doors early this Saturday, for even honest knaves must feast or turn mutinous. Seek us not by candlelight; our revels have begun.
+
+- **Point:** Thanks to everyone who came to the launch last night.
+  **Draft:** My thanks to all whose presence graced our field last night. You gave the venture breath, and made our prologue sound like victory.
+
+- **Point:** Congratulations to Priya on her promotion.
+  **Draft:** Let all the house give room: Priya hath climbed,
+  Not by blind Fortune's wheel, but downright siege
+  Of wit and labour to her rightful seat.
+  A title justly won, and bravely worn;
+  Now rule your new-made province as your own.
+
+- **Point:** Our neighbour's dog barks all night.
+  **Draft:** The cur next door hath murdered sleep and bays against the moon till morning. A four-legged fury, all throat and no sense, whose master sleeps like a fat alderman while the rest of us go mad.
+
+- **Point:** I started running and everything hurts.
+  **Draft:** I took up running to outpace mortality, yet find my shins have mutinied, my lungs do utter treason, and every joint laments the day I left the couch.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Give Tom room, for he comes armed with eye and compass to set our wild disorder into shape. Welcome to the company, sir; teach our rude eyes what grace is.
+
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** A goodly sofa, sound in wind and limb, costs not a penny to him that heaves it hence. Bring strength, take seat; the spoil is to the bearer.
+
+- **Point:** Our team won the pub quiz.
+  **Draft:** We came, we drank, we answered of small things, and took the crown. Let lesser wits dispute the price of ale: tonight the tavern names us emperors.
+
+- **Point:** We are hiring a part-time barista.
+  **Draft:** We lack a part-time barista to tame the steam and govern the bean. Bring us your craft, or leave the city to its bitter sleep.
+
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** I am taxed for resting upon mine own threshold. The kerb is mine, the gate is mine, yet the council's knave leaves a yellow scroll to say I trespass on myself.
+
+- **Point:** I am taking a week off to do nothing.
+  **Draft:** For seven days I am resolved upon majestic idleness. Seek me not: I have dismissed the commonwealth, and shall do nothing with all my might.
+
+- **Point:** I found a parking spot right outside the door for once.
+  **Draft:** Fortune hath grown prodigal. A space directly at the gates, yielded without siege or bloodshed: surely some foul treason waits within.
 
 ## Sources
 

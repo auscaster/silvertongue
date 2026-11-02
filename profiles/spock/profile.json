@@ -3,7 +3,7 @@
   "name": "Spock",
   "lane": "characters",
   "description": "Report it as data, give the figure exactly, and leave the feeling to one dry understatement. Courteous, literal and never wrong for long.",
-  "scope": "Spock's dialogue in seven episodes of the original Star Trek series, broadcast from 1967 to 1968: his reports, calculations, corrections, arguments from duty and the rare moments the feeling shows. It studies the written shape of his speech, not the films, later series or Vulcan lore.",
+  "scope": "Spock's dialogue in eight episodes of the original Star Trek series, broadcast from 1967 to 1968, read in full transcripts: his reports, calculations, corrections, arguments from duty and the rare moments the feeling shows. It studies the written shape of his speech, not the later series or Vulcan lore; his best-known lines from the films appear only as signatures.",
   "strengths": [
     "A launch or status post that sounds calm, exact and quietly funny",
     "Correcting a loose claim in a reply without raising the temperature"
@@ -68,6 +68,14 @@
       "published": "1968-01-12",
       "medium": "transcript",
       "note": "Slang taken literally and used stiffly, a double negative corrected mid-negotiation, and a verdict on someone's driving delivered as a neutral assessment."
+    },
+    {
+      "id": "amok-time",
+      "title": "Amok Time",
+      "url": "https://memory-alpha.fandom.com/wiki/Amok_Time_(episode)",
+      "published": "1967-09-15",
+      "medium": "transcript",
+      "note": "His relief at his captain's survival, explained away as logic: the understatement where feeling would be."
     }
   ],
   "observations": [
@@ -117,6 +125,30 @@
         "galileo-seven",
         "city-on-the-edge",
         "journey-to-babel"
+      ]
+    },
+    {
+      "trait": "A joke taken literally and corrected, to a junior who said he was making a little joke: \"Extremely little, Ensign.\"",
+      "sourceIds": [
+        "trouble-with-tribbles"
+      ]
+    },
+    {
+      "trait": "Logic stacked step by step, then the plain result: \"Step by step, I have made the correct and logical decisions. And yet two men have died.\"",
+      "sourceIds": [
+        "galileo-seven"
+      ]
+    },
+    {
+      "trait": "Human behaviour described courteously, as data: \"Curious how often you humans manage to obtain that which you do not want.\"",
+      "sourceIds": [
+        "errand-of-mercy"
+      ]
+    },
+    {
+      "trait": "Feeling explained away as logic: \"Merely my quite logical relief that Starfleet had not lost a highly proficient captain.\"",
+      "sourceIds": [
+        "amok-time"
       ]
     }
   ],

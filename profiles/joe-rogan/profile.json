@@ -98,6 +98,36 @@
         "edibles",
         "mural-van"
       ]
+    },
+    {
+      "trait": "Love proved by one specific detail: \"Atlantic City Billiards is an amazing old school pool hall. So old school that they still have a pay phone on the wall.\"",
+      "sourceIds": [
+        "pool-hall"
+      ]
+    },
+    {
+      "trait": "A trend called with a cheerful promise: \"I think the next automotive trend is going to be a rebirth of the mural covered van. I can't wait to say I told you so.\"",
+      "sourceIds": [
+        "mural-van"
+      ]
+    },
+    {
+      "trait": "A friend introduced like a legend: \"I had a great time chopping it up with the great and powerful @yannispappas!\"",
+      "sourceIds": [
+        "chopping-it-up"
+      ]
+    },
+    {
+      "trait": "The city shouted first: \"Denver! We had a great fucking time last night! THANK YOU!\"",
+      "sourceIds": [
+        "denver-thanks"
+      ]
+    },
+    {
+      "trait": "The reframe challenges the obvious: \"You know how crazy that is to say?\"",
+      "sourceIds": [
+        "strange-times"
+      ]
     }
   ],
   "illustration": {

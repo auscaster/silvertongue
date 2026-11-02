@@ -68,6 +68,14 @@
       "published": "2026-05-19",
       "medium": "post",
       "note": "A plain announcement in four short sentences: the news, why the moment matters, the feeling, and what he will keep doing."
+    },
+    {
+      "id": "english",
+      "title": "The hottest new programming language is English",
+      "url": "https://x.com/karpathy/status/1617979122625712128",
+      "published": "2023-01-24",
+      "medium": "post",
+      "note": "His best-known one-line observation, stated flatly with no punctuation."
     }
   ],
   "observations": [
@@ -103,6 +111,24 @@
     },
     {
       "trait": "Explanations persuade through a run of concrete failure cases rather than abstract warnings.",
+      "sourceIds": [
+        "recipe"
+      ]
+    },
+    {
+      "trait": "A first-hand report of what he is finding useful: \"Something I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest.\"",
+      "sourceIds": [
+        "knowledge-bases"
+      ]
+    },
+    {
+      "trait": "A new habit given a short label in quotes: \"There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists.\"",
+      "sourceIds": [
+        "vibe-coding"
+      ]
+    },
+    {
+      "trait": "What people assume set against what happens: \"Neural net training is a leaky abstraction\"",
       "sourceIds": [
         "recipe"
       ]

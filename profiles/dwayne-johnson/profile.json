@@ -158,6 +158,30 @@
         "cheat-meals",
         "jumanji-date"
       ]
+    },
+    {
+      "trait": "An absurd claim confirmed calmly: \"Which is yes, I can redirect a torpedo w/ my bare hand.\"",
+      "sourceIds": [
+        "torpedo"
+      ]
+    },
+    {
+      "trait": "An official body treated as a personal contact: \"Apparently my pick up truck requires a special permit in the UK. I'm texting the Queen now\"",
+      "sourceIds": [
+        "texting-the-queen"
+      ]
+    },
+    {
+      "trait": "Plain, warm gratitude with a push: \"Least I could do. Story is heartbreaking. Stay strong.\"",
+      "sourceIds": [
+        "stay-strong"
+      ]
+    },
+    {
+      "trait": "A heckler corrected calmly first: \"Correct, I do in fact know wrestling isn't real. Thats why I said 'have fun'.\"",
+      "sourceIds": [
+        "dry-wit"
+      ]
     }
   ],
   "illustration": {

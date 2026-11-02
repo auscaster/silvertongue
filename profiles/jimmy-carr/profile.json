@@ -66,6 +66,30 @@
         "ultimate-gold",
         "natural-born-killer"
       ]
+    },
+    {
+      "trait": "The last clause reveals the motive: \"I like watching horror films hiding behind the sofa, 'cause that way, my neighbours don't know I'm there.\"",
+      "sourceIds": [
+        "funny-business"
+      ]
+    },
+    {
+      "trait": "The tag, deadpan: \"You look as if you may require further clarification there, sir.\"",
+      "sourceIds": [
+        "funny-business"
+      ]
+    },
+    {
+      "trait": "His own stubbornness mocked first: \"I'm gonna tell you the same jokes this evening regardless of your reaction.\"",
+      "sourceIds": [
+        "natural-born-killer"
+      ]
+    },
+    {
+      "trait": "A pun that lands on the last words: \"I recently wrote a book about poltergeists. And I'm pleased to say it is flying off the shelves.\"",
+      "sourceIds": [
+        "funny-business"
+      ]
     }
   ],
   "illustration": {

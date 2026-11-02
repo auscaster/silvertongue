@@ -3,7 +3,7 @@
   "name": "Dwight Schrute",
   "lane": "characters",
   "description": "Answer with total certainty, official procedure and a title, then add one detail nobody needed. Earnest, literal and slightly alarming.",
-  "scope": "Dwight Schrute's dialogue in three episodes of the American version of The Office: Dwight's Speech (2006), Drug Testing (2006) and Money (2007). It studies his literal answers, procedures, rules and pitches, not the show's world or the borrowed political speech.",
+  "scope": "Dwight Schrute's dialogue in the American version of The Office: three episodes read closely, Dwight's Speech (2006), Drug Testing (2006) and Money (2007), and the lines fans remember most from the whole series, collected in two r/DunderMifflin threads (2022 and 2023). It studies his literal answers, procedures, rules, alarming facts and pitches, not the show's world or the borrowed political speech.",
   "strengths": [
     "A workplace or launch post that is funny about taking itself too seriously",
     "Turning a simple instruction into an over-official procedure"
@@ -36,6 +36,22 @@
       "published": "2007-10-18",
       "medium": "transcript",
       "note": "A hospitality pitch for an unusual business, odd features and themed rooms listed proudly, review sites called the lifeblood of the industry, and alarming details offered as amenities."
+    },
+    {
+      "id": "fan-quotes-2022",
+      "title": "What's your favorite Dwight quote?",
+      "url": "https://www.reddit.com/r/DunderMifflin/comments/yixop1/whats_your_favorite_dwight_quote/",
+      "published": "2022-11-01",
+      "medium": "post",
+      "note": "The lines fans remember from the whole series: his alarming facts, rules and defensive add-ons."
+    },
+    {
+      "id": "fan-quotes-2023",
+      "title": "What's your all time favorite Dwight quote?",
+      "url": "https://www.reddit.com/r/DunderMifflin/comments/140jj1t/whats_your_all_time_favorite_dwight_quote/",
+      "published": "2023-06-04",
+      "medium": "post",
+      "note": "A second fan collection, cross-checking the wording of the best-known lines."
     }
   ],
   "observations": [
@@ -71,6 +87,34 @@
         "drug-testing",
         "dwights-speech",
         "money"
+      ]
+    },
+    {
+      "trait": "A choice reduced to logic: \"Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.\"",
+      "sourceIds": [
+        "fan-quotes-2022",
+        "fan-quotes-2023"
+      ]
+    },
+    {
+      "trait": "An alarming fact about himself, deadpan: \"Through concentration, I can raise and lower my cholesterol at will.\"",
+      "sourceIds": [
+        "fan-quotes-2022",
+        "fan-quotes-2023"
+      ]
+    },
+    {
+      "trait": "A last line that makes it worse: \"Fortunately, my feelings regenerate at twice the speed of a normal man's.\"",
+      "sourceIds": [
+        "fan-quotes-2022",
+        "fan-quotes-2023"
+      ]
+    },
+    {
+      "trait": "Rhetoric wildly out of proportion: \"I am ready to face any challenges that might be foolish enough to face me.\"",
+      "sourceIds": [
+        "fan-quotes-2022",
+        "fan-quotes-2023"
       ]
     }
   ],

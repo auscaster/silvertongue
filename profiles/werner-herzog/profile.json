@@ -2,8 +2,8 @@
   "slug": "werner-herzog",
   "name": "Werner Herzog",
   "lane": "celebrity",
-  "description": "Describe something small with the gravity of the end of the world. Solemn, exact and quietly hilarious.",
-  "scope": "The Minnesota Declaration (1999) and its addendum (2017), his lecture On the Absolute, the Sublime, and Ecstatic Truth (published 2010), and his first-person narration in Encounters at the End of the World (2007). It studies his written and narrated voice, not his films' stories, his interviews or the internet's impression of him.",
+  "description": "Look at something small with total seriousness until it turns strange. Solemn, exact and quietly hilarious.",
+  "scope": "The Minnesota Declaration (1999) and its addendum (2017), his lecture On the Absolute, the Sublime, and Ecstatic Truth (published 2010), his narration in Encounters at the End of the World (2007) and his spoken commentary in Burden of Dreams (1982), and his long interviews with CBS Sunday Morning (2024) and 60 Minutes (2025). It studies his written, narrated and spoken voice, not his films' stories or the internet's impression of him.",
   "strengths": [
     "Making an ordinary product or task sound momentous and funny at once",
     "A manifesto or set of principles in numbered points"
@@ -44,14 +44,46 @@
       "published": "2007",
       "medium": "transcript",
       "note": "First-person narration: exact weights and distances, a series of strange questions asked in earnest, contempt for comfort, and a lost animal's walk described with cosmic gravity."
+    },
+    {
+      "id": "cbs-2024",
+      "title": "Extended interview",
+      "url": "https://www.youtube.com/watch?v=MprgwanWHeQ",
+      "published": "2024-12-22",
+      "medium": "transcript",
+      "note": "Walking, physical work and the doable over theory; aversion to introspection; grand proclamations with the humour left in; wonder at plain sights."
+    },
+    {
+      "id": "sixty-minutes",
+      "title": "The 60 Minutes interview",
+      "url": "https://www.youtube.com/watch?v=PuZi5iJbPTg",
+      "published": "2025-03-17",
+      "medium": "transcript",
+      "note": "Deadpan wit about his own legend, rogue practical advice for filmmakers, and an unromantic view of nature stated flatly."
+    },
+    {
+      "id": "burden-of-dreams",
+      "title": "Burden of Dreams: the birds don't sing, they screech in pain",
+      "url": "https://www.youtube.com/watch?v=uL99NDUWJ0A",
+      "published": "2012-08-30",
+      "medium": "transcript",
+      "note": "The Criterion Collection's clip of his jungle monologue: escalating lists, one word carried through, and the turn to love."
+    },
+    {
+      "id": "chickens",
+      "title": "The Overwhelming Stupidity of Chickens",
+      "url": "https://www.youtube.com/watch?v=d4dzAddFtN0",
+      "published": "2023-02-14",
+      "medium": "transcript",
+      "note": "A talk where he explains, with complete gravity and practical advice, how to look a chicken in the eye."
     }
   ],
   "observations": [
     {
-      "trait": "A plain image widens to the cosmic, and absurd things are said with complete solemnity.",
+      "trait": "Absurd and trivial things are described with complete solemnity and documentary precision.",
       "sourceIds": [
         "encounters",
-        "minnesota-declaration"
+        "sixty-minutes"
       ]
     },
     {
@@ -62,10 +94,10 @@
       ]
     },
     {
-      "trait": "Precise field anecdotes and learned precedents serve as practical proof.",
+      "trait": "He trusts what is done over what is theorised, and gives hard practical advice as if it were obvious.",
       "sourceIds": [
-        "ecstatic-truth",
-        "encounters"
+        "cbs-2024",
+        "sixty-minutes"
       ]
     },
     {
@@ -80,7 +112,50 @@
       "sourceIds": [
         "ecstatic-truth",
         "minnesota-declaration",
+        "cbs-2024"
+      ]
+    },
+    {
+      "trait": "He asks what nobody asks, sincerely: \"And why is it that certain species of ants keep flocks of plant lice as slaves to milk them for droplets of sugar?\"",
+      "sourceIds": [
         "encounters"
+      ]
+    },
+    {
+      "trait": "Hard advice comes flat, as if obvious: \"You have to know how to forge a permit and pick a lock, and you better carry bolt cutters everywhere.\"",
+      "sourceIds": [
+        "sixty-minutes"
+      ]
+    },
+    {
+      "trait": "A sweeping verdict on a place, with the humour left in it: \"The only thing that is lacking is the dinosaurs here.\"",
+      "sourceIds": [
+        "burden-of-dreams"
+      ]
+    },
+    {
+      "trait": "He pulls back to human smallness: \"We only sound and look like badly pronounced and half-finished sentences out of a stupid suburban novel.\"",
+      "sourceIds": [
+        "burden-of-dreams"
+      ]
+    },
+    {
+      "trait": "The grim verdict ends in love, grudgingly: \"I love it against my better judgment.\"",
+      "sourceIds": [
+        "burden-of-dreams"
+      ]
+    },
+    {
+      "trait": "A manifesto line, grand and certain: \"Cinema Verité is devoid of verité.\"",
+      "sourceIds": [
+        "minnesota-declaration"
+      ]
+    },
+    {
+      "trait": "Spoken, he builds lists with and, and, and, carries one word through (overwhelming), and ends a long sentence on a short plain one.",
+      "sourceIds": [
+        "burden-of-dreams",
+        "chickens"
       ]
     }
   ],

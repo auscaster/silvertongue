@@ -7,7 +7,7 @@ import {
 	studied,
 	theMove,
 	type VoiceProfile,
-} from "../spec/voice/v1/profile.ts";
+} from "../spec/voice/v2/profile.ts";
 
 const start = "<!-- catalogue:start -->";
 const end = "<!-- catalogue:end -->";

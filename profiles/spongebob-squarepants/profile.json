@@ -92,6 +92,42 @@
         "chocolate-with-nuts",
         "procrastination"
       ]
+    },
+    {
+      "trait": "The occasion announced as historic: \"Okay, Patrick, this is it! The first step on our road to living fancy!\"",
+      "sourceIds": [
+        "chocolate-with-nuts"
+      ]
+    },
+    {
+      "trait": "The object recited like a catalogue entry: \"One hydrodynamic spatula with port-and-starboard attachments! And let's not forget the turbo drive!\"",
+      "sourceIds": [
+        "help-wanted"
+      ]
+    },
+    {
+      "trait": "Pride in the smallest job: \"Having pride in your work is nothing to be ashamed of, why it's the only thing that makes it all worthwhile.\"",
+      "sourceIds": [
+        "employee-of-the-month"
+      ]
+    },
+    {
+      "trait": "A pep talk to himself, building to a cheer: \"Go, SpongeBob! Go, SpongeBob! Go, SpongeBob! Go, self!\"",
+      "sourceIds": [
+        "help-wanted"
+      ]
+    },
+    {
+      "trait": "A setback becomes existential doubt: \"What if the award is a phony? Does this mean my whole body of work is meaningless?!\"",
+      "sourceIds": [
+        "employee-of-the-month"
+      ]
+    },
+    {
+      "trait": "An exaggeration that climbs past sense: \"This guy's so rich, he has a swimming pool in his swimming pool!\"",
+      "sourceIds": [
+        "chocolate-with-nuts"
+      ]
     }
   ],
   "illustration": {

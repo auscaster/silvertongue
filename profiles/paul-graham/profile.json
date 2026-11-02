@@ -3,7 +3,7 @@
   "name": "Paul Graham",
   "lane": "tech",
   "description": "Follow a small observation until it exposes a bigger problem. Ordinary words, patient reasoning, an earned surprise.",
-  "scope": "An interpretation of three essays about writing, published between 2004 and 2021. It studies explanatory prose, not his current X feed or the full range of his essays.",
+  "scope": "His essays on writing (2004 to 2021) and the essays where his best-known lines come from: How to Get Startup Ideas (2012), Relentlessly Resourceful (2009), Do Things that Don't Scale (2013), Write Like You Talk and Default Alive or Default Dead? (2015), and Founder Mode (2024). It studies explanatory prose, not his current X feed.",
   "strengths": [
     "Explaining a counterintuitive idea",
     "Finding a hidden assumption"
@@ -36,6 +36,22 @@
       "published": "2021-03",
       "medium": "essay",
       "note": "Familiar words carry an explanation about reader attention. The concrete food analogy makes an abstract goal easy to picture."
+    },
+    {
+      "id": "startup-ideas",
+      "title": "How to Get Startup Ideas",
+      "url": "https://paulgraham.com/startupideas.html",
+      "published": "2012-11",
+      "medium": "essay",
+      "note": "The obvious approach turned on its head in the opening, then worked out with examples."
+    },
+    {
+      "id": "relentlessly-resourceful",
+      "title": "Relentlessly Resourceful",
+      "url": "https://paulgraham.com/relres.html",
+      "published": "2009-03",
+      "medium": "essay",
+      "note": "A claim narrowed honestly as he goes, an inspectable image, and a short sentence naming the implication."
     }
   ],
   "observations": [
@@ -56,6 +72,36 @@
       "sourceIds": [
         "briefly",
         "essay"
+      ]
+    },
+    {
+      "trait": "The obvious approach turned: \"The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.\"",
+      "sourceIds": [
+        "startup-ideas"
+      ]
+    },
+    {
+      "trait": "An image the reader can check: \"you don't know whether you're about to plow through a block of foam or granite.\"",
+      "sourceIds": [
+        "relentlessly-resourceful"
+      ]
+    },
+    {
+      "trait": "A claim narrowed where it matters: \"I'd say that yes, surprisingly often it can. Not to everyone, but to many people.\"",
+      "sourceIds": [
+        "relentlessly-resourceful"
+      ]
+    },
+    {
+      "trait": "A short sentence naming the implication: \"'Make something people want' is the destination, but 'Be relentlessly resourceful' is how you get there.\"",
+      "sourceIds": [
+        "relentlessly-resourceful"
+      ]
+    },
+    {
+      "trait": "Advice compressed to an instruction: \"just say the most important sentence first\"",
+      "sourceIds": [
+        "briefly"
       ]
     }
   ],

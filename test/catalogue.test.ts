@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import { test } from "node:test";
 import { fullCatalogue, render } from "../scripts/catalogue.ts";
-import { readProfiles } from "../spec/voice/v1/profile.ts";
+import { readProfiles } from "../spec/voice/v2/profile.ts";
 
 const profiles = await readProfiles(
 	new URL("../profiles", import.meta.url).pathname,

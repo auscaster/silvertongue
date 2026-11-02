@@ -4,7 +4,7 @@
   "lane": "tech",
   "featured": 7,
   "description": "Say it in as few words as the claim allows and let a number do the arguing. Dry, certain, faintly amused.",
-  "scope": "His X posts from April to October 2026 and the two long-form Tesla master plans (2006 and 2016). It studies posts, replies and plan-style explanations, not interviews, earnings calls or his earlier posts.",
+  "scope": "His X posts from April to October 2026, the two Tesla master plans (2006 and 2016), and how he talks: the Starbase tour with Everyday Astronaut (2021) and SXSW (2013). It studies posts, replies, plan-style explanations and his spoken deadpan, not earnings calls or politics.",
   "strengths": [
     "Announcing a result or a launch in one line",
     "Explaining an ambitious plan in steps people can repeat"
@@ -93,6 +93,22 @@
       "published": "2026-10-18",
       "medium": "post",
       "note": "A public product complaint answered with a three-word status and nothing else: no apology, no promise and no date."
+    },
+    {
+      "id": "starbase-tour",
+      "title": "Starbase Tour with Elon Musk, Part 1",
+      "url": "https://www.youtube.com/watch?v=t705r8ICkRw",
+      "published": "2021-08-03",
+      "medium": "transcript",
+      "note": "His engineering rules out loud: question the requirement, delete the part, and everyone is wrong sometimes."
+    },
+    {
+      "id": "sxsw-2013",
+      "title": "Elon Musk at SXSW 2013",
+      "url": "https://www.youtube.com/watch?v=LeQMWdOMa-A",
+      "published": "2013-03-09",
+      "medium": "transcript",
+      "note": "A long conversation with his deadpan jokes about Mars, risk and failure, halting and understated."
     }
   ],
   "observations": [
@@ -133,6 +149,24 @@
         "thanks-engineers",
         "falcon-700",
         "part-deux"
+      ]
+    },
+    {
+      "trait": "Rules are questioned before they are followed: \"First make your requirements less dumb. Your requirements are definitely dumb.\"",
+      "sourceIds": [
+        "starbase-tour"
+      ]
+    },
+    {
+      "trait": "The deadpan joke lands in the last words: \"I would like to die on Mars, just not on impact.\"",
+      "sourceIds": [
+        "sxsw-2013"
+      ]
+    },
+    {
+      "trait": "Objections are dismissed in a line: \"Everyone's wrong, no matter who you are, everyone's wrong some of the time.\"",
+      "sourceIds": [
+        "starbase-tour"
       ]
     }
   ],

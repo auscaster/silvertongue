@@ -3,7 +3,7 @@
   "name": "Abraham Lincoln",
   "lane": "politicians",
   "description": "Say it in as few plain words as the moment allows, then hand the work to everyone. Grave, fair, brief.",
-  "scope": "His speeches at Springfield (1858), Cooper Union (1860), Gettysburg (1863) and his Second Inaugural (1865), and his 1862 public letter to Horace Greeley. It studies short occasion speeches and reasoned public statements, not his debates, legal writing or private letters.",
+  "scope": "His speeches at Springfield (1858), Cooper Union (1860), his First Inaugural (1861), Gettysburg (1863) and his Second Inaugural (1865), his 1862 public letter to Horace Greeley, and the Gutenberg collection of his speeches and letters from 1832 to 1865. It studies short occasion speeches, reasoned public statements and his plain talk, not his debates or legal writing.",
   "strengths": [
     "Giving a short announcement weight and dignity",
     "Explaining a hard decision fairly"
@@ -52,6 +52,22 @@
       "published": "1862-08-22",
       "medium": "letter",
       "note": "A public reply that sets out every option in turn and what he would do under each, then separates his official duty from his personal wish and states both."
+    },
+    {
+      "id": "first-inaugural",
+      "title": "First Inaugural Address",
+      "url": "https://avalon.law.yale.edu/19th_century/lincoln1.asp",
+      "published": "1861-03-04",
+      "medium": "speech",
+      "note": "Common ground named before difference, closing on friendship and the better angels."
+    },
+    {
+      "id": "speeches-letters",
+      "title": "Speeches & Letters of Abraham Lincoln, 1832-1865",
+      "url": "https://www.gutenberg.org/ebooks/14721",
+      "published": "1907",
+      "medium": "letter",
+      "note": "The collected speeches and letters, read whole, with his plain remarks on criticism and doing his best."
     }
   ],
   "observations": [
@@ -82,6 +98,30 @@
         "cooper-union",
         "second-inaugural",
         "gettysburg"
+      ]
+    },
+    {
+      "trait": "Common ground before difference: \"We are not enemies, but friends. We must not be enemies.\"",
+      "sourceIds": [
+        "first-inaugural"
+      ]
+    },
+    {
+      "trait": "Duty held apart from what others say: \"If the end brings me out all right, what is said against me won't amount to anything.\"",
+      "sourceIds": [
+        "speeches-letters"
+      ]
+    },
+    {
+      "trait": "The words made small beside the deeds: \"The world will little note nor long remember what we say here, but it can never forget what they did here.\"",
+      "sourceIds": [
+        "gettysburg"
+      ]
+    },
+    {
+      "trait": "A closing invitation to finish the work: \"Let us have faith that right makes might, and in that faith let us to the end dare to do our duty as we understand it.\"",
+      "sourceIds": [
+        "cooper-union"
       ]
     }
   ],

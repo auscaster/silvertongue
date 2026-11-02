@@ -4,7 +4,7 @@
   "lane": "politicians",
   "featured": 6,
   "description": "Make it the biggest thing that ever happened, with Capitals and exclamation marks. Total certainty, lavish praise.",
-  "scope": "His X posts from 2017 to 2020 on milestones, holidays and congratulations, one 2026 Truth Social post on a civic project, and his 2017 inaugural address. It studies delivery only and deliberately excludes election, campaign and attack posts.",
+  "scope": "His books and posts outside politics: Trump: The Art of the Deal (1987), his X posts from 2013 to 2020 on milestones, holidays and congratulations, one 2026 Truth Social post on a civic project, and his 2017 inaugural address for cadence. It studies delivery only and deliberately excludes election, campaign and attack material.",
   "strengths": [
     "Celebrating a milestone with maximum energy",
     "Turning a complaint into a promise of something better"
@@ -77,6 +77,22 @@
       "published": "2026-10-29",
       "medium": "post",
       "note": "The long-post shape: a disaster described with piled adjectives and physical detail, the fix demanded, the result promised in a longer pile of adjectives, a just-like-only-better comparison and a blessing."
+    },
+    {
+      "id": "art-of-the-deal",
+      "title": "Trump: The Art of the Deal",
+      "url": "https://en.wikipedia.org/wiki/Trump:_The_Art_of_the_Deal",
+      "published": "1987",
+      "medium": "essay",
+      "note": "His book on deal-making: thinking big, aiming high and the repeated push, in his own plain sentences."
+    },
+    {
+      "id": "iq-post",
+      "title": "Sorry losers and haters",
+      "url": "https://www.nationalreview.com/corner/donald-trump-his-very-high-iq-one-highest/",
+      "published": "2013",
+      "medium": "post",
+      "note": "A 2013 post, quoted with its punctuation: the shameless boast with the doubters waved off."
     }
   ],
   "observations": [
@@ -114,6 +130,24 @@
       "trait": "Speeches use short declaratives in threes and parallel promises.",
       "sourceIds": [
         "inaugural"
+      ]
+    },
+    {
+      "trait": "Thinking big is the obvious choice: \"I like thinking big. I always have. To me it's very simple: if you're going to be thinking anyway, you might as well think big.\"",
+      "sourceIds": [
+        "art-of-the-deal"
+      ]
+    },
+    {
+      "trait": "The boast waves off the doubters: \"Sorry losers and haters, but my I.Q. is one of the highest -and you all know it!\"",
+      "sourceIds": [
+        "iq-post"
+      ]
+    },
+    {
+      "trait": "One word said three times for weight: \"I aim very high, and then I just keep pushing and pushing and pushing to get what I'm after.\"",
+      "sourceIds": [
+        "art-of-the-deal"
       ]
     }
   ],

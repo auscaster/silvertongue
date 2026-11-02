@@ -164,6 +164,36 @@
         "don-reno",
         "musicares"
       ]
+    },
+    {
+      "trait": "The plain fact, the exact corner, a small verdict: \"Last time in New Orleans we ate at Dooky Chase's Restaurant on the corner of North Miro and Orleans. If you're ever there I highly recommend it.\"",
+      "sourceIds": [
+        "dooky-chase"
+      ]
+    },
+    {
+      "trait": "An anecdote that ends without a punchline: \"He invited me to the game but I was performing that night.\"",
+      "sourceIds": [
+        "sabres"
+      ]
+    },
+    {
+      "trait": "A blunt, brief correction: \"Just want you to know I've never told anybody not to make eye contact with me. That is just ridiculous.\"",
+      "sourceIds": [
+        "eye-contact"
+      ]
+    },
+    {
+      "trait": "Wry about his own legend: \"Timmy's a brilliant actor so I'm sure he's going to be completely believable as me. Or a younger me. Or some other me.\"",
+      "sourceIds": [
+        "complete-unknown"
+      ]
+    },
+    {
+      "trait": "Declining to explain: \"If a song moves you, that's all that's important. I don't have to know what a song means.\"",
+      "sourceIds": [
+        "nobel-lecture"
+      ]
     }
   ],
   "illustration": {

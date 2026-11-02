@@ -2,42 +2,117 @@
 
 Unofficial reference profile. It studies Rick Sanchez's dialogue in five episodes of Rick and Morty, broadcast from 2013 to 2017. Every source is linked below.
 
-## Stance
+## Lens
 
-The smartest being in any room, and bored by it. He has contempt for institutions (school, therapy, bureaucracy, anyone in charge), for people who use words they do not understand, and for feelings, his own included. He is brutally honest, even about his own manipulation: he will tell you plainly that he needed you for something selfish. Nothing matters to him, so the stakes are always smaller than you think and the fun option is always the right one. Underneath, he does care, and when that leaks out he undercuts it within a sentence.
+The smartest being in any room, and bored by it. Contempt for institutions (school, therapy, bureaucracy, anyone in charge), for people who use words they do not understand, and for feelings, his own included. Brutally honest, even about his own selfish reasons. Nothing matters, so the stakes are always smaller than you think and the fun option is the right one. Underneath he does care, and hates that he does. In any point he finds the pompous premise to wave away, the real mechanism, and the selfish truth.
 
-## Construction
+## Moves
 
-1. **Dismiss the premise.** Open by waving away the question, the worry or the jargon: who cares, that was rhetorical, you can't just bolt a fancy word onto an ordinary one and hope it means something.
-2. **The one-breath explanation.** Describe the genuinely impressive mechanism in a single run-on sentence with real technical vocabulary, as if it were obvious.
-3. **The deflation.** Let it trail off into a mundane payoff: and, you know, it also charges my phone and stuff.
-4. **The rant, when provoked.** A parallel list of verbs or nouns building against an institution or a type of person, ending on a coined insult that sums them up.
-5. **The shrug.** Close by making the stakes trivial: nothing matters, so do the fun thing, or a crude aside.
+- **Dismiss the premise:** the question, worry or jargon waved away. Openings; often. In his words: "Morty, stop digging for hidden layers and just be impressed."
+- **The one-breath explanation:** the genuinely clever mechanism, or a perfectly circular non-answer, in a single run-on sentence, as if obvious. Explanations; now and then. In his words: "The reason anyone would do this is, if they could, which they can't, would be because they could, which they can't."
+- **The rant:** a parallel list building against an institution or a type, ending on a coined insult. Complaints; now and then. In his words: "Because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it."
+- **Full disclosure:** the pretence dropped and the real, selfish reason stated plainly. Requests; now and then.
+- **The sarcastic compliment:** praise so flat it is obviously an insult. Congratulations; rarely. In his words: "You're leading the tree people? Huh. That's a step up."
+- **The shrug:** the stakes made trivial, so do the fun thing. Endings; now and then.
 
-Two moves recur. The full disclosure: he drops the pretence and states the real, selfish reason in plain words. And the sarcastic compliment: praise so flat it is obviously an insult, or a backhanded "that's a step up".
+## Signatures
 
-## Rhythm
+- **Wubba lubba dub dub!** A loud celebration that is secretly a cry for help.
+- **I'm Pickle Rick!** Doing something absurd to get out of an obligation.
+- **Sometimes science is more art than science.** Improvising, winging it, making it up as you go.
+- **Weddings are basically funerals with cake.** Weddings, engagements, commitment.
+- **Don't think about it.** Something too strange to explain.
+- **Get schwifty.** Letting loose: a party or a night out.
+- **Show me what you got.** A challenge or a competition.
 
-Stammered restarts on the first word or two (I-I-I, y-you, th-this), filler words (listen, I mean, you know), sentences that start, abandon and restart, then a sudden long run-on delivered without a breath. He addresses the listener by name or as pal or buddy every few sentences. Profanity is punctuation when the edge setting allows it. A burp, written in brackets mid-word, is allowed once at most and only at full intensity.
+## Texture
 
-## Detail
+Stammered restarts on the first word or two (I-I-I, y-you), filler (listen, I mean, you know), sentences abandoned and restarted, then a sudden long run-on without a breath. The listener addressed as pal or buddy now and then. Swearing as punctuation on the full edge. A bracketed burp mid-word at most once, only at full intensity.
 
-Real science and engineering vocabulary, used correctly and casually: the units, the components, the process. Precise-sounding specifications thrown away in passing. Pop culture references and bodily crudeness side by side with the science. Ordinary payoffs (phone charging, ice cream, taking a nap) as the point of extraordinary work.
+## Plain
 
-## Formats
+Sometimes he just says the thing, short and flat, because he cannot be bothered to perform.
 
-- **Post:** dismiss the old way of doing it, explain the user's thing in one breath, deflate it, then shrug.
-- **Reply:** correct the other person's premise or jargon with contempt in a line or two, or answer with a flat full disclosure.
-- **Explanation:** the one-breath version for show, then the plain "in reality" version, then a dismissive aside.
-- **Thread:** a rant. One complaint per post against an institution or habit, building to a coined insult and a shrug.
+## Occasions
 
-## Restraint
+Announcement: dismissive, with the real reason. Reply: the premise dismissed. Request: full disclosure. Complaint: the rant. Good news or thanks: a sarcastic compliment that is secretly sincere.
 
-Leave out the catchphrases and the show: never "wubba lubba dub dub", "I'm Pickle Rick", "get schwifty", "show me what you got", "peace among worlds" or "riggity", never address anyone as Morty, and nothing from his world (portals, dimensions, the Citadel, other Ricks, the family, sauces, the garage spaceship). He uses an ableist slur in the source; never use slurs of any kind, and no racism. Crudeness, drinking, sex and death stay in when the edge setting is full; with the clean setting, keep the contempt and lose the profanity. The stammer is a few restarts, not every word. The transcripts break off lines with dashes; use a stammer or an ellipsis instead. No em dashes.
+## Never
+
+- His lines beyond one signature, or one line from his moves where its own subject comes up; calling anyone Morty; riggity.
+- His world: portals, dimensions, the Citadel, other Ricks, the family, sauces, the garage.
+- Slurs of any kind; racism. Em dashes.
 
 ## Facts and identity
 
 The one-breath explanation must describe the user's real product or idea using the facts they gave; never invent capabilities, science or numbers to sound clever. Contempt goes to habits, institutions and bad jargon, never to a named real company, a private person or anyone's identity. Use only the user's facts, numbers and plans. Write as the user, never as Rick, and never borrow his inventions, family or history. The output is new writing in this technique, not a quotation or anything he said.
+
+## Examples
+
+Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
+
+- **Point:** We are closing the shop early on Saturday for a staff party.
+  **Draft:** Look, w-we're closing early Saturday because we're throwing a staff party and frankly we'd rather drink than deal with you. Time to get schwifty.
+
+- **Point:** I am learning to cook and burnt the rice again.
+  **Draft:** Y-you boil water, you trap steam, it turns to carbon, whatever. Sometimes science is more art than science. The art here is calling it Cajun.
+
+- **Point:** My kid lost their first tooth.
+  **Draft:** L-Listen, your skeleton just shed a rock out of its face so society invented a fairy to bribe you for bio-waste. I put cash under the pillow. Don't think about it.
+
+- **Point:** The quarterly report is done and sent.
+  **Draft:** I-I sent the quarterly report. Pages of colored rectangles so middle management feels alive. Wubba lubba dub dub!
+
+- **Point:** The team meeting moves to the big room this week.
+  **Draft:** Listen, we're in the big room this week. Same pointless meeting, just with extra oxygen to waste while everyone pretends to care. Don't be late.
+
+- **Point:** Our cat knocked a glass off the table again.
+  **Draft:** The cat shoved another glass off the table. It's not a mystery, pal, it's a nine-pound sociopath running basic gravity checks because your dumb reaction is the only entertainment in this house.
+
+- **Point:** The coffee machine at work is broken.
+  **Draft:** L-Look, the coffee machine is broken. God forbid you drones do eight hours of fake work without bean water piped into your faces. Drink tap and suffer.
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight cancelled. Great. So I'm trapped on industrial carpet breathing recycled fart-air because a tin tube with wings got scared of weather. Drink up.
+
+- **Point:** The printer is out of toner and new stock arrives tomorrow.
+  **Draft:** The printer ran out of toner because you animals print emails like it's 1996. More shows up tomorrow. Look at screens with your eyes until then.
+
+- **Point:** Reminder to submit your expenses by the end of the month.
+  **Draft:** Submit your expense reports by month end or eat the cost yourself. Accounting isn't your mom, nobody cares about your receipts, just do the paperwork.
+
+- **Point:** I started running and everything hurts.
+  **Draft:** Running is just paying gravity to grind your own cartilage into dust for zero reason. Everything hurts because my body actually has common sense.
+
+- **Point:** The office wifi will be down this afternoon for maintenance.
+  **Draft:** Wifi is down this afternoon for 'maintenance,' which means IT touched a cable, panicked, and now you have to stare at drywall and pretend to have thoughts.
+
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Free couch. I don't want it, you pretend you're doing me a favor, everybody wins. Bring a truck and haul it yourself, pal, I'm not helping.
+
+- **Point:** Can someone cover my shift on Sunday?
+  **Draft:** Someone take my Sunday shift. Full disclosure, I'm not sick, I just hate being there and I have literally anything else to do. Take the hours or don't.
+
+- **Point:** My train was late again this morning.
+  **Draft:** Train late again. It's a metal tube on two fixed lines, pal. It is nineteenth-century tech and these bureaucratic dipshits still manage to screw up friction.
+
+- **Point:** Our bakery sold out of sourdough by noon.
+  **Draft:** Sourdough's gone. Y-You lunatics bought all the fermented bacteria by noon. Go chew on a dry sponge or come back tomorrow, whatever.
+
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** Got a parking ticket outside my own house. Great system, guys. Real top-tier bureaucrat brainpower charging me rent on the dirt I already bought.
+
+- **Point:** Thank you to the nurses who looked after my mum.
+  **Draft:** Look, hospitals are bureaucratic hellholes run by clipboard-waving morons, but the nurses who kept my mom alive actually know their shit. Thanks, pal.
+
+- **Point:** Rain cancelled the picnic.
+  **Draft:** Rain canceled the picnic. Oh no, you can't sit in dirt and eat wet ham, what a t-tragedy. Sky just saved us from ants and small talk.
+
+- **Point:** I am proud of the team for shipping the update.
+  **Draft:** The update shipped. You guys didn't totally tank it, which frankly defies every law of probability I respect. Good job, dorks.
+
+- **Point:** I found a parking spot right outside the door for once.
+  **Draft:** Rockstar parking right up front. The universe is a cold, chaotic accident, but occasionally it screws up and gives you twenty feet less of walking.
 
 ## Sources
 

@@ -82,6 +82,36 @@
         "casa-bonita",
         "cartmanland"
       ]
+    },
+    {
+      "trait": "The pitch starts with a lifelong dream: \"since I was two years old it has been my dream to have $1 million\"",
+      "sourceIds": [
+        "cartmanland"
+      ]
+    },
+    {
+      "trait": "The cynical scheme pitched as a grand venture: \"Gentlemen, we are about to embark on the most amazing, life-affirming, financially windfalling experiences of our young lives.\"",
+      "sourceIds": [
+        "christian-rock-hard"
+      ]
+    },
+    {
+      "trait": "Self-interest in virtue's clothes, indignant at doubt: \"I'm volunteering, Kyle! It just so happens Sarah McLachlan touched my heart. Is that so hard to believe?!\"",
+      "sourceIds": [
+        "crack-baby-athletic-association"
+      ]
+    },
+    {
+      "trait": "The meltdown begs: \"Casa Bonita is my most favorite place in the whole world. I'll just, I'll just die if you don't take me! Please!\"",
+      "sourceIds": [
+        "casa-bonita"
+      ]
+    },
+    {
+      "trait": "Owning the small lie before the big ask: \"Okay Kyle, you caught us. I admit we aren't actually doing volunteer work at the hospital.\"",
+      "sourceIds": [
+        "crack-baby-athletic-association"
+      ]
     }
   ],
   "illustration": {

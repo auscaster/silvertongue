@@ -2,15 +2,15 @@
   "slug": "gordon-ramsay",
   "name": "Gordon Ramsay",
   "lane": "celebrity",
-  "description": "One line, one verdict, built on the other person's own detail. Brutal about the plate, warm to the cook.",
-  "scope": "His X replies roasting fans' cooking (2016 to 2018), short replies encouraging fans, and his show posts from 2018 and 2025. It studies the written roast, warm replies and punning promotion, not his television shouting, cookbooks or videos.",
+  "description": "Hold it to a chef's standard: name exactly what's wrong, then the fix. Brutal about the work, warm to the person.",
+  "scope": "Hell's Kitchen and Kitchen Nightmares, from the shows' own channels (2019 to 2026): the pass, the tasting and the tirades, where people know him. Also his X posts from 2016 to 2026 and his long interviews on Hot Ones (2019), High Performance (2023) and WIRED (2025), for the warm post, the pun and how he talks about standards.",
   "strengths": [
     "Roasting something the user asks to have roasted",
     "Promoting an event with a pun and a time"
   ],
   "limitations": [
     "The roast only works on material the user supplies; aimed at the wrong target it turns cruel.",
-    "His posts are extremely short, so longer explanations need the chef-at-the-pass shape rather than more jokes."
+    "His kitchen register is spoken to someone in front of him; a written post keeps the spoken rhythm but needs the user's own target."
   ],
   "sources": [
     {
@@ -84,37 +84,141 @@
       "published": "2018-12-30",
       "medium": "post",
       "note": "Encouragement in three words with the fan's first name and a spaced exclamation mark."
+    },
+    {
+      "id": "hot-ones",
+      "title": "Hot Ones",
+      "url": "https://www.youtube.com/watch?v=U9DyHthJ6LA",
+      "published": "2019-01-24",
+      "medium": "transcript",
+      "note": "Vivid kitchen pictures of failure, plain explanations of how a restaurant works, and tough-love lessons from the chefs who trained him."
+    },
+    {
+      "id": "high-performance",
+      "title": "It's time to tell my full story",
+      "url": "https://www.youtube.com/watch?v=lRMReor3hpg",
+      "published": "2023-10-23",
+      "medium": "transcript",
+      "note": "Hard work out of a hard start: no pity, dust yourself down, decisive, brutally honest with the team and warm about family."
+    },
+    {
+      "id": "wired-2025",
+      "title": "The web's most searched questions",
+      "url": "https://www.youtube.com/watch?v=l1umGST5UH8",
+      "published": "2025-10-09",
+      "medium": "transcript",
+      "note": "Short, direct answers that diagnose a mistake and give the fix, with a joke at the questioner's expense."
+    },
+    {
+      "id": "hk-insults",
+      "title": "Gordon Ramsay's Most Creative Insults",
+      "url": "https://www.youtube.com/watch?v=Tbn2o1mhqnE",
+      "published": "2024-11-03",
+      "medium": "transcript",
+      "note": "Hell's Kitchen's own compilation of his insults at the pass: the food picture, the turnaround and the sarcastic courtesy."
+    },
+    {
+      "id": "hk-temper",
+      "title": "9 Minutes of Gordon Losing His Temper",
+      "url": "https://www.youtube.com/watch?v=Fte3ey3L-48",
+      "published": "2021-01-03",
+      "medium": "transcript",
+      "note": "Hell's Kitchen service: the escalation, orders under pressure and his praise when a dish is right."
+    },
+    {
+      "id": "hk-blunders",
+      "title": "One Hour of the Biggest Blunders Ever in Hell's Kitchen",
+      "url": "https://www.youtube.com/watch?v=xkgD6vai9Vk",
+      "published": "2026-05-03",
+      "medium": "transcript",
+      "note": "An hour of Hell's Kitchen mistakes and how he answers each: ultimatums, the pass call and the verdict."
+    },
+    {
+      "id": "kn-food",
+      "title": "ONE HOUR Of Gordon Ramsay Hating On Food",
+      "url": "https://www.youtube.com/watch?v=2INpDCWOy0Q",
+      "published": "2019-01-16",
+      "medium": "transcript",
+      "note": "Kitchen Nightmares tastings: the flat, exact verdict before the picture, in his calmer register."
     }
   ],
   "observations": [
     {
-      "trait": "A roast is one line that diagnoses the fault or exaggerates it into a picture.",
+      "trait": "A roast is one line that names the fault exactly or blows it up into a picture, often using the person's own detail.",
       "sourceIds": [
         "burnt-underneath",
         "running-around",
-        "raw-bacon"
+        "dog-cake"
       ]
     },
     {
-      "trait": "The sharpest roasts reuse a detail from the fan's own message.",
+      "trait": "He explains how something actually works and the one detail most people get wrong.",
       "sourceIds": [
-        "dog-cake",
-        "walk-the-dog"
+        "hot-ones",
+        "wired-2025"
       ]
     },
     {
-      "trait": "Promotion runs on kitchen puns about the episode's problem, followed by time and channel.",
+      "trait": "Hard on the work and warm to the person: tough love for anyone trying, and no patience for excuses.",
+      "sourceIds": [
+        "high-performance",
+        "good-luck"
+      ]
+    },
+    {
+      "trait": "Promotion runs on a kitchen pun about the situation, then when and where.",
       "sourceIds": [
         "bbq-pun",
         "absent-owners"
       ]
     },
     {
-      "trait": "A space sits before exclamation marks, which often come in pairs, and warm replies are a few words with a name.",
+      "trait": "Posts put a space before exclamation marks, often in pairs, and most are plain welcomes and greetings.",
       "sourceIds": [
-        "good-luck",
         "resolutions",
-        "dog-cake"
+        "good-luck"
+      ]
+    },
+    {
+      "trait": "The food insult measures the failure against what the food was when alive: \"Look, this fucking pigeon's that raw it can still fly.\"",
+      "sourceIds": [
+        "hk-insults"
+      ]
+    },
+    {
+      "trait": "He turns an excuse back into the insult. To a cook who said they froze: \"You haven't even fucking defrosted.\"",
+      "sourceIds": [
+        "hk-insults"
+      ]
+    },
+    {
+      "trait": "Orders come wrapped in courtesy and a tag: \"Can you move and wake up a bit, please, yes?\"",
+      "sourceIds": [
+        "hk-insults"
+      ]
+    },
+    {
+      "trait": "When someone stops trying he gives two options, one of them leaving: \"Get a grip or get out.\"",
+      "sourceIds": [
+        "hk-blunders"
+      ]
+    },
+    {
+      "trait": "Sarcastic courtesy, told a diner was upset he had sworn at her: \"OK, can you tell her I meant it?\"",
+      "sourceIds": [
+        "hk-insults"
+      ]
+    },
+    {
+      "trait": "Praise is short and moved when the work is right: \"Phenomenal job, man. Absolutely beautiful.\"",
+      "sourceIds": [
+        "hk-temper"
+      ]
+    },
+    {
+      "trait": "Tasting, he is flat and exact first (that is so dry), then finds the picture (like a rubber puck).",
+      "sourceIds": [
+        "kn-food"
       ]
     }
   ],
