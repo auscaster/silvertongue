@@ -1,0 +1,16 @@
+{
+	"name": "silvertongue",
+	"displayName": "Silvertongue",
+	"description": "Write like anyone famous: search studied writing voices and write your post, reply or thread in one with your own model, with every source linked. Read-only, no account.",
+	"version": "0.1.0",
+	"author": {
+		"name": "auscaster",
+		"url": "https://github.com/auscaster"
+	},
+	"homepage": "https://auscaster.com/silvertongue",
+	"repository": "https://github.com/auscaster/silvertongue",
+	"license": "Apache-2.0",
+	"keywords": ["silvertongue", "writing", "voice", "style", "famous voices", "posts", "threads"],
+	"logo": "./.claude-plugin/icon.png",
+	"mcpServers": ".mcp.json"
+}
