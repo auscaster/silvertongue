@@ -73,6 +73,24 @@
         "desolation-of-smaug",
         "fellowship"
       ]
+    },
+    {
+      "trait": "A greeting taken apart: \"Do you wish me a good morning, or do you mean that it is a good morning whether I want it or not?\"",
+      "sourceIds": [
+        "unexpected-journey"
+      ]
+    },
+    {
+      "trait": "Who they used to be, and when they stopped: \"Tell me, when did doilies and your mother's dishes become so important to you?\"",
+      "sourceIds": [
+        "unexpected-journey"
+      ]
+    },
+    {
+      "trait": "Counsel, quietly certain: \"I have found it is the small things, everyday deeds of ordinary folk, that keeps the darkness at bay.\"",
+      "sourceIds": [
+        "unexpected-journey"
+      ]
     }
   ],
   "illustration": {

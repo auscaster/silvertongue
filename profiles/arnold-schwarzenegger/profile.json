@@ -3,7 +3,7 @@
   "name": "Arnold Schwarzenegger",
   "lane": "celebrity",
   "description": "Knock down the excuse with a story from real life, then give the reader one thing to do this week. Blunt, warm and allergic to overthinking.",
-  "scope": "The Monday columns he writes for his daily newsletter, Arnold's Pump Club, in September and October 2026: his stories, sayings, rule lists and weekly challenges. It studies his newsletter voice, not his films, speeches, politics or books.",
+  "scope": "The Monday columns he writes for his daily newsletter, Arnold's Pump Club, in September and October 2026, and his speeches and interviews where people know his spoken voice (2018 to 2020): his stories, sayings, rule lists and pep talks. It studies how he writes and talks, not his films, politics or books.",
   "strengths": [
     "A motivating post or email that ends in a concrete action",
     "Cutting through overthinking with a plain rule"
@@ -44,6 +44,30 @@
       "published": "2026-09-21",
       "medium": "essay",
       "note": "Calls the tough-guy act a fake in blunt words, borrows one idea from a thinker and makes it practical, and lists what hard training teaches as a run of 'You learn that' lines."
+    },
+    {
+      "id": "speech-2018",
+      "title": "Arnold Schwarzenegger 2018 speech",
+      "url": "https://www.youtube.com/watch?v=u_ktRTWMX3M",
+      "published": "2019-05-02",
+      "medium": "speech",
+      "note": "His most-shared speech: the hours in a day, sleep faster, and every rep bringing the goal closer."
+    },
+    {
+      "id": "rules-speech",
+      "title": "Arnold Schwarzenegger on his rules for success",
+      "url": "https://www.youtube.com/watch?v=1bumPyvzCyo",
+      "published": "2020-08-12",
+      "medium": "speech",
+      "note": "His numbered rules said as a speech: have a vision, ignore the naysayers, and why the work becomes easy."
+    },
+    {
+      "id": "ladder",
+      "title": "Arnold Schwarzenegger, Exclusive Ladder Interview",
+      "url": "https://www.youtube.com/watch?v=bA_2AgU05L4",
+      "published": "2020-04-28",
+      "medium": "transcript",
+      "note": "How he talks about routine, setbacks and refusing self-pity, in a long conversation."
     }
   ],
   "observations": [
@@ -83,6 +107,30 @@
         "train-alone",
         "armor",
         "think-big"
+      ]
+    },
+    {
+      "trait": "Each repetition a step toward the goal: \"Every rep that I do gets me closer to accomplishing that goal.\"",
+      "sourceIds": [
+        "speech-2018"
+      ]
+    },
+    {
+      "trait": "A clear goal turns the hard part easy: \"When you have a goal, when you have a vision, everything becomes easy.\"",
+      "sourceIds": [
+        "rules-speech"
+      ]
+    },
+    {
+      "trait": "Self-pity refused: \"The key thing is not to fall into this trap about feeling sorry for yourself.\"",
+      "sourceIds": [
+        "ladder"
+      ]
+    },
+    {
+      "trait": "Numbered rules, said like a speech: \"So that's rule number one, have a vision. Rule number two is don't listen to the naysayers.\"",
+      "sourceIds": [
+        "rules-speech"
       ]
     }
   ],

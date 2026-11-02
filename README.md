@@ -12,7 +12,7 @@ An open catalogue of famous writing voices for your agent and your browser.<br>
 Pick a voice. Switch any time. Keep your point.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/auscaster/silvertongue/ci.yml?branch=main&style=flat-square&label=ci&labelColor=111&color=111)](https://github.com/auscaster/silvertongue/actions/workflows/ci.yml)
-[![Format: VOICE.md v1](https://img.shields.io/badge/format-VOICE.md%20v1-111?style=flat-square)](spec/voice/v1/README.md)
+[![Format: VOICE.md v2](https://img.shields.io/badge/format-VOICE.md%20v2-111?style=flat-square)](spec/voice/v2/README.md)
 [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-111?style=flat-square)](LICENSE)
 [![Profiles: CC BY 4.0](https://img.shields.io/badge/profiles-CC%20BY%204.0-111?style=flat-square)](PROFILE-LICENSE.md)
 
@@ -97,14 +97,14 @@ Founders and builders, creators, stars, comedians, famous characters, essayists,
 <!-- catalogue:start -->
 | Voice | The move | Studied |
 | --- | --- | --- |
-| [**Cher**](profiles/cher/VOICE.md) | Feel it, post it, and let the emoji finish the sentence. | 9 posts, 2016 to 2024 |
-| [**Donald Trump**](profiles/donald-trump/VOICE.md) | Make it the biggest thing that ever happened, with Capitals and exclamation marks. | 1 speech and 7 posts, 2017 to 2026 |
-| [**Elon Musk**](profiles/elon-musk/VOICE.md) | Say it in as few words as the claim allows and let a number do the arguing. | 2 essays and 8 posts, 2006 to 2026 |
-| [**MrBeast**](profiles/mrbeast/VOICE.md) | Lead with a premise and a big number, then tell people to go watch. | 10 posts, 2022 to 2026 |
-| [**Ricky Gervais**](profiles/ricky-gervais/VOICE.md) | Say the plain thing, then turn it in the last sentence. | 1 transcript and 7 posts, 2020 to 2026 |
-| [**Snoop Dogg**](profiles/snoop-dogg/VOICE.md) | Name it, say it's out now, tag your people and let the emoji talk. | 1 speech and 7 posts, 2018 to 2025 |
-| [**Theo Von**](profiles/theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 22 posts, 2015 to 2026 |
-| [**William Shakespeare**](profiles/william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 4 plays and 1 poem, 1604 to 1623 |
+| [**Cher**](profiles/cher/VOICE.md) | Feel it, post it, and let the emoji finish the sentence. | 12 posts and 2 transcripts, 1996 to 2026 |
+| [**Donald Trump**](profiles/donald-trump/VOICE.md) | Make it the biggest thing that ever happened, with Capitals and exclamation marks. | 1 speech, 8 posts and 1 essay, 1987 to 2026 |
+| [**Elon Musk**](profiles/elon-musk/VOICE.md) | Say it in as few words as the claim allows and let a number do the arguing. | 2 essays, 8 posts and 2 transcripts, 2006 to 2026 |
+| [**MrBeast**](profiles/mrbeast/VOICE.md) | Lead with a premise and a big number, then tell people to go watch. | 10 posts and 4 transcripts, 2021 to 2026 |
+| [**Ricky Gervais**](profiles/ricky-gervais/VOICE.md) | Say the plain thing, then turn it in the last sentence. | 5 transcripts and 7 posts, 2016 to 2026 |
+| [**Snoop Dogg**](profiles/snoop-dogg/VOICE.md) | Say it easy, give everybody their shout-out, and make the chore sound like a good time. | 1 speech, 7 posts and 6 transcripts, 2018 to 2025 |
+| [**Theo Von**](profiles/theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 24 posts and 1 transcript, 2015 to 2026 |
+| [**William Shakespeare**](profiles/william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 5 plays and 1 poem, 1604 to 1623 |
 
 Featured voices. All 50 are listed in [`profiles/`](profiles/README.md).
 <!-- catalogue:end -->
@@ -115,17 +115,19 @@ Featured voices. All 50 are listed in [`profiles/`](profiles/README.md).
 <summary><b>What's inside a voice</b></summary>
 <br>
 
-`VOICE.md` has seven parts, defined by the [VOICE.md v1 format](spec/voice/v1/README.md):
+`VOICE.md` has nine parts, defined by the [VOICE.md v2 format](spec/voice/v2/README.md):
 
 | Part | What it captures |
 | --- | --- |
-| Stance | How the writer meets the reader and the subject |
-| Construction | How a piece opens, turns and lands |
-| Rhythm | Sentence and paragraph movement |
-| Detail | Which specifics earn their place |
-| Formats | How the voice bends for posts, replies, explanations and threads |
-| Restraint | What the voice leaves out |
+| Lens | What they notice and make of things: what a draft finds to say |
+| Moves | Their signature moves, each with what sets it off, how often, and a real line of theirs that shows it |
+| Texture | How they speak: grammar, rhythm, register, the words they reach for, punctuation and emoji |
+| Plain | What most of their writing looks like |
+| Occasions | How they handle a post, a reply, a request, a complaint and good news |
+| Never | What they never do, and the impression people imitate |
+| Signatures | Their catchphrases, each with the situation it belongs to |
 | Facts and identity | Your facts stay yours; nobody pretends to be anybody |
+| Examples | About twenty ordinary points and how they would handle each, for range |
 
 </details>
 

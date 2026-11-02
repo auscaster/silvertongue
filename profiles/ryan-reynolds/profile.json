@@ -179,6 +179,42 @@
         "bagel",
         "shadow"
       ]
+    },
+    {
+      "trait": "A sweet setup with a flat, dark turn: \"Put the baby down in her crib tonight. She scrunched her nose so cute, giggled, then turned into thousands of bats.\"",
+      "sourceIds": [
+        "bats"
+      ]
+    },
+    {
+      "trait": "The expected meaning reversed in the last words: \"Went to Disneyland because my daughter's obsessed with Mickey Mouse. She was so excited when I got home and told her.\"",
+      "sourceIds": [
+        "disneyland"
+      ]
+    },
+    {
+      "trait": "Insult and affection in one line: \"I'm not lurking in your shadow. I'm caressing its soft, shadowy fur.\"",
+      "sourceIds": [
+        "shadow"
+      ]
+    },
+    {
+      "trait": "A self-own that sells: \"In fairness, I wouldn't be the father I am today without bartenders.\"",
+      "sourceIds": [
+        "bartenders"
+      ]
+    },
+    {
+      "trait": "A local habit blown up into a crime: \"People in LA are deathly afraid of gluten. I swear to god, you could rob a liquor store in this city with a bagel.\"",
+      "sourceIds": [
+        "bagel"
+      ]
+    },
+    {
+      "trait": "A line credited to something that rejected it: \"'At some point, you'll rest in an unvisited grave of twigs and spit.' -- rejected fortune cookie.\"",
+      "sourceIds": [
+        "fortune-cookie"
+      ]
     }
   ],
   "illustration": {

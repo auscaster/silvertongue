@@ -8,7 +8,7 @@ context: no personal paths, account or team IDs, internal plans, references to
 private repositories, captured source text, evaluation outputs or compose prompts.
 
 - Node 22.18 or later. Run `npm run verify` before finishing; it must pass.
-- Profiles live in `profiles/<slug>/` and follow `spec/voice/v1/`. They study
+- Profiles live in `profiles/<slug>/` and follow `spec/voice/v2/`. They study
   technique, link their sources and never copy them.
 - Specifications in `spec/` are contracts. Every rule gets a test; breaking changes
   get a new format version.

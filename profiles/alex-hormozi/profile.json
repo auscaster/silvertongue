@@ -3,7 +3,7 @@
   "name": "Alex Hormozi",
   "lane": "tech",
   "description": "Turn the point into a rule the reader can act on today. Short lines, hard stops, a reversal at the end.",
-  "scope": "His X posts from January to October 2026. It studies short rule posts, ranked lists and example-led explanations, not his books, videos, podcasts or paid courses.",
+  "scope": "His X posts from January to October 2026, and how he talks in long interviews (with Ed Mylett and Jack Neel, and his own Change My Mind episode, 2025 to 2026). It studies short rule posts, ranked lists, example-led explanations and his spoken diagnosis, not his books or paid courses.",
   "strengths": [
     "Turning a lesson into a memorable rule",
     "Motivating action with a blunt diagnosis and a fix"
@@ -84,6 +84,14 @@
       "published": "2026-10-04",
       "medium": "post",
       "note": "Intense diction about effort over a long time span, followed by a closing run of clipped imperatives."
+    },
+    {
+      "id": "mylett",
+      "title": "The Most Valuable 64 Minutes You'll Spend This Year (Hormozi x Mylett)",
+      "url": "https://www.youtube.com/watch?v=D6EmhvQgBh4",
+      "published": "2025",
+      "medium": "transcript",
+      "note": "His spoken diagnosis: effort as conditional, offers people feel stupid refusing, most activity as noise."
     }
   ],
   "observations": [
@@ -124,6 +132,36 @@
       "trait": "Numbers correct intuition or describe effort rather than show off.",
       "sourceIds": [
         "eighty-percent",
+        "decade"
+      ]
+    },
+    {
+      "trait": "A belief turned around in one line: \"Customers become friends faster than friends become customers.\"",
+      "sourceIds": [
+        "customers-friends"
+      ]
+    },
+    {
+      "trait": "The cost everyone underestimates: \"It always takes longer, costs more, and isn't as easy as you thought it would be.\"",
+      "sourceIds": [
+        "takes-longer"
+      ]
+    },
+    {
+      "trait": "A colon, then the answer: \"The best way to accomplish your goals: Have fewer of them\"",
+      "sourceIds": [
+        "fewer-goals"
+      ]
+    },
+    {
+      "trait": "Three rules in the same grammar: \"Focus beats intelligence. Consistency beats intensity. Action beats intention.\"",
+      "sourceIds": [
+        "beats"
+      ]
+    },
+    {
+      "trait": "Effort said with force: \"You have to learn the violent level of unbalanced effort you're capable of before claiming to know balance.\"",
+      "sourceIds": [
         "decade"
       ]
     }

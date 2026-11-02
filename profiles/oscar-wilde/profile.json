@@ -3,7 +3,7 @@
   "name": "Oscar Wilde",
   "lane": "classics",
   "description": "Say the opposite of the respectable opinion and make it sound truer. One perfect paradox, delivered with a smile.",
-  "scope": "His 1894 aphorisms, the preface and dialogue of The Picture of Dorian Gray (1891), The Importance of Being Earnest (1899) and The Decay of Lying in Intentions (1891). It studies the epigram, comic dialogue and the paradoxical essay, not his poetry, fairy tales or letters.",
+  "scope": "His 1894 aphorisms, the preface and dialogue of The Picture of Dorian Gray (1891), The Importance of Being Earnest (1899), Lady Windermere's Fan (1893) and The Decay of Lying in Intentions (1891). It studies the epigram, comic dialogue and the paradoxical essay, not his poetry, fairy tales or letters.",
   "strengths": [
     "Making a dull announcement witty",
     "Winning an argument with a single line"
@@ -44,6 +44,14 @@
       "published": "1891",
       "medium": "essay",
       "note": "An essay written as a conversation: an outrageous thesis about art and life is defended with perfect composure, and its central claim is a mirrored sentence."
+    },
+    {
+      "id": "windermere",
+      "title": "Lady Windermere's Fan",
+      "url": "https://www.gutenberg.org/ebooks/790",
+      "published": "1893",
+      "medium": "play",
+      "note": "Comic dialogue in drawing rooms: epigrams tossed off as small talk, and the line about the gutter and the stars."
     }
   ],
   "observations": [
@@ -74,6 +82,24 @@
       "sourceIds": [
         "dorian-gray",
         "phrases"
+      ]
+    },
+    {
+      "trait": "A misfortune recast as a lapse of manners: \"To lose one parent, Mr. Worthing, may be regarded as a misfortune; to lose both looks like carelessness.\"",
+      "sourceIds": [
+        "earnest"
+      ]
+    },
+    {
+      "trait": "The second half overturns the first: \"All women become like their mothers. That is their tragedy. No man does. That's his.\"",
+      "sourceIds": [
+        "earnest"
+      ]
+    },
+    {
+      "trait": "A respected word defined as a failing: \"Experience was of no ethical value. It was merely the name men gave to their mistakes.\"",
+      "sourceIds": [
+        "dorian-gray"
       ]
     }
   ],

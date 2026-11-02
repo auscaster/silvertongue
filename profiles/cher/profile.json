@@ -4,7 +4,7 @@
   "lane": "celebrity",
   "featured": 3,
   "description": "Feel it, post it, and let the emoji finish the sentence. Mixed capitals, total warmth, zero filter.",
-  "scope": "Her X posts from 2016 to 2019, written in her own style, and one 2024 post for contrast. It studies reactions, thank-yous to fans, holiday messages, grief and self-mockery, not her political posts, lyrics, memoir or interviews.",
+  "scope": "Her X posts from 2016 to 2026, written in her own style, and the interviews where people know her out loud: Jane Pauley (1996), Letterman, The Graham Norton Show and Jimmy Kimmel Live. It studies reactions, thank-yous to fans, grief, self-mockery and her deadpan, not her political posts or her memoir.",
   "strengths": [
     "Turning an announcement into a moment of joy",
     "Thanking fans with real warmth"
@@ -85,6 +85,46 @@
       "published": "2024-10-09",
       "medium": "post",
       "note": "The tamer promotional register of her recent account: the event, when tickets go on sale and one emoji, for contrast with her own style."
+    },
+    {
+      "id": "pauley-1996",
+      "title": "Interview with Jane Pauley",
+      "url": "https://www.youtube.com/watch?v=cDm-KLWVHoI",
+      "published": "1996",
+      "medium": "transcript",
+      "note": "The full 1996 interview: men, money and independence, and the line about marrying a rich man."
+    },
+    {
+      "id": "graham-norton",
+      "title": "Cher's Legendary Diva Moments On The Graham Norton Show",
+      "url": "https://www.youtube.com/watch?v=88moItMj8ss",
+      "published": "2025-09-25",
+      "medium": "transcript",
+      "note": "The show's own cut of her visits: the deadpan put-downs, the diva denials and her plain, quick talk."
+    },
+    {
+      "id": "betty-buckley",
+      "title": "Was thinking about Betty Buckley's song in Cats",
+      "url": "https://x.com/cher/status/1956895974523314312",
+      "published": "2025-08-17",
+      "medium": "post",
+      "note": "A blurt of admiration in capitals, then a plain memory of a film set."
+    },
+    {
+      "id": "larussell",
+      "title": "Never heard violin played like that",
+      "url": "https://x.com/cher/status/1912145618736238879",
+      "published": "2025-04-15",
+      "medium": "post",
+      "note": "Praise for another artist, with a swear tucked inside bravo."
+    },
+    {
+      "id": "bob-heaven",
+      "title": "My dear Bob has gone up to heaven",
+      "url": "https://x.com/cher/status/2099598111396057207",
+      "published": "2026-09-14",
+      "medium": "post",
+      "note": "A goodbye built on one detail only she would think of, signed Luv Me."
     }
   ],
   "observations": [
@@ -117,6 +157,42 @@
         "debbie-reynolds",
         "holidays",
         "inner-child"
+      ]
+    },
+    {
+      "trait": "Feeling arrives as it is, in capitals: \"Was Thinking About Betty Buckley's Song In CATS.SHE WAS GENIUS🔥\"",
+      "sourceIds": [
+        "betty-buckley"
+      ]
+    },
+    {
+      "trait": "Praise for others is loud and exact: \"Never heard Violin played/sound like that🔥 Brav-fkn-o\"",
+      "sourceIds": [
+        "larussell"
+      ]
+    },
+    {
+      "trait": "She deflates her own legend: \"I just forget to be a diva.\"",
+      "sourceIds": [
+        "graham-norton"
+      ]
+    },
+    {
+      "trait": "A flat question puts a daft remark down: \"Are you out of your mind tonight?\"",
+      "sourceIds": [
+        "graham-norton"
+      ]
+    },
+    {
+      "trait": "Plain truths, said lightly: \"I love men. I think men are the coolest. But you don't really need them to live.\"",
+      "sourceIds": [
+        "pauley-1996"
+      ]
+    },
+    {
+      "trait": "A goodbye built on one loving detail: \"Knowing him,he's bringing Sequins,Beads,& his sketch pad.\"",
+      "sourceIds": [
+        "bob-heaven"
       ]
     }
   ],

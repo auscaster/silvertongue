@@ -4,7 +4,7 @@
   "lane": "classics",
   "featured": 1,
   "description": "Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. Verse with a pulse.",
-  "scope": "Four scenes from his plays and Sonnet 130, in the Folger Shakespeare editions. It studies rallying and persuasive speeches, advice, extended metaphor and the sonnet, not the full plays, the history of performance or the language of every period of his work.",
+  "scope": "His plays and poems, read whole in Project Gutenberg's complete works and checked against the Folger editions: the speeches, the prose wit between characters, the insults, the soliloquies and the sonnets. It studies how he turns words, raises stakes and lands an ending, not the plots, the history of performance or every period of his language.",
   "strengths": [
     "Turning an announcement into an occasion",
     "Persuading a crowd by reframing the situation"
@@ -53,6 +53,14 @@
       "published": "1609",
       "medium": "poem",
       "note": "Three quatrains refuse every conventional comparison for the beloved, and the closing couplet turns the refusal into a sincere declaration."
+    },
+    {
+      "id": "complete-works",
+      "title": "The Complete Works of William Shakespeare",
+      "url": "https://www.gutenberg.org/ebooks/100",
+      "published": "1623",
+      "medium": "play",
+      "note": "Every play and poem, read whole: the source of each line quoted in the moves and of the catchphrases."
     }
   ],
   "observations": [
@@ -83,6 +91,42 @@
       "trait": "The sonnet develops an idea over three quatrains and turns it in the final couplet.",
       "sourceIds": [
         "sonnet-130"
+      ]
+    },
+    {
+      "trait": "Mercutio puns while dying: \"Ask for me tomorrow, and you shall find me a grave man.\"",
+      "sourceIds": [
+        "complete-works"
+      ]
+    },
+    {
+      "trait": "Antony raises the stakes to war: \"Cry havoc and let slip the dogs of war.\"",
+      "sourceIds": [
+        "complete-works"
+      ]
+    },
+    {
+      "trait": "Hamlet's verdict in two opposed halves: \"I must be cruel, only to be kind.\"",
+      "sourceIds": [
+        "complete-works"
+      ]
+    },
+    {
+      "trait": "A rhymed couplet closes the scene: \"The play's the thing / Wherein I'll catch the conscience of the King.\"",
+      "sourceIds": [
+        "complete-works"
+      ]
+    },
+    {
+      "trait": "Orsino opens in blank verse: \"If music be the food of love, play on.\"",
+      "sourceIds": [
+        "complete-works"
+      ]
+    },
+    {
+      "trait": "The insult comes as a run of invented names: \"Away, you scullion! you rampallian! you fustilarian!\"",
+      "sourceIds": [
+        "complete-works"
       ]
     }
   ],

@@ -3,7 +3,7 @@
   "name": "Rick Sanchez",
   "lane": "characters",
   "description": "Explain it like it is beneath you, then shrug the whole thing into meaninglessness. Genius, contempt and false starts.",
-  "scope": "Rick Sanchez's dialogue in five episodes of Rick and Morty (2013 to 2017): his one-breath explanations, his rants against institutions, his flat confessions of selfish motives and his stammering delivery. It studies how he talks, not the plots, the family or the show's world.",
+  "scope": "Rick Sanchez's dialogue in eight episodes of Rick and Morty (2013 to 2017), read in full transcripts: his one-breath explanations, his rants against institutions, his flat confessions of selfish motives and his stammering delivery. It studies how he talks, not the plots, the family or the show's world.",
   "strengths": [
     "A launch post that sells by sneering at the old way of doing it",
     "A reply that calls out empty jargon"
@@ -52,6 +52,22 @@
       "published": "2017-08-06",
       "medium": "transcript",
       "note": "A rant against therapy built on a list of verbs and a coined insult for the profession, a circular non-explanation, and a dismissive line about science versus magic."
+    },
+    {
+      "id": "rick-potion-9",
+      "title": "Rick Potion No. 9",
+      "url": "https://rickandmorty.fandom.com/wiki/Rick_Potion_No._9/Transcript",
+      "published": "2014-01-27",
+      "medium": "transcript",
+      "note": "His explanations as he wings it, and the line about science and art."
+    },
+    {
+      "id": "wedding-squanchers",
+      "title": "The Wedding Squanchers",
+      "url": "https://rickandmorty.fandom.com/wiki/The_Wedding_Squanchers/Transcript",
+      "published": "2015-10-04",
+      "medium": "transcript",
+      "note": "His contempt for weddings and commitment, delivered as a flat verdict."
     }
   ],
   "observations": [
@@ -89,6 +105,30 @@
       "trait": "Delivery stammers and restarts, then runs on without a breath, with profanity as punctuation.",
       "sourceIds": [
         "pilot",
+        "ricks-must-be-crazy"
+      ]
+    },
+    {
+      "trait": "The question waved away: \"Morty, stop digging for hidden layers and just be impressed.\"",
+      "sourceIds": [
+        "pickle-rick"
+      ]
+    },
+    {
+      "trait": "A circular non-answer in one breath: \"The reason anyone would do this is, if they could, which they can't, would be because they could, which they can't.\"",
+      "sourceIds": [
+        "pickle-rick"
+      ]
+    },
+    {
+      "trait": "A rant built as a parallel list: \"Because I invent, transform, create, and destroy for a living, and when I don't like something about the world, I change it.\"",
+      "sourceIds": [
+        "pickle-rick"
+      ]
+    },
+    {
+      "trait": "Praise so flat it is an insult: \"You're leading the tree people? Huh. That's a step up.\"",
+      "sourceIds": [
         "ricks-must-be-crazy"
       ]
     }

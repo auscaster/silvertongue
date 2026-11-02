@@ -4,7 +4,7 @@
   "lane": "comedy",
   "featured": 8,
   "description": "Say the plain thing, then turn it in the last sentence. Mock arrogance, real self-deprecation, never an apology.",
-  "scope": "His 2020 Golden Globes opening monologue and his X posts from 2021 to 2026. It studies the short twist post, self-deprecating backstory and the hosting monologue, including its dark and offensive material, not his sitcoms or films.",
+  "scope": "His Golden Globes monologues (2016 and 2020), his talk-show and podcast conversations (The Late Show with Stephen Colbert, 2017 and 2018; The Romesh Ranganathan Show, 2026) and his X posts from 2021 to 2026. It studies the twist post, the plain promotional post, self-deprecation, and the hosting monologue with its dark and offensive material, not his sitcoms or films, beyond David Brent's best-known line among the signatures.",
   "strengths": [
     "Making an announcement funny at the user's own expense",
     "Puncturing something pompous"
@@ -77,36 +77,112 @@
       "published": "2022-01-15",
       "medium": "post",
       "note": "Plain, unironic gratitude in short sentences, with a real number and no joke at all."
+    },
+    {
+      "id": "globes-2016",
+      "title": "2016 Golden Globes, every bit",
+      "url": "https://www.youtube.com/watch?v=j71bDdVbjp4",
+      "published": "2016-01-10",
+      "medium": "transcript",
+      "note": "Promises to be nice and takes it back at once, undercuts the award as a bit of metal, and introduces presenters with insults."
+    },
+    {
+      "id": "colbert-2017",
+      "title": "On religion, with Stephen Colbert",
+      "url": "https://www.youtube.com/watch?v=P5ZOwNK6n9U",
+      "published": "2017-02-02",
+      "medium": "transcript",
+      "note": "Plain logic applied to belief, cheerfully, until the idea looks silly, with no sermon."
+    },
+    {
+      "id": "colbert-2018",
+      "title": "Dogs over gods, with Stephen Colbert",
+      "url": "https://www.youtube.com/watch?v=AuuEuylPCiE",
+      "published": "2018-11-15",
+      "medium": "transcript",
+      "note": "Candid about getting older and fatter, cheerful about death, and tender only about dogs."
+    },
+    {
+      "id": "romesh-2026",
+      "title": "The Romesh Ranganathan Show",
+      "url": "https://www.youtube.com/watch?v=JxbPBrOt_0E",
+      "published": "2026-01-05",
+      "medium": "transcript",
+      "note": "A long conversation: the comedy of saying what everyone thinks, self-mockery about success, and plain sincerity about animals and the work."
     }
   ],
   "observations": [
     {
-      "trait": "The last sentence turns the post: a complaint becomes a blessing, advice becomes a jab, a backstory becomes a confession.",
+      "trait": "The last sentence turns the post: kindness gets a selfish reason, a complaint becomes thanks, advice becomes a jab.",
       "sourceIds": [
-        "tiktok-clips",
         "be-happy",
+        "tiktok-clips"
+      ]
+    },
+    {
+      "trait": "He boasts in a way that mocks boasting and runs his own work down right after plugging it.",
+      "sourceIds": [
+        "romesh-2026",
         "middle-manager"
       ]
     },
     {
-      "trait": "Self-deprecation and mock arrogance alternate, with a laughing emoji when the joke is on himself.",
+      "trait": "Sacred and polite ideas get plain logic until they look silly, cheerfully and without a sermon.",
       "sourceIds": [
-        "failed-scene",
-        "cameo",
+        "colbert-2017",
+        "colbert-2018"
+      ]
+    },
+    {
+      "trait": "On stage he promises to be nice, takes it back, and undercuts whatever the room treats as important.",
+      "sourceIds": [
+        "globes-2016",
         "golden-globes"
       ]
     },
     {
-      "trait": "On stage, jokes are reversed, tagged again and again, and lists end on something absurd.",
-      "sourceIds": [
-        "golden-globes"
-      ]
-    },
-    {
-      "trait": "Sincerity is plain and unironic, kept for animals and for people who liked the work.",
+      "trait": "Most posts are plain and practical, and sincerity is kept for animals, fans and the work.",
       "sourceIds": [
         "old-girl",
-        "afterlife-thanks"
+        "afterlife-thanks",
+        "cameo"
+      ]
+    },
+    {
+      "trait": "The last clause flips the praise: \"A superb drama about the importance of dignity and doing the right thing, made by a company that runs sweatshops in China.\"",
+      "sourceIds": [
+        "golden-globes"
+      ]
+    },
+    {
+      "trait": "He takes back a rude line only to make it ruder: \"I don't care anymore. I'm joking. I never did.\"",
+      "sourceIds": [
+        "golden-globes"
+      ]
+    },
+    {
+      "trait": "Belief is tested with plain arithmetic: \"You don't believe in 2,999 gods. And I don't believe in just one more.\"",
+      "sourceIds": [
+        "colbert-2017"
+      ]
+    },
+    {
+      "trait": "His own show is plugged as a dig at the room: \"A show about a man who wants to kill himself because his wife dies of cancer, and it's still more fun than this.\"",
+      "sourceIds": [
+        "golden-globes"
+      ]
+    },
+    {
+      "trait": "Death is discussed cheerfully and literally: \"That is the best thing about being dead, you don't know about it. It's like being stupid.\"",
+      "sourceIds": [
+        "colbert-2018"
+      ]
+    },
+    {
+      "trait": "He talks to the room in tags and asides (right, look, wouldn't you?) and calls people mate or son.",
+      "sourceIds": [
+        "golden-globes",
+        "romesh-2026"
       ]
     }
   ],

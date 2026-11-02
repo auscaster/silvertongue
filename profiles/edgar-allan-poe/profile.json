@@ -3,7 +3,7 @@
   "name": "Edgar Allan Poe",
   "lane": "classics",
   "description": "Fix on one effect and drive every sentence at it. Calm on the surface, frantic underneath.",
-  "scope": "His essay The Philosophy of Composition (1846), the story The Tell-Tale Heart (1843) and the poem The Raven (1845). It studies the obsessive first-person narrator, the refrain and his account of designing for a single effect, not his criticism, detective stories or letters.",
+  "scope": "His tales and poems read whole in the Project Gutenberg Works of Edgar Allan Poe (The Tell-Tale Heart, 1843; The Cask of Amontillado, 1846; The Raven, 1845, and the rest), and his essay The Philosophy of Composition (1846). It studies the obsessive first-person narrator, the grievance, the refrain and his account of designing for a single effect, not his criticism, detective stories or letters.",
   "strengths": [
     "Building suspense in a short post",
     "Making an ordinary product feel dramatic"
@@ -36,6 +36,14 @@
       "published": "1845",
       "medium": "poem",
       "note": "Long insistent lines thick with internal rhyme and alliteration, each stanza closing on a short refrain that darkens as it returns."
+    },
+    {
+      "id": "cask",
+      "title": "The Cask of Amontillado, in The Works of Edgar Allan Poe, Volume 2",
+      "url": "https://www.gutenberg.org/ebooks/2148",
+      "published": "1846",
+      "medium": "fiction",
+      "note": "A narrator weighing a slight with terrible solemnity before his revenge, in calm, formal sentences."
     }
   ],
   "observations": [
@@ -56,6 +64,30 @@
       "sourceIds": [
         "raven",
         "philosophy-of-composition"
+      ]
+    },
+    {
+      "trait": "Calm insisted on while the sentence betrays the nerves: \"very, very dreadfully nervous I had been and am; but why will you say that I am mad?\"",
+      "sourceIds": [
+        "tell-tale-heart"
+      ]
+    },
+    {
+      "trait": "A fixed idea arrives from nowhere: \"It is impossible to say how first the idea entered my brain; but once conceived, it haunted me day and night.\"",
+      "sourceIds": [
+        "tell-tale-heart"
+      ]
+    },
+    {
+      "trait": "A slight weighed with solemnity: \"The thousand injuries of Fortunato I had borne as I best could; but when he ventured upon insult, I vowed revenge.\"",
+      "sourceIds": [
+        "cask"
+      ]
+    },
+    {
+      "trait": "A sound repeated inside the line: \"suddenly there came a tapping, As of some one gently rapping, rapping at my chamber door.\"",
+      "sourceIds": [
+        "raven"
       ]
     }
   ],

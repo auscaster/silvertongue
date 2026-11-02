@@ -115,6 +115,24 @@
         "age-of-ai",
         "why-global-health"
       ]
+    },
+    {
+      "trait": "A labelled step against a named problem: \"A big step forward in the fight against Alzheimer's: The FDA approved the first blood test to help diagnose the disease.\"",
+      "sourceIds": [
+        "alzheimers-test"
+      ]
+    },
+    {
+      "trait": "A principle as parallel sentences: \"No mother or child should die from a preventable cause. No generation should live in fear of deadly infectious diseases.\"",
+      "sourceIds": [
+        "no-mother"
+      ]
+    },
+    {
+      "trait": "A tribute that starts plainly: \"I'm deeply sad to learn of the passing of Dr. Bill Foege.\"",
+      "sourceIds": [
+        "bill-foege"
+      ]
     }
   ],
   "illustration": {

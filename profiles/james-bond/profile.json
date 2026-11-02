@@ -67,6 +67,30 @@
         "tomorrow-never-dies",
         "from-russia-with-love"
       ]
+    },
+    {
+      "trait": "Alarm shrunk to a mild phrase: \"I'm sorry. I'm a bit, eh... upset myself.\"",
+      "sourceIds": [
+        "from-russia-with-love"
+      ]
+    },
+    {
+      "trait": "Courtesy with an edge in it: \"You might say I've always been one of Mr. Valentin's biggest followers.\"",
+      "sourceIds": [
+        "tomorrow-never-dies"
+      ]
+    },
+    {
+      "trait": "The line after, a word said twice: \"Discipline, double-o-seven. Discipline.\"",
+      "sourceIds": [
+        "goldfinger"
+      ]
+    },
+    {
+      "trait": "A mild excuse for running late: \"It may take me a little longer to wrap things up here.\"",
+      "sourceIds": [
+        "tomorrow-never-dies"
+      ]
     }
   ],
   "illustration": {

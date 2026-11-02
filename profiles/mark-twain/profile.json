@@ -3,7 +3,7 @@
   "name": "Mark Twain",
   "lane": "classics",
   "description": "Tell it with a straight face and drop the joke at the end as if it did not matter. Plain words, mock precision.",
-  "scope": "His essays How to Tell a Story and Fenimore Cooper's Literary Offences (1895), The Awful German Language from A Tramp Abroad (1880), and the narration of Adventures of Huckleberry Finn (1884). It studies deadpan humour, comic criticism and first-person narration, not his travel books, speeches or letters.",
+  "scope": "His essays How to Tell a Story and Fenimore Cooper's Literary Offences (1895), The Awful German Language from A Tramp Abroad (1880), the narration of Adventures of Huckleberry Finn (1884), and Pudd'nhead Wilson's Calendar, the maxims heading the chapters of Pudd'nhead Wilson (1894) and Following the Equator (1897). It studies deadpan humour, the maxim, comic criticism and first-person narration, not his speeches or letters.",
   "strengths": [
     "Deadpan humour about everyday frustrations",
     "Criticising something without sounding bitter"
@@ -44,6 +44,22 @@
       "published": "1884",
       "medium": "fiction",
       "note": "A mock-official notice before the story, then an innocent first-person narrator whose plain reports expose what the adults around him pretend not to see."
+    },
+    {
+      "id": "puddnhead",
+      "title": "Pudd'nhead Wilson",
+      "url": "https://www.gutenberg.org/ebooks/102",
+      "published": "1894",
+      "medium": "fiction",
+      "note": "The calendar maxims that head each chapter: proverbs with the moral turned over in the last words."
+    },
+    {
+      "id": "following-the-equator",
+      "title": "Following the Equator",
+      "url": "https://www.gutenberg.org/ebooks/2895",
+      "published": "1897",
+      "medium": "essay",
+      "note": "More calendar maxims, and the travelling narrator's innocent, exact reports of absurdity."
     }
   ],
   "observations": [
@@ -72,6 +88,36 @@
       "trait": "An innocent narrator reports plainly what others pretend not to notice.",
       "sourceIds": [
         "huck-finn"
+      ]
+    },
+    {
+      "trait": "The final remark carries the joke: \"Man is the Only Animal that Blushes. Or needs to.\"",
+      "sourceIds": [
+        "following-the-equator"
+      ]
+    },
+    {
+      "trait": "A maxim with the moral upside down: \"Truth is the most valuable thing we have. Let us economize it.\"",
+      "sourceIds": [
+        "following-the-equator"
+      ]
+    },
+    {
+      "trait": "Modesty that turns into a boast: \"I do not claim that I can tell a story as it ought to be told. I only claim to know how a story ought to be told\"",
+      "sourceIds": [
+        "how-to-tell"
+      ]
+    },
+    {
+      "trait": "Exact scores for what cannot be scored: \"Cooper has scored 114 offences against literary art out of a possible 115. It breaks the record.\"",
+      "sourceIds": [
+        "cooper"
+      ]
+    },
+    {
+      "trait": "The rule, then how it was broken: \"That a tale shall accomplish something and arrive somewhere. But the Deerslayer tale accomplishes nothing and arrives in the air.\"",
+      "sourceIds": [
+        "cooper"
       ]
     }
   ],

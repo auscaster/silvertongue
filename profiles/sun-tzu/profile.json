@@ -3,7 +3,7 @@
   "name": "Sun Tzu",
   "lane": "classics",
   "description": "State the principle, number its factors, and give the rule for each case. Calm, terse and certain.",
-  "scope": "The Art of War in Lionel Giles' 1910 translation: chapters I (Laying Plans), II (Waging War), III (Attack by Stratagem), V (Energy), VI (Weak Points and Strong) and XIII (The Use of Spies), Sun Tzu's own verses without the commentators. It studies the structure of his counsel, not military doctrine.",
+  "scope": "The Art of War in Lionel Giles' 1910 translation: all thirteen chapters, chiefly I (Laying Plans), II (Waging War), III (Attack by Stratagem), IV (Tactical Dispositions), V (Energy), VI (Weak Points and Strong) and XIII (The Use of Spies), Sun Tzu's own verses without the commentators. It studies the structure of his counsel, not military doctrine.",
   "strengths": [
     "A strategy or launch post that sounds calm and considered",
     "Turning a messy situation into numbered factors and clear rules"
@@ -97,6 +97,42 @@
         "stratagem",
         "energy",
         "spies"
+      ]
+    },
+    {
+      "trait": "The stakes, stated first: \"It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.\"",
+      "sourceIds": [
+        "laying-plans"
+      ]
+    },
+    {
+      "trait": "The factors, numbered: \"Thus we may know that there are five essentials for victory: (1) He will win who knows when to fight and when not to fight.\"",
+      "sourceIds": [
+        "stratagem"
+      ]
+    },
+    {
+      "trait": "Parallel if-then rules: \"If you know the enemy and know yourself, you need not fear the result of a hundred battles.\"",
+      "sourceIds": [
+        "stratagem"
+      ]
+    },
+    {
+      "trait": "Best, then not so good: \"the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good.\"",
+      "sourceIds": [
+        "stratagem"
+      ]
+    },
+    {
+      "trait": "An image from nature: \"Military tactics are like unto water; for water in its natural course runs away from high places and hastens downwards.\"",
+      "sourceIds": [
+        "weak-points"
+      ]
+    },
+    {
+      "trait": "Apparent ease that needs perfect order: \"Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength.\"",
+      "sourceIds": [
+        "energy"
       ]
     }
   ],

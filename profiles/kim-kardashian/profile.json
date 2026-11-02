@@ -92,6 +92,14 @@
       "published": "2019-12-06",
       "medium": "post",
       "note": "A launch countdown: the collection named, what it is for, an eager line about the reader trying it, and the exact time and site."
+    },
+    {
+      "id": "snl-monologue",
+      "title": "Kim Kardashian West Monologue, SNL",
+      "url": "https://www.youtube.com/watch?v=LQCQym6hVMo",
+      "published": "2021-10-10",
+      "medium": "transcript",
+      "note": "Her deadpan self-mockery out loud: the reputation joked about before anyone else can."
     }
   ],
   "observations": [
@@ -126,6 +134,30 @@
     },
     {
       "trait": "Explainers begin by saying she researched it herself.",
+      "sourceIds": [
+        "deep-dive"
+      ]
+    },
+    {
+      "trait": "A sincere reflection after the capitals: \"Looking in the mirror, I am really proud of the woman looking back today in the reflection.\"",
+      "sourceIds": [
+        "baby-bar"
+      ]
+    },
+    {
+      "trait": "A boast delivered as an apology: \"sorry I'm late to the party guys I was busy cashing my 80 million video game check & transferring 53 million into our joint account 🤑🤑🤑💰💰💰\"",
+      "sourceIds": [
+        "late-to-the-party"
+      ]
+    },
+    {
+      "trait": "Her reputation mocked first: \"But the one thing I'm really proud of is that no one could ever call me a gold digger. Honestly, I'm not even sure how you become one.\"",
+      "sourceIds": [
+        "snl-monologue"
+      ]
+    },
+    {
+      "trait": "She looked into it properly: \"I took a deep dive in it to figure out what the situation is.\"",
       "sourceIds": [
         "deep-dive"
       ]

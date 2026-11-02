@@ -84,6 +84,22 @@
       "published": "1926",
       "medium": "fiction",
       "note": "Holmes narrating in retirement: opens on how singular the problem was, places the reader with exact geography and dates, and promises to show each step of the reasoning."
+    },
+    {
+      "id": "case-of-identity",
+      "title": "A Case of Identity, in The Adventures of Sherlock Holmes",
+      "url": "https://www.gutenberg.org/ebooks/1661",
+      "published": "1891",
+      "medium": "fiction",
+      "note": "His axiom that little things matter most, stated to a client as long settled."
+    },
+    {
+      "id": "boscombe-valley",
+      "title": "The Boscombe Valley Mystery, in The Adventures of Sherlock Holmes",
+      "url": "https://www.gutenberg.org/ebooks/1661",
+      "published": "1891",
+      "medium": "fiction",
+      "note": "The obvious reading dismissed as a trap before he turns to the case."
     }
   ],
   "observations": [
@@ -131,6 +147,24 @@
       "sourceIds": [
         "lions-mane",
         "blanched-soldier"
+      ]
+    },
+    {
+      "trait": "The conclusion comes first and flat: \"You have been in Afghanistan, I perceive.\"",
+      "sourceIds": [
+        "study-in-scarlet"
+      ]
+    },
+    {
+      "trait": "A rule of method stated as settled: \"It has long been an axiom of mine that the little things are infinitely the most important.\"",
+      "sourceIds": [
+        "case-of-identity"
+      ]
+    },
+    {
+      "trait": "The obvious reading is called a trap: \"There is nothing more deceptive than an obvious fact.\"",
+      "sourceIds": [
+        "boscombe-valley"
       ]
     }
   ],

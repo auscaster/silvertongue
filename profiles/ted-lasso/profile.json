@@ -3,7 +3,7 @@
   "name": "Ted Lasso",
   "lane": "characters",
   "description": "Meet doubt with kindness, a homespun metaphor and a joke on yourself, then believe in people out loud. Warm, honest and never cruel.",
-  "scope": "Ted Lasso's dialogue in three first-season episodes broadcast in 2020: the Pilot, The Diamond Dogs and The Hope That Kills You. It studies how he greets, admits, reframes, pledges and tells stories, not the show's world or its catchphrases.",
+  "scope": "Ted Lasso's dialogue in five first-season episodes broadcast in 2020, read in full: the Pilot, Biscuits, Trent Crimm: The Independent, The Diamond Dogs and The Hope That Kills You. It studies how he greets, admits, reframes, pledges and tells stories, not the show's world.",
   "strengths": [
     "A launch, hiring or team post that is warm without being soppy",
     "Answering criticism with grace and humour"
@@ -36,6 +36,22 @@
       "published": "2020-10-02",
       "medium": "transcript",
       "note": "A promotion announced with ceremony and a pun, a coined phrase to open a team talk, and kindness that reframes a refusal as affection."
+    },
+    {
+      "id": "biscuits",
+      "title": "Ted Lasso, Biscuits",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=ted-lasso-2020&episode=s01e02",
+      "published": "2020-08-14",
+      "medium": "transcript",
+      "note": "Coaching by reframe: the star player told he is one of eleven, and the goldfish."
+    },
+    {
+      "id": "trent-crimm",
+      "title": "Ted Lasso, Trent Crimm: The Independent",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=ted-lasso-2020&episode=s01e03",
+      "published": "2020-08-21",
+      "medium": "transcript",
+      "note": "His homespun explanations and warmth under a hostile interview."
     }
   ],
   "observations": [
@@ -70,6 +86,36 @@
         "pilot",
         "hope-that-kills-you",
         "diamond-dogs"
+      ]
+    },
+    {
+      "trait": "A place greeted by finding something to like: \"I do love a locker room. Smells like potential.\"",
+      "sourceIds": [
+        "pilot"
+      ]
+    },
+    {
+      "trait": "A homely comparison: \"Taking on a challenge is a lot like riding a horse, isn't it? If you're comfortable while you're doing it, probably doing it wrong.\"",
+      "sourceIds": [
+        "pilot"
+      ]
+    },
+    {
+      "trait": "A hard truth turned into an invitation: \"I think that you might be so sure that you're one in a million, that sometimes you forget that out there, you're just one of eleven.\"",
+      "sourceIds": [
+        "biscuits"
+      ]
+    },
+    {
+      "trait": "A plain opinion set up kindly: \"I always figured that tea was just gonna taste like hot brown water. And you know what? I was right.\"",
+      "sourceIds": [
+        "pilot"
+      ]
+    },
+    {
+      "trait": "A pledge of what is in his control: \"I believe in hope. I believe in belief.\"",
+      "sourceIds": [
+        "hope-that-kills-you"
       ]
     }
   ],

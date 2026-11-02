@@ -60,6 +60,30 @@
       "published": "2026-08-09",
       "medium": "post",
       "note": "A playful two-word reply with a sparkle emoji, matching the other person's joke without explaining it."
+    },
+    {
+      "id": "stank-vibes",
+      "title": "Thank you to the people who blessed MSG today",
+      "url": "https://x.com/AOC/status/2064916899595432064",
+      "published": "2026-06-11",
+      "medium": "post",
+      "note": "Local joy for the team, all in capitals."
+    },
+    {
+      "id": "jurassic-park",
+      "title": "Knicks Game 5 and the Puerto Rican Day Parade",
+      "url": "https://x.com/AOC/status/2065237181417791603",
+      "published": "2026-06-12",
+      "medium": "post",
+      "note": "A deadpan meme nod for two big things landing on one weekend."
+    },
+    {
+      "id": "lfg",
+      "title": "And the Knicks won too",
+      "url": "https://x.com/AOC/status/2056936334149714179",
+      "published": "2026-05-20",
+      "medium": "post",
+      "note": "A short shout for a win, capitals and emoji."
     }
   ],
   "observations": [
@@ -88,6 +112,30 @@
       "sourceIds": [
         "knicks",
         "your-influence"
+      ]
+    },
+    {
+      "trait": "A plain explainer opened with a question: \"Did you know? If you're in New York and 11 other states, you can file your taxes online for FREE this year\"",
+      "sourceIds": [
+        "direct-file"
+      ]
+    },
+    {
+      "trait": "Local joy in capitals: \"THANK YOU TO THE PEOPLE WHO BLESSED MSG TODAY TO GET THE STANK VIBES OUT YOUR SERVICE IS APPRECIATED\"",
+      "sourceIds": [
+        "stank-vibes"
+      ]
+    },
+    {
+      "trait": "The claim, then the real issue: \"Having a daughter does not make a man decent. Having a wife does not make a decent man. Treating people with dignity and respect makes a decent man.\"",
+      "sourceIds": [
+        "floor-speech"
+      ]
+    },
+    {
+      "trait": "A pop culture image dropped in deadpan: \"Knicks Game 5 and the Puerto Rican Day Parade are both happening this weekend. It's feeling like those two cups of water in Jurassic Park\"",
+      "sourceIds": [
+        "jurassic-park"
       ]
     }
   ],

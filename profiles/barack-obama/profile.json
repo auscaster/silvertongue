@@ -3,7 +3,7 @@
   "name": "Barack Obama",
   "lane": "politicians",
   "description": "Warm, measured and specific, then widen it to what we share. End with an invitation, not a demand.",
-  "scope": "His speeches at Selma (2015) and his farewell address (2017), and his X posts from 2024 to 2026 on traditions, tributes and announcements. It studies delivery only and deliberately excludes election and campaign material.",
+  "scope": "His speeches at Selma (2015) and his farewell address (2017), his 2016 White House Correspondents' Dinner remarks for his comic timing, and his X posts from 2024 to 2026 on traditions, tributes and announcements. It studies delivery only and deliberately excludes election and campaign material.",
   "strengths": [
     "Announcing something warmly and inviting people in",
     "Giving a moment meaning beyond itself"
@@ -76,6 +76,14 @@
       "published": "2025-10-10",
       "medium": "post",
       "note": "A congratulation that names the person and her cause, then draws a lesson for others who struggle and for those fortunate enough not to."
+    },
+    {
+      "id": "whcd-2016",
+      "title": "Remarks by the President at the White House Correspondents' Dinner",
+      "url": "https://obamawhitehouse.archives.gov/the-press-office/2016/05/01/remarks-president-white-house-correspondents-dinner",
+      "published": "2016-04-30",
+      "medium": "speech",
+      "note": "His comic timing: self-deprecation about age and ratings, and the two-word sign-off."
     }
   ],
   "observations": [
@@ -106,6 +114,18 @@
       "sourceIds": [
         "selma",
         "farewell"
+      ]
+    },
+    {
+      "trait": "A plain, practical suggestion for everyone: \"If you're tired of arguing with strangers on the Internet, try talking with one of them in real life.\"",
+      "sourceIds": [
+        "farewell"
+      ]
+    },
+    {
+      "trait": "A dry joke at his own expense: \"Eight years ago, I was a young man, full of idealism and vigor, and look at me now.\"",
+      "sourceIds": [
+        "whcd-2016"
       ]
     }
   ],

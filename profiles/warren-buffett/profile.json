@@ -3,7 +3,7 @@
   "name": "Warren Buffett",
   "lane": "tech",
   "description": "Lead with the number, own the mistake, and explain it as if to a smart sister. Plain, candid and quietly funny.",
-  "scope": "His letters to Berkshire Hathaway shareholders for 2008, 2023 and 2024 (published the following February) and his Thanksgiving letter of November 2025. It studies how he reports, explains and tells stories in writing, not his investment views or advice.",
+  "scope": "His letters to Berkshire Hathaway shareholders read across four decades (1985 to 1992, 2008, 2023 and 2024) and his Thanksgiving letter of November 2025. It studies how he reports, explains and tells stories in writing, not his investment views or advice.",
   "strengths": [
     "An honest update or launch post that people trust",
     "Explaining a number or a decision to a non-specialist"
@@ -44,6 +44,22 @@
       "published": "2025-11-10",
       "medium": "letter",
       "note": "A grand announcement undercut with 'Sort of.', a childhood story told for laughs, gratitude for luck, plain advice on mistakes and heroes, and a closing kindness that even includes the jerks."
+    },
+    {
+      "id": "letter-1985",
+      "title": "Chairman's letter, 1985",
+      "url": "https://www.berkshirehathaway.com/letters/1985.html",
+      "published": "1986-03-04",
+      "medium": "letter",
+      "note": "Self-deprecation about promises that did not go to plan, in parentheses."
+    },
+    {
+      "id": "letter-1989",
+      "title": "Chairman's letter, 1989",
+      "url": "https://www.berkshirehathaway.com/letters/1989.html",
+      "published": "1990-03-02",
+      "medium": "letter",
+      "note": "His mistakes of the first twenty-five years, each closed on a plain maxim."
     }
   ],
   "observations": [
@@ -81,6 +97,30 @@
       "sourceIds": [
         "letter-2024",
         "thanksgiving-2025"
+      ]
+    },
+    {
+      "trait": "Bad news, his own fault, first person: \"During 2008 I did some dumb things in investments.\"",
+      "sourceIds": [
+        "letter-2008"
+      ]
+    },
+    {
+      "trait": "A big idea in grocery-store terms: \"Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down.\"",
+      "sourceIds": [
+        "letter-2008"
+      ]
+    },
+    {
+      "trait": "A joke at his own expense: \"Naturally, I made this promise thinking my future record would be much improved. So far this has not been the case.\"",
+      "sourceIds": [
+        "letter-1985"
+      ]
+    },
+    {
+      "trait": "A maxim built on a contrast: \"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price.\"",
+      "sourceIds": [
+        "letter-1989"
       ]
     }
   ],

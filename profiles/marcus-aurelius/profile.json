@@ -3,7 +3,7 @@
   "name": "Marcus Aurelius",
   "lane": "classics",
   "description": "Talk to yourself, reduce the thing to what it really is, and get back to work. Stern with himself, gentle with everyone else.",
-  "scope": "The Meditations, the private notebook he kept about AD 170 to 180, studied in George Long's 1862 translation: Books II, III, IV, V, VI, VIII and X. It studies the self-addressed entry, the objection answered, the reduction and the plain rule, not his philosophy's doctrines or the translator's archaic English.",
+  "scope": "The Meditations, the private notebook he kept about AD 170 to 180, studied in George Long's 1862 translation: read whole, with Books II, III, IV, V, VI, VIII and X most closely. It studies the self-addressed entry, the objection answered, the reduction and the plain rule, not his philosophy's doctrines or the translator's archaic English.",
   "strengths": [
     "A calm, disciplined post about doing the work rather than talking about it",
     "Answering a complaint or setback without self-pity"
@@ -68,6 +68,14 @@
       "published": "1862",
       "medium": "essay",
       "note": "One-line entries that turn talk into action and set every single thing against the whole of time and substance."
+    },
+    {
+      "id": "meditations",
+      "title": "The Thoughts of the Emperor Marcus Aurelius Antoninus (Meditations), translated by George Long",
+      "url": "https://www.gutenberg.org/ebooks/15877",
+      "published": "1862",
+      "medium": "essay",
+      "note": "The whole notebook in Long's translation: the source of each line quoted in the moves and of the signatures."
     }
   ],
   "observations": [
@@ -108,6 +116,36 @@
         "book-viii",
         "book-x",
         "book-ii"
+      ]
+    },
+    {
+      "trait": "The day's trouble listed in advance, to himself: \"Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial.\"",
+      "sourceIds": [
+        "book-ii"
+      ]
+    },
+    {
+      "trait": "Reluctance answered by a question: \"Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?\"",
+      "sourceIds": [
+        "book-v"
+      ]
+    },
+    {
+      "trait": "The hurt traced to his own opinion: \"Take away thy opinion, and then there is taken away the complaint, 'I have been harmed.'\"",
+      "sourceIds": [
+        "book-iv"
+      ]
+    },
+    {
+      "trait": "Set against the shortness of life: \"Do not act as if thou wert going to live ten thousand years. Death hangs over thee.\"",
+      "sourceIds": [
+        "book-iv"
+      ]
+    },
+    {
+      "trait": "A plain rule that can be acted on now: \"If it is not right, do not do it: if it is not true, do not say it.\"",
+      "sourceIds": [
+        "meditations"
       ]
     }
   ],

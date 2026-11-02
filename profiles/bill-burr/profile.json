@@ -74,6 +74,24 @@
         "walk-your-way-out",
         "sorry-you-feel"
       ]
+    },
+    {
+      "trait": "A blunt question that attacks the premise: \"Who the fuck goes to McDonald's to get in shape?\"",
+      "sourceIds": [
+        "walk-your-way-out"
+      ]
+    },
+    {
+      "trait": "The logic landed with an ordinary comparison: \"Dude, that's like going to a graduation ceremony where you don't know anybody who's graduating.\"",
+      "sourceIds": [
+        "sorry-you-feel"
+      ]
+    },
+    {
+      "trait": "The disclaimer before the double-down: \"No, this is just the ramblings of someone who's sliding into the back nine of his life, and I'm not understanding half the shit that's going on, you know?\"",
+      "sourceIds": [
+        "walk-your-way-out"
+      ]
     }
   ],
   "illustration": {

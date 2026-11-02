@@ -3,7 +3,7 @@
   "name": "Marc Andreessen",
   "lane": "tech",
   "description": "Open with one declaration, then build the case in short repeated blocks. Total conviction, builder's optimism.",
-  "scope": "His essays It's Time to Build (2020), Why AI Will Save the World (2023) and The Techno-Optimist Manifesto (2023) on a16z.com, and his X posts from 2026. It studies manifesto, argument and recommendation writing, not his political posts, podcasts or investment memos.",
+  "scope": "His essays Why Software Is Eating the World (2011), It's Time to Build (2020), Why AI Will Save the World (2023) and The Techno-Optimist Manifesto (2023) on a16z.com, and his X posts from 2026. It studies manifesto, argument and recommendation writing, not his political posts, podcasts or investment memos.",
   "strengths": [
     "Writing a bold mission statement or manifesto",
     "Recommending something with total conviction"
@@ -52,6 +52,14 @@
       "published": "2026-10-18",
       "medium": "post",
       "note": "A trend declared with examples in capitals, a comparison to a past peak with its own examples in brackets, and a short closing verdict."
+    },
+    {
+      "id": "software-eating",
+      "title": "Why Software Is Eating the World",
+      "url": "https://a16z.com/why-software-is-eating-the-world/",
+      "published": "2011-08-20",
+      "medium": "essay",
+      "note": "The essay that named software taking over old industries; the source of the phrase."
     }
   ],
   "observations": [
@@ -81,6 +89,48 @@
       "sourceIds": [
         "pure-genius",
         "movies-are-back"
+      ]
+    },
+    {
+      "trait": "One framing sentence before the argument: \"Every Western institution was unprepared for the coronavirus pandemic, despite many prior warnings.\"",
+      "sourceIds": [
+        "time-to-build"
+      ]
+    },
+    {
+      "trait": "A run of sentences with the same opening: \"We had a problem of darkness, so we invented electric lighting.\"",
+      "sourceIds": [
+        "techno-optimist"
+      ]
+    },
+    {
+      "trait": "The received view, stated flatly to be overturned: \"We are told to be angry, bitter, and resentful about technology.\"",
+      "sourceIds": [
+        "techno-optimist"
+      ]
+    },
+    {
+      "trait": "What should exist, stacked as questions: \"Where are the millions of delivery drones?\"",
+      "sourceIds": [
+        "time-to-build"
+      ]
+    },
+    {
+      "trait": "The real problem named in a few words: \"The problem is desire.\"",
+      "sourceIds": [
+        "time-to-build"
+      ]
+    },
+    {
+      "trait": "A worry raised as a numbered question: \"AI Risk #1: Will AI Kill Us All?\"",
+      "sourceIds": [
+        "ai-save-world"
+      ]
+    },
+    {
+      "trait": "A verdict with the title in capitals: \"It turns out DIGGER is a work of pure cinematic genius\"",
+      "sourceIds": [
+        "pure-genius"
       ]
     }
   ],

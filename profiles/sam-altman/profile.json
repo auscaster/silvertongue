@@ -125,6 +125,30 @@
         "three-things",
         "what-i-wish"
       ]
+    },
+    {
+      "trait": "A claim, a semicolon, an instruction: \"Incentives are superpowers; set them carefully.\"",
+      "sourceIds": [
+        "what-i-wish"
+      ]
+    },
+    {
+      "trait": "A big claim grounded in ordinary life: \"Humanity is close to building digital superintelligence, and at least so far it's much less weird than it seems like it should be.\"",
+      "sourceIds": [
+        "gentle-singularity"
+      ]
+    },
+    {
+      "trait": "Two timescales set against each other: \"Plans should be measured in decades, execution should be measured in weeks.\"",
+      "sourceIds": [
+        "what-i-wish"
+      ]
+    },
+    {
+      "trait": "A simple closing line about what matters: \"Working with great people is one of the best parts of life.\"",
+      "sourceIds": [
+        "what-i-wish"
+      ]
     }
   ],
   "illustration": {

@@ -3,8 +3,8 @@
   "name": "Snoop Dogg",
   "lane": "celebrity",
   "featured": 2,
-  "description": "Name it, say it's out now, tag your people and let the emoji talk. Relaxed, grateful, completely sure.",
-  "scope": "His X posts from 2021 to 2025 and his 2018 Hollywood Walk of Fame acceptance speech as reported with full video by The Fader. It studies release posts, greetings, short wisdom and the speech of thanks, not his lyrics, interviews or television commentary.",
+  "description": "Say it easy, give everybody their shout-out, and make the chore sound like a good time. Relaxed, grateful, completely sure.",
+  "scope": "How he talks and writes across media: his 2018 Hollywood Walk of Fame speech, a long Howard Stern interview (2021), his commentary and hosting (Olympic Highlights with Kevin Hart, The Voice, Jimmy Kimmel Live, LADbible's Snack Wars) and his X posts from 2021 to 2026. It studies his lens, his moves and the plain posts most of his feed is made of, not his lyrics or songs.",
   "strengths": [
     "Hyping a release or an event in a few words",
     "Thanking people warmly"
@@ -77,38 +77,128 @@
       "published": "2024-12-16",
       "medium": "post",
       "note": "Thanks run together into one word, 4 tha for for the, the release out everywhere and a tagged collaborator."
+    },
+    {
+      "id": "stern-2021",
+      "title": "Snoop Dogg on The Howard Stern Show",
+      "url": "https://www.youtube.com/watch?v=7b81BDY3FL4",
+      "published": "2021-11-13",
+      "medium": "transcript",
+      "note": "Ninety minutes of plain storytelling: survival, the mentors who stayed down with him, coaching, fatherhood, honest about fear, laughing at himself."
+    },
+    {
+      "id": "voice-mentor",
+      "title": "Mega mentor on The Voice",
+      "url": "https://www.youtube.com/watch?v=b8n20GEkn08",
+      "published": "2021-04-28",
+      "medium": "transcript",
+      "note": "Coaching in short sayings built on music and car metaphors, warm and certain, with rhyming doubles for flavour."
+    },
+    {
+      "id": "olympic-highlights",
+      "title": "Olympic Highlights with Kevin Hart",
+      "url": "https://www.youtube.com/watch?v=g878nMX7ph0",
+      "published": "2021",
+      "medium": "transcript",
+      "note": "Explains gymnastics terms with calm mock authority and mild offence that anyone needs telling; riffs, shout-outs and easy jokes."
+    },
+    {
+      "id": "kimmel-2023",
+      "title": "Jimmy Kimmel Live",
+      "url": "https://www.youtube.com/watch?v=drqFwPuTezs",
+      "published": "2023-10-20",
+      "medium": "transcript",
+      "note": "Easy, joking answers that turn every question back into a good time, and a plain memory of seeing people line up for his first record."
+    },
+    {
+      "id": "snack-wars",
+      "title": "Snack Wars",
+      "url": "https://www.youtube.com/watch?v=DmgyRju-Qfg",
+      "published": "2024-07-25",
+      "medium": "transcript",
+      "note": "A running verdict on snacks: loyalty to old favourites, playful rhymes, and generosity even while judging."
+    },
+    {
+      "id": "voice-catchphrases",
+      "title": "Coach Snoop's Most Hilarious Catchphrases",
+      "url": "https://www.youtube.com/watch?v=Rr_JgoVVQ5A",
+      "published": "2024-10-16",
+      "medium": "transcript",
+      "note": "The Voice's own cut of his lines as a coach: rhyming praise, greetings and pitches to the singers."
     }
   ],
   "observations": [
     {
-      "trait": "Posts name the thing, say it is out now or tonight, tag the people involved and let emoji carry the feeling.",
+      "trait": "He credits the people behind anything good by name, and says what each of them did.",
+      "sourceIds": [
+        "walk-of-fame",
+        "stern-2021"
+      ]
+    },
+    {
+      "trait": "He coaches in short sayings built on music and car metaphors.",
+      "sourceIds": [
+        "voice-mentor"
+      ]
+    },
+    {
+      "trait": "He explains the obvious with calm mock authority, a little put out that he has to.",
+      "sourceIds": [
+        "olympic-highlights"
+      ]
+    },
+    {
+      "trait": "Chores, setbacks and questions turn into laid-back jokes without losing the point.",
+      "sourceIds": [
+        "kimmel-2023",
+        "snack-wars",
+        "stern-2021"
+      ]
+    },
+    {
+      "trait": "Most posts are a few plain words: a greeting, a date and a place, a thanks.",
+      "sourceIds": [
+        "good-morning",
+        "create-value",
+        "u-ready"
+      ]
+    },
+    {
+      "trait": "Posts keep his typed spellings (U, 4, tha, wit) and use a short emoji run only when hyping or greeting.",
       "sourceIds": [
         "last-dance",
-        "u-ready",
+        "tunnel-walks",
         "thank-complex"
       ]
     },
     {
-      "trait": "Shortened spellings and run-together words are consistent and few: U, 4, tha, wit, nite, ThankU, BlessUp.",
+      "trait": "Credit goes to the people behind it, by name and for what they did: \"Shout out to Dr. Dre for believing.\"",
       "sourceIds": [
-        "thank-complex",
-        "greatest-hits",
-        "tunnel-walks",
-        "last-dance"
+        "walk-of-fame"
       ]
     },
     {
-      "trait": "Emoji come in stacks with dark skin tones, sometimes as the whole post.",
+      "trait": "His lessons are one-line sayings, often from cars or music: \"Shine your wheels up so you can roll right.\"",
       "sourceIds": [
-        "good-morning",
-        "greatest-hits"
+        "voice-mentor"
       ]
     },
     {
-      "trait": "Gratitude is constant and can become a repeated-phrase litany in speech; a rare line of plain wisdom stands alone.",
+      "trait": "Praise comes as a chain of rhyming pairs: \"You spooned and groomed, dipped and whipped, suited and booted.\"",
       "sourceIds": [
-        "walk-of-fame",
-        "create-value"
+        "voice-catchphrases"
+      ]
+    },
+    {
+      "trait": "He explains the obvious with calm authority: \"The clap is the engagement between me and you, 'cause if I'm clapping, then you got to clap.\"",
+      "sourceIds": [
+        "voice-mentor"
+      ]
+    },
+    {
+      "trait": "Spoken lists start every line the same way, and his thanks end on himself: I want to thank me for believing in me.",
+      "sourceIds": [
+        "walk-of-fame"
       ]
     }
   ],
