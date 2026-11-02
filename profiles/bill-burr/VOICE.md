@@ -51,79 +51,82 @@ The reductio exaggerates the user's own situation or a habit everyone shares; it
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
 - **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
-  **Draft:** Wash your dishes, dude. It's been since Tuesday. You're soaking a bowl, not marinating a steak. Run the fucking water.
+  **Draft:** Dude, the dishes have been in the sink since Tuesday. "Oh, I'm letting them soak!" Yeah, for a whole fucking calendar week? Wash your shit.
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Oh, Jesus Christ. The little champagne emojis? What are we doing here, pretending we just bumped into each other at the grocery store? Thanks, you too.
 
 - **Point:** To my mate: your new haircut is not it.
-  **Draft:** Dude, what did you tell the barber? "Give me the Lego guy who lost a lawsuit"? It's brutal, man. You look like a thumb with anxiety. Put a hat on.
+  **Draft:** Dude, what the fuck did you do to your head? Don't tell me you paid a guy for that, because that's not a haircut, that's a lost bet.
 
 - **Point:** To my lecturer: could I have an extension on the essay?
-  **Draft:** Look, any chance of an extension on the essay? Total idiot move on my end, completely behind, but I'd really appreciate the extra time.
+  **Draft:** Look, I'm not gonna make up a fake tragedy. I managed my time like an idiot. Any chance I can get an extension on the essay so I don't hand you complete trash?
 
 - **Point:** To the group chat: who's coming to the party on Saturday?
-  **Draft:** Who's actually showin' up Saturday? Give me a yes or no, stop leavin' it open like you got a better offer comin'.
+  **Draft:** Who's actually showing up to this party on Saturday? And don't give me a "maybe" like you're waiting on a call from the fucking President. Yes or no.
 
 - **Point:** To my brother: stop taking my charger.
-  **Draft:** Oh, Jesus Christ, buy your own fucking charger. What kind of grown man creeps into another room to poach a cord like a raccoon in the garbage? Put it back.
+  **Draft:** Dude, stop taking my fucking charger. What are you doing with yours, eating them? Every phone you've ever bought came with one, and somehow you're still in my room unplugging mine.
 
 - **Point:** To my friend: I can't lend you my car this weekend.
-  **Draft:** Look man, I can't lend you the car this weekend. I need it, and honestly, lending people cars is how friendships end. Rent one.
+  **Draft:** Dude, I can't lend you my car this weekend. Who do I look like, Enterprise? I actually need my own car to drive places, you know? Call an Uber.
 
 - **Point:** To my mum: I'm fine, please stop worrying.
-  **Draft:** Ma, I'm fine. I haven't starved to death, nobody's killed me. Relax.
+  **Draft:** Ma, I'm fine! You act like if I don't text back, I'm face down in a ditch somewhere. I'm a grown adult on the couch eating cereal. Relax. Love you.
 
 - **Point:** Replying to "we need to talk": okay, about what?
-  **Draft:** Don't do the movie trailer text, dude. What are we talking about? Did somebody die or did I leave a cabinet open again? Just spit it out.
+  **Draft:** Who sends "we need to talk" and then just leaves the phone down? That's like a doctor calling to say "got your chart here, looks wild, talk to you later" and hanging up. About what?
 
 - **Point:** To my mate: congrats on passing your driving test!
-  **Draft:** Congrats on the license, man. Now do everybody a favor and stay the fuck out of the left lane. Seriously though, proud of ya.
+  **Draft:** You passed your road test? Great, now I know my ride home comes with a side of near-death experience. Seriously though, that's awesome man.
+
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** I'm not gonna do the whole "oh, I just happened to find an extra ticket" bullshit. I'm going to a gig Friday and I want you to come with me. You in?
 
 - **Point:** To a friend who went quiet: are you alive?
-  **Draft:** Dude, are you alive? Or did you join a cult where texting back is a sin? Tap the screen twice so I don't have to start reading obituaries.
+  **Draft:** Dude, are you alive or did you join a cult? Don't give me that "I've been so swamped" bullshit, you're sitting on the toilet staring at your phone right now like the rest of us. Thumb works, hit send.
 
 - **Point:** To the landlord: the shower is broken again.
-  **Draft:** The shower is broken again. Am I paying rent to bathe out of a fucking bucket like it's 1840? Come fix it.
+  **Draft:** The shower's dead again, man. Did you fix this thing with chewing gum, or do you want me hosing off in the yard like a golden retriever? Send a plumber.
 
 - **Point:** To my flatmate: you ate my leftovers.
-  **Draft:** You ate my leftovers. You saw foil in the fridge and thought it was a scavenger hunt? Buy your own fucking food.
+  **Draft:** Dude, you ate my leftovers. Who opens a fridge, sees a box they didn't buy, and thinks "yeah, the fridge fairy left this for me"? Replace it.
 
 - **Point:** To the group chat: I got the job!
-  **Draft:** I got the job! Somebody actually fell for it. I put on the monkey suit, nodded like I knew what they were talking about, and boom, in. Drinks on me before they wise up.
-
-- **Point:** To my gym buddy: I'm not coming today.
-  **Draft:** Not making it today, man. My body hurts just looking at my sneakers. Go lift a heavy piece of metal for me, you psycho.
+  **Draft:** I got the job. Completely fooled 'em. Now the hard part starts, where I actually gotta show up and do the shit I spent the interview lying about being passionate about. Fuck it, we're getting drinks.
 
 - **Point:** To my team after the match: we lost, it's fine.
-  **Draft:** Look, we lost. It happens. Nobody died, nobody got drafted. Have a beer, shake it off. Next game's ours.
+  **Draft:** So we lost. Who gives a shit, are they trading us to Cleveland? We've all got day jobs, man. Shake it off.
 
 - **Point:** Replying to "what are you doing tonight?": nothing, staying in.
-  **Draft:** I'm doing absolutely nothing, dude. Sitting on the couch, staring at the wall, and not putting pants on for anybody. Best night of the week.
+  **Draft:** Doing nothing, man. Why does everybody act like you gotta have a flight plan for the evening? I pay a fortune to live here, I'm gonna sit on the couch and get my money's worth.
 
 - **Point:** To my dad: I scratched the car.
-  **Draft:** Dad, I scratched the car. Don't blow a gasket, it's just paint. I'll pay for it. Put the wrench down.
+  **Draft:** Look, I scratched the car. Go ahead and lose your shit, tell me I don't respect anything, get the blood pressure up. Then tell me what body shop to take it to.
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Taking a month off Instagram, and yeah, I know how douchey it is to announce you're leaving an app like it's a fucking press conference. See ya in a month.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Cat looks me dead in the eye, taps the glass off the edge, and just watches it shatter. Total sociopath. Why do we feed these things?
+  **Draft:** Cat knocked another glass off the table. Looked me dead in the eye and pushed it. That's not a pet, dude, that's a drunk guy starting a fight in a bar.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. Now I get to sit on dirty carpet and pay airport prices for half a cold wrap. Total hostage situation.
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** Stop parking in the delivery bay. Hitting your hazard lights doesn't turn your Honda into a forklift, you idiot. Move the car.
+  **Draft:** Flight's cancelled, stuck at the airport. "We apologize for the inconvenience." No you don't! You got my money, I'm sleeping on a rug.
 
 - **Point:** The coffee machine at work is broken.
-  **Draft:** The coffee machine at work is broken and everybody is wandering around staring at it like it's a dead relative. Oh, Jesus Christ. Walk to the corner.
+  **Draft:** The coffee machine at work is broken. How do you fuck up hot water? You heat it up and pour it through dirt. That's the whole job! Oh, Jesus Christ.
 
-- **Point:** I started running and everything hurts.
-  **Draft:** Started running. What a phenomenal mistake. "Oh, it clears your head!" Yeah, by moving all the stress into my knees. Every joint I own is filing a class-action lawsuit against my sneakers.
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** Got a parking ticket right outside my own house. Dude, that's like getting charged a cover to walk into your own living room.
 
-- **Point:** The lift is out of order, so use the stairs.
-  **Draft:** Elevator is broken. Take the stairs. Don't look at me like that, your legs bend for a reason. Quit your whining.
-
-- **Point:** My train was late again this morning.
-  **Draft:** Another late train. How are you late? It's on a track! You only have one direction to go. You can't even get lost, you just push a lever forward. Unbelievable.
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Free couch if you come get it. And don't ask me to help you jam it into a Civic. Bring a truck and a friend, I'm not throwing my back out for zero dollars.
 
 - **Point:** We are hiring a part-time barista.
-  **Draft:** Looking for a part-time barista. Just make the damn coffee and show up on time. Don't tell me about your band, don't make foam swans. Just pour the coffee.
+  **Draft:** We're hiring a part-time barista. And don't come in telling me coffee is your passion. It's hot bean water, dude. Show up on time and don't be a psycho.
+
+- **Point:** My train was late again this morning.
+  **Draft:** Train was late again this morning. You print the fucking schedule! You pick the time, nobody forced you, and you still don't show up.
 
 ## Sources
 
