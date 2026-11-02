@@ -162,7 +162,7 @@ Add `profiles/<slug>/VOICE.md` and `profile.json`, run `npm run catalogue && npm
 
 ## Remove or correct a voice
 
-If a profile studies you, or a character whose rights you hold, and you want it out, [ask privately](https://auscaster.com/silvertongue/terms#removing-a-profile-that-studies-you): it comes out of the catalogue and the service within seven days, and no reason is needed. To fix something in a profile, [open an issue](https://github.com/auscaster/silvertongue/issues/new?template=correct-a-voice.yml) or a pull request.
+If a profile studies you, or a character whose rights you hold, and you want it out, [ask privately](https://silvertongue.dev/terms#removing-a-profile-that-studies-you): it comes out of the catalogue and the service within seven days, and no reason is needed. To fix something in a profile, [open an issue](https://github.com/auscaster/silvertongue/issues/new?template=correct-a-voice.yml) or a pull request.
 
 ## House rules
 

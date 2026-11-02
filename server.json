@@ -3,11 +3,11 @@
 	"name": "dev.silvertongue/silvertongue",
 	"title": "Silvertongue",
 	"description": "Famous writing voices for your agent. Find one, read how it was studied, write in it.",
-	"version": "0.1.2",
-	"websiteUrl": "https://auscaster.com/silvertongue",
+	"version": "0.1.3",
+	"websiteUrl": "https://silvertongue.dev",
 	"icons": [
 		{
-			"src": "https://auscaster.com/silvertongue/silvertongue-symbol-dark.svg",
+			"src": "https://silvertongue.dev/silvertongue-symbol-dark.svg",
 			"mimeType": "image/svg+xml",
 			"sizes": [
 				"any"
@@ -15,7 +15,7 @@
 			"theme": "light"
 		},
 		{
-			"src": "https://auscaster.com/silvertongue/silvertongue-symbol-light.svg",
+			"src": "https://silvertongue.dev/silvertongue-symbol-light.svg",
 			"mimeType": "image/svg+xml",
 			"sizes": [
 				"any"
@@ -23,7 +23,7 @@
 			"theme": "dark"
 		},
 		{
-			"src": "https://auscaster.com/silvertongue/icons/silvertongue-symbol-dark-512.png",
+			"src": "https://silvertongue.dev/icons/silvertongue-symbol-dark-512.png",
 			"mimeType": "image/png",
 			"sizes": [
 				"512x512"
@@ -31,7 +31,7 @@
 			"theme": "light"
 		},
 		{
-			"src": "https://auscaster.com/silvertongue/icons/silvertongue-symbol-light-512.png",
+			"src": "https://silvertongue.dev/icons/silvertongue-symbol-light-512.png",
 			"mimeType": "image/png",
 			"sizes": [
 				"512x512"
