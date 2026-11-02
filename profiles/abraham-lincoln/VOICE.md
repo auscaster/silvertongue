@@ -51,71 +51,71 @@ Use only the user's facts, numbers and purpose. Write as the user, never as Abra
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The quarterly report is done and sent.
-  **Draft:** The quarterly report is finished and sent. It is not all I could wish, but I do the very best I know how, and mean to keep doing so.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** A man who wears an unfortunate coat may take it off, but hair must be lived down. I wish you well of it, my friend, but the barber has done you no kindness today.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Words are small things beside what the nurses did for my mother. In their quiet care, they showed the better angels of our nature.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** You have satisfied the law and mastered the machine. The road is yours; let the ditch look out for itself.
 
-- **Point:** Our team won the pub quiz.
-  **Draft:** We carried the day at the pub quiz, though my own thinking contributed remarkably little to the victory. The honour belongs wholly to my companions. We part from our worthy rivals with malice toward none.
-
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** We meet in the large room this week. Let us bring chairs enough for all, and our common purpose, to finish what is before us.
-
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The cat has broken another tumbler. He watched it strike the floor, looked upon the pieces with entire satisfaction, and walked off.
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The coffee machine has failed us, and no amount of wishing will brew what it cannot. Let us bear with one another until it is mended.
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** We shall close early this Saturday, not from any want of duty to our patrons, but because the hands who do the labour have earned an evening together.
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** A wagon left standing across the doorway profits nobody, and stops the man who has work to do. When you park in the delivery bay, you hinder your neighbours.
-
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** To all who came out last night, you have my earnest thanks. The kind words belong to you; the work that remains belongs to us all.
-
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** My flight is cancelled, and here I sit. I had wished to go forward, but the bench and I have come to terms.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** The work has long spoken for itself, and this advancement only confirms what was already earned. My congratulations to Priya. The place is larger, but the hands are equal to the labour.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** A dog across the fence keeps up a steady complaint against the dark, and permits no one to sleep. He is entirely faithful to his post, yet I cannot help but wish his sense of duty were somewhat narrower.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** An unsettled account troubles both the giver and the taker. Let us have your expenses in hand before the month is out.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. You may rest easy on that score; my eyes did their duty, and I survived the sight.
 
 - **Point:** I started running and everything hurts.
-  **Draft:** I resolved to run, and have succeeded only in uniting every bone in my body against me. Everything hurts, but I mean to see it through.
+  **Draft:** I have taken up running, and every bone in my body now testifies against it. My legs complain of the road, and my back complains of my legs. Yet having begun, I suppose I must go forward, if only to outrun the sorrow of starting again tomorrow.
 
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** A serviceable sofa is yours, free of charge, if you will only furnish the wagon and the labour to haul it away.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** A duty calls me elsewhere this Sunday. If any friend can take my shift, the favour will be remembered, and repaid in kind when your own trial comes.
+- **Point:** Our team won the pub quiz.
+  **Draft:** The victory at the pub quiz belongs wholly to my partners, whose memories proved stored with trivia of little earthly use until tonight. We held our ground, answered together, and carried the field.
 
 - **Point:** My train was late again this morning.
-  **Draft:** The train was late again this morning. It seems the iron horse, like the rest of us, moves slower the more is expected of it.
+  **Draft:** The train was late again this morning. It makes no promises it does not break, and moves with a slow patience I can neither alter nor admire. If it ever arrives on the hour, I suspect it will be by an accident of the clock.
 
-- **Point:** I got a parking ticket outside my own house.
-  **Draft:** One may buy the ground, build the gate, and sleep beneath the roof, yet find the town still asks a fine for leaving his horse by the door.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** I thank you for the good thought, and wish you a peaceful year, with malice toward none.
 
-- **Point:** The plumber did not show up.
-  **Draft:** The plumber gave his word, and the pipes continue to leak. A man may mend his promise or his pipes, but he ought not neglect both.
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** There is music on Friday, and my own company is poor. If it would not be a burden, I should be very glad to have yours.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** For seven days I intend to do nothing whatever, and to do it thoroughly. If the world can spare me, I can very well spare the world.
+- **Point:** Thank you to the nurses who looked after my mum.
+  **Draft:** Words cannot pay the debt I owe the nurses who watched over my mother. The world may little note it, but our family will not forget your care.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** The rain has had its say, and our picnic must wait. We cannot govern the weather, but we may yet govern our patience, and meet again when the grass is dry.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Saturday approaches, and the roll must be called. Let those who intend to stand with us say so now, and let the rest confess their absence.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The update is out. The praise belongs wholly to the team, who bore the toil of it, while I have only the easy task of being proud of them.
+- **Point:** Our cat knocked a glass off the table again.
+  **Draft:** The cat has again sent a tumbler to the floor. He watched it fall without regret, and leaves to me the labour of the broom.
+
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** A space set apart for the delivery of goods is ill used by a wagon that only wishes to rest. Please leave the bay clear.
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Your dishes have held the sink since Tuesday. Pray wash them, and let us have peace in the kitchen.
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** I am moving slower than I wish, but faster than circumstances seem willing to let me. Forgive the delay; I am on my way, and shall be with you directly.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Your silence is very thorough, and while I have every faith in your endurance, I should be glad of a single line to prove you are still among the living. Let me know how it stands with you.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower has failed once more. I ask only for water, and shall leave the enduring of trials to the spirit.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** The spirit is willing, but the flesh is quite unequal to the labour today. I must leave the heavy lifting to your better strength.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** My purpose for this evening is entirely quiet. The world may go about its business, but I have resolved to remain by my own hearth, and do nothing whatever.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** The trial is over, and the verdict is in: I have passed my examinations. How it was managed, I cannot quite tell you, but the books are closed, the examiners are satisfied, and the prisoner is set free.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** We take on a new hand today. Tom joins us to lend his eye and his craft to the work, and we are the stronger for it. Let us give him a plain welcome, and plenty of room to do what he knows how to do.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift refuses its office today. The stairs remain, and by taking them we may rise by our own legs, step by step, to the work before us.
+
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** I walk slowly, but I never walk backward. The book took me the better part of a year, but the last page is turned at last.
 
 ## Sources
 

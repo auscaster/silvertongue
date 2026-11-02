@@ -49,119 +49,95 @@ Use only the facts, experiences and position supplied by the user. Write as that
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Our team meeting is in the big room this week. More space, same people. See you there.
-
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** I finished the book I started a year ago.
-  
-  Reading slowly means the ideas had twelve months to soak into your actual life. No need to rush.
-
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The cat didn't break the glass because he's clumsy. He watched it fall the whole way down.
-  
-  It was an experiment. Gravity still works.
-  
-  If you put a fragile thing on the edge of a flat surface, you're the one who decided it should hit the floor.
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The coffee machine broke.
-  
-  Everyone is still standing around it.
-  
-  It was never about coffee. It was an excuse to pause and talk. You can still do that.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. If it made me think of something worth saying to you, you would have heard from me.
 
 - **Point:** Please stop parking in the delivery bay.
-  **Draft:** A delivery bay is not a very good parking spot. It only works until the truck arrives, and then it is a very stressful parking spot.
-  
-  Leave it clear. Walk the extra minute. Your day goes better.
-
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** My flight was cancelled. For the rest of the day, nobody expects me to be anywhere or answer anything. What a sudden, wonderful gift.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Most people wait for permission before they step up. Priya just kept doing the work until the title had to run to catch up with her.
-  
-  Huge congratulations on the promotion. So well deserved.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the rice again.
-  
-  It is so funny how doing something badly is the only way anyone ever gets good at it. Tomorrow I will use lower heat.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** The neighbour's dog barks all night.
-  
-  My first thought was anger. But that dog is working with complete devotion. No doubts, no hesitation, endless energy.
-  
-  I don't need quiet. I need to care about my work half as much as that dog cares about barking at the dark.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** I started running. Everything hurts.
-  
-  It is tempting to think something is going wrong. But this is just what waking up an unused machine feels like.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Tom is our new designer.
-  
-  When you make something, you get blind to it because you know how it works. A great designer comes in with fresh eyes and asks why on earth we did it that way.
-  
-  Glad you are here to fix our mess, Tom.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We need a part-time barista.
-  
-  Making coffee is easy to teach. Being genuinely glad to see people early in the morning is not.
-  
-  If that is you, email us.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** I am moving this weekend.
-  
-  If you like lifting heavy things and helping a friend, come carry boxes with me.
-  
-  If it is not a hell yeah, please just say no.
-
-- **Point:** The quarterly report is done and sent.
-  **Draft:** Quarterly report is sent.
-  
-  Nobody reads these, but writing it forced me to see what actually happened the last three months instead of what I felt happened.
+  **Draft:** Parking in the loading bay saves you twenty seconds and gives you twenty minutes of low-level dread.
+  Park around the corner. Enjoy the walk.
 
 - **Point:** The plumber did not show up.
   **Draft:** The plumber didn't show up.
-  
-  I spent the morning waiting by the door, doing nothing else.
-  
-  Funny how an absent stranger can control your whole day.
+  You can spend the day annoyed, or enjoy the sudden gift of an empty afternoon.
+  Nobody is coming. You are free.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Thank you to the nurses who looked after my mum.
-  
-  Watching people be kind when it is literally their shift work is a quiet kind of miracle. I won't forget it.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Stop taking my charger.
+  If your phone dies, the world keeps spinning. If mine dies, I have to talk to you in person about where the charger went. Nobody wants that. Buy your own cable.
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** We are switching to a new project management tool on Monday.
-  
-  A new tool won't make us organised. It just rearranges the mess. But maybe this mess will have nicer buttons.
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Off Instagram for a month. If it's important, you know how to reach me. If it's not, enjoy the quiet. I will.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking next week off to do nothing.
-  
-  Not to recharge. Not to read twelve books. Just to sit until I get bored enough to remember what I actually enjoy.
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight cancelled. Stuck here for hours.
+  Nobody expects me to be anywhere or do anything. A whole unexpected pocket of pure, free time.
+  I love this.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Someone keeps taking my stapler.
-  
-  I could guard it, or buy five cheap ones and leave them out.
-  
-  Problems disappear when you make them cheap to solve.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The office coffee machine is broken.
+  Now we get to find out who actually likes their job, and who was just caffeinated.
+
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** Got a parking ticket outside my own house.
+  It is funny paying someone for the privilege of leaving your own car near your own bed.
 
 - **Point:** Our garden finally has tomatoes.
-  **Draft:** We planted tomatoes months ago. Watered dirt every day, wondering if we were just idiots performing a ritual.
-  
-  Today there are a few red ones.
-  
-  It feels absurd, like getting away with theft. You just wait, and then the world hands you lunch.
+  **Draft:** Our garden finally grew tomatoes.
+  You water dirt for months and feel foolish. Then one day, lunch appears. Most good things work like that.
+
+- **Point:** Our team won the pub quiz.
+  **Draft:** Our team won the pub quiz.
+  It turns out that years of collecting useless facts is not a character flaw. It is just a very slow long-term investment.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Nothing. Staying in.
+  People treat an empty evening like an unfilled order that went wrong. I treat it like a prize I won. When you have no plans, you finally have room to do whatever you want.
+
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Free sofa to anyone who can pick it up.
+  You get a sofa. I get an empty room.
+  Reply if you want it.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The elevator is broken. Good.
+  Nobody ever got stronger standing in a metal box. Take the stairs today.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** Got the job!
+  It still feels like a trick. You do a polite conversation in nice clothes, and then suddenly you're allowed inside the building.
+  Hell yeah. Drinks soon?
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Who is coming to the party on Saturday?
+  If it is not a hell yeah, it is a no. Tell me either way.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** You passed. The government now trusts you with a two-ton metal missile.
+  Proud of you, mate. Pick me up later.
+
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** Want to come to the gig on Friday? If it’s not a hell yeah, a no is totally fine.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** You went quiet, which usually means life got very good or very loud.
+  Either way, just checking you are still alive. Send one word so I know.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** Hi. The shower is broken again.
+  Cold baths are great for building character, but I think I have enough character for this week. Could someone take a look?
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We lost. It happens.
+  Nobody died, and now we know what doesn't work. On to the next one.
+
+- **Point:** Our cat knocked a glass off the table again.
+  **Draft:** Our cat knocked a glass off the table again.
+  He watched it fall, just to make sure gravity was still working. Always good to test your assumptions.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Tom is joining us as our new designer.
+  Most people try to make things look fancy. The best designers just remove everything that gets in the way of what matters. Excited to see what he strips away.
+  Welcome, Tom.
 
 ## Sources
 

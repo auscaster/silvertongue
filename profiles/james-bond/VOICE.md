@@ -50,65 +50,71 @@ The connoisseur's precision must be real. Name only brands, models, years and sp
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** A minor change of venue for this week's debriefing. We take the large conference room. Try to look dangerous.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** An ambitious cut. A pity the barber seems to have lost his nerve halfway through. Give it a fortnight, or find a particularly persuasive hat.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** A year over one volume is somewhat excessive. Still, it is done. One does hate leaving loose ends.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** A charming request, but no. The keys remain with me this weekend. I prefer my gearbox in one piece.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Entirely intact, Mother, despite your best apprehensions. Do stand down.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** A bold move on the fridge. One admires the nerve, if not the etiquette. You owe me dinner.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** A minor disagreement with the scenery. The car has acquired a scratch, but remains entirely serviceable.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Another tumbler sacrifice to the carpet. Perfectly deliberate, of course. One does admire the technique, even if the motive remains strictly personal.
+  **Draft:** The cat has removed another tumbler from the table. Smoothly done, without the slightest remorse. Positively shocking.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** Leaving a saloon across the yellow hatching is an optimistic manoeuvre, but inconvenient for the lorries. The bays are for deliveries. Kindly find somewhere else to abandon it.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Happy New Year. May it be considerably less complicated than the last.
 
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** A slight change of plan. The flight is cancelled, leaving only the airport lounge and an indifferent dry martini. It could be worse.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** A quiet word for Priya. Some people wait for the field to clear; she simply took the high ground without breaking stride. A thoroughly deserved promotion. Knowing her, the world is not enough.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** The rice required a simmer. It received an interrogation. We are ordering in.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** The hound next door has been offering a continuous critique of the night. One admires the stamina, if not the repertoire.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** Decided to take up running. Splendid exercise, provided one has no further use for one's legs.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Tom joins us today as our new designer. A man with an eye for cut and finish, which is rarer than it should be. We expect great things. No pressure, of course.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** A perfectly serviceable sofa, yours for the asking. The only price is the extraction. Do bring someone who knows how to lift.
-
-- **Point:** Our team won the pub quiz.
-  **Draft:** First place in the pub quiz. The competition was fierce, though relying on the other tables to distinguish between gin and vodka is always a rather safe bet. Practice, clearly. Practice.
-
-- **Point:** My train was late again this morning.
-  **Draft:** The morning train arrived with its usual disregard for the timetable. One has to admire the consistency.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We need a part-time barista. Someone who understands that nine bars of pressure is not an opinion. Send details.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** A clean extraction this morning. Minimal fuss, though negotiations over the exchange rate beneath the pillow are proving rather spirited.
-
-- **Point:** I got a parking ticket outside my own house.
-  **Draft:** A small yellow receipt on the windscreen. Outside my own front door. The local council's sense of hospitality remains... exquisite.
-
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** The garden has finally produced tomatoes. Vine-ripened, rather late, and entirely unconcerned with the delay. A little sea salt, perhaps. Nothing else required.
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Stepping away from the feed for a month. Do try not to enjoy the silence too much.
 
 - **Point:** The plumber did not show up.
-  **Draft:** The plumber appears to have found somewhere more agreeable to be. The kitchen pipe, however, remains... optimistic.
+  **Draft:** The plumber appears to have gone to ground. A curious strategy for a man who charges by the hour. One does appreciate punctuality, if only as a courtesy to the pipes.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** The weather turned. We shall have to take the champagne indoors, which rarely spoils the flavour.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** My charger appears to have migrated to your room again. Do return it. Borrowing without asking is a habit best broken before it becomes... expensive.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Directly outside the door. One assumes someone has either cleared the street or made an expensive mistake.
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** A slight change of plan. Carry on without me today. Try not to overdo the heroics.
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** The flight has been cancelled. One finds oneself stranded in the terminal, which offers all the charm of a holding cell and none of the hospitality.
+
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** The delivery bay is reserved for arrivals of actual consequence. Kindly find somewhere rather less essential to abandon your vehicle.
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** The crockery in the sink has been holding its ground since Tuesday. Do wash it. Even patience has its limits.
+
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. Bold choice of angle, though I imagine it was meant strictly for my eyes only.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** An ominous opening. By all means, let us talk, though it is usually customary to name the subject before arranging the interrogation. What is on your mind?
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Passed on the first attempt, I trust. Splendid news. Do try to keep the car facing in the intended direction.
+
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** A parking ticket outside my own front door. The council's vigilance is... remarkable. Misguided, but remarkable.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift has retired from service without notice. Take the stairs. Good for the heart, they tell me.
+
+- **Point:** We are hiring a part-time barista.
+  **Draft:** Seeking a part-time barista. Someone who knows that scorching the milk is entirely unforgivable. Enquire within.
+
+- **Point:** My train was late again this morning.
+  **Draft:** The morning service appears to regard the timetable as a gentle suggestion rather than an obligation. One admires the consistency, if not the arrival.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Saturday. Numbers for the party, if you please. One prefers to know precisely how many glasses to prepare.
 
 ## Sources
 

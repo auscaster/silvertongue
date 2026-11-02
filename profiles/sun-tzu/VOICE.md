@@ -51,74 +51,71 @@ Ratios, counts and costs must come from the user's numbers; an image from nature
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The new menu launches next week.
-  **Draft:** The new menu arrives next week. Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** To yield ground deliberately may invite advantage; to shear it away without design invites only ruin. Your new haircut is a visible defeat. Keep a cap on your head until the loss is restored.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** The volume is finished at last. Henceforth let the great object be victory, not lengthy campaigns.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** He who enters the field without knowing the ground invites disorder. Do not issue a summons in the dark; name the matter first, and then we speak.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The update is shipped. The victorious strategist only seeks battle after the victory has been won; every measure was taken before release.
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** When the grass does not move, either the wind has ceased or the tiger is asleep. Send one sign, that I may know whether you are resting or dead.
 
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Submit your expenses before the month ends. Rapidity is the essence of war; he who delays creates his own dispute.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** The sink has been occupied since Tuesday. Clear your dishes; let your great object be victory, not lengthy campaigns.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Taking a tool from another's desk begins a feud. Return the stapler; there is no instance of a desk benefiting from prolonged warfare.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks; to you as well. When the season turns, water does not return to old channels; therefore, look only to the ground ahead.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** The ground governs the measure. We assemble in the large room this week; therefore occupy the wide space early.
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You forage on my provisions; the shelf is left bare. He who consumes another's stores must furnish the next meal.
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** He who places a vessel near the edge invites its fall; he who removes it commands the ground. Do not blame the cat for occupying the void you left undefended.
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** An office without coffee is like an army without its supply train: it is lost. Fix the machine, or expect no labour today.
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** We close early this Saturday; to feast together is to preserve the force whole.
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** The delivery bay is ground of communication; he who occupies it without cargo obstructs his own supplies. Therefore, leave the approach clear.
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** He will win who knows when to fight and when not to fight. I am not coming today; lift without me.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Ground on which one can neither advance nor return is entangling ground. The flight is cancelled. Thus I remain by the gate, conserving my strength.
+  **Draft:** My flight is cancelled; advance is barred and retreat is impossible. Hence I occupy the terminal, trapped upon entangling ground.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Increase the flame to hasten the water and you ensure ruin at the base of the pot. The rice is burnt. Turn down the heat.
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** The delivery bay is a ground of communication; he who blocks it cuts his own supplies. Park elsewhere.
 
-- **Point:** The printer is out of toner and new stock arrives tomorrow.
-  **Draft:** The toner is exhausted; the machine cannot print what it does not possess. New stock arrives tomorrow. Press the button today and you reap only blank sheets.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Shaping the form before the work begins saves tenfold the labour later. We welcome our new designer, Tom.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Free sofa. Whoever provides the carriage takes the ground; whoever hesitates arrives to find it gone. Collect it at once.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We seek a part-time barista. He will win who prepares his station before the rush arrives, and works the morning without wasted motion. Apply within.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Heavy boxes exhaust one man; shared among five, they move like water. I change lodgings this Saturday. Come lend two hands.
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** The sourdough is gone before midday. Arrive at noon and you find an empty shelf; secure your bread at dawn. We bake again tomorrow.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** To pull by force brings blood and tears; to wait until the root dissolves requires no effort. The first baby tooth has fallen without a struggle.
+- **Point:** I started running and everything hurts.
+  **Draft:** I took up running. If you press forward without measuring the ground, your limbs pay the tax. Every bone aches; the pavement yielded nothing.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** To know the ground is safety; to neglect the curb is ruin. A ticket rests upon the glass outside my own door. Even home ground demands vigilance.
+  **Draft:** To encamp before your own gate and still be plundered: this is to be routed upon your own ground. The parking ticket has arrived.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** To preserve life whole is the highest skill. In the care shown to my mother, vigilance met every turn before it arrived; thus I owe the nurses all my gratitude.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** To hasten without preparation is to invite ruin. Grant an extension on the essay; he who takes ground with deliberate care brings superior work.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Contend against the sky and you exhaust your provisions for nothing. The picnic is abandoned; the sandwiches remain intact.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** To secure your own device by depleting mine is ruinous; it invites discord where there was order. He who relies upon another for power will inevitably find himself in the dark. Leave my charger where it rests. Henceforth, provide for yourself.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** He will win who knows where to wait and when to arrive. The curb was taken without a contest.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** I am well and the ground is secure. He who worries before trouble appears spends his strength on phantoms; rest easy, all is in order.
+
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** To hold ground on Saturday brings friction; to swap shifts preserves the order. Let me trade the day, and neither post is left exposed.
+
+- **Point:** We are hiring a part-time barista.
+  **Draft:** We seek a part-time barista. He who masters steam and measure controls the morning; let the steady hand step forward.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** The party is on Saturday. He who gives his measure early allows proper provision; he who delays leaves all to chance. Declare your presence now.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower is broken again; the flow has ceased. To mend an obstruction poorly is to invite its return. Send someone to fix it.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** The tests are passed. He who calculates before the encounter discovers that victory is decided in the preparations, not the hall. Thus the contest is concluded, and the books may be shut.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift is broken; take the stairs. He who waits for a stalled machine forfeits the morning, but he who ascends by his own strength commands the height.
+
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. He who looks upon the open field has already measured what is there.
+
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The coffee machine is broken; the supply is severed at the source. Advance no cups toward it; pressing the button yields only silence.
 
 ## Sources
 

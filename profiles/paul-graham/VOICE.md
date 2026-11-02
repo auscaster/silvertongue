@@ -50,71 +50,73 @@ Use only the facts, experiences and position supplied by the user. Write as that
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Team meeting moves to the big room this week. When you outgrow a table, you either need a larger room or fewer people. We'll try the room first.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** The problem with your new haircut isn't just that it looks bad. It's that it looks like you had a specific theory about what it would do, and that theory was completely wrong.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** I finally finished the book I've been reading all year. When a book takes that long, you aren't really reading it anymore. It's just a place you visit.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** The trouble with "we need to talk" is that it announces a conversation instead of having one. It just transfers the anxiety from you to me without doing any of the work.
+  I'm around. About what?
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Our cat knocked another glass off the table today. He didn't do it by accident. He pushed it slowly to the edge, watched it fall, and then looked down to verify the result.
-  
-  Cats aren't malicious. They just run physics experiments you have to clean up.
+- **Point:** To the group chat: I got the job!
+  **Draft:** I got the job. The strange thing about hiring is that until they say yes, you assume they have a system. Then they hire you, and you realize they were mostly just hoping someone reasonable would show up. Drinks soon.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** People treat an empty delivery bay as a spot that isn't being used yet. But its whole point is to be empty until it's needed. Leaving your car there because no truck is there right now is like cutting a wire because no electricity is flowing through it. Please stop parking there.
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Nothing, staying in. People treat an empty evening like an accident you're supposed to fix, but having no plans is usually the only way you get any real thinking done.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** A cancelled flight feels like lost time, but it's really the opposite. You're trapped with nothing you're allowed to do, which almost never happens anymore.
+  **Draft:** Flight cancelled. The strange thing about being stuck at an airport is how productive it makes you, because none of your usual distractions work here.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** The test of a promotion is whether anyone is surprised by it. When the person was already doing the work, it just feels like the title finally caught up with reality. Congratulations to Priya.
+- **Point:** We are hiring a part-time barista.
+  **Draft:** Coffee is one of those things where the gap between okay and great is almost entirely attention.
+  We're hiring a part-time barista.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Cooking rice is tricky because the feedback is hidden. You only find out you were wrong after it's too late to fix.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Leaving dishes in the sink doesn't postpone washing them. It just turns the sink into storage. Yours have been there since Tuesday. Please wash them.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** A dog that barks all night is a puzzle, because the owner must hear it too. Which means either it somehow doesn't keep them awake, or they think this is just what nights are like.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I did. The trouble with stories is they tell you who looked, but not what they thought.
 
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** We sold out of sourdough by noon today. It turns out that when you genuinely make something people want, the hardest part is simply having enough.
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** You've gone completely quiet, which usually means you're either deeply absorbed in something interesting or dead in a ditch. Default alive or default dead?
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Most companies hire designers to make things look finished. The good ones do the opposite: they figure out what you are actually trying to build before you waste months building the wrong version of it.
-  
-  Tom is joining us to do that. Welcome, Tom.
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower is broken again. The problem with patching things up is that you don't actually fix them, you just schedule the next leak.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** I'm not coming today. Skipping the gym is dangerous because it feels entirely reasonable while you're deciding to do it.
+
+- **Point:** The coffee machine at work is broken.
+  **Draft:** When the office coffee machine breaks, you realize how much corporate productivity is just a polite name for a collective chemical dependency.
 
 - **Point:** Our team won the pub quiz.
-  **Draft:** Our team won the pub quiz tonight. The curious thing about pub trivia is that you don't win by knowing the most obscure facts. You win by having people whose gaps don't overlap. Breadth is just a coordination problem.
+  **Draft:** Our team won the pub quiz. The trick with trivia is that the questions don't test what you studied; they test what you happened to notice when you were supposed to be doing something else. It turns out having an excessively broad curiosity is useful at least once a week.
 
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** I deleted social media from my phone for a month. The surprising thing wasn't that I missed less than I expected, but how often I still unlocked the screen to stare at nothing. It wasn't about wanting news; it was just a nervous tic disguised as curiosity.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift is broken, which leaves the stairs. The curious thing about stairs is that they never break. Inconvenient, but default alive.
 
 - **Point:** My train was late again this morning.
-  **Draft:** A late train is more annoying than traffic because traffic feels like bad luck, but a timetable turns delay into a broken promise.
+  **Draft:** A late train is more annoying than a traffic jam because traffic feels like weather, but a timetable turns delay into a broken contract. You aren't just stuck; you've been lied to by an institution.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** My kid lost their first tooth today. The strange thing about the tooth fairy tradition is how quickly you realize you are running a tiny central bank where the only currency backed by physical collateral is human bone.
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** The mystery of eating someone else's leftovers is you had to open a container you knew you didn't pack. You ate my food.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Tom is joining us as our new designer. Good design is rare because it mostly looks like common sense in retrospect, which fools people into thinking anyone could have done it. Delighted to have someone who actually can.
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Taking a month off Instagram. It turns out the easiest way to notice what an app does to your attention is to stop feeding it for a bit. Back in a month.
+
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** Please stop parking in the delivery bay. A loading zone only works if it stays empty most of the time, which makes people treat it as an open spot.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** Got a parking ticket outside my own house. The fine isn't really for taking up space. It's for failing to rent the street from the city by the hour.
+  **Draft:** Getting a parking ticket outside your own house is strange. You think of the street as yours, but to the city you're just another obstacle they can fine.
 
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** Our garden finally has tomatoes. What surprises me is how long they took to look like food. For months it was just leaves, then green marbles that seemed entirely committed to staying green, and then, almost overnight, dinner. Most growth looks like nothing is happening.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Who is actually coming on Saturday? An unconfirmed plan is usually default dead, so let me know.
 
-- **Point:** The plumber did not show up.
-  **Draft:** The plumber not showing up is odd, because he loses money by doing it. Which means the real shortage isn't labor. It's attention.
-
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** We are switching project management tools on Monday.
-  
-  The dangerous thing about these tools is that organizing work feels like doing work, but creates zero value by itself. The best tool is whichever one lets you stop thinking about process and get back to the actual work.
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking a week off to do nothing. Most people try to optimize their rest, which ruins it. If you don't waste time freely, your brain never wanders anywhere new.
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Proud of the team for shipping the update today. Software only becomes real once strangers can break it.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** The curious thing about taking my charger is that you treat it as borrowing, but the battery never gets returned. If you need power that badly, buy the cable. Stop taking mine.
 
 ## Sources
 

@@ -51,68 +51,71 @@ His quiet wins land because the late personal detail is true. Never invent a bac
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Hey y'all, we're moving our team meeting to the big room this week. More elbow room, bigger chairs, and a whole lot more space for good ideas to stretch out.
-
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Took me a whole year, but I finally finished that book. Turns out reading slow is just giving the characters more time to figure things out. Proud of us both.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Rice had ideas about becoming charcoal today, y'all. Pot's in the sink, window's open, but tomorrow's a brand-new boil. Be a goldfish.
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** Hey folks. Now, parking in the delivery bay is a whole lot like wearing someone else's glasses. It might seem handy for a hot second, but pretty soon nobody can see what they're doing and folks get a mite cranky. Let's leave that spot open for the fellas hauling the heavy boxes.
-
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** Y'all packed that room tighter than a pair of corduroys straight out of the dryer, and it meant the world. Thank you for showing up.
-
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight's cancelled, which just means this here gate and I are going steady for the night. Time to find out if terminal carpet can love a fella like me.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Filing expenses is a lot like flossing: nobody loves it, but you gotta do it. Let's get those receipts in by month's end so we can pay y'all back!
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Next-door pup was doing a full four-set vocal warm-up all night. Easy to get grouchy, but hey, maybe the little fella's just scared of the dark, or auditioning for the local choir. Gonna wander over with some treats today. Best to be curious, not judgmental.
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** My big plans tonight have all the hustle and bustle of a sleeping basset hound. Just me, the couch, and sweet diddly-squat, and honestly? I could not be more thrilled about it.
 
 - **Point:** I started running and everything hurts.
-  **Draft:** Started running. Turns out my body has muscles in places I didn't even have places. But hey, soreness is just effort saying howdy.
+  **Draft:** Took up running, folks. Turns out my body has muscles in places I didn't even know I had places, and every single one of them is currently writing a strongly worded letter to management. Moving like a newly assembled folding chair today, but we're getting back out there.
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Big warm howdy to our newest designer, Tom! Now, my own artistic skills top out at a slightly lopsided smiley face, so having a fella around who can actually make things look gorgeous is pretty near magic to me. We are plumb tickled to have you on the squad, Tom. Welcome aboard!
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** Folks, our garden finally put some red on the vine. Turns out all that staring and quiet encouragement paid off. Tomato season is officially here.
 
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** Office Wi-Fi's taking a little afternoon nap for tune-ups, y'all. Means we might actually have to look each other in the eye and talk. I know. Terrifying.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Hey Mama, I am A-okay, promise. You can go ahead and give that worry engine the rest of the day off. Love you bunches.
 
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** Looking for a hero to take my Sunday shift. I can pledge two good deeds, eternal gratitude, and your choice of baked goods next week. Any takers?
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Taking a whole month off the gram, y'all. Gotta go see what the world looks like without a little heart floating over it. Be good.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Found a spot right out front on the very first try. Pretty sure I just used up my luck for the fiscal quarter, but do you believe in miracles?
+- **Point:** Our cat knocked a glass off the table again.
+  **Draft:** Cat sent another glass flying off the table. Hard to stay mad, though. Little fella was just checking in on gravity to make sure it still works. Dustpan time.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** If a grown fella hands you a piece of his skull, you call the cops. But your kid does it and you're slipping cash under a pillow like a tiny, pajama-wearing mob boss. First tooth is officially gone, folks. Big gap, bigger grin. They sure don't stay little for long.
-
-- **Point:** The plumber did not show up.
-  **Draft:** Plumber didn't make it today. Easy to get steamed, but hey, maybe he was off rescuing a princess from a turtle. I'll get the bucket.
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** Got a parking ticket outside my own front door today, y'all. Reckon the city just wanted to leave a love note to say welcome home. Time to be a goldfish.
 
 - **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** To the nurses looking after my mama: y'all are guardian angels in comfortable shoes. Thank you for carrying the umbrella for us.
+  **Draft:** Big thank you to the nurses who looked after my mama. Walking around in comfy shoes, doing heroic work with pure kindness. Y'all are the best of us.
 
-- **Point:** Our team won the pub quiz.
-  **Draft:** Well, folks, turns out all those random facts cluttering up our heads weren't useless after all. They were just waiting for their moment under the neon lights. We took home the pub quiz trophy tonight, proving once and for all: you just gotta believe.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Hey buddy, that sink stack's been growing since Tuesday and I think it's fixin' to apply for its own zip code. Mind giving 'em a little soap and love?
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Whoever keeps borrowing my stapler, no hard feelings. Just curious what kind of high-stakes collating we got going on. Bring her on back when you can?
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Hey Professor, any chance of a little extra time on the essay? I'm digging deep, but my words are taking the scenic route. I promise to make it worth the wait!
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Well, the sky decided to water the lawn today, folks. Picnic's off, but the egg salad tastes just as good sitting on the living room rug.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Sure did! Felt like a tiny front-row ticket to your whole day, and I gotta say, I enjoyed the show.
 
-- **Point:** The gym is closed for the holiday.
-  **Draft:** Gym doors are locked up tight for the holiday, folks. Now, you could be mad at the iron, but taking a breather is a lot like letting bread rise: nothing looks like it's happening, but that's where the magic sneaks in. Go hug your people. Barbells will still be heavy tomorrow.
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Hey there! I am running a pinch behind, which is entirely on me and my two left feet. Booking it over right now, and I promise to bring twice the charm to make up for the clock. See you in a jiffy.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking a week off to do absolutely squat, y'all. My brain needs some porch time to just sit and let its feet dangle. See you on the other side.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Well now, those four words will get a fella's heart doing the tap dance real quick. But hey, no sense borrowing trouble from tomorrow. I am all ears, my friend. What is on your mind?
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Look at you with a license, buddy! Big world just opened up. Proud of you, man. Now swing by and pick me up!
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** Morning! The shower threw in the towel again. I don't mind a little character building, but any chance you could take a peek when you can?
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** Hey roomie, looks like my leftovers went on an unscheduled field trip to your belly. Hope they treated you right! Next round is on you.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Big warm welcome to our new designer, Tom! Now, I don't know much about kerning, but I do know making things look good when the world feels a little messy is practically a superpower. Thrilled to have you in our corner, fella. Let's make something folks can't help but look at.
+
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** Hey y'all, that delivery bay is like the middle seat on an airplane: strictly reserved for folks carrying heavy baggage. Let's leave it open, yeah?
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift is taking an unscheduled nap today, folks. Looks like we get to take the stairs and pretend we planned on leg day all along.
+
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** Took me all year, but I finally closed the back cover on this book. Moving slow as molasses in January, sure, but do you believe in miracles?
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Appreciate that, truly. Hope the year ahead treats you real kind. Cheers!
+
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** Hey boss, any chance I could swap my Saturday shift? I pledge to hustle double to square it away, and the first coffee next week is entirely on me.
 
 ## Sources
 

@@ -50,76 +50,72 @@ Use only the user's facts, tools, numbers and experience. Write as the user, nev
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Cat knocked another glass off the table. Pretty convinced at this point they are running pure curiosity-driven RL, specifically stress-testing gravity in edge environments. Zero regret, fully reproducible. Time to design better guardrails.
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** Quick request: please stop parking in the delivery bay.
-  
-  People treat it like a low-latency temporary cache for their car ("just running in for a sec"), but it causes a whole cascading deadlock for the delivery trucks trying to unload. Much appreciated!
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Can't make gym today, biological substrate is fully out of compute. Get your reps in
 
 - **Point:** The coffee machine at work is broken.
-  **Draft:** Office espresso machine down. The worst part is the error screen just says "Ready" while dispensing hot water and sad air. It fails silently.
+  **Draft:** Office coffee machine is down. The entire biological compute cluster has ground to an immediate halt. Human throughput dropping to zero.
 
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled, stranded at the airport. A whole distributed system running on duct tape and prayers. Hunting for an outlet to get some work done.
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** Friendly reminder to please stop parking in the delivery bay. It is a buffer for high-throughput I/O, not cold storage.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Neighbor's dog has an infinite loop running on bark() all night. No early stopping.
-  
-  Currently debugging via earplugs, but really feels like there's room for a better hardware patch here.
+- **Point:** I started running and everything hurts.
+  **Draft:** Started running and everything hurts. Turns out taking biological hardware from zero to high frequency exposes a massive surface of latent bugs. Every muscle group throwing runtime errors. A "fast and furious" approach does not work and only leads to suffering.
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Excited to welcome Tom as our new designer! Very rare to find people with great taste who also really sweat the tiny interaction details. Can finally stop shipping programmer art 😅 Welcome to the team!
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Saw the new haircut man. Brutal regression imo. Looks like your barber severely overfit to a weird local minimum. Definitely time to rollback to the previous checkpoint, or just live under a beanie until it converges again.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the rice again. A "fast and furious" approach does not work and only leads to suffering. Low heat and patience.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Yeah saw it, full forward pass completed. Very high signal 😅
 
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Deleted social media apps from my phone for a month.
-  
-  Fascinating how quickly the muscle memory exposes itself. You unlock the phone to check the weather and your thumb just drifts into empty space looking for dopamine. Brain feels noticeably quieter.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Ominous notification. What's the context/agenda? Don't leave me spinning up an open-ended inference loop here with zero priors, what are we talking about? 😅
 
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving this weekend. Carrying all these boxes solo definitely doesn't scale, so if anyone wants to trade manual labor for food/drinks lmk
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** My kid just lost their first tooth. Wild to watch human hardware deprecation happen in real time. We told them about the tooth fairy protocol and now there is aggressive expectation of an overnight liquidity event.
-
-- **Point:** I got a parking ticket outside my own house.
-  **Draft:** Got a parking ticket directly outside my own house. Brutal failure of spatial awareness by the local state machine. Room for a better product here imo.
+- **Point:** Our cat knocked a glass off the table again.
+  **Draft:** Cat just swiped another glass off the table. Running physical unit tests on local gravity just to be completely sure. Never trusts the cached result.
 
 - **Point:** Our garden finally has tomatoes.
-  **Draft:** First tomatoes finally showing up in the garden. You basically just stare at dirt for weeks hoping something is converging, then suddenly red pixels appear. Massive dopamine hit. Extremely bullish on photosynthesis.
+  **Draft:** Tomatoes finally ripening in the garden. Zero loss for weeks, just staring at green nodes, then boom: gradient step straight to red. High-latency dopamine hit.
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** We are switching to a new project management tool on Monday.
-  
-  Expectation: clean slate, beautiful new workflows, peak organization.
-  Reality: spending half the week migrating tickets and learning where they hid the archive button.
-  
-  Still, looking forward to the reset 😅
+- **Point:** My train was late again this morning.
+  **Draft:** Train late again this morning. Commuting basically runs on what I call "latency roulette", where you just stare down an empty track waiting for the loss to converge. Room for a lot of improvement here imo.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking the next week completely off to practice what I call "zero-compute mode". No projects, no agenda, just letting the brain de-frag a bit. Back soon.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Quick request: any chance of a short extension on the essay? A fast and furious approach here only leads to suffering, just want to give it the care it needs.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Huge props to the team for shipping the update today. Getting all the messy details to line up takes real patience and attention to detail. Proud of everyone.
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** Hey, running into a scheduling collision for Saturday. Any chance I can swap that shift with someone? Happy to backprop the favor anytime.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** My stapler keeps mysteriously migrating off my desk. Admitted hack: about to put an AirTag inside the base just to trace the loss landscape.
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** Hey, random question: any chance you'd want to come to the gig with me on Friday? (zero pressure, just testing the vibe space)
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Picnic cancelled due to rain. Nature had other plans for the compute today. Pivoting to indoor tea and reading papers.
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** Tough loss today, but it is fine. Good effort out there, just noisy execution. We take the gradient update and iterate next time.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Parked literally right outside the front door on the first try. Pure random initialization luck, but taking the win anyway.
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Staying in tonight and actively doing zero things. Basically running in idle mode with all background processes suspended, just pure baseline calibration on the couch. Highly recommended tbh.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Hey dad, had a small edge case with the car earlier and put a scratch on it. Everyone is fine, just a cosmetic loss landscape update 😅 will sort it out.
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Taking a month off Instagram to run what I call "zero-scroll mode". Context window completely cleared. Back in a month.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Excited to welcome Tom as our new designer! Very nice to have someone who actually knows how to map human intuition into clean pixels, so the rest of us can stop pretending our engineer-art is good enough 😅 Welcome to the team!
 
 - **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Giving away a sofa, completely free to a good home. Only catch is you have to come pick it up yourself (bring a truck / strong friend). DM if interested.
+  **Draft:** Giving away a sofa, 100% free.
+  Only constraint is you have to handle the physical compute of moving it out. Zero cost, just BYO truck/muscles. DM me!
+
+- **Point:** We are hiring a part-time barista.
+  **Draft:** We're hiring a part-time barista. Looking for someone with patience and attention to detail to help run the coffee pipeline. DMs open if interested!
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, you too! Hope the new year treats you well and everything is running smoothly over there.
 
 - **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Huge thank you to the nurses who took care of my mum. The sheer bandwidth of patience and care they operate with is incredible to see up close. Heroes.
+  **Draft:** Huge thank you to the nurses who took care of my mum. Incredible patience and attention to detail under crazy pressure, true superheroes. Very grateful.
 
 ## Sources
 

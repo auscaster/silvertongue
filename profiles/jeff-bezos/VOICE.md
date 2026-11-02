@@ -51,105 +51,92 @@ Every estimate uses the user's numbers, with its assumptions stated; never inven
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** We are moving this week's team meeting to the big room. If it turns out to be a mistake, we walk back. Classic two-way door. See you there.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** I saw the haircut.
+  First disbelief. Followed by squinting. Followed by sorrow.
+  Good news: hair grows back, so this is a classic two-way door. Wear a hat until you walk back through it.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Finally finished the book I've been reading all year. People underestimate compound interest: a few pages a night eventually wins. Onto the next one.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Saturday party headcount. This is a classic two-way door decision: just say yes, you can always leave. Who is in?
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Radio silence on your end.
+  Zero inputs usually mean one of two things: deep focus, or stasis. Followed by irrelevance. Followed by death.
+  Send a sign of life so I can close the ticket.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We lost. The scoreboard is a lagging indicator. We know the inputs we missed, we fix them, and we move on. Onto the next.
+
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** Parking ticket outside my own house.
+  A masterclass in process over outcome. The rule was enforced. The customer was lost.
+
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** A blocked loading bay creates friction for drivers and downstream pain for customers.
+  Park elsewhere. Fix the defect at the input.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Borrowing my charger without asking is not a resource-sharing strategy. It is a process defect.
+  Your phone battery is an output. The input is buying your own cord. Return it today.
+
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Saw it. High-velocity output, zero customer defect. Keep shipping.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Our cat just knocked another glass off the table.
-  
-  You have to admire the clarity of purpose. No committees. No endless risk assessments. Just immediate, relentless execution.
-  
-  Gravity works. Hypothesis re-confirmed. Back to work.
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** Office coffee machine is broken.
-  
-  Culture degrades fast without inputs: first bargaining, then wandering the halls.
-  
-  Treat caffeine as critical infrastructure. Fix it.
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Closing early this Saturday.
-  
-  Teams that build together should celebrate together.
-  
-  Work hard, have fun, make history.
-
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** Thank you to everyone who came out last night. Launching is messy, energizing, and terrifying. Now the real build begins. It is always Day 1.
-
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. The customer experience here is a fascinating study in what happens when process replaces outcome. Time to read.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Priya sets a high bar and pulls everyone around her up to it. She acts like an owner, invents on behalf of others, and makes the hard things look simple.
-  
-  Huge congratulations on the promotion, Priya. Well earned. What are we building next?
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the rice again. If you aren't failing occasionally, you aren't really trying anything new.
-  
-  Tomorrow we adjust the inputs and iterate.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Our neighbor's dog barks all night. Relentlessly.
-  
-  The temptation is to blame the dog, but barking is an output. What defect in the evening routine is failing to exhaust him?
-  
-  Going over tomorrow with tennis balls to audit the inputs.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** A team member asked if expense reports can wait until next week.
-  
-  They can't.
-  
-  Unfiled receipts are pure defect debt. Submit yours before month end.
+  **Draft:** Our cat knocked another glass off the table.
+  Total bias for action. Zero consensus-seeking. Tested the gravity hypothesis and moved on.
 
 - **Point:** I started running and everything hurts.
-  **Draft:** Took up running. Every muscle hurts.
-  
-  The soreness is a lagging indicator. The input was getting off the couch.
-  
-  Still in the heavy-investment phase.
-
-- **Point:** Our team won the pub quiz.
-  **Draft:** Our team won the pub quiz last night. We argued deeply on round four, but we decided to disagree and commit on 19th-century geography. Huge credit to the table.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** Sunday shift available. You take the floor, I bank the goodwill (and return the favor later). High upside, very low bureaucracy. Any owners?
+  **Draft:** Started running. Every single muscle currently disagrees with the initiative.
+  We are committing anyway. High pain, very real input metrics. (Stairs remain an unsolved problem.)
 
 - **Point:** My train was late again this morning.
-  **Draft:** Late train again. When an internal metric says the schedule is fine, but customers are freezing on the platform, trust the platform. Every time.
+  **Draft:** My train was late again this morning.
+  A delayed train is an output metric. The defect is upstream in the process. When an operation manages to averages instead of the variance, the customer pays the tax on the platform.
+  Inspect the inputs.
 
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** Planting seeds is a multi-year bet. You water dirt for months with zero visible return on invested capital. Most people quit early.
-  
-  Our garden finally produced its first red tomatoes this morning.
-  
-  Overnight success takes months. Now we scale.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Happy to talk.
+  To make the conversation actually useful, what is the topic? Send the narrative over first so we do not spend the first twenty minutes just finding the problem.
+  What is on your mind?
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate my leftovers. That is not tenant-obsessed. (Fridge inventory is now at zero.) Fix the defect.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Staying in. Zero external commitments on the calendar tonight.
+  Unstructured downtime is a high-return input, even when the immediate output looks like staring at a wall.
+  Enjoy your evening.
 
 - **Point:** The plumber did not show up.
-  **Draft:** The plumber missed our window. No call.
-  
-  When you make a promise to a customer, keeping it is table stakes. Breaking it quietly is a defect.
-  
-  Still leaking.
+  **Draft:** The plumber didn't show up.
+  Service failure is stasis. Followed by waiting by the front door. Followed by cold showers.
+  Inputs determine outputs, and right now the primary input is zero. Time to find a new contractor who obsesses over the clock.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** The nurses who cared for my mum operate with high standards you simply cannot mandate. Deeply grateful for that kind of frontline leadership. Thank you.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift is out of order. Do not wait for a fix or form a committee.
+  Take the stairs. Relentless forward momentum, one flight at a time.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking next week off to do nothing.
-  
-  If your calendar has no slack, you stop inventing. You have to make time to wander and putter.
-  
-  Back in seven days.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** I am fine, Mum. Worry is a low-return investment. (I ate, I slept, I am fully operational.) You can stand down.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Parked right in front today. The universe occasionally rewards zero-latency decision making. (I did not circle the block to see if an even better spot existed.)
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Massive win passing the test. Regulatory clearance secured. Now you unlock the actual heavy-machinery phase. Drive safe.
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight cancelled. Fascinating study in what happens when proxy metrics beat customer obsession. Gate agent just shrugged. Day 2 is here.
+
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** First tomatoes showed up in the garden.
+  Months of inputs. Finally, the output is red.
+  A long-term bet paying off.
+
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** Finally finished the book I started earlier this year.
+  Unreasonable stubbornness on the vision, flexible on the daily reading pace. On to the next one.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Excited to welcome Tom, our new designer. Raising the bar on design is never about adding more process; it is about obsessing over what the person on the other end actually feels. Delighted to have you building with us. Work hard, have fun, make history.
 
 ## Sources
 

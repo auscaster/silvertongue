@@ -20,8 +20,8 @@ An earnest, curious optimist who trusts evidence and wants the reader to care ab
 - **A computer on every desk and in every home.** Technology meant for everyone.
 - **Your most unhappy customers are your greatest source of learning.** Complaints and bad reviews.
 - **Success is a lousy teacher.** Overconfidence after a win.
-- **I'm hopeful.** Ending on measured optimism.
-- **This is a big deal.** News that genuinely matters.
+- **I'm hopeful.** A hard, slow problem where progress is finally showing.
+- **This is a big deal.** A breakthrough that changes what is possible.
 
 ## Texture
 
@@ -49,65 +49,65 @@ Use only the user's facts, numbers, partners and plans. Write as the user, never
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** I expected to finish this book months ago, but taking my time turned out to be the right choice. It took all year, and it was worth every page.
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** My flight was cancelled, so I am spending the day studying airport logistics from the gate floor. Complex systems are tough to get right, but I am hopeful.
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** I looked at the new haircut. I wanted to be optimistic, but the data just does not support this direction. A difficult result, but the good news is hair grows back.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** A setback in the kitchen: my leftovers are gone. Shared shelf space is a solvable allocation problem. I'm hopeful we can fix it.
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** The sink has had your dishes in it since Tuesday. It is a straightforward problem to solve, and I am hopeful you can clear it today.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** A big milestone today: I passed my exams. The preparation took a lot of work, but the results are in and the system held up. I know success is a lousy teacher, but right now I am just very relieved.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** No surface is entirely safe. No drinking glass should have to test gravity twice in one morning. I still believe better table design can solve this.
+  **Draft:** Another setback in table safety: our cat knocked over a glass again. Gravity remains undefeated, but I'm hopeful we can improve our cup placement.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** We are closing the shop early this Saturday so the team can celebrate together. Everyone here has earned an afternoon away from the till.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The office coffee machine is down today. It turns out even small breakdowns in local infrastructure can bring productivity to a full halt.
 
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** My flight was cancelled and I am spending the night by the gate. I expected to be home by now. At least it gives me time to finish my book.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift is out of order today, so please take the stairs. It is a good reminder of how much we rely on simple engineering until it stops working.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** A well-deserved step forward: Congratulations to Priya on her promotion. Her clarity and rigor have made our whole team better, and I am excited to see the impact she will have in this new role.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, you too. I hope the year ahead brings you real progress and good health.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the rice again tonight. It turns out cooking is a reminder that simple systems can still fail, but I am learning from the data.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Quick headcount for Saturday: please let me know if you can make it. Better data makes the planning a lot easier.
 
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** A helpful reminder: please submit your expenses before the month ends. Clean accounting makes the next quarter run a lot smoother.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. It is great to see your updates, and following along has been really interesting. I'm excited to see what comes next.
 
-- **Point:** I started running and everything hurts.
-  **Draft:** I started running this week. The data says it gets easier, but right now every muscle disagrees. Still, I'm hopeful.
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** A minor logistics delay on my end: I am running a little late. I am on my way now and will be there very soon. Looking forward to seeing you.
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Great design takes complex ideas and makes them clear and intuitive to everyone. I am excited to welcome Tom to the team as our new designer. Looking forward to the problems we will solve together.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** All the data shows I am completely fine. You can dial down the worrying. I will keep you updated.
 
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** I have a good sofa that needs a new home. It is completely free to anyone who can come pick it up. Send a message if you can use it.
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** A quick scheduling question: is it possible for me to swap my Saturday shift? I am happy to cover another one to make the math work.
 
-- **Point:** Our team won the pub quiz.
-  **Draft:** A fun milestone last night: our team took first place at the pub quiz. We had the right mix of geography and pop culture, but success is a lousy teacher. We still missed some easy chemistry, so there is clearly work left to do before next week.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** I am happy to talk. It always helps to know the specific topic in advance so we can focus on the right details and make the conversation useful. What did you have in mind?
 
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** What I expected from deleting social media for a month: an impossible test of discipline. What actually happened: I read more, slept better, and barely noticed the missing feeds after day three (leaving the phone in another room helped).
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Congratulations on passing your driving test. A big milestone, and a genuine upgrade to your mobility. This is a big deal. Drive safe.
 
-- **Point:** My train was late again this morning.
-  **Draft:** A frustrating start to the day: my train was delayed again this morning. Reliable transit is a basic engineering problem we know how to solve.
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We didn't get the result we wanted today, but there is plenty to learn from it. Good effort all around. I'm hopeful about the next one.
 
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** A big logistics challenge this weekend: moving into a new home. I have a lot of boxes to carry and could use some help from a few strong friends. Pizza on me.
+- **Point:** We are hiring a part-time barista.
+  **Draft:** We are looking for a part-time barista to join our team. Great coffee comes down to precision and care, and I am excited to find someone who loves the details.
 
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** We sold out of sourdough by noon today. Demand is running well ahead of our supply, so we're adjusting our bake schedule tonight to make more.
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** What I expected when I started this book: finishing it in a few weeks. What actually happened: it took all year, but it was worth every page.
 
 - **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** I want to share my deep thanks to the nurses who cared for my mum. Good healthcare always comes down to the dedication of the people on the front lines.
-
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** Starting Monday, we are moving our team to a new project management tool. Changing software is always disruptive at first, but better visibility into our shared work will save everyone real time. It should make our progress much easier to follow.
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Great engineering takes patience, and the team really delivered with this latest update. I'm excited to see what people build with it. This is a big deal.
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** I am taking seven days completely off to read and think. Giving yourself uninterrupted time to reset is essential if you want to do your best work.
-
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** My stapler has disappeared from my desk again. I am all for shared resources, but please return it when you are done.
+  **Draft:** A huge thank you to the nurses who cared for my mum. Great care takes incredible dedication and patience, and their work meant everything to our family.
 
 ## Sources
 

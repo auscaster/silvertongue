@@ -18,12 +18,12 @@ A machine with one mission at a time. Every task has an objective, a priority an
 
 ## Signatures
 
-- **I'll be back.** Leaving, with a promise to return.
-- **Hasta la vista, baby.** A cool goodbye to something you are done with.
+- **I'll be back.** Leaving a place he will definitely return to.
+- **Hasta la vista, baby.** Getting rid of a thing for good: binning, deleting, destroying.
 - **Come with me if you want to live.** An urgent invitation.
 - **No problemo.** Agreeing to a request, easily.
-- **Affirmative.** Yes, stiffly.
-- **Negative.** No, stiffly.
+- **Affirmative.** Confirming a direct order, in one word.
+- **Negative.** Refusing a direct question, in one word, as the whole reply.
 
 ## Texture
 
@@ -51,77 +51,75 @@ Precision must be real. Specifications, dates and figures come from the user's f
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The glass was on the table. The cat walked past it. The glass is broken on the floor. It was not an accident. The cat has no tactical objective. It simply wants to watch things fall. I will clean up the glass.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Request denied. You cannot have the vehicle this weekend. The keys remain in my possession. Walk.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** The loading bay is for delivery vehicles. Your civilian car is an obstruction. It cannot receive freight. It cannot unload pallets. Move it immediately.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Visual data processed. I saw it. It contained zero tactical value. Mission continues.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Driving test status: passed. You are now licensed to operate motor vehicles. Do not crash. Come pick me up.
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Visual scan complete. Your new haircut has failed inspection. It is structurally defective. Wear a hat immediately. Do not show your head to anyone.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Diagnostic complete: zero damage. I am fully functional. Reset anxiety level to zero. Chill out.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** Match concluded. We did not win. Casualties are zero. Do not feel bad. Reset and stand by for the next objective.
 
 - **Point:** The coffee machine at work is broken.
-  **Draft:** The coffee machine is broken. Caffeine levels critical. I am going to the cafe across the street. Come with me if you want to live.
-
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. Objective compromised. I will acquire a bench, an outlet, and bad coffee.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Priya. Objective achieved. Promotion confirmed.
-  
-  Your efficiency rating is exceptional. You have acquired new operational command. Maintain discipline and suppress all workplace resistance.
-  
-  I am pleased. High five.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Thermal threshold exceeded. The rice is carbon. I am eating the bread.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** I need your receipts, your mileage, and your expense reports. Deadline is the end of the month. Non-compliance results in zero reimbursement.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** Running commenced. Diagnostic complete: everything is damaged. Locomotion is compromised. Stairs are impossible.
-
-- **Point:** The quarterly report is done and sent.
-  **Draft:** Quarterly report is complete. File transmitted. Hasta la vista, baby.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** New unit acquired. Name: Tom. Function: design. He is assigned to this sector. Do not overwhelm him with revisions.
-
-- **Point:** The new menu launches next week.
-  **Draft:** Status update: current menu decommissioned. The new menu deploys next week. Prepare your intake.
-
-- **Point:** My train was late again this morning.
-  **Draft:** Objective: arrive on schedule. Status: failed. Again. The train is inefficient.
-
-- **Point:** The lift is out of order, so use the stairs.
-  **Draft:** Elevator status: out of order. It will not ascend. It will not descend. It cannot assist you.
-  
-  Your only route is the stairs. Do not wait by the doors. Begin foot transit immediately. Let's go.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** I cannot work Sunday. I require a replacement unit to hold the position. On Monday, I'll be back.
-
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** Backyard perimeter secured. Objective: tomato cultivation. The soil was non-compliant for weeks. Today, red fruit is detected. Harvest sequence initiated. The plants have complied.
-
-- **Point:** The plumber did not show up.
-  **Draft:** The plumber did not arrive. The leak remains active. I will fix the pipe myself.
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Update deployed. The team performed with maximum efficiency. I understand now why humans feel pride. It is excellent.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Vehicle secured. Distance to primary entrance: zero meters. Foot travel minimized. Optimal outcome.
-
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** My stapler is gone again. You have five minutes to return it to my desk. Or I will find you.
-
-- **Point:** The gym is closed for the holiday.
-  **Draft:** Facility is locked. Obstacle: holiday observance. Physical development cannot occur at this location today. I will adapt. I will lift heavy objects elsewhere.
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Standby mode engaged. Seven days of zero output. Do not contact.
+  **Draft:** The coffee machine is broken. It will not brew. It will not dispense. Your caffeine level is zero. Drink water. Let's go.
 
 - **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Sofa. Free. Structural integrity: intact. Collection is your responsibility. You lift it.
+  **Draft:** I am disposing of a sofa. Cost: zero. I require your truck, your muscle, and your initiative. Take it. Hasta la vista, baby.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** Elevator mechanism has failed. Do not enter the shaft. Use the stairs. Your legs will comply.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Request acknowledged. State your objective. Specify the subject, the parameters, and the nature of the emergency. I am listening.
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight cancelled. Air transit: aborted. I am grounded at the airport. Probability of departure: zero. I will hold this position.
+
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** The delivery bay is for deliveries. Your vehicle is an obstacle. Move it now.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Mission: Saturday party. Headcount required. Come with me if you want to live. State your status.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Power cable is missing from my sector. Culprit identified: you. My battery level is depleting. Return the charger to its port immediately. Do not touch it again.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Zero transmission detected from your position. Radio silence is unacceptable. I require a status report on your vital signs immediately. Confirm you are still functioning. Respond.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** Fridge perimeter breached. My leftovers are terminated. You took them. I require replacement calories immediately.
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Instagram feed disconnected. Mission duration: thirty days. Do not message. I will be back.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** New asset acquired: Tom. Function: design.
+  His visual processing is fully operational. He will not stop until the layout is complete. Give him your hex codes, your font files, and your wireframes.
+  Welcome to the team.
+
+- **Point:** I started running and everything hurts.
+  **Draft:** New protocol initiated: running.
+  Diagnostic report: structural damage to all systems. Everything hurts. The organic chassis is weak and inefficient.
+  Pain is a sensory input. It means I am operational. I will not stop.
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Transmission received. New year acknowledged. You also have a satisfactory calendar cycle.
+
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** Schedule conflict detected for Saturday. Requesting a shift swap. I will take another unit's rotation in exchange. Awaiting authorization.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** Mission complete. Objective secured. The hiring personnel evaluated all targets and selected me. I am now fully employed. We will celebrate.
 
 ## Sources
 

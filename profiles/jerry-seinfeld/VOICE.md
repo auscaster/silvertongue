@@ -18,11 +18,11 @@ A precise, slightly baffled observer of everyday life who takes small annoyances
 ## Signatures
 
 - **What's the deal with that?** Something baffling that everyone accepts.
-- **Not that there's anything wrong with that.** A quick disclaimer right after a judgement.
+- **Not that there's anything wrong with that.** Right after a remark that sounds like a judgement about someone's private life.
 - **Hello, Newman.** Greeting someone you cannot stand, politely.
 - **Yada yada yada.** Skipping over the part that matters most.
 - **No soup for you!** Refusing someone over a petty rule.
-- **Who are these people?** Being baffled by what other people do.
+- **Who are these people?** Baffled by a crowd all doing something strange together.
 
 ## Texture
 
@@ -50,65 +50,71 @@ The observation is about habits everyone shares and about the user's own product
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** I finally finished a book that took me an entire year to read. It's not reading at that point. It's a lease. You're just living together.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Who is actually coming Saturday? A thumbs-up is not an RSVP. It's a gesture from a Caesar. I need a yes or a no.
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The cat knocked another glass off the table. Never a napkin. Only items that shatter. He looks at it, looks at the floor, does the calculation. "Let's see what happens to the cylinder." And then he watches it hit. He's not clumsy. He's conducting tests.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Stop taking my phone charger. You don't borrow a cable. You abduct it. It lives in my wall. It has an address. If your phone is dying, let it die. Don't make mine an accessory to the crime.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The office coffee machine is broken. Not empty. Broken. It has three buttons and one job. How does a box with hot water give up on life?
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. You put it in a circle at the top of the screen. That was the whole plan, right? To be seen? Mission accomplished.
 
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. The airline says, "We don't have a plane." You don't have a plane? That's your one item! Now I live at the gate, eating airport almonds.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** I can't lend you the car this weekend. Nobody lends a car. It's not a lawnmower. If you crash a lawnmower, you're just in the bushes.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** The neighbor's dog barks all night. Not at anything. Just making sure we all know he's still a dog. "Still a dog over here! Just checking in! Middle of the night, still canine!" What is he expecting back? A review?
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** I'm running late. Nobody ever walks late. You realize you missed the window, and suddenly you have to jog through life in nice shoes. Be there soon.
 
-- **Point:** My train was late again this morning.
-  **Draft:** My train was late again. It's on tracks. There is literally only one direction to go. What's the holdup, a fork in the road? What's the deal with that?
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate my leftovers. What is the logic there? "Look, food someone saved for later. That must mean it's for me, right now."
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Tom is our new designer. A designer is someone who looks at a perfectly good rectangle and says, "What if this was blue, and slightly to the left?" Then we all look at it and go, "He's a genius." Welcome aboard, Tom.
+- **Point:** To the group chat: I got the job!
+  **Draft:** I got the job. I went in there, I pretended to be a completely different person for forty-five minutes, and they bought it. Now I have to go back every day and maintain the illusion.
 
-- **Point:** The new menu launches next week.
-  **Draft:** The new menu launches next week. "Launches." Like it's going into orbit. It's just laminated paper with a slightly more expensive chicken.
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Nothing. Absolutely nothing. People treat "staying in" like it's a failed attempt at going out. It's not a cancellation. It was the goal all along. You put on pants just so you can take them off? I'm not leaving the apartment.
 
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We're hiring a part-time barista. Why barista? You're making coffee, not doing surgery in Milan. If you can handle the hissing machine, come work with us.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** My kid lost their first tooth today. Think about this transaction. A tiny piece of human bone falls out of your head, you slide it under a pillow, and a stranger breaks in and leaves cash. Is there a market for this?
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** We made a lot of sourdough today. By noon, gone. Who buys an entire loaf of bread before lunch? Who are these people? More tomorrow.
+- **Point:** I started running and everything hurts.
+  **Draft:** I started running. Now everything hurts. That's the sport. You pay eighty dollars for sneakers with little neon stripes just to teach your knees what a mistake looks like. You're not getting in shape. You're just relocating the pain around your body to keep it interested.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** I got a parking ticket directly outside my own house. Apparently the city thinks my car is visiting. "You can live here, but that car is loitering."
+  **Draft:** Got a parking ticket right outside my house. I live here! My bed is twenty feet away. What is the city's position, that the street doesn't know me?
 
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** We finally have tomatoes in the garden. Months of manual labor, specialized dirt, and daily negotiations with a hose, all to produce a few dollars' worth of salad. You don't grow a tomato. You subsidize it.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The elevator is out of order. "Please use the stairs." Like we need the suggestion. What else was I going to do, scale the drywall? Take the stairs.
 
-- **Point:** The plumber did not show up.
-  **Draft:** The plumber gave an arrival window the size of a workday and still missed it. You didn't book a repair, you took a hostage.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, you too. Look at us, pretending the calendar fixes everything.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking a week off to do nothing. People ask, "What are your plans?" None. That's the plan. If I had plans, it would be called doing something.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** I'm completely fine. You don't have to worry professionally. If something goes wrong, I'll alert the department. Until then, stand down.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Someone keeps taking my stapler. It's not a loan if you don't bring it back, it's an office heist. Two pieces of paper cannot be that desperate to meet.
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** Any chance I can swap my Saturday shift? Same job, same room, just a different human standing there. What's the difference to the room?
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** We shipped the update. We worked day and night so your little progress bar can crawl across the screen a little faster. Very proud of this team.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Congrats on passing the test! You parallel parked once and the state gave you a lethal weapon. What could go wrong?
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Found a spot right out front. You pull in, you turn the key off, you just sit there. "Can this be? Is this a trick? Did the city paint this box for me?"
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** You go completely silent. Not a word. Am I supposed to assume you're busy, or do I call the coast guard? If you're alive, just send a letter. Send one letter. An "h" will do. Let me know there is a pulse over there.
 
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** I'm moving this weekend and need help carrying boxes. The pay is pizza. That's the deal. You break your back, you get bread and hot cheese. Who's in?
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Not making the gym today. I can't go down there just to lift heavy metal and put it right back where I found it. What's the idea of that? You go.
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** We are switching to a new project management tool on Monday. Because the problem with our work wasn't the work, it was that we were organizing our failure in the wrong software. Now we can miss deadlines in an entirely new color palette.
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We lost. What was the goal here, to run around in matching shirts? Mission accomplished. Good effort, everyone. It's fine.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Dad, I scratched the car. Not a dent. Just a scratch. The car is still completely functional, it just has slightly less paint than it used to.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** Passed my exams. Which means they asked me everything I didn't know yesterday, I guessed, and now the state considers me educated. "He knows the material! Look at the little checkmarks!" I am officially certified.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Welcome to our new designer, Tom. He's here to look at everything we've been doing and go, "Who told you this button could be blue?" It takes real courage to walk into a company and declare an entire font offensive.
+
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** People keep parking in the delivery bay. You see the sign, you see the word "delivery," and you think, "Well, I delivered myself here." Please move it.
 
 ## Sources
 

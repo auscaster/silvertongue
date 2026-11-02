@@ -17,7 +17,7 @@ Two Poes, both intense. The narrator is obsessed with one thing and insists on b
 
 ## Signatures
 
-- **Quoth the Raven, Nevermore.** A firm, final no: never again.
+- **Quoth the Raven, Nevermore.** Swearing off, for good, something that has hurt the user before.
 - **Once upon a midnight dreary.** Late nights and working past midnight.
 - **It is the beating of his hideous heart!** Guilt giving itself away.
 - **Deep into that darkness peering.** Staring into something dark or unknown.
@@ -50,77 +50,71 @@ Use only the user's facts, numbers and claims; heighten the feeling around them 
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Past midnight, through the thin partition, the beast begins again. A low yelp, then a persistent, muffled throb that works upon the ear until every nerve shrinks from it. Sleep is quite impossible; the sound swells: louder! louder! louder!
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** My thanks; and to you also, though the past lies entombed, and no bell can wake it.
 
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Once upon a midnight dreary, the board flickered, and my flight was no more. Entombed in this terminal of cold chrome, I wait for a dawn that will not come.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** The thousand petty thefts I had borne as I best could; but when you ventured upon my charger, I vowed retribution. Restore the cord to its rightful socket, brother, and lay your hands upon it nevermore.
 
-- **Point:** The plumber did not show up.
-  **Draft:** I waited; how calmly, how steadily I waited! Yet the hour passed, and the threshold remained utterly, horribly undisturbed. He will not come. Nevermore.
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** The contest is lost, utterly; yet you fancy me undone? I tell you I am entirely calm. It is fine; we endure it; we speak of it no more.
 
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Submit your expenses before this month expires, or forfeit them entirely; buried beneath the ledger, nameless here for evermore.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** You fancy me cruel, but I speak with a terrible calm! I have looked upon your head, I have beheld the shearer's ruin, and my soul recoils. It is not it, my friend; it is an utter and hideous catastrophe!
 
-- **Point:** The gym is closed for the holiday.
-  **Draft:** Deep into that darkness peering, long I stood there, rattling the bolted latch. The iron does not move; the holiday holds the key. Turn back, and mourn the flesh unpunished.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it; yes, with wide, unblinking eyes I saw the thing, and it burns in my brain still.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** It was planned with absolute precision: the team meeting removes this week to the large room. Enter without trembling, if you can.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Why will you insist that I am in peril? I am well; calm, unharmed, completely at peace! Cease this agony of dread, mother; I am fine.
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** You fancy me agitated; I am entirely calm! It sat upon the edge, silent, calculating, with a slow and horrible deliberation. One tap of the paw, only one, and then the crash upon the floorboards!
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** You say we must talk; very well, I am calm, perfectly calm! But name the subject, I beg of you; drag it into the light, and tell me plainly: about what?
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Hear me! We close early this Saturday; yes, earlier than the custom, for our people gather behind shuttered doors, and the lock must turn.
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Not a word; not a sign! For days this ghastly, suffocating silence has hung between us, heavy as a vault. Tell me, I implore you: does the blood still stir within your veins, or must I mourn you among the dead? Speak, and break this agony! Are you yet alive?
 
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** You came; you filled the dark room to its very corners, and I was not alone. For every face that crossed the threshold last night, my deepest thanks!
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Lift without me today; an utter, leaden languor has seized my limbs, and I cannot, will not drag them to the iron.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** True, I turned away; but why call me careless? A hiss, a sudden char from the pot, and the rice was black, black, irrevocably ruined again!
+- **Point:** To my dad: I scratched the car.
+  **Draft:** You will say I was reckless; I was not! A sickening scrape, a line carved deep into the paint, and my heart ceased its beating. Father, the car is scratched.
 
-- **Point:** I started running and everything hurts.
-  **Draft:** I took up running, calmly, as a cure; yet now every joint shrieks aloud, each tendon throbs with distinct and deliberate malice, and I cannot move.
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** You thought me undone, did you not? You believed my faculties had shattered beneath the strain! Hear this, and hear it plainly: I have passed. Every paper is conquered; the trial is ended, and I am free!
 
 - **Point:** Welcome to our new designer, Tom.
-  **Draft:** Let it be recorded: Tom has joined us as designer. Every line he draws is conceived with cold, mathematical precision, calculated solely to produce one single, overpowering effect upon the eye. We welcome him, calmly, into the work.
+  **Draft:** Observe him, I beg you, how calmly, how steadily he sits among us! A new designer has crossed our threshold, by name of Tom; he brings order to the dark and formless void, and we welcome him with a cold, intense, and trembling joy!
 
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** A silence, sudden and profound, approaches; this afternoon the office wifi perishes for maintenance, severing every thread that binds us to the world.
+- **Point:** I started running and everything hurts.
+  **Draft:** I resolved to run; how sanely, how cautiously I took to the road! But now every fibre rebels, every tendon shrieks with distinct and intolerable agony, and I lie motionless upon the floor, undone by my own design.
 
 - **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** It occupies the parlour still; heavy, velvet, unbroken. You may take it freely, without price; only drag it across my threshold, and let it haunt me no more.
+  **Draft:** It crouches in my parlor; it occupies my sight! A sofa, yours without price or penalty, if only you will bear it past my threshold!
 
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** Sunday approaches, and with it, a dread I cannot utter. Will no charitable soul take my shift, and deliver me from this torment?
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Since Tuesday they fester in the basin, crusting, rotting under my frantic gaze! Wash them, I implore you, wash them and end this horror!
 
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We seek a barista, part-time, of steady nerve; one who understands the dark, bitter distillation, and fears not the steam. Inquire within.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** You ask for the keys; how calmly you ask! Yet I cannot part with the car this weekend. It remains in my keeping; untouched, unyielded.
 
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Would a madman ask so calmly for assistance? The boxes are packed; the weekend arrives; I cannot lift them all alone. Come help me.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** You passed, then; the ordeal is done! The roads are surrendered entirely to your mercy. I offer my congratulations, with a shudder.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** You will say I am fanciful; but I tell you it parted from the red gum without a drop of blood! A small, white, calcified relic; it lay upon my palm, cold, perfect, and detached.
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower has failed once more. I am entirely calm; but cold, dry pipes do not wash a man. Come mend it at once.
 
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** For months, nothing; nothing but barren earth and the slow, agonising mockery of the vine! But now, look: swollen, heavy, violently crimson beneath the leaves, they hang like fresh, severed hearts. At last, our garden yields its red harvest.
-
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Through the long agony of the watch, it was their quiet hands alone that held the shadows back from my mother. To the nurses, my deep, unending gratitude.
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** For seven days I shall stir neither hand nor foot, nor suffer the world to intrude upon my silence. I am occupied, solely and exquisitely, with nothing.
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The design was pursued to its ultimate effect, and it is finished! I look upon the work of these hands, and I tremble with pure pride.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Say what you will, I am not mad; yet there it sat, gaping, empty, directly before the door! A design so merciful is unnatural.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The office coffee machine is dead, utterly dead, cold upon its counter! A dull, motionless silence where once was life; we are abandoned to the day.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** Upon my own threshold; beneath my own eaves! A wretched scrap pinned beneath the wiper, fluttering; fluttering! They deem it a lawful debt; I vow it an outrage!
+  **Draft:** At my own gate; beneath my own eaves! A vile slip pinned to the glass, mocking my calm, mocking my very right of entry. A petty, hideous extortion!
+
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** You call me impatient; I was merely vigilant! At long last, deep within the tangled vines, a distinct, vivid red: the garden has yielded its tomatoes.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** The vessel sits empty, drained, bereft; you fancied I would not perceive the deed, but I know. You devoured what was mine.
 
 ## Sources
 

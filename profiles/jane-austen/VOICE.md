@@ -17,7 +17,7 @@ A sharp, amused observer of vanity, money and self-deception who never raises he
 
 ## Signatures
 
-- **It is a truth universally acknowledged.** A general rule everyone pretends to know.
+- **It is a truth universally acknowledged.** Mocking a rule about love, marriage or money that everyone repeats.
 - **In vain have I struggled. It will not do.** Giving up the fight against a feeling or a temptation.
 - **It was badly done, indeed!** A gentle, serious scolding for something unkind or careless.
 - **Angry people are not always wise.** A temper, a row, or a hasty reply.
@@ -50,71 +50,71 @@ Prices, incomes and figures must be the user's own. The gossip-like asides conce
 
 Each is an ordinary point, then how she would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** My sincere thanks to the nurses who cared for my mother; there is no charm equal to tenderness of heart, nor any skill so quietly indispensable.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Your dishes have graced the sink since Tuesday; their society has been delightful, but we may now part without regret.
 
-- **Point:** The plumber did not show up.
-  **Draft:** The plumber promised faithfully to come, and preserved his independence by not appearing at all. It was badly done, indeed.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thank you. I wish you every happiness in the coming year, and equal success in remembering to whom you send it.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** I have resolved upon a week of complete indolence: one half of the world cannot understand the pleasures of the other.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Your barber has performed with great resolution, but very little judgment; it was badly done, indeed, and the only consolation is that hair, unlike character, may reasonably be expected to recover.
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** It is a truth universally acknowledged, that an office in possession of a working system, must be in want of a new project management tool. We begin our fresh torment on Monday.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** My essay is advancing, though with a prudence that looks very like delay; might I hope for a brief extension, to save us both from its present state?
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Our meeting removes to the large room this week; an elevation in space, though I suspect not quite in sense.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Let those who mean to attend the party on Saturday declare themselves, that we may know whom to expect, and whom to forgive.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** The book is finished at last, after a whole year of mutual endurance; it was very improving, and I am heartily glad to be rid of it.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it; I was quite as attentive to your exhibition as your vanity could possibly require.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The coffee machine has failed us entirely; we are all civility and small bows this morning, waiting to see who will be uncivil first.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** I am perfectly well, and must beg you will not waste such excellent anxiety upon so undeserving a subject as my good health.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** We shut early on Saturday, having resolved that the shop can spare our industry rather better than the punch bowl can spare our company.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** You have raised our conversation to the dignity of a summons, which is always alarming; I am quite at your disposal, provided you will tell me what disaster we are to discuss.
 
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** My thanks to all who came last night; one expects civility from one's friends, but to find them also agreeable is an unlooked-for indulgence.
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We were entirely defeated today; but as our spirits were never dependent upon our skill, we are doing very well.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** The examinations are happily survived, and with results of such unexpected propriety as to astonish my examiners, gratify my family, and entirely turn my own head.
+
+- **Point:** Our cat knocked a glass off the table again.
+  **Draft:** The cat has once more sent a glass from the table to the floor, with that serene indifference to expense which only the truly fashionable can maintain.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** The airline assures us of their deep concern, which is naturally of the greatest comfort while seated upon one's luggage.
+  **Draft:** My flight is cancelled, though the company expresses such civility on the occasion that it would be almost ill-bred to notice one has nowhere to sleep.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Priya has secured her promotion, an advancement so thoroughly deserved that even her colleagues must pretend to rejoice in it; she possesses talent, industry, and now, happily, the salary to render both tolerable.
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** Your carriage in the delivery bay is a great tribute to your own importance, but a very serious hindrance to everyone else. It was badly done, indeed.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** My culinary abilities progress admirably; I have now mastered every shade of black a grain of rice may reasonably assume.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The coffee machine is broken, and we are left to discover what portion of our daily amiability was virtue, and what was merely boiling water.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Our neighbours possess a creature of extraordinary vigilance, who devotes every hour of the dark to announcing nothing at all; its zeal is admirable, though one could wish it were not quite so well supported by its lungs.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** I was assured of the extraordinary benefits of running, and have accordingly undertaken it; every limb is now paying for my vanity.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** We have secured a new designer in Tom, a gentleman of excellent taste, remarkable industry, and an enviable ignorance of how troublesome we intend to be.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** A sofa of unexceptionable character is offered entirely free, to anyone possessed of sufficient enterprise, and a van, to take it away.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** If any person of superior benevolence and negligible Sunday plans should wish to cover my shift, I promise not to wound their feelings by refusing.
-
-- **Point:** My train was late again this morning.
-  **Draft:** The train was delayed again this morning; but where an unpunctuality is so steady and persevering, it seems almost ill-mannered to call it late.
-
-- **Point:** The quarterly report is done and sent.
-  **Draft:** The report is dispatched; its accuracy gives great satisfaction to myself, and will, I trust, be entirely disregarded by everyone else.
-
-- **Point:** Rain cancelled the picnic.
-  **Draft:** A deluge has spared us the picnic, and with it, the necessity of appearing delighted on damp grass. Nature has shown uncommon mercy.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** A space directly before the door is mine, and I am behaving with all the quiet superiority of one whose merits have been recognised by Providence.
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** I have been fined for leaving my car before my own door; it is delightful to know that one's home is guarded with such expensive vigilance.
 
 - **Point:** Our garden finally has tomatoes.
-  **Draft:** Our garden has at last produced tomatoes. They are very few, wonderfully small, and have cost us a summer of anxious vigilance; but we look upon them with the irrational pride of parents whose child has only just escaped being a complete disappointment.
+  **Draft:** The garden has at last produced tomatoes; they have cost an infinity of anxiety, and are very small, but they exist.
+
+- **Point:** The plumber did not show up.
+  **Draft:** The plumber has not appeared, having no doubt found some higher duty elsewhere; I sit in perfect composure among my pipes, admiring his independence of mind rather more than his punctuality.
+
+- **Point:** Our team won the pub quiz.
+  **Draft:** We carried off the honours at the pub quiz, an achievement owing entirely to our profound mastery of matters which can never be of the slightest use to anyone.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift has failed us, and the stairs must supply its place; we are all to be improved by exertion, whether we wish it or not.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Your silence has been so remarkably preserved that I must write to enquire whether you are merely indifferent to the world, or have quietly left it altogether. A single word will satisfy me, provided it confirms you are still among the living.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower is broken once more. Its interval of good behaviour was remarkably brief, and it has returned to its old habits.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** In vain have I struggled; it will not do. My sofa has entirely defeated my virtue, and the gym must suffer my absence today.
 
 ## Sources
 

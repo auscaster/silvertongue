@@ -17,10 +17,10 @@ Calm, warm and reasonable: someone who believes people are better than their wor
 
 ## Signatures
 
-- **Obama out.** Signing off with a flourish.
+- **Obama out.** Leaving a job, a stage or a role for good, with a flourish.
 - **Show up. Dive in. Stay at it.** Encouraging someone to commit to something.
 - **Sometimes you'll win. Sometimes you'll lose.** Effort with no promise of a result.
-- **Let me be clear.** Right before a firm point.
+- **Let me be clear.** Correcting a misunderstanding about something the user said.
 - **Thanks, Obama.** Mock blame for a small everyday annoyance.
 - **The last time I was this high, I was trying to decide on my major.** Something going up: a lift, a promotion, a rooftop.
 
@@ -50,67 +50,59 @@ Use only the user's facts, people, numbers and plans. Write as the user, never a
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** We are moving this week's team meeting down the hall to the big room. A little more space for everyone to pull up a chair. See you there.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** I admire the confidence, and I respect anyone willing to take a real risk. But let me be clear. That haircut is not it. We can get you a hat, or we can wait the two weeks, but we cannot pretend this was the plan.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Finally turned the last page on the book I've been reading all year. Took me long enough, but it was worth every quiet minute. Time to pick the next one.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** To my brother, who believes our chargers are held in common: I respect the optimism. But let me be clear. Bring it back before my battery hits red.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The office espresso maker has officially given up on us. If anyone needs me today, I'll be testing just how far optimism alone can carry a team.
-
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** We all want an easy spot, especially on a busy morning. But the delivery bay needs to stay clear for the folks hauling heavy boxes so the rest of us can get our work done. Please leave those yellow lines open. It makes life easier for everyone.
-
-- **Point:** My train was late again this morning.
-  **Draft:** Stood on the platform watching the arrival board lie to me. My coffee went cold. Thanks, Obama.
-
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** To everyone who joined us last night, thank you. Starting something new takes a leap of faith, but that kind of energy makes all the difference. More to come.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Good design is about making complicated things feel simple, and we're lucky to have someone who understands that. Glad to welcome Tom to the team as our new designer. Make sure to say hello and give him a warm welcome.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** To the small dog next door who spent all night defending our driveway from the wind: I admire the work ethic. But let me be clear. We're going to need you to take tonight off.
-
-- **Point:** Our team won the pub quiz.
-  **Draft:** Took home first place at pub trivia tonight. Turns out that holding onto years of obscure geography and music facts does eventually pay off. Proud of the team. We earned those pints.
-
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Took the social apps off my phone for the last month. It turns out the world keeps spinning, your attention span starts to heal, and you have to find new ways to waste time in line for coffee. If you have been thinking about a reset, give it a try.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We're hiring a part-time barista. If you take pride in good coffee and treating people with a little grace, come by and say hello.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Look, we all leave a mug out sometimes. But those dishes have been in the sink since Tuesday, and it’s time to wash them. Let’s get it done.
 
 - **Point:** I started running and everything hurts.
-  **Draft:** Took up running this week, mostly to prove a point to myself. Right now, the only thing being proven is gravity. Show up. Dive in. Stay at it.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving this weekend. If you have a couple of hours and don't mind lifting a few boxes, there will be good cold drinks and plenty of gratitude.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** Big milestone in our house today: our kid lost their first tooth. A little gap in a wide smile, and a reminder of just how fast these days really move. The Tooth Fairy has big shoes to fill tonight.
+  **Draft:** Took up running recently. It turns out that when you ask muscles you haven’t consulted in years to suddenly carry you down the block, they will lodge a formal complaint. Every single one of them. Still, we lace them back up tomorrow. Show up. Dive in. Stay at it.
 
 - **Point:** Our garden finally has tomatoes.
-  **Draft:** After months of watching empty vines, second-guessing the soil, and losing a quiet argument with the local squirrels, we finally have our first tomatoes.
-  
-  Good things take time.
+  **Draft:** After a lot of patience, plenty of watering, and a few doubts along the way, the garden finally delivered our first tomatoes. Progress is slow, but it comes.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Thank you to the nurses who cared for my mom. The medicine helps, but your patience and steady kindness carried our family through. We won't forget you.
+- **Point:** My train was late again this morning.
+  **Draft:** Spent another morning on the platform getting to know the schedule as a polite suggestion rather than a binding agreement. You have to respect the optimism. Thanks, Obama.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Stepping away for the next week with no agenda, no inbox, and nowhere I need to be. We all need to recharge sometimes. See you on the other side.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Huge congratulations on passing the test. Proud of you, man. Just remember to use your indicator every now and then.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** The weather didn't cooperate today, but good company doesn't need dry grass. We'll reschedule soon. Stay warm, everybody.
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Just checking in to make sure you're still with us. We all get busy, but whenever you surface, let me know you're alright. A thumbs-up is plenty.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** Big updates rarely happen by accident. Proud of this team for sweating the details and getting it across the line. Go take it for a spin.
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Going to have to sit this one out today. Get after it without me, and don't take it too easy on the weights. I'll catch you next time.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Pulled up and found an open spot right at the front door. Sometimes the universe cuts you a break. Going to take the win and buy a lottery ticket.
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** Tough result today, but proud of the effort out there. Sometimes you will win, sometimes you will lose. We dust off and get ready for the next one.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** My big plans for this evening involve the couch, a blanket, and quiet. Sometimes the most responsible thing you can do is absolutely nothing at all. Catch you tomorrow.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Excited to welcome Tom to the team as our new designer. Good design is about making hard things feel effortless and bringing a little extra care to the work. We're lucky to have his eye and his talent. Welcome aboard, Tom.
+
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Giving away a good sofa to a good home. It is completely free, so long as you have a truck and a friend who owes you a favor. Send a DM.
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks. Wishing you a peaceful, healthy year ahead. Take care.
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Hope you're having a good week. I want to do this essay justice, and a little extra time would make all the difference. Could I have a short extension?
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Taking a quick head count for Saturday. If you are planning to show up, let me know so I can get the numbers right. Hope to see you there.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Mom, I am doing fine. I promise I am eating well, getting enough sleep, and staying out of trouble. You can take a breath. Love you.
+
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** Hey, hope the week is treating you well. Any chance I could swap my Saturday shift? Happy to pick up another one to make it right.
 
 ## Sources
 

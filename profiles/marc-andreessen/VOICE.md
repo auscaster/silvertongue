@@ -51,109 +51,87 @@ Use only the user's facts, numbers and plans. Write as the user, never as Marc A
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Team meeting moves to the big room this week. We outgrew the old one. Good. We need more space, more people, and bigger ambition.
-
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Finally finished the book I've been reading all year. It turns out reading one great, dense thing to the end beats skimming a thousand hot takes. Onward.
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Absolute zero plans tonight. Staying in, locking the doors, and aggressively executing on total rest. Going outside would be a profound category error.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Our cat knocked another glass off the table today.
-  
-  People think this is misbehavior. A profound category error.
-  
-  The cat is an empirical physicist. The cat is testing gravity. The cat runs the test every day because the cat believes in the scientific method.
+  **Draft:** Cat knocked another glass off the table.
+  We are told this is bad behavior. A profound category error.
+  The cat is running rigorous physical experiments.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Closing early this Saturday.
-  
-  We are throwing a party for the team that actually builds this place.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The office coffee machine is broken.
+  The problem is not caffeine. The problem is hardware.
+  It's time to build.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** We are told that parking anywhere you fit is harmless convenience.
-  
-  It is not. You are blocking the physical logistics pipeline that keeps the entire operation moving.
-  
-  Leave the delivery bay open. Let the real work happen.
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** The garden produced actual tomatoes. Physical production works. Civilization advances one yard at a time. Total agrarian victory.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Priya just got promoted.
-  
-  Organizations do not run on process and consensus. They run on competence and force of will. Priya has both in unlimited supply.
-  
-  Massive congratulations.
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Free sofa. Complete zero marginal cost to you. The catch: physical atoms must be moved. Bring a truck and take it.
 
-- **Point:** My train was late again this morning.
-  **Draft:** Where are the supersonic trains? Where are the automated tunnels?
-  
-  A nineteenth-century technology, running late again.
-  
-  It is time to build.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Saw it. High agency output. A masterpiece of pure abundance. Keep shipping.
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Thrilled to welcome Tom to the team as our new designer.
-  
-  The world doesn't reshape itself. You have to invent it, specify it, and render it into existence.
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Taking a month off Instagram.
+  The feed is fake velocity. Real builders operate in meatspace.
+  See you on the other side.
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** The new haircut is a catastrophic failure of execution. Absolute disaster on every metric. We need to completely pivot the aesthetic strategy immediately. Shave it off and rebuild from scratch.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The elevator is broken.
+  Do not despair. Do not file a ticket. Take the stairs.
+  Vertical kinetic energy. Legs pumping. Quad hypertrophy.
+  Up we go.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** You stole my charger again.
+  Zero-sum theft instead of generating your own power. A complete failure of basic infrastructure planning.
+  Buy your own cable. Right now. Return mine immediately.
+
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Can't do the car this weekend. Hardware is fully allocated. You need to secure alternative transport.
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Running late. The physical world continues to resist basic human coordination. Where are the flying cars? En route now, be there in minutes. Order a drink on me.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Total radio silence. Zero signal. Zero velocity.
+  Did you get eaten by a bear, abducted by aliens, or are you just deep in the bunker actually building something?
+  Report in. Need proof of life.
 
 - **Point:** Our team won the pub quiz.
-  **Draft:** Total victory tonight at pub quiz.
-  
-  Raw recall, in the age of the smartphone. Decisive defeat for the doubters.
-  
-  We take the trophy.
+  **Draft:** Pub quiz champions.
+  We had a problem of obscure trivia, so we deployed high-agency pattern matching, rapid consensus, and intense execution. Total domination.
+  Civilization advances when the best team wins.
 
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Deleted the social apps for a month.
-  
-  Total silence. Zero leverage. Zero velocity.
-  
-  The real world is fine, but the internet is where the frontier actually is. Reinstalling immediately.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, you too. Forward momentum only. Up and to the right.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Party on Saturday. We need headcounts, we need energy, we need commitment. Who is executing and showing up? Confirm now.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Not coming today.
+  Physical capital offline for emergency maintenance.
+  Go lift heavy things without me. Deploy maximum output.
 
 - **Point:** We are hiring a part-time barista.
-  **Draft:** Civilization runs on caffeine and intense execution. We are hiring a part-time barista to fuel the machine. Come build with us. DMs open.
+  **Draft:** We are hiring a part-time barista.
+  Civilization runs on caffeine and execution. High agency only. Pull great shots and move fast.
+  DMs open.
 
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** Sold out of sourdough by noon.
-  
-  The problem is not demand. The problem is capacity. More ovens, more fermentation, more crust.
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** Need to optimize the schedule: can I swap my Saturday shift? Zero loss of execution, full coverage guaranteed. Let me know.
 
-- **Point:** The plumber did not show up.
-  **Draft:** Plumber no-showed. Software is eating the world, but it has not reached my drain.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** First tooth lost.
-  
-  We had a problem of temporary hardware, so biology invented self-upgrading architecture.
-  
-  Next iteration deploys tonight via Tooth Fairy liquidity injection. Capital allocation starts early.
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** Tough loss today. Totally fine. We took the hit, we learned, and we iterate. Next match we execute. Onward.
 
 - **Point:** Thank you to the nurses who looked after my mum.
   **Draft:** The nurses who took care of my mom are absolute legends of the highest order. Complete heroes on the front lines doing the real work. Infinite gratitude.
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Total radio silence for the next seven days.
-  
-  Zero inputs. Absolute zero.
-  
-  Back next week.
-
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Picnic cancelled due to rain.
-  
-  We had a problem of water falling from the sky, so we invented roofs. We invented walls.
-  
-  Moving it inside.
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The update is live.
-  
-  Most people talk about what should exist. This team actually shipped it. Pure builder energy. Incredible work.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Pulled up right to the front door. Spot open. No circling. Pure civilized abundance. God wants us to have cars.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving this weekend. Where are the autonomous moving robots? Nowhere. The future is manual labor. Need real human strength to carry boxes.
 
 ## Sources
 

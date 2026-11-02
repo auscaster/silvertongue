@@ -49,89 +49,79 @@ Use only the facts, experiences and position supplied by the user. Write as that
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** If a book takes you all year, you were enduring it, not reading it. Drop books without guilt. Read what you love until you love to read.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Borrowing a charger is just outsourcing your lack of preparation to someone else's battery.
+  A zero-sum game played by people who refuse to buy redundancy. Buy your own cable and stop taking mine.
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The cat knocks the glass off the table because curiosity does not negotiate with gravity.
-  
-  You get angry at the cat, but you were the one who left fragile things on the edge of an indifferent world. Stop expecting nature to respect your furniture.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. Broadcasting your life in real time is a high-cost way to seek low-value attention.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** The delivery bay is not a parking spot. Saving yourself a short walk externalizes friction onto everyone supplying the building. Keep it clear.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Can't lend the car this weekend. Clear boundaries are the only reason good friendships survive asymmetric downside.
 
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** A cancelled flight only costs you time if you treat waiting as empty space. An unplanned afternoon with a book and no obligations is pure freedom.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The office coffee machine is broken. Most people do not run on energy. They run on a chemical debt they have to repay every four hours.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Congratulations to Priya on the promotion.
-  
-  Titles are just an organization catching up to judgment that was already obvious. You don't get the role to do the work; you do the work until the title becomes a formality.
-  
-  Well deserved.
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Closing early this Saturday. Trading a few hours of marginal revenue to play long-term games with long-term people.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Cooking is just feedback loops with calories. Burnt rice means the heat was an assumption instead of an observation. Lower the flame.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** A dog barking all night is not a noise problem. It is an alarm system with no off switch, owned by someone who sleeps through alarms.
-  
-  Peace of mind requires distance from people who outsource their chaos to the street.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Unsubmitted expenses are an interest-free loan to your employer. Submit them by the end of the month.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** Soreness is just the body negotiating with an upgrade it did not ask for. Pay the toll today or pay it in doctors later.
-
-- **Point:** The new menu launches next week.
-  **Draft:** A long menu is indecision. A short one is taste.
-  
-  New menu drops next week. Only the things we actually want to eat.
-
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Deleted social media off my phone for a month.
-  
-  Boredom isn't an empty room you need to escape. It is the cost of admission to your own thoughts.
-
-- **Point:** Our podcast just released a new episode.
-  **Draft:** New podcast episode is live.
-  
-  A conversation requires time, but recording it gives you reach while you sleep. Product and media leverage are permissionless. You do not need to ask anyone for an audience.
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** The garden finally has tomatoes. Compounding looks like nothing is happening for months, right up until you have more than you can eat.
 
 - **Point:** My train was late again this morning.
-  **Draft:** A late train only ruins your morning if someone else owns your calendar.
+  **Draft:** The real measure of wealth is how much of your day belongs to other people's schedules.
+  A late train is just reality reminding you who owns your morning.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** My kid lost their first tooth today.
-  
-  Growing up is mostly a series of small, irreversible trades. You give up the parts built for a smaller world so you can handle a heavier one.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Leaving dirty dishes in the sink since Tuesday isn't saving time. It's just outsourcing the decision to future you, at compound interest. Clear them today.
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** A bad haircut is paying someone cash to lower your social leverage.
+  You cannot negotiate with the mirror. Buy a hat and let compound growth handle the recovery.
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Could I get an extension on the essay? I'd rather trade a few days of calendar time to hand in genuine thinking instead of rushed compliance.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** If you cannot decide, the answer is no. Let me know who is actually coming on Saturday.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower broke again. A temporary fix just borrows maintenance from the future at high interest. We need a real repair this time.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You treated my leftovers like a public good. The fridge is private property. Replace them.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Staying in tonight.
+  Doing nothing is not an absence of plans. It is an active choice to stop reacting to everyone else's priorities.
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight cancelled. Stuck at the airport.
+  A delay is only wasted time if you need the destination to justify your attention. Pack a book.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** You don't own the street outside your house. You rent the right to not be bothered, until the city remembers it owns the curb.
+  **Draft:** Got a parking ticket outside my own house.
+  A reminder that you don't own the space in front of your home. You just lease the illusion of convenience.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The elevator is out of order. Take the stairs. Convenience trades short-term ease for long-term fragility.
+
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** Gig this Friday. High upside, zero downside. You should come with me.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Unresponsiveness is usually either ruthless prioritization or total disaster. Rarely anything in between. Checking in to see which one you are dealing with. Are you alive?
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Off Instagram for a month. A calm mind requires silence, not an infinite feed of other people's manufactured desires. See you next month.
 
 - **Point:** The plumber did not show up.
-  **Draft:** The plumber didn't show up because he has pricing power.
-  
-  When demand outstrips supply, punctuality becomes optional. Specific knowledge sets its own hours.
+  **Draft:** The plumber didn't show up.
+  A missed appointment is annoying only if you don't own your schedule. If you control your time, an empty afternoon is just found space to read and think.
 
 - **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Thank you to the nurses who cared for my mother.
-  
-  Medicine is science, but care is attention. It cannot be automated, outsourced, or faked.
+  **Draft:** Nurses absorb the anxiety of an entire family and return it as calm competence.
+  Deeply grateful to the team that looked after my mum.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking a week off to do nothing.
-  
-  The hardest work in a modern economy is clearing enough space to have an original thought.
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The update is live.
-  
-  Proud of the team. Shipping is just the decision to stop debating and let reality grade your work.
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Free sofa. Price is zero, moving it is the cost. Come pick it up and it is yours.
 
 ## Sources
 

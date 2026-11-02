@@ -250,66 +250,16 @@ export const MOST_DRAFTS_PER_PHRASE = 2;
 
 /**
  * The writer copies the pool's shape more than any instruction, so the pool holds what a draft
- * should do: a signature in a few drafts, one at most, never a real line from Moves, and no pet
- * phrase across many drafts.
+ * should do: every opening and ending different, a signature in a few drafts and one at most,
+ * never a real line from Moves, and no pet phrase across many drafts. `size` is the pool the
+ * signature share is counted against, so a pool can be checked while it is being picked.
  */
-function checkPool(
+export function checkPool(
 	examples: readonly Example[],
 	signatures: readonly Signature[],
 	lines: readonly string[],
+	size = examples.length,
 ) {
-	let signed = 0;
-	for (const { draft } of examples) {
-		const found = signatures.filter((g) => within(draft, g.phrase));
-		// A line inside a longer one ("Believe." in "Do you believe in miracles?") lands with it.
-		const landed = found.filter(
-			(g) => !found.some((h) => h !== g && within(h.phrase, g.phrase)),
-		);
-		if (landed.length > 1)
-			throw new Error(
-				`An example lands two signatures, "${landed[0].phrase}" and "${landed[1].phrase}".`,
-			);
-		signed += landed.length;
-	}
-	if (signed > examples.length * MOST_SIGNED_SHARE)
-		throw new Error(
-			`At most a quarter of the examples land a signature; ${signed} of ${examples.length} do.`,
-		);
-	const phrases = new Set(signatures.map((g) => words(g.phrase).join(" ")));
-	for (const line of lines.filter(
-		(l) => words(l).length >= 3 && !phrases.has(words(l).join(" ")),
-	))
-		if (examples.some((e) => within(e.draft, line)))
-			throw new Error(
-				`An example uses the real line "${line.slice(0, 60)}": a line in Moves shows a move's shape, never an example's words.`,
-			);
-	const drafts = new Map<string, number>();
-	for (const { draft } of examples) {
-		const w = words(draft);
-		const runs = new Set(w.slice(2).map((_, i) => w.slice(i, i + 3).join(" ")));
-		for (const run of runs) drafts.set(run, (drafts.get(run) ?? 0) + 1);
-	}
-	for (const [run, n] of drafts)
-		if (n > MOST_DRAFTS_PER_PHRASE)
-			throw new Error(
-				`"${run}" appears in ${n} examples; a phrase in more than ${MOST_DRAFTS_PER_PHRASE} becomes a reflex.`,
-			);
-}
-
-/**
- * The pool shows a range, so no two drafts open or end alike: a different first two words, a
- * different last word, and no closing run of marks or emoji used twice.
- */
-function checkExamples(voice: string, examples: readonly Example[]) {
-	const entries = (section(voice, "Examples") ?? "").match(/^- /gm) ?? [];
-	if (entries.length !== examples.length)
-		throw new Error(
-			"Every example is `- **Point:** ...` with `**Draft:** ...` indented on the line below.",
-		);
-	if (examples.length < LEAST_EXAMPLES)
-		throw new Error(
-			`VOICE.md needs at least ${LEAST_EXAMPLES} examples; it has ${examples.length}.`,
-		);
 	const seen = new Map<string, string>();
 	const once = (kind: string, value: string, draft: string) => {
 		if (!value) return;
@@ -336,6 +286,55 @@ function checkExamples(voice: string, examples: readonly Example[]) {
 		once("last word", word, draft);
 		once("closing marks", tail, draft);
 	}
+	let signed = 0;
+	for (const { draft } of examples) {
+		const found = signatures.filter((g) => within(draft, g.phrase));
+		// A line inside a longer one ("Believe." in "Do you believe in miracles?") lands with it.
+		const landed = found.filter(
+			(g) => !found.some((h) => h !== g && within(h.phrase, g.phrase)),
+		);
+		if (landed.length > 1)
+			throw new Error(
+				`An example lands two signatures, "${landed[0].phrase}" and "${landed[1].phrase}".`,
+			);
+		signed += landed.length;
+	}
+	if (signed > size * MOST_SIGNED_SHARE)
+		throw new Error(
+			`At most a quarter of the examples land a signature; ${signed} of ${size} do.`,
+		);
+	const phrases = new Set(signatures.map((g) => words(g.phrase).join(" ")));
+	for (const line of lines.filter(
+		(l) => words(l).length >= 3 && !phrases.has(words(l).join(" ")),
+	))
+		if (examples.some((e) => within(e.draft, line)))
+			throw new Error(
+				`An example uses the real line "${line.slice(0, 60)}": a line in Moves shows a move's shape, never an example's words.`,
+			);
+	const drafts = new Map<string, number>();
+	for (const { draft } of examples) {
+		const w = words(draft);
+		const runs = new Set(w.slice(2).map((_, i) => w.slice(i, i + 3).join(" ")));
+		for (const run of runs) drafts.set(run, (drafts.get(run) ?? 0) + 1);
+	}
+	for (const [run, n] of drafts)
+		if (n > MOST_DRAFTS_PER_PHRASE)
+			throw new Error(
+				`"${run}" appears in ${n} examples; a phrase in more than ${MOST_DRAFTS_PER_PHRASE} becomes a reflex.`,
+			);
+}
+
+/** The Examples section: every entry a point with its draft, and enough of them. */
+function checkExamples(voice: string, examples: readonly Example[]) {
+	const entries = (section(voice, "Examples") ?? "").match(/^- /gm) ?? [];
+	if (entries.length !== examples.length)
+		throw new Error(
+			"Every example is `- **Point:** ...` with `**Draft:** ...` indented on the line below.",
+		);
+	if (examples.length < LEAST_EXAMPLES)
+		throw new Error(
+			`VOICE.md needs at least ${LEAST_EXAMPLES} examples; it has ${examples.length}.`,
+		);
 }
 
 export function validateProfile(

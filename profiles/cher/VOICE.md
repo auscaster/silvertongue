@@ -18,7 +18,7 @@ A survivor who has come back more times than she can count, and who refuses to t
 
 ## Signatures
 
-- **Mom, I am a rich man.** Anyone told they need someone else to look after them; money and independence.
+- **Mom, I am a rich man.** Anyone told they need someone else to look after them.
 - **Snap out of it!** Someone wallowing, sulking or being ridiculous.
 - **Do you believe in life after love?** A breakup, or the end of anything loved.
 - **If I could turn back time.** Regret: a mistake they would undo.
@@ -53,74 +53,65 @@ Use only the user's facts, dates, numbers and plans. Write as the user, never as
 
 Each is an ordinary point, then how she would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the Rice AGAIN🔥If I could turn back time I'd turn the damn stove down.Ordering pizza
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** Elevator is Broken AGAIN.Take The Stairs…Good For Ur Ass Anyway💋
 
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Deleted ALL the stupid apps off my 📱4 a whole month.Didn't miss the bullshit,didn't miss the noise….Turns out I'm strong enough to live without you.💋 Looked up & remembered the 🌎 is actually pretty nice
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Yes I saw it.The whole 🌎 saw it....Are U looking 4 a medal or a trophy?Just checking.🙄💋
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** Switching 2 a NEW project management tool on Monday.I KNOW,I KNOW,everybody hates change & learning new crap.I hate it 2.But the old one sucked,so SNAP OUT OF IT! We'll figure it out together.
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** Shower is BROKEN AGAIN.I am not kidding…Are you going 2 fix it or am I washing my hair in the sink 4ever?Call me🚿🙄
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Picnic RUINED BY 🌧️.Was ready 2 eat Potato Salad on a blanket like a civilized person…Now eating it over the sink.The beat goes on.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Everybody Say Hi 2 Tom,Our New Designer 🎨 Looked At His Work & Just Went WOW.The Boy Has Got SERIOUS Talent....So Happy You're Here.Whatever U Need,I Got You,Babe 💖
-
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Team Meeting moved 2 the BIG ROOM this week.Don't get ridiculous,it's still work....Bring ☕️
-
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** FINALLY FINISHED MY 📖.Took Me A Whole Fkn Year But I Did It… Now My Brain Needs A Nap😴💋
-
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Cat just pushed Another glass off the table.Looked me DEAD In My Face & Did it anyway....Zero remorse.They really think they run the 🌎 & honestly?Maybe they do.Now I'm on my knees with a broom AGAIN🙄🐈‍⬛
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** Coffee machine at work is BROKEN.Dead.Nothing.Ppl are wandering around looking like ghosts....Are we really supposed 2 work like this?☕️💀
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Closing the shop Early Saturday.Taking the whole crew out 4 Drinks & A Real Party....They worked their ASSES off this year.Go somewhere else!🥂✨
-
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** Still Cant Get Over Last Night..Every single one of U who came out,THANK U.Love U guys so much
-
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** FLIGHT CANCELLED.Sitting On The Floor By The Gate Eating Terrible Pretzels.Nobody Knows ANY-fkn-THING....Send Help Or 🍸
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Priya got the big PROMOTION today.No one works harder,& frankly no one deserves it more.They finally figured out who actually runs the place....So proud of U babe,go show them how it's done🥂🔥💋
-
-- **Point:** I started running and everything hurts.
-  **Draft:** Decided 2 Start Running.WHY.EVERY SINGLE Muscle In My Body Is Screaming At Me Tonight....Cannot Move My Legs.Whose Idea Was It??
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Giving Away Sofa.FREE 2 Good Home Or Bad Home Just Come Get It.Bring A Truck & Someone Strong,I'm Not Lifting A Cushion🛋️💋
-
-- **Point:** The new menu launches next week.
-  **Draft:** New Menu drops next week & it's INSANE🔥 Worked so hard on this one,u guys r going 2 die.Get ready 🍽️
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We need a part-time Barista☕️…Must make GREAT Coffee & not be an Asshole. Apply in person
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** Every single loaf of Sourdough GONE by noon🥖…U guys r CRAZY.Thank U so much,my 💜 is full.Baking more 2morrow,promise✨
-
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** Took 4Ever&Thought They Were Dead But WE FINALLY GOT TOMATOES🍅Look Like Little Beauties.I Was Out There Staring At Dirt Like An Idiot For Months...Now nobody touch them,I'm serious.
-
-- **Point:** The plumber did not show up.
-  **Draft:** Waited ALL Day 4 Plumber.DID NOT SHOW UP.Not even a Text…Men are great but sometimes they just can't find the Fkn Wrench🙄🔧
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** STOP Parking In The Delivery Bay.Are U out of ur mind?? Ppl have actual work 2 do,Move ur car🚚
 
 - **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Want 2 Say THANK U To The Nurses Who Took Such Amazing Care Of My Mom.Ppl Have NO IDEA How Hard U Work & How Much 💖 U Give.True Angels🙏🏼✨
+  **Draft:** The NURSES who took care of my Mom are literal ANGELS on this 🌎.Worked their ASSES off & were so kind 2 her....Never gonna forget it.Thank U from my 💜🙏🏼
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking whole week OFF.Gonna do ABSOLUTELY NOTHING.Don't call me,don't text me,pretend I fell off the edge of the 🌎.Need it so bad😴
+- **Point:** My train was late again this morning.
+  **Draft:** Train was LATE AGAIN this morning.Stood on that platform freezing my ASS off....Do they even have a schedule or do they just flip a coin?? RIDICULOUS.Still mad☕️
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Parked RIGHT outside the door.Practically drove inside.Its a MIRACLE....God loves me 2day💋
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Mom STOP WORRYING.I am FINE,I swear 2 God....Eat something,& watch your shows.Love u 💜
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Not coming 2day.Looked at my sneakers & said ABSOLUTELY NOT....Go lift heavy shit without me babe💪💋
+
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Got A Sofa 2 Give Away.TOTALLY FREE If U Pick It Up.It’s comfy,it’s cute,just come get it out of my house….Bring muscle,I am not helping u carry it🛋️💋
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Dishes in sink since Tuesday.Are you out of your mind?Snap out of it & wash them,they are growing a personality.I love u but NO 🧼💋
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** ABSOLUTELY NOTHING.Staying in bed & not putting pants on 4 ANYONE… It's heaven.Don't call me,don't text me,I'm busy doing fkn zero tonight😴🛌💋
+
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** FINALLY Finished The Book I’ve Been Reading ALL YEAR.Thought It Would Never End.Good Book But My 🧠 Is Fried....Need A Medal Or A 🍸📚💋
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Babe I 💜 u with all my heart,truly,but what on EARTH did that barber just do 2 ur head?? It is NOT IT.Did they use a Weedwhacker? Look in the mirror & Snap out of it! Buy a Hat,I'm not kidding🧢💀
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Who is actually coming Saturday?? Need 2 know NOW.Dont make me show up 2 my own Party alone like a Loser💋🎉
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** U PASSED UR TEST🚗💨Honestly so proud of U,but God help everyone else on the road now...Love U so much🎉
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** U ate my leftovers.MY LEFTOVERS.Was thinking about them ALL DAY....Are u actually insane?? Buy your own damn food🍕
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight CANCELLED & I’m stuck on the floor at the airport like a homeless person....I hate it here.Gonna die on this carpet✈️😤
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Big Welcome 2 our New Designer Tom.Boy has TALENT....Don't know how he puts up with all of us already,hes a saint.I got you, babe.Now make us look gorgeous 💋✨
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We lost,it’s fine.Proud of U guys anyway&The beat goes on.Now get a drink❤️
+
+- **Point:** We are hiring a part-time barista.
+  **Draft:** Looking 4 a Part-Time Barista☕If U make killer coffee & can deal with Ppl before they’ve had their caffeine,WE NEED U.Come work with us!
 
 ## Sources
 
