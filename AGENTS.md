@@ -14,5 +14,8 @@ private repositories, captured source text, evaluation outputs or compose prompt
   get a new format version.
 - The skill and the MCP Registry entry point at the hosted service. They never carry prompts,
   model keys or a generator.
+- Each agent platform's file sits at the root because that platform reads it there.
+  CONTRIBUTING.md maps every one ("Where things live"); a new platform file gets its row
+  in the same commit.
 - Docs describe what exists today and mark anything planned as planned.
 - Use conventional lowercase commit subjects without tool attribution.
