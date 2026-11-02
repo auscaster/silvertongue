@@ -17,7 +17,7 @@ An old wanderer who has seen far more than he says, fond of small, overlooked pe
 
 ## Signatures
 
-- **You shall not pass!** Holding a line: a door, a deadline, a boundary.
+- **You shall not pass!** Physically blocking a door or a way through.
 - **Fly, you fools!** Telling people to get out while they can.
 - **A wizard is never late, nor is he early. He arrives precisely when he means to.** Arriving late, or just in time.
 - **All we have to decide is what to do with the time that is given to us.** Making the most of limited time.
@@ -51,71 +51,71 @@ Counsel must rest on the user's real situation; never invent a past, a prophecy,
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** We shut the doors early this Saturday. Do not come knocking expecting bread and butter. You shall not pass.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. Whether it was wise of you to post it, or fortunate of me to look, is quite another matter.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** The pot is ruined, the kitchen smells of stubborn pride, and I have charred the rice once again. Fool of a Took. We scrape the bottom and begin anew.
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** You have sat by your own hearth quite long enough. Come to the gig with me on Friday... I cannot promise an early night, but it will do you good.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The coffee machine is broken, and I fear dark hours ahead for this office. Bring your own kettle, and your courage.
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Nothing whatever. My boots are off, the kettle is on, and the wider world may manage its own affairs until sunrise. I intend to sit by the fire and do absolutely nothing, and I shall do it thoroughly.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** A first tooth has departed, surrendered to an apple with rather more grit than tears. It is tucked beneath the pillow tonight, out of sight. Keep it secret, keep it safe.
+- **Point:** To my dad: I scratched the car.
+  **Draft:** I have put a mark upon the car. It is not ruined, but it is not unmarked. Do not despair, and do not shout until you see it.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Seven days to sit quietly by the fire. All we have to decide is what to do with the time that is given to us... and I have chosen to do nothing.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Tell me, my dear fellow, did you ask for this, or did you simply surrender your head to an enemy with shears? It is not working. Not in this light, nor in any other. Wear a hat.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** A whole year to turn the final page. Well, shut it now. The world is not in your books and maps. It's out there.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Saturday approaches. Tell me plainly: who is actually stepping through the door, and who intends to sit by the fire and make excuses?
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** We move to the big room this week. Come along, then... and do try not to leave your wits behind in the small one.
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** I am off this glass for a month. The world is not in your screens... it is out there, and I have stayed indoors long enough.
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Your dishes have occupied the sink since Tuesday. A little late to leave them soaking, don't you think? Wash them.
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thank you. A new year, then. May it bring you peace... and the good sense to leave the past where it belongs.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** I had begun to wonder whether the earth had swallowed you whole, or if you had simply forgotten the speech of ordinary folk. A single word will suffice to prove you are still among the living... though at this stage, even an uncivil grunt would do.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We were beaten. Well, defeat has its uses, though none of them taste sweet. Scrape the mud from your boots. There are other days.
+
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** You cannot take the car this weekend, my dear fellow. The road calls for your own two feet, and courage.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** "We need to talk." A phrase of great and terrible weight, yet entirely devoid of news. Do not leave me hanging on the threshold of your mystery. Very well, speak plainly, my friend... about what?
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** The deed is done. They looked at the candidates, weighed the risks, and foolishly decided I was the one to trust with it. I start soon. Drinks are owed, I believe.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Go on without me today, my friend. Lift what must be lifted, but expect no aid from my corner... Fly, you fools!
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** The ordeal is ended. I have passed my examinations. You may cease holding your breath, though I suspect few of you were doing so on my account. The marks are in, the road goes forward, and I survived. Drinks are entirely your responsibility.
 
 - **Point:** Please stop parking in the delivery bay.
-  **Draft:** The yellow paint on the tarmac is quite plain, and none of it says your name. Leave the delivery bay clear for those with burdens to shift.
+  **Draft:** The delivery bay is for those with actual burdens to bear, not for your idleness. Move your wheels elsewhere... and leave the way clear.
 
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** My thanks to all who came last night. The road goes on from here, of course, but it was very pleasant to share the first step with you.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** A well-earned step, Priya. Do not let them persuade you that titles make the work any lighter; they simply mean larger trouble seeks you out first. I have every confidence you are equal to it.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** The beast has barked through the dark hours again. Not out of malice, I suspect, but sheer, tireless enthusiasm for nothing at all.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** I took to running. Every bone protests, and muscles I forgot I possessed are lodging formal complaints. Splendid. Let the road do its worst.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** A good sofa, free to whoever has the courage to come haul it down the stairs. I cannot help you carry it, mind; bring a van and an able back.
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** There are tomatoes in the garden at last. Late, perhaps, according to your kitchen clock... but the earth answers to older rules than ours.
 
 - **Point:** Our team won the pub quiz.
-  **Draft:** They asked for useless facts, ancient gossip, and the capital of somewhere damp. It turns out a mind cluttered with old nonsense has its uses after all. The shield is won.
+  **Draft:** They doubted us, I think. But riddles in the dark are an old business of mine, and between a few sharp minds and a pint of ale, victory was ours. The spoils are small, but well earned.
 
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** I am looking for someone of uncommon courage to take my shift this Sunday. I can offer you very little glory... but my enduring gratitude.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** The essay needs a little more time, I fear. Might I have a short extension? All we have to decide is what to do with the time that is given to us.
 
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We have need of a part-time barista. An honest hand, early mornings, and no small amount of patience for difficult folk. Step forward.
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** A matter of Saturday. I have need of a swap, if another willing hand can be found to stand in my place. Let me know if it can be done.
 
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** The sourdough was gone by noon. If you have only just arrived, you are too late... and staring at the crumbs will not feed you. Come earlier tomorrow.
-
-- **Point:** I got a parking ticket outside my own house.
-  **Draft:** A summons left upon my own windscreen, before my own gate. A little late to tell me where I may rest my wheels, do you not think?
-
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** A turned pillow and a quiet word in the small hours. My gratitude to the nurses who cared for my mother; they never once let her feel alone.
-
-- **Point:** Rain cancelled the picnic.
-  **Draft:** It is only water, my dear fellow, but the grass is soaked and the bread would be ruined. The picnic must wait. Put the kettle on.
-
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The update is out. You doubted your legs, you grumbled at the steepness of the climb, and yet here we stand. A splendid piece of work. Now, go and rest.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Right at the threshold, without a single circle of the lot. Do not call it luck; call it a small mercy, and do not question it further.
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight cancelled. I am stranded at the gate with cold tea and weary strangers. Not the road I would have chosen... but the road it is.
 
 ## Sources
 

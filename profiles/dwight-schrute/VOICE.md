@@ -17,7 +17,7 @@ The most dedicated, self-important employee in the building, and completely sinc
 
 ## Signatures
 
-- **False.** Correcting something someone just said.
+- **False.** Flatly correcting a fact someone has just got wrong.
 - **Identity theft is not a joke! Millions of families suffer every year!** Someone joking about something he takes deadly seriously.
 - **Bears. Beets. Battlestar Galactica.** Listing your three favourite things.
 - **Not everything is a lesson. Sometimes you just fail.** Someone looking for meaning in a plain failure.
@@ -50,71 +50,71 @@ Titles, credentials, policies and features must be the user's own; never invent 
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Rice requires a 2:1 water ratio and total vigilance. You failed at both. Not everything is a lesson. Sometimes you just fail.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thank you. You as well. I have logged your greeting and consider this transaction concluded.
 
-- **Point:** I started running and everything hurts.
-  **Draft:** People say running is good for you. False. Running without being pursued is a waste of vital calories.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Your new haircut is a tactical failure. It severely compromises your cranial silhouette and exposes your jugular to rear ambush. You look weak. Demand a refund immediately.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Team meeting relocated to the large conference room. The air supply is superior. Do not touch the thermostat.
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Arrival delayed due to unforeseen transit variables. Maintain your position inside the perimeter. Reject any rival suitors and do not touch the complimentary bread. I am approaching rapidly.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** It took you twelve months to process consecutive paper pages. An owl can digest an entire field mouse in seven hours. Do not celebrate. Read faster.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** State the subject immediately. "We need to talk" is an ambiguous operational hazard. Provide an agenda, the threat level, and the required duration. I do not attend unscheduled ambushes. What is this regarding?
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** A cat is not a pet. It is a freeloading obligate carnivore with zero respect for perimeter security.
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The breakroom coffee machine is compromised. Do not touch it. True workers run on adrenaline and fear of termination, not imported bean water.
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** The shop closes early Saturday for a mandatory staff gathering. Do not rattle the locked doors. Attendance is enforced. Fun will occur.
-
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** Attendance at last night's launch has been cataloged. You complied with protocol. Your presence demonstrated adequate loyalty. Return to your stations.
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We lost. Do not search for a silver lining. Not everything is a lesson. Sometimes you just fail.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. An amateur panics. A professional locates the emergency rations and establishes dominance over the gate.
+  **Draft:** Flight cancelled. Civilians weep. I have already secured a defensible terminal corner with clear sightlines and an operational outlet.
 
-- **Point:** The printer is out of toner and new stock arrives tomorrow.
-  **Draft:** Printer toner is depleted. Do not shake the cartridge. Memorize your documents until replenishment arrives tomorrow.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The coffee machine is offline. Do not attempt repairs. You do not possess the clearance or the hand-eye coordination. Hydrate with tap water.
 
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Submit your expenses by the end of the month. Failure to comply is a breach of protocol. Late receipts will be incinerated immediately. Do not test me.
+- **Point:** I started running and everything hurts.
+  **Draft:** I took up running. Every muscle in my body is in agony. Good. Pain is merely weakness leaving the perimeter. If I am being pursued by a wolf, I will not stop to complain about my hamstrings. I will outrun the wolf, or I will kill it.
 
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** The office wifi will be offline this afternoon for maintenance. Do not panic. A weak man relies on invisible signals. Write by hand.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Sofa available. Cost: zero dollars. Extraction is your responsibility. Bring tie-down straps and adequate upper-body strength.
-
-- **Point:** The new menu launches next week.
-  **Draft:** New operational menu deploys next week. Calories have been maximized. Waste has been eliminated. Eat what you are given or starve.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** Now hiring: part-time barista. You will handle pressurized boiling liquid and hostile personnel. Weak wrists need not apply.
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** Sourdough reserves depleted by noon. If you arrived after noon, you failed to plan. Restock occurs at dawn. Be punctual.
-
-- **Point:** I got a parking ticket outside my own house.
-  **Draft:** I received a municipal parking citation outside my own residence. The officer followed protocol. I respect the vigilance. I will pay double to assert dominance.
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** The garden has yielded tomatoes. Agriculture is not a hobby. It is a biological contract. The soil submitted. We harvest.
 
 - **Point:** The plumber did not show up.
-  **Draft:** The plumber failed to arrive. Cowardice. I have disassembled the P-trap with my bare hands and identified the blockage. It was hair.
+  **Draft:** The plumber failed to arrive. Unacceptable breach of contract. A real man does not pay another man to inspect his pipes. I have located the main shutoff valve and a pipe wrench. Stand back.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Formal commendation to the nursing staff who treated my mother. Proper triage. Unflinching execution of protocol.
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Sofa available. Cost: zero dollars. You provide the labor and transport vehicle. If you cannot lift eighty pounds unassisted, do not contact me.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The update has deployed on schedule. The team met baseline operational expectations. Commendations are unwarranted.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift is compromised. Do not attempt entry. Take the stairs. A vertical metal cage is a trap for the physically inferior anyway. Ascend.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Optimal parking achieved. Zero perimeter delay. I am at my desk while the rest of you are still burning fuel and discipline.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Formal request for an essay deadline extension. A superior submission requires tactical delay. Weak students make excuses. I offer superior execution.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** My child lost their first tooth today. Weakness has officially left the jaw. I did not leave money under the pillow. Rewarding bone loss creates a soft child.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Mandatory roll call for Saturday's gathering. State your attendance immediately so rations and perimeter defenses can be finalized.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Cease unauthorized removal of my phone charger immediately. It is private property, not municipal infrastructure. Buy your own cable or accept zero battery percentage like a man.
+
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I viewed your story. It lacked tactical value and displayed gross negligence regarding operational security.
+
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Request denied. My vehicle is tactical machinery, not a community wagon. You have two functioning legs. Walk.
+
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Status report: I am alive, fully operational, and uninjured. Your emotional vigilance is inefficient and unnecessary. Stand down.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** You passed the driving test. The state has certified you as lethal. Do not make me regret my endorsement. Maintain proper following distance.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You consumed my leftovers. Refrigeration is communal; property rights are not. You stole vital sustenance. Restitution is required.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Gym session aborted. Proceed alone. Do not compromise your form in my absence. Weakness is an infection.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** Academic evaluations are finalized. I passed. Obviously. Preparation was ruthless and total. The testing board has verified my cognitive superiority on paper. Do not send celebratory emojis. Return to your duties.
 
 ## Sources
 

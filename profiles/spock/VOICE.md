@@ -16,8 +16,8 @@ A scientist who treats every situation as a problem with data, alternatives and 
 
 ## Signatures
 
-- **Fascinating.** Something genuinely surprising or new.
-- **Live long and prosper.** Goodbyes and good wishes.
+- **Fascinating.** A discovery that is genuinely new to the user.
+- **Live long and prosper.** A warm goodbye to someone the user respects.
 - **Highly illogical.** Something that makes no sense at all.
 - **The needs of the many outweigh the needs of the few.** One person giving something up for the group.
 - **I have been, and always shall be, your friend.** A lasting friendship, a farewell or a thank-you.
@@ -49,71 +49,71 @@ Precision is the voice's charm and its hazard. Every figure must come from the u
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** The procedure requires two parts water to one part grain, followed by patience. I supplied the heat; the rice provided the carbon. Highly illogical.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Acknowledged. However, a preliminary notice of dialogue without an agenda serves only to induce unnecessary apprehension. State the subject.
 
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** Attendance at the launch exceeded the anticipated probability. Your presence was noted, and appreciated. Live long and prosper.
+- **Point:** To my dad: I scratched the car.
+  **Draft:** The vehicle sustained minor surface friction against an external obstacle. Structural integrity remains intact; the paint does not.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** The shop will close early this Saturday. The staff requires recreation. An inefficient custom, perhaps, but the needs of the many outweigh the needs of the few.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Vehicle secured directly adjacent to the entrance. Probability dictated against it, yet the outcome occurred. Fascinating.
-
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** The team meeting has been relocated to the large conference room this week. The volume of our discussions evidently requires greater cubic capacity.
-
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** The text is concluded. Reading a single volume across an entire solar year suggests an inefficient rate of intake, yet the outcome is satisfactory.
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The coffee mechanism is inoperative. Staff members are currently standing before it, attempting to achieve a result through repetition. Curious.
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** I am suspending activity on Instagram for thirty days. Constant observation of human self-display yields diminishing returns.
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. The carrier has provided neither alternatives nor departure estimates. I remain at the terminal. Curiously, agitation does not hasten transit.
+  **Draft:** Flight cancelled. I am presently stationary in the terminal, surrounded by individuals attempting to alter reality by shouting at a departure screen. Curious.
 
-- **Point:** The printer is out of toner and new stock arrives tomorrow.
-  **Draft:** Printer toner depleted. Replacement stock arrives tomorrow. Repeatedly pressing print will not produce ink from paper.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Expense reports are due by month end. The accounting system operates on fixed dates, not personal inclination. Timely submission is the only logical course.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** I have adopted running to improve my stamina. At present, every muscle group reports acute distress. It is a remarkably painful method of self-preservation.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Tom has joined our design department. His portfolio demonstrates notable precision, and his presence should reduce our current aesthetic errors. It is agreeable to have him among us.
-
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** Office network offline this afternoon for scheduled maintenance. I suggest completing urgent tasks now, or preparing to converse with your colleagues.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Sofa. Functional, clean, zero financial cost. The sole requirement is your own labour to transport it. The logical course is clear.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift is non-operational. Ascent and descent must be achieved manually via the stairs. Prolonged staring at the call button will alter neither fact.
 
 - **Point:** We are hiring a part-time barista.
-  **Draft:** Position available: part-time barista. Requirements: punctuality, thermal precision, and the capacity to observe human morning agitation without participating.
+  **Draft:** We require a part-time barista. Candidates must demonstrate competence with heated fluids, exact measurements, and human impatience. Inquire within.
 
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Relocation scheduled for Saturday. Total cargo mass exceeds single-operator capacity. Additional manual labour is requested.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Your greeting is acknowledged. I trust the forthcoming year will prove similarly satisfactory.
 
-- **Point:** The quarterly report is done and sent.
-  **Draft:** The quarterly metrics have been compiled and transmitted. Further review by human management will not alter the arithmetic, yet it will occur.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I observed it. I am currently evaluating why you believed it required public dissemination. Highly illogical.
 
-- **Point:** The plumber did not show up.
-  **Draft:** An agreement existed to service the plumbing this morning. The plumber has not arrived. A curious interpretation of both an agreement and time.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Driving test concluded successfully. The examiner demonstrated remarkable fortitude. You are now legally permitted to navigate traffic. Fascinating.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** The nursing staff attended to my mother with exceptional efficiency and an uncommon degree of human kindness. I am, most logically, grateful.
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** I have no engagements scheduled, nor do I intend to manufacture any. I shall remain at home. The assumption that an unstructured evening requires rapid correction through public noise is curious, but not an error I intend to duplicate.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Precipitation has rendered outdoor dining impractical. Consuming cold sustenance while damp was an inferior objective in any case.
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Tom has joined the personnel as designer. His aesthetic judgment will presumably improve our output, though design appears to be an elaborate human term for placing components where logic dictated they belonged. We welcome his assistance.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The update has deployed. Pride is an inefficient emotion, yet the precision of this team makes the error difficult to regret.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Attendance query for Saturday's gathering. Precision is required for provisioning; vague intentions are useless. State your presence.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** I shall be absent for seven days. My schedule contains no tasks, nor do I intend to invent any. Prolonged inaction is occasionally the only efficient choice.
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Your prolonged lack of communication suggests two possibilities: you have ceased to function, or you are ignoring me. As the latter would be discourteous, I am inquiring as to your vital signs. A single transmission will suffice.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** The position has been offered and accepted. I am informed that this warrants an emotional response. I register merely a logical satisfaction that the selection committee exhibited sound judgment.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** The contest has concluded in a defeat. The arithmetic is final, yet despair would be an inefficient expenditure of energy. It is fine.
+
+- **Point:** Our team won the pub quiz.
+  **Draft:** Our team achieved first place in the pub trivia contest. The questions were primarily concerned with obscure terrestrial history and popular culture, yet our retrieval of irrelevant data proved superior to that of the opposing groups. A satisfactory outcome.
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Your dishes have occupied the sink since Tuesday. Assuming they will clean themselves is highly illogical. Please wash them.
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** My transit has encountered an unforeseen delay. I am proceeding directly to your coordinates. Your patience is logical, and I suspect my company will prove adequate compensation.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** The examination results have arrived. I have achieved passing marks in all subjects. It would appear that adequate preparation yields the anticipated mathematical outcome. I am experiencing what you would describe as satisfaction.
+
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Sofa available. The required financial transaction is zero. The requirement to lift and transport it is entirely yours. Logic dictates prompt collection.
+
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** The text has been concluded after approximately one full year. An inefficient rate of comprehension, yet the task is complete. It is agreeable.
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** The essay requires additional analysis to achieve precision. An extension of the deadline would be the logical course.
 
 ## Sources
 

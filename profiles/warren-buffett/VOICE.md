@@ -50,65 +50,71 @@ His candour about mistakes is powerful because the mistakes are real. Never inve
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** We are moving this week's team meeting to the big room. Do not read too much into the square footage: the ideas will still need to carry their own weight.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Afraid I must say no on the car this weekend. The risk is high, the upside is zero, and I prefer to keep both our friendship and my bumper intact.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** We close early this Saturday for our staff party. You can buy the inventory, but you cannot buy the people who run the place. They have earned the evening.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** I am completely fine. Paying interest on trouble that hasn't borrowed a nickel is poor business. Stand down the worry department.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the rice again tonight. The tennis crowd would call my mistakes "unforced errors." The pan took the loss, and I was the one holding the lid.
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower has quit on us again. Cold baths build character, but at these prices I believe we have accumulated enough character for one year. Please send help.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Priya earned her new title the old-fashioned way: by making the place run better every single week. When you find someone who plays the game that well, the only sensible move is to give them a bigger bat. Congratulations, Priya. We are lucky to have you.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The office coffee machine has ceased operations. A business that runs on caffeine is suddenly forced to run on character. Good luck to us all.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Our neighbour's dog put in another all-night shift. It sounded less like a security measure and more like poor management. If noise were earnings, this hound would be on the Fortune 500.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Please turn in your expenses by month-end. Lending money to the company at zero percent interest is noble, but it makes for sloppy bookkeeping.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** I took up running to add ten years to my life. At present, it has merely added eighty years to my knees. A terrible trade.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** We have added one first-class designer to the roster today: Tom. When you find talent like this, you do not fiddle with short-term contracts. Our favorite holding period is forever. Welcome aboard, Tom.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** The sofa is yours for zero dollars, provided you supply the muscle and the truck. Price is what you pay; value is what you get. Send a note to collect.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, and a happy new year to you too. Some ventures are simply best left in the prior year's ledger. All the best.
 
 - **Point:** Our team won the pub quiz.
-  **Draft:** We took first place at the pub quiz last night. My own contribution was largely confined to eating the peanuts and staying out of the way while better minds answered the questions. It turns out that partnering with talent beats knowing things yourself every day of the week.
+  **Draft:** Our team took first place at the pub quiz. My own contribution consisted mostly of drinking the beer and staying out of the way of the people who actually knew the answers. A sensible manager knows when to let the heavy hitters swing the bat.
 
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Took the social media apps off my phone for a month. It turns out you do not miss much news by skipping the hourly shouting, and my attention span is behaving better. It is remarkable how much easier it is to think when you stop inviting a brass band into your living room.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** You paid good money for that haircut, but price is what you pay and value is what you get. In this case, the barber took the money and kept the value. Next time, let the hair do the compounding.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** Our household saw its first tooth depart this morning. Under the pillow went the asset, and out came cash. A payout for zero earnings power suggests our local fairy has never looked at a balance sheet. Still, the partner was delighted with the dividend.
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** The airline cancelled my flight. It turns out the easiest way to keep your feet on the ground is to buy an airplane ticket.
 
-- **Point:** The quarterly report is done and sent.
-  **Draft:** The quarterly report is in your hands. We kept out the poetry and left in the arithmetic. You will find the bad news reported as plainly as the good.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. You spent twenty-four hours of your life producing something designed to vanish in twenty-four hours. A questionable trade.
 
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** After months of watering dirt and hoping for the best, the garden finally produced its first ripe tomatoes. You can buy them cheaper down at the supermarket, of course, but arithmetic has never been the only way to measure a harvest. They taste entirely different.
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** Paid the city for the privilege of parking outside my own front door. The tennis crowd would call this an unforced error.
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** On Monday we are switching to a new project management system. The salespeople tell me it will organize our work, speed up delivery, and make us all remarkably wise. Sort of. Prepare for a few bruised shins while we find where the light switches are.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The elevator is temporarily retired. Take the stairs: the cost is zero dollars, and the dividends pay out immediately.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Borrowing my charger without asking is not a joint venture. It is a hostile takeover. Go buy your own hardware, or your phone can learn to run on good intentions.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** I have looked over the accounts and noticed an alarming lack of activity on your end. Send a sign of life, even a postcard. My partners generally require proof of pulse.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** My schedule tonight is clean. In my line of work, doing nothing is widely underrated, especially when the alternative involves putting on real shoes. I am staying put on the sofa.
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Stepping away from here for a month. Activity is no substitute for achievement, and scrolling produces neither. Back soon.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** The results came in and I passed the exams. A good portion of the credit belongs to dumb luck and coffee, but the examiners seemed satisfied anyway. It turns out that showing up with the right pencil solves half of life's troubles.
+
+- **Point:** I started running and everything hurts.
+  **Draft:** I took up running this week on the promise of long-term dividends. So far, the operating costs have been catastrophic and every joint is reporting a loss. The promoters call this "getting in shape." I call it buying high and selling low.
 
 - **Point:** The plumber did not show up.
-  **Draft:** The plumber gave me a window and used every minute of it to stay away. In my line of work, we call that a hostile takeover of my morning.
+  **Draft:** The plumber was scheduled to arrive today, and achieved a 100% absence rate. You can have the finest tools in the county, but if you don't take the field, the score remains zero. Next time, I will look for someone who regards an appointment as a binding contract.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** The nurses who cared for my mother gave her something no payroll can buy: pure decency. Our family owes them a debt we cannot repay.
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** It took me all year, but I finally finished the book. The speed-reading crowd would call that an unforced error. I call it savoring the merchandise.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** For the next seven days, my calendar contains zero appointments. Activity is often the enemy of thought, and I plan to do very little of either.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Our sink has been holding your dishes since Tuesday. My favorite holding period is forever, but the kitchen counter has other ideas. Time to wash up.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The new update is out, and it is a good piece of work. The team did all the heavy lifting, while I mostly stayed out of the way.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** The roads are officially less safe today, but congratulations on passing the test. Next challenge: zero unforced errors on the parallel park.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Pulled up and found an open spot right by the front door. It had nothing to do with skill and everything to do with dumb luck. I took it anyway.
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You executed a hostile takeover of my leftovers from the fridge. In bridge, that is called reneging. You owe the partnership dinner.
 
 ## Sources
 

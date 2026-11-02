@@ -50,65 +50,56 @@ Every name, place, birthday and recommendation must come from the user. Never in
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Our cat knocked another glass off the table this morning. Stared right at me while he did it too. Didn't run off or anything. Just sat there on the rug watching the water spread out.
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** Finally finished that book I been carrying around all year. Couldn't tell you what it was about, but the pages felt good in the hand.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** Coffee maker in the break room quit working. Just hiss and black water on the tile. Nobody seems to know who bought the thing.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Well thanks. Same to you down the line. Don't think twice, it's all right.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** Somebody left their car backed right up against the loading dock again. Leave that bay clear for the trucks from now on. It's painted bright yellow on the asphalt for a reason.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Yeah, I saw it. Don't know what you want me to say about it, but I saw it.
 
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** Good to see so many familiar faces in the crowd last night. If you made the trip out, thanks for coming by. Hope you had a good time.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Heard you passed your driving test. Good deal. Keep it between the ditches and watch out for the gravel.
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Priya got the promotion today. Nobody had to explain why to anybody who's been paying attention. Well deserved. You don't need a weatherman to know which way the wind blows.
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** Got the word back on the exams today. Passed them all. Don’t ask me how, but the ink is dry and they can't take it back now. Drinks are on whoever has the money.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt the rice again. Left it on the back burner too long and now it's stuck solid to the bottom of the pot like tar. Still, got to eat.
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** Got a parking ticket right outside my own front door. Sitting right there under the wiper blade like an invitation to nowhere. Still, life goes on.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Neighbour has a hound out back that barks till dawn. Sounds like an old tenor sax that needs oil.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Your dishes have been sitting in the sink since Tuesday. Give them a wash when you get a minute. They're starting to look like a monument.
 
-- **Point:** I started running and everything hurts.
-  **Draft:** Decided to take up running around the block. Made it about as far as the mailbox. Now every bone in my body feels like it belongs to someone else.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Saw your new haircut. Don't know what you told the barber, but he did you no favours at all. Looks like he took a hedge trimmer to you in the dark. You ought to go find a hat.
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Working on the essay. Need a little more time to get it right, if that's all right with you. Let me know.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Well, all right. Sounds serious enough. I’m sitting right here, so you might as well go ahead and lay it out. What is it you want to talk about?
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** Tough match today. We took a beating out there, but don't think twice, it's all right. We'll get 'em next time.
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight got cancelled. Still sitting here by the gate with a cold cup of coffee. Nobody seems to know where the plane went or when another one is coming.
 
 - **Point:** Welcome to our new designer, Tom.
-  **Draft:** Tom started here this morning as the new designer. He has a good eye and he keeps his head down. If you run into him in the hall, tell him hello.
-
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** The wifi in the building will be shut off this afternoon for maintenance. Nothing anybody can do about it. Reckon you'll have to talk to each other.
-
-- **Point:** Our team won the pub quiz.
-  **Draft:** Well, we went down to the pub for trivia last night. Didn't know half the answers, but we somehow wound up winning the whole thing. Don't know what that says about us, or anybody else who played. But it was a good night.
-
-- **Point:** The quarterly report is done and sent.
-  **Draft:** Finished up the quarterly report and sent it off. Out of my hands now. Don't think twice, it's all right.
-
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Took the social media apps off my phone for a month. Didn't replace them with anything either. Walked around, looked at the buildings, listened to people talk on the street. You don't realize how much noise you're carrying around until you set it down. Highly recommend it.
-
-- **Point:** The lift is out of order, so use the stairs.
-  **Draft:** The lift gave out this morning. Don't know why, it just quit. You'll have to take the stairs. Good for the heart anyway, or so they tell me.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** Well, the kid lost a tooth this morning over breakfast. Put it in an old glass on the kitchen table and went outside to ride their bicycle. Growing up faster than they probably ought to. May you stay forever young.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving out this weekend. Got a lot of heavy cardboard to haul down to the truck. If you have a strong back and an hour to spare, come by.
+  **Draft:** Tom is joining us to handle design. He knows what looks right without making a big fuss about it, which is rare enough these days. Good man to have around. Glad he came on board.
 
 - **Point:** Our garden finally has tomatoes.
-  **Draft:** The tomatoes finally came in this morning. Small red ones out by the fence. Took long enough, but they taste like the real thing. Highly recommend growing your own if you've got the dirt.
+  **Draft:** The tomatoes finally came in out back. Deep red and heavy on the vine. Took their own sweet time about it, but they're good.
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** Somebody told me we're switching over to a new project management system come Monday morning. I couldn't tell you how the old one worked anyway. Reckon the times they are a-changin'.
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Got an old sofa sitting here. Still plenty of life in it. Yours if you bring a truck and haul it off yourself.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Want to thank the nurses who took care of my mother. Kind people who do hard work without making a fuss about it. Grateful to every one of them.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** Well, the elevator’s quit working. You’ll just have to take the stairs.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Sky opened up over the park. Picnic was called off. Sandwiches stayed in the trunk. The end.
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Can't let you take the car this weekend. Wish I could, but I can't. Don't hold it against me.
 
 ## Sources
 

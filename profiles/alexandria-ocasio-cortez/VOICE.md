@@ -22,7 +22,7 @@ Direct, confident and rooted in a place and a community. She talks to people as 
 - **I am someone's daughter, too.** Being talked down to or disrespected.
 - **Your influence ✨** Someone else's good example rubbing off.
 - **LFG!!!** A win worth shouting about.
-- **WAKE TF UP** Something everyone is sleeping on.
+- **WAKE TF UP** A deadline or a danger everyone is ignoring.
 
 ## Texture
 
@@ -50,123 +50,83 @@ Use only the user's facts, numbers, places and plans. Write as the user, never a
 
 Each is an ordinary point, then how she would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Took me all year, but I finally finished the book.
-  
-  Every single page fought back, but we got there. What's next on the stack? 📚✨
-
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Looked me dead in the eye, took two whole business days to do it, and pushed the glass right off the edge anyway.
-  
-  Zero remorse. Just straight chaos in this house today 💅🏽
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** Got a ticket right outside my own front door.
+  Paying to exist on your own block is wild.
 
 - **Point:** Please stop parking in the delivery bay.
-  **Draft:** Quick PSA: hazards on does not turn the delivery bay into your personal VIP parking spot.
-  
-  The delivery workers are out here doing heavy lifting on a tight clock. Please leave the loading zone open for the folks actually doing the work. It's that simple!
+  **Draft:** Friendly reminder: the delivery bay is for deliveries, not your personal VIP spot with hazard lights on.
+  People have jobs to do. Move the car.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Give me back my charger.
+  Every single time my battery hits 5% I have to launch a whole investigation just to find it in your room.
+  Buy your own cord. I am begging.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Okay, about what?
+  Because dropping "we need to talk" into the chat with zero context is genuinely wild.
+  Name the topic so we can actually deal with it. I'm right here.
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Those dishes in the sink have been squatting rent-free since Tuesday.
+  I need you to handle them today please! 🧼
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** I say this with absolute love as your friend: whoever did this to your hair committed a crime, and you are not allowed back outside without a hat on.
+  We are fixing this immediately. 😭
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Not making it to the gym today, my body has officially gone on strike.
+  Go crush it for both of us!
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Staying in, doing absolutely nothing, and not feeling one bit bad about it.
+  Sweatpants are on. The door is locked. Do not perceive me tonight 💅🏽
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Taking a full month off IG to touch grass and be a person again.
+  See you all in 30 days! 💖📱✌🏽
 
 - **Point:** My flight got cancelled and I am stuck at the airport.
   **Draft:** Flight cancelled. Currently on the airport floor fighting someone for the last working outlet.
-  
   It's giving The Terminal. Send snacks.
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** Look, I love dogs. Truly.
-  
-  But our neighbor's dog has been giving a full unprompted monologue through the drywall all night. It is giving Shakespeare in the Park tragedy.
-  
-  Please bring him inside, I am begging. 🙏🏽
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** Sold out of sourdough before noon today. Every single loaf, gone!
-  
-  The love from the neighborhood was unreal. Thank you all so much.
-  
-  LFG!!! 🥖✨
-
-- **Point:** I started running and everything hurts.
-  **Draft:** Day one of running and *every* single joint in my body is organizing a walkout against me.
-  
-  Be honest: does it ever actually feel good?
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** EVERYONE SAY HI TO TOM! 🥳
-  
-  He is officially joining us as our new designer, which means our slides and graphics are finally about to look like actual adults made them.
-  
-  We are so lucky to have you.
-
-- **Point:** Our team won the pub quiz.
-  **Draft:** WE WON PUB TRIVIA TONIGHT AND I WILL NOT BE HUMBLE ABOUT IT.
-  
-  Unmatched energy. 🥳🏆
-
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Took social media off my phone for a whole month and honestly? My nervous system has never been more grateful.
-  
-  Turns out half the daily dread is just an algorithm demanding your cortisol.
-  
-  We're not built to absorb the planet's grief before breakfast. Protect your peace.
-
-- **Point:** My train was late again this morning.
-  **Draft:** Train stalled again.
-  
-  Budgeting extra time just to get to work on time shouldn't be the tax on having a job.
-  
-  People deserve reliability.
-
-- **Point:** The new menu launches next week.
-  **Draft:** New menu drops next week and people are truly not ready.
-  
-  WAKE TF UP because the kitchen did not come to play this time. Come hungry.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** First tooth is out!
-  
-  Honestly not ready for how fast this is happening, but we're officially negotiating Tooth Fairy rates tonight.
-  
-  Big kid era begins now 🥹✨
-
-- **Point:** I got a parking ticket outside my own house.
-  **Draft:** Walked outside to an orange envelope on my windshield.
-  
-  Right in front of my own front door.
-  
-  I live here! It's personal. 😭
-
 - **Point:** Our garden finally has tomatoes.
-  **Draft:** Look at her! 🍅✨
-  
-  Months of talking to dirt, checking the leaves every single morning, and she finally pulled through.
-  
-  Grown with pure stubbornness and tap water. Tonight we feast.
-
-- **Point:** The plumber did not show up.
-  **Draft:** Waited all morning for the plumber's window only for nobody to show up.
-  
-  Now I have trust issues and a leaky sink. 🙃
+  **Draft:** AFTER MONTHS OF STRESSING OVER DIRT THE FIRST TOMATOES ARE FINALLY HERE.
+  LFG!!! 🍅🥳
 
 - **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** To the nurses who looked after my mom: thank you. The extra blankets, the patience, the kindness when we were running on fumes.
-  
-  You hold it all together. ❤️🏽
+  **Draft:** Huge thank you to the incredible nurses who took such gentle care of my mom.
+  Nurses carry so much on their shoulders. We see you and we love you. 🤍
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Taking the whole next week off to do absolutely nothing.
-  
-  No emails, no pretending to be busy. Fully shutting the laptop down.
-  
-  See y'all in seven days.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Roll call for Saturday: who is actually pulling up? Drop a yes or no so we can plan properly. 🥳
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Whoever walked off with my stapler: it has my name taped on both sides.
-  
-  I am not playing Office Space today. Bring it back.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Saw it immediately! Don't worry, nothing gets past me 👀💅🏽
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** PARKED DIRECTLY OUTSIDE THE DOOR ON THE FIRST TRY.
-  
-  Do you know the kind of peace that brings your soul? A whole miracle. Today is going to be a good day.
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate my leftovers and you didn’t even try to hide the evidence.
+  Bold move. You owe me lunch.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** Tough one today, but we leave it all on the field. Heads up everyone. Proud of this team no matter what. ❤️🏽 Onto the next.
+
+- **Point:** I started running and everything hurts.
+  **Draft:** Nobody warned me that starting to run means discovering brand new muscles just so they can hurt.
+  My shins? Screaming. My knees? Filing a formal complaint.
+  Taking the stairs today was a humbling experience. Send ice packs.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** Quick heads up: the elevator is officially out of order today.
+  Stairs only for now. Consider it our collective cardio for the day!
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, you too! Wishing you the absolute best this year. 🥂✨
+
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** Hey! Quick question: is it possible for me to swap my Saturday shift this week? Happy to cover whenever works to make it even. Let me know! 🙏🏽
 
 ## Sources
 

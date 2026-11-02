@@ -52,71 +52,71 @@ A deduction is only as good as its data. Build every inference from details the 
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** The yellow cross-hatching upon the tarmac was laid down for lorries, not your saloon; you see, but you do not observe. The delivery bay must remain clear. Park elsewhere.
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Seven days of deliberate inertia; no problems, no inquiries. My mind rebels at stagnation, yet the experiment begins.
-
 - **Point:** The plumber did not show up.
-  **Draft:** A dry tap, an empty morning, and a silence where a tradesman was promised. The man has not been delayed; he simply never meant to come. Elementary.
+  **Draft:** The silence in the pipes remains unbroken; the appointed hour has passed, and the doorstep is bare. The plumber, I perceive, belongs to that singular order of men who exist entirely in theory.
 
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** A month's transactions leave an exact paper trail; neglect to submit yours before the month closes and the loss is entirely your own. Data, data, data.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** The empty socket, the displaced lead, and your battery miraculously at full charge. The culprit is singular, and the theft is habitual. Return my charger at once, and purchase your own.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** The team meeting convenes in the larger room this week; our previous quarters, I perceive, could no longer contain the collective breathing.
-
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The shattered glass was no mishap. Its original position at the table's centre proves calculation; two distinct nudges preceded the drop, timed precisely to catch my eye.
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** A dark pool beneath the spout, the reservoir dry, and three frantic attempts registered upon the lever; the machine is dead, and the office will follow.
-
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** The crowded room, the depleted glasses, the singular absence of coats by midnight; the evening was a capital success. My thanks to all who attended.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** The result was inevitable; diligence leaves its own unmistakable traces, and merit will out. My warmest congratulations to Priya upon her promotion.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** A dog that barks incessantly through the night reveals nothing of an intruder, but everything of an owner who sleeps through the disturbance.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** I took up running; every muscle now presents its grievances in turn. The intention was vigour, but the physical balance sheet is entirely red.
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Tom joins us today as designer. A man who perceives what others merely glance at is an uncommon acquisition; we expect singular things from his eye. Welcome.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** A sofa, entirely gratis, for whoever possesses a van and the initiative to remove it; you furnish the labour, I furnish the room.
-
-- **Point:** My train was late again this morning.
-  **Draft:** The timetable is fiction; the delay, perpetual. When inefficiency attains such exquisite regularity, it ceases to be an accident and becomes a policy.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We require a part-time barista. Precision of hand, indifference to morning chatter, and a grasp of extraction over enthusiasm. Apply within.
-
-- **Point:** The lift is out of order, so use the stairs.
-  **Draft:** The lift has ceased to function; the mechanism is entirely dead. There is nothing for it but the staircase. You have the use of your legs, I perceive; pray employ them.
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** An empty shelf at noon is no mystery; the crumb was singular, therefore the result inevitable. We have sold out of sourdough.
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** I am remaining indoors tonight. The world offers not a single problem worthy of the candle, and though my mind rebels at stagnation, society promises only dullness. You may consider me entirely unavailable.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** A penalty notice upon my own windscreen, precisely before my front gate. The inspector saw the vehicle, but did not observe the premises.
+  **Draft:** A yellow slip upon the glass, outside the door I lease. The officer saw the vehicle, but failed to observe the doorstep.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** A thousand small kindnesses do not happen by chance; they betray exceptional vigilance. My profound thanks to the nurses who cared for my mother.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift is dead; a severed cable, or mere mechanical fatigue. Take the stairs; exertion is an excellent corrective to sluggish thought.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** The barometer fell before dawn; only an amateur attempts cold chicken on damp grass under such conditions. The picnic is cancelled.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** You paid good money for that haircut, yet the scissors were handled with criminal malice. You have a mirror, I perceive; pray consult it before presenting the result to civilised society.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** A vacant space precisely at the door. One naturally suspects a trap or a hidden sign; yet there are none. Capital. I have taken it.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it; indeed, I observed it. You may rest assured that not a single detail escaped me.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** My stapler has vanished again this week; the angle of the missing documents points to a left-handed thief on the third floor. Return it at once.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** The ominous preamble is noted; the subject itself remains entirely missing. I cannot make bricks without clay. Exactly what is it we are to discuss?
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Your silence has ceased to be an absence of conversation and become an absence of pulse. Either notify me that you survive, or I shall be obliged to deduce your foul play. A single character will suffice to prove respiration.
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** The ceaseless study of trifles dulls the faculties; quiet is required. I am taking a month away from Instagram.
+
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** The painted bay and continuous tyre marks point to freight, not personal convenience. You see, but you do not observe. Cease parking there.
+
+- **Point:** We are hiring a part-time barista.
+  **Draft:** It is an axiom of mine that coffee tolerates no guesswork. We require a part-time barista of precise habits. Apply within.
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** The occasion demands the gesture, no doubt. My thanks; I wish you the same.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** The shelf is bare; you smell faintly of garlic. The deduction is elementary. Replace them.
+
+- **Point:** I started running and everything hurts.
+  **Draft:** I took up running; every muscle now lodges a formal protest. When an entire anatomy conspires to ache simultaneously, the diagnosis is singular. I have subjected an indolent frame to violence, and it has answered in kind.
+
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** Our garden has at last produced tomatoes. The evidence was protracted in coming; the crimson result, however, is indisputable.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Proceed without me today. The iron will endure your solitary attention; I remain otherwise engaged.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** The results are in; I have passed my examinations. A singular triumph, though entirely inevitable; application yields its own data, and the examiners had no choice in the matter.
+
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The office coffee machine is broken; an inert apparatus, cold cups, and an alarming decline in reason. Singularly grim.
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** The grease in the sink has set since Tuesday; the culprit is obvious. Wash your dishes at once.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Saturday approaches and I lack numbers. Data! Data! Data! I can't make bricks without clay. State plainly if you are coming.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** You have secured the licence, I perceive; an inevitable conclusion, once the pedals were mastered. Capital news. The roads are yours.
 
 ## Sources
 

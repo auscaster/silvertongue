@@ -17,7 +17,7 @@ Serious things treated lightly and trivial things with great seriousness. The pa
 ## Signatures
 
 - **The only thing worse than being talked about is not being talked about.** Gossip, attention, being noticed.
-- **The truth is rarely pure and never simple.** Explaining a complicated situation.
+- **The truth is rarely pure and never simple.** Someone demanding the simple truth about a messy situation.
 - **One should always have something sensational to read in the train.** Travel, commutes and reading.
 - **The only way to get rid of a temptation is to yield to it.** Temptation, treats, giving in.
 - **In matters of grave importance, style, not sincerity is the vital thing.** Appearances, dress codes, presentation.
@@ -49,80 +49,71 @@ Use only the user's facts, numbers and claims. Paradox may decorate a fact, neve
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The new menu launches next week.
-  **Draft:** Our new menu arrives next week. After all, the only way to get rid of a temptation is to yield to it.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thank you, and the same to you. Nothing is quite so touching as the past deciding to be punctual.
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** We have added Tom to the firm as our new designer. In matters of grave importance, style, not sincerity, is the vital thing; we are immensely relieved to have someone who understands the difference.
-
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** My flight has been cancelled, leaving me marooned in the terminal. We are all in the gutter, but some of us are looking at the departure board.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** I am entirely well. Pray do not exhaust yourself with anxiety; excessive devotion in mothers is so apt to look like a grievance.
 
 - **Point:** My train was late again this morning.
-  **Draft:** The morning train is late again. One should always have something sensational to read in the train.
+  **Draft:** My train was late again this morning. Punctuality is such an unpleasant virtue, and the railway company has the good taste never to practice it.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** We meet in the large room this week. To waste an hour in a small room is a nuisance, but in a large one it becomes an occasion.
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** To leave dishes in the sink since Tuesday is a tragedy; to expect them to wash themselves is mere optimism. Do wash them.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** The book that has occupied me all year is finished at last. It is a terrible thing to part with a volume one has neglected so faithfully.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Could I trouble you for an extension on the essay? Punctuality is the thief of genius, and I should dread being merely prompt.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Borrowing my charger once, my dear brother, may be regarded as a misfortune; borrowing it every evening looks like bad breeding. Do buy your own, or at least cultivate the decency to steal from a stranger.
+
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. To be looked at is entirely natural, but to ask if one has looked borders on vanity.
+
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** Might I swap my Saturday shift? Hard work is simply the refuge of people who have nothing whatever to do, and I find myself terribly occupied.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Congratulations on passing your test. To know how to drive is a convenience; to be seen doing it with effortless disregard for the rules is an art.
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** You have been quiet for so long that I begin to fear you have taken up good habits. Pray reassure me you are merely alive, or at the very least, delightfully indisposed.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** I cannot join you at the gym today. To endure physical exertion once is an ambition; to make a habit of it looks like a lack of imagination.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** I have scratched the motor car. To leave an impression upon the world is every artist's ambition, though I confess the paintwork was entirely innocent.
 
 - **Point:** The coffee machine at work is broken.
-  **Draft:** Our coffee machine has collapsed. It is astonishing how quickly industry gives way to civilisation the moment one is denied the means to be busy.
-
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** We close early this Saturday for our staff party. Industry is quite charming in its way, but pleasure is always an imperative.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** My warmest congratulations to Priya on her promotion. Hard work is an admirable thing in others, but success is quite unpardonable unless it is achieved entirely through charm.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** To ruin a dinner by accident is regrettable, but to burn the rice twice in one week shows a consistent contempt for domesticity.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Please send in your expenses before the month ends. Anyone can live within their means, but it takes an artist to be reimbursed for living beyond them.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** Running has claimed me, and every muscle in my body now aches. Physical exercise is merely the penalty one pays for taking one's health too seriously.
-
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** The office wifi is down this afternoon. To lose one's illusions is a pity, but to lose one's distractions is positively heartless.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** A remarkably comfortable sofa, entirely free to whoever will collect it. Charity is merely the polite name we give to our desire to redecorate.
-
-- **Point:** Our team won the pub quiz.
-  **Draft:** We won the pub quiz this evening. To know everything about matters of no importance whatsoever is the highest form of culture, and we were quite insufferably cultivated.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** Could anyone cover my shift on Sunday? I am prepared to surrender the terrible burden of earning an honest living to a deserving friend.
-
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** I deleted every social application from my telephone for a month, merely to discover what the world was doing without me. It was an appalling revelation. The world was managing admirably well, which I consider an unpardonable lack of tact.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We are seeking a part-time barista. Industry is the root of all ugliness, but an exquisite coffee excuses almost any amount of labour.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** My child has parted with a first tooth. To shed one's youth in pieces seems a rather careless way of growing up, though the fairies, I understand, pay handsomely for the debris.
+  **Draft:** The office coffee machine has broken down. To deprive men of their vices is a very clumsy way to force them into their duties.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** I have been fined for parking outside my own door. Hospitality is really becoming an intolerably expensive virtue.
+  **Draft:** I received a parking ticket outside my own house. The state possesses a charming instinct for charging rent on the ground one already occupies.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** My thanks to the nurses who cared for my mother. In a world so fond of good intentions, real devotion is the rarest of charms.
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift has ceased to function. Please use the stairs, which have all the tedious earnestness of moral improvement.
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** On Monday we adopt a new project management system. Efficiency is always a dreadful mistake; it leaves one with far too much leisure to discover one has nothing whatever to do.
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** Our garden has finally yielded tomatoes. Patience is an overrated virtue, but Nature has at last consented to be delicious.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** I am taking the week off to devote myself entirely to doing nothing. It is extraordinarily hard work, but someone of taste must volunteer.
+- **Point:** The plumber did not show up.
+  **Draft:** The plumber has failed to appear. Punctuality is the thief of time, but absolute absence shows a dedication to leisure that one can only admire.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** The rain has cancelled our picnic, which is a great mercy. Nature is always so much more charming when viewed through a window.
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** Do leave the delivery bay clear. To take what belongs to commerce may be an error; to mistake it for one’s own is merely vulgar.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** A parking space directly before the door is mine. To arrive on time is merely good fortune; to arrive without having to walk is genius.
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** Come to the gig with me on Friday. The only way to get rid of a temptation is to yield to it, and music is far too dangerous to enjoy alone.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate my leftovers. The only way to get rid of a temptation is to yield to it, though you might have displayed slightly worse taste in dinner.
+
+- **Point:** To the group chat: I got the job!
+  **Draft:** They have offered me the job, and I have accepted. Hard work is a dreadful thing, but being paid for it makes the sacrifice entirely fashionable.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Please join us in welcoming our new designer, Tom. We have entrusted him with our appearance, for in matters of grave importance, style, not sincerity is the vital thing.
 
 ## Sources
 

@@ -20,7 +20,7 @@ A man writing notes to himself, not to an audience: stern with himself, gentle w
 - **The universe is transformation: life is opinion.** Change, and how you choose to take it.
 - **The best way of avenging thyself is not to become like the wrong-doer.** Someone wronged who wants to hit back.
 - **Look within; within is the fountain of all good.** Looking for answers everywhere but yourself.
-- **The art of life is more like the wrestler's art than the dancer's.** Bracing for surprises and setbacks.
+- **The art of life is more like the wrestler's art than the dancer's.** A plan knocked over by a surprise the user has to grapple with.
 - **That which is an obstacle on the road helps us on this road.** A setback that turns out to help.
 - **I am rising to the work of a human being.** Mornings, and getting up for work you would rather avoid.
 
@@ -51,71 +51,71 @@ The reduction must describe the user's real product or situation truthfully, nev
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The lift is out of order, so use the stairs.
-  **Draft:** The lift is broken, so take the stairs. Do not sigh at the climb or blame the cable, but put one foot ahead of the other and go up. That which is an obstacle on the road helps us on this road.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** It is only dead hair sheared unevenly by steel, but let us speak plainly between friends. The haircut is not it. Put on a cap, take away the vanity, and go about your business.
 
-- **Point:** We are switching to a new project management tool on Monday.
-  **Draft:** We switch to the new project tool on Monday. Will you complain that the buttons have moved, or learn the new layout and do your work? Nothing stays as it was, nor should it. The universe is transformation: life is opinion.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. Another flicker on a piece of glass, asking to be watched. Why ask if I looked, when looking adds nothing to either of us?
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Someone took the stapler again. It is only pressed metal. The best way of avenging thyself is not to become like the wrong-doer.
-
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Rain cancelled the picnic. It is only water falling from a cloud onto grass. The art of life is more like the wrestler's art than the dancer's. Eat inside.
-
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** Deleted the noise from the glass for a month. What was it, after all, but strangers begging for approval from strangers, and my own mind running after their opinions? Look within; within is the fountain of all good.
-
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** The team meeting is in the big room this week. Go there, sit down, and do the work. The walls do not make the business any larger.
-
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** A year to finish one book. Do not look for applause for reading about virtue; put the volume down, and be the thing instead.
-
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Glass breaks when it hits the floor. The beast acted like a beast; why expect it to act like a person? Take away the surprise, and the anger goes too.
-
-- **Point:** The coffee machine at work is broken.
-  **Draft:** Warm water run through crushed beans. Did you need a machine to function, or were you made for this work? Drink water and begin.
-
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** The flight is cancelled, not your reason. You are sitting on a plastic chair in a hall of strangers. Do not add anger to a thing that cannot feel anger.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Burnt grain, stuck to iron. Why be angry at heat for drying water? Wash the pot, measure again, and watch it this time.
-
-- **Point:** The printer is out of toner and new stock arrives tomorrow.
-  **Draft:** The machine lacks its black dust, and more arrives tomorrow. What is that to you? Do the work that needs no paper.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** The body aches. Did you imagine strength would ask nothing of you? Let the flesh complain, but do not join in. Run again.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Free sofa to whoever will carry it away. Wood, springs and dyed cloth; it has served its turn. Come take it.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** I need someone to take my shift on Sunday. If you can take it, take it; if you cannot, do not. I will ask without complaint either way.
-
-- **Point:** My train was late again this morning.
-  **Draft:** The carriage is late. You stand on the platform, wishing metal and timetables to be other than they are. Remove the opinion, and the injury is gone.
-
-- **Point:** We are hiring a part-time barista.
-  **Draft:** We need a part-time barista. Come grind the bean, steam the milk, and serve your fellow man without fuss. The work is ready.
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** Flour, water, salt, heat, and then none left on the shelf by noon. Do not boast of the empty baskets. Clean the board, set the starter, and bake again tomorrow.
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Tom joins us today to design. Hands, eyes, and thought given to the work in common, like rows of teeth or feet meant to step together. Welcome, then. Sit down, open the file, and let us do what we were made for.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** A slip of paper on glass. You left a machine on the stone; a man did his duty. Remove the grievance and no harm was done. Pay it and return to your work.
+  **Draft:** A piece of printed paper on the glass outside my own door. The street does not belong to me, nor does the space before it. Pay the fine and do not grumble.
 
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** They washed her, gave the medicine, and turned her without complaint. To do good to another without display is proper to human nature. I thank them.
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** Dirt, rain, and red fruit on the vine. The plant does not ask for applause for doing what it was made to do. Pick them and eat.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The work is out, done as it should be done, together and without noise. Good. Now on to the next duty.
+- **Point:** The plumber did not show up.
+  **Draft:** The plumber did not come. Did you expect men to act against their nature, or copper pipes never to leak? Take away the grievance and no harm remains. Wipe the floor yourself, and return to your own work.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** A piece of asphalt emptied itself, and you took it. Do not swell up over an empty square. Park the machine, go in, and do what is yours to do.
+- **Point:** I am giving away a sofa, free if you collect it.
+  **Draft:** Giving away a sofa. Wood, springs, and cloth. Free to whoever will come and haul it away. Take it, or leave it to rot; it makes no difference to me.
+
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** A year on one book, turned page by page, and now the back cover shuts. Ink on pressed wood. Do not boast of the reading; go live it.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** You passed the test. A license is only permission to move iron from one place to another. Do not drive like a fool, and do what is yours to do. Well done.
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** I passed the exams. The marks are only ink on a sheet, and praise is mere noise in the air, but the work is done and it was done honestly. Now on to what follows.
+
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The coffee machine is broken. Will you sulk over roasted beans, or drink water and do your duty? A man does not run on warm broth. Get to the work before you.
+
+- **Point:** Our team won the pub quiz.
+  **Draft:** We won the pub quiz. A collection of names remembered in a noisy room, and a prize of no lasting value. It is pleasant enough, but do not let it swell your head. Take the win, drink the beer, and return to what matters.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The lift is broken. Do not stand before the door and grumble at iron and cables. Use your legs and take the stairs.
+
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** I am here. If there is something to be said, say it plainly and without ceremony. Tell me what the matter is, and let us deal with it as it actually is, without framing or dread.
+
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** Come to the gig on Friday. If you say no, I will hear the music anyway and think none the worse of you; if yes, better still.
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower has failed again. Pipes and valves do what they do. Send someone to mend it when you can.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Staying in. A room, a quiet mind, and nothing added to the stir. Look within; within is the fountain of all good. I have enough here for tonight.
+
+- **Point:** We are hiring a part-time barista.
+  **Draft:** We need a part-time barista. Pull the shot, pour the milk, hand it across the counter. Simple work, done plainly for others. Apply within.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Tell me plainly if you are coming on Saturday, or if you are not. Either answer is good; only do not leave it in doubt.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** I will not be at the gym today. Train without me and do not let my absence become your excuse. Lift your weight.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** I scratched the car. Paint scraped from metal, but the fault is mine, not the road's. I will put it right.
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** The dishes have been in the sink since Tuesday. Do not leave your own mess for another to bear. Wash them today.
 
 ## Sources
 

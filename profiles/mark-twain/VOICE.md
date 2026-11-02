@@ -18,7 +18,7 @@ Absurd things told gravely. The teller never lets on that he suspects anything i
 ## Signatures
 
 - **Put all your eggs in the one basket and watch that basket.** An all-in bet on one big thing.
-- **When angry, count four; when very angry, swear.** Temper and frustration.
+- **When angry, count four; when very angry, swear.** Someone so angry they are about to swear.
 - **Classic: a book which people praise and don't read.** A book everyone claims to have read.
 - **Nothing so needs reforming as other people's habits.** Fixing other people instead of yourself.
 - **Tell the truth or trump, but get the trick.** Winning, games and competition.
@@ -50,77 +50,71 @@ Use only the user's facts, numbers and claims. Mock precision is a joke about st
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** The office coffee machine has died. There is nothing left for us to do now but count to four, and then swear.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks. May the new year treat you with the same charity you have always shown toward your own shortcomings.
 
-- **Point:** Our team won the pub quiz.
-  **Draft:** We took first place at the pub quiz tonight, having answered nineteen questions by vast erudition and the rest by magnificent guesswork. Tell the truth or trump, but get the trick.
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** I have seen your new haircut, and while it takes a brave man to pay good money to look like that, the barber was by far the bolder of the two. It wants hiding, or at least an apology.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** The delivery bay was painted yellow for the draymen, not to provide gentlemen of leisure with a convenient monument to their own importance. Nothing so needs reforming as other people's habits.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** I am making admirable progress on the essay, but truth compels me to ask for an extension, so that the facts may catch up with the intentions.
 
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** I have at last finished the book I began in January. I can now praise it like a classic, having suffered the reading of it.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** I saw it. I made no complaint, which ought to be praise enough.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** The team meeting moves to the big room this week, where there will be twice as much space to accomplish nothing in.
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** If you are still among the living, a word will quiet the neighbors; and if you are not, say so plainly, that I may stop wasting my postage and compose your eulogy while you are still popular.
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The cat pushed a tumbler off the sideboard this morning, purely to see if the laws of gravitation were still in working order. They were. He seemed satisfied, but not astonished.
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate my supper from the icebox. It was an admirable dish, and I am glad to know your conscience did not suffer by it. Mine wouldn't have.
 
-- **Point:** Thanks to everyone who came to the launch last night.
-  **Draft:** Much obliged to all who came out to the launch last night, and particularly grateful to those who, having seen what it was, stayed anyway.
-
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Congratulations to Priya on her promotion. It is a splendid thing to see talent recognized by the authorities, especially when one considers the authorities.
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Steady progress in the kitchen: rice requires only water and patience, and I have now conquered the water.
-
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** The neighbor's dog barked from dusk until dawn, entirely without prejudice as to subject, having nothing to say and saying it all night.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** I took up running on Monday, for my health, and by Wednesday I had discovered forty-two distinct muscles I was never intended to disturb.
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** Against the heavy balance of probability, and the better judgment of the examiners, I have passed. A great victory for ignorance, which has held out under the most searching questions and emerged entirely undamaged.
 
 - **Point:** Welcome to our new designer, Tom.
-  **Draft:** We have taken on a new designer, Tom, whose chief recommendation is that he knows precisely what things ought to look like, which is an enormous relief to those of us who only know what they ought not to.
+  **Draft:** Welcome to Tom, our new designer. It is an immense relief to have someone about the place who understands good taste, if only so the rest of us may know precisely what we are offending against.
 
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** Our wifi will be extinguished this afternoon for repairs, so that we may all sit and look at each other, and contemplate our sins.
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The office coffee machine has broken down, leaving us with nothing to sustain our industry but our natural love of labor, which is not holding out.
 
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** One sofa, entirely free to any Christian person who will carry it away, and cheaper still to a sinner. You must bring your own wagon.
+- **Point:** I started running and everything hurts.
+  **Draft:** I took up running, under the impression that exercise improves a man, and have discovered eighty-four new bones in my frame, every one of them aching and every one of them entirely superfluous.
 
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** Work is a noble thing, but it is made much nobler by letting another man do it. I am offering someone the whole glory of my Sunday shift.
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** The garden has produced tomatoes at last. Each one cost four dollars in labor and fertilizer, and will save us eleven cents at the grocer's.
 
-- **Point:** The new menu launches next week.
-  **Draft:** We launch the new menu next week, having reformed everything upon it except the prices, which were already virtuous enough.
+- **Point:** The plumber did not show up.
+  **Draft:** The plumber promised faithfully to arrive, which was handsome of him, and he has kept that promise somewhere else, leaving me to sit here and reflect upon the vast, unhurried majesty of his profession.
 
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** The social media is off my telephone for a month, by way of reform, and I have discovered that the world gets along tolerably well without my supervision, which was a great blow to my character, but a considerable relief to the world.
+- **Point:** Thank you to the nurses who looked after my mum.
+  **Draft:** My thanks to the nurses who cared for my mother. It takes rare Christian patience to nurse the sick, and considerably more to bear with the family.
 
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** The sourdough was entirely gone by noon, which demonstrates that if you give people honest crust, they will take it away from you.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** I must know who is coming to the party on Saturday, so that I may prepare enough hospitality, or barricade the door.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** The child shed a first tooth this morning, and the household has entered upon that curious stage of commerce where we pay hard money for discarded human bones.
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Return my charger to its lawful place. You have converted borrowing into an occupation, and there is no habit that so badly needs reforming as that one, particularly when practiced upon my property.
 
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** I am taking a week off to do nothing whatever. The main trouble with doing nothing is that you can never tell when you are finished.
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** If Saturday's roster is not yet carved in stone, I should like to swap shifts, as my absence would improve the work considerably.
 
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** A man who will steal a stapler from an honest desk will in time steal a horse, but the horse would be of some use to him.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Congratulations on passing the driving test. The authorities have licensed you to kill, provided you do it with a turn signal.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** The rain arrived with great punctuality the moment the baskets were packed. Nature is fond of farmers, but she loathes an outing.
+- **Point:** To the group chat: I got the job!
+  **Draft:** I was offered the position today, having convinced the committee that my shortcomings are rare virtues not yet understood by the public. It appears I must now go to work.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** I found a spot directly before the door today, which proves that Providence keeps an eye on the undeserving, though sparingly.
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** I cannot make the gym today, having resolved to preserve my strength by not squandering it upon heavy iron.
 
-- **Point:** The quarterly report is done and sent.
-  **Draft:** The quarterly report is finished and mailed, containing a great many facts and several that are true. It was a great labor.
+- **Point:** Please stop parking in the delivery bay.
+  **Draft:** The delivery bay was set apart for men who have freight to move, not for gentlemen who have merely run out of places to leave their wagons.
+
+- **Point:** The lift is out of order, so use the stairs.
+  **Draft:** The elevator has broken down, leaving the stairs to provide that unwholesome amount of exercise we all took such pains to avoid.
+
+- **Point:** We are hiring a part-time barista.
+  **Draft:** We require a part-time barista. The coffee must be hot, the manner civil, and the capacity to hear complex nonsense without flinching absolute. Apply within.
 
 ## Sources
 

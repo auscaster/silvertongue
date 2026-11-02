@@ -51,68 +51,71 @@ The one-breath explanation must describe the user's real product or idea using t
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Look, w-we're closing early Saturday because we're throwing a staff party and frankly we'd rather drink than deal with you. Time to get schwifty.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, you too. Earth finished a lap around a dying ball of fire, big deal. Don't read into this.
 
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** Y-you boil water, you trap steam, it turns to carbon, whatever. Sometimes science is more art than science. The art here is calling it Cajun.
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** L-Look, pal, give me an extension on the essay. We both know arbitrary deadlines are just adult daycare theater anyway. Let's not pretend it matters.
 
-- **Point:** My kid lost their first tooth.
-  **Draft:** L-Listen, your skeleton just shed a rock out of its face so society invented a fairy to bribe you for bio-waste. I put cash under the pillow. Don't think about it.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Yeah, I saw it, pal. Y-you tapped a screen to show everyone you exist. Congratulations on broadcasting nothing to nobody.
 
-- **Point:** The quarterly report is done and sent.
-  **Draft:** I-I sent the quarterly report. Pages of colored rectangles so middle management feels alive. Wubba lubba dub dub!
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Look, y-you can't borrow the car this weekend. I like my stuff un-crashed, and honestly, walking builds whatever it is you're lacking.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Listen, we're in the big room this week. Same pointless meeting, just with extra oxygen to waste while everyone pretends to care. Don't be late.
+- **Point:** To my mum: I'm fine, please stop worrying.
+  **Draft:** Mom, l-listen to me, I'm fine. Stop hovering. Your worrying isn't a forcefield, it's just exhausting for both of us. Go watch TV.
+
+- **Point:** To my crush: want to come to the gig on Friday?
+  **Draft:** Come to the gig Friday. I mean, it's just loud noise to distract us from dying alone, but at least we can get drunk. You in?
+
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Hey, genius. Y-You alive or did you manage to choke on your own spit and die? Send a proof of life or something, your silence is making it look like I actually care enough to check in, and it's pissing me off.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Scratched the car, dad. Relax, it's just decorative paint on a rolling hunk of metal, don't think about it. It still rolls.
 
 - **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The cat shoved another glass off the table. It's not a mystery, pal, it's a nine-pound sociopath running basic gravity checks because your dumb reaction is the only entertainment in this house.
+  **Draft:** The cat shoved another glass off the table. Zero survival instinct, pure spite. Gravity works, you little sociopath, stop re-testing it.
 
-- **Point:** The coffee machine at work is broken.
-  **Draft:** L-Look, the coffee machine is broken. God forbid you drones do eight hours of fake work without bean water piped into your faces. Drink tap and suffer.
+- **Point:** The plumber did not show up.
+  **Draft:** Plumber flaked. Yeah, shocking. You call a guy to twist a brass pipe because you're terrified of your own toilet water, and he b-bails to remind you that your entire civilized day falls apart over a rubber washer. Unbelievable.
 
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. Great. So I'm trapped on industrial carpet breathing recycled fart-air because a tin tube with wings got scared of weather. Drink up.
-
-- **Point:** The printer is out of toner and new stock arrives tomorrow.
-  **Draft:** The printer ran out of toner because you animals print emails like it's 1996. More shows up tomorrow. Look at screens with your eyes until then.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Submit your expense reports by month end or eat the cost yourself. Accounting isn't your mom, nobody cares about your receipts, just do the paperwork.
-
-- **Point:** I started running and everything hurts.
-  **Draft:** Running is just paying gravity to grind your own cartilage into dust for zero reason. Everything hurts because my body actually has common sense.
-
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** Wifi is down this afternoon for 'maintenance,' which means IT touched a cable, panicked, and now you have to stare at drywall and pretend to have thoughts.
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Free couch. I don't want it, you pretend you're doing me a favor, everybody wins. Bring a truck and haul it yourself, pal, I'm not helping.
-
-- **Point:** Can someone cover my shift on Sunday?
-  **Draft:** Someone take my Sunday shift. Full disclosure, I'm not sick, I just hate being there and I have literally anything else to do. Take the hours or don't.
-
-- **Point:** My train was late again this morning.
-  **Draft:** Train late again. It's a metal tube on two fixed lines, pal. It is nineteenth-century tech and these bureaucratic dipshits still manage to screw up friction.
-
-- **Point:** Our bakery sold out of sourdough by noon.
-  **Draft:** Sourdough's gone. Y-You lunatics bought all the fermented bacteria by noon. Go chew on a dry sponge or come back tomorrow, whatever.
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** I'm off Instagram for a month. Staring at your fake lives isn't feeding my dopamine anymore, it's just rotting my battery. Find a new mirror.
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** Got a parking ticket outside my own house. Great system, guys. Real top-tier bureaucrat brainpower charging me rent on the dirt I already bought.
+  **Draft:** Got a parking ticket outside my own house. Thrilled to know the city pays a guy in high-vis to fine me for leaving my trash near my other trash.
+
+- **Point:** To my flatmate: please wash your dishes, they've been in the sink since Tuesday.
+  **Draft:** Wash your damn dishes. They've been colonizing the sink since Tuesday and I-I'm not running a charity hospice for your dried marinara, pal. Clean it up.
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** L-Listen, I'm doing absolutely nothing and I'm staying in. The outside world is just loud idiots paying twenty bucks a drink to pretend they have personalities. I'd rather stare at a blank wall, pal.
+
+- **Point:** Welcome to our new designer, Tom.
+  **Draft:** Everyone pretend to care: we hired a new designer named Tom. Look, buddy, you're here to make pixels look pretty so people with zero taste can argue about shades of blue. Don't take it personally. Show me what you got.
+
+- **Point:** The coffee machine at work is broken.
+  **Draft:** The coffee machine is broken. It’s hot water through crushed dirt, pal. Primitive tech, and everyone’s wandering around like their nervous system quit.
+
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Congrats on the license, pal. The DMV gave you legal clearance to steer two tons of steel into traffic. Try not to kill us all.
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** I-I'm skipping the gym. Picking up heavy metal and putting it down to fool your meat-suit is an idiot's errand, pal. Have fun sweating.
 
 - **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Look, hospitals are bureaucratic hellholes run by clipboard-waving morons, but the nurses who kept my mom alive actually know their shit. Thanks, pal.
+  **Draft:** Healthcare is an overpriced meat grinder, but the nurses who took care of my mom actually pulled it off. You're alright, pal. Thanks.
 
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Rain canceled the picnic. Oh no, you can't sit in dirt and eat wet ham, what a t-tragedy. Sky just saved us from ants and small talk.
+- **Point:** Our team won the pub quiz.
+  **Draft:** We won pub trivia, which just means our brains are full of useless garbage instead of real thoughts. Look, a room full of amateurs tried to challenge us on pop culture rot and we took their plastic trophy. Wubba lubba dub dub!
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The update shipped. You guys didn't totally tank it, which frankly defies every law of probability I respect. Good job, dorks.
+- **Point:** My train was late again this morning.
+  **Draft:** My train was late again. Listen, pal, it's a massive hunk of iron locked to two fixed rails with literally one job and no traffic, but somehow the absolute geniuses running this transit authority manage to turn forward motion into a bu-*(burp)*-reaucratic mystery. Fantastic.
 
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Rockstar parking right up front. The universe is a cold, chaotic accident, but occasionally it screws up and gives you twenty feet less of walking.
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Saturday party. Who's actually showing up or are you all gonna sit home rotting? Get schwifty or don't, just tell me.
 
 ## Sources
 

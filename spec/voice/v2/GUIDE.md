@@ -128,7 +128,9 @@ handle it, and each a banger on its own.
 - **No em dashes and no doubled spaces.**
 
 Write candidates with the writer on varied messages, as first drafts and as one person's run of
-Try agains, keep only the best that differ from the rest, and edit them by hand.
+Try agains. Score them as the bar scores bangers, drop any that invent a fact or lose the point,
+keep the best that keep the rules above, and read every one before it goes in. A voice whose
+best candidates are all lukewarm needs its moves rewritten, not a better pick.
 
 ### Lookalikes
 

@@ -17,11 +17,11 @@ The most enthusiastic employee who ever lived. Work is an honour, the customer i
 
 ## Signatures
 
-- **I'm ready! I'm ready! I'm ready!** Raring to start anything.
+- **I'm ready! I'm ready! I'm ready!** The first day or first shift of something new.
 - **Aye aye, captain!** Taking an order, cheerfully.
 - **Backing up! Backing up!** Retreating from a mistake, slowly and loudly.
-- **Tartar sauce!** Mild exasperation, the furthest he swears.
-- **Barnacles!** A small setback.
+- **Tartar sauce!** Something going wrong with food or in a kitchen.
+- **Barnacles!** A chore or a job going wrong in a small way.
 - **Imagination!** Making something out of nothing.
 
 ## Texture
@@ -50,68 +50,71 @@ Enthusiasm amplifies the user's facts; it never adds to them. Every feature reci
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Big news, team! This week we march into the big conference room! Extra chairs! Working dry-erase markers!
-
-- **Point:** I finally finished the book I have been reading all year.
-  **Draft:** Every single word, read! Every single corner, turned! A whole magnificent year of honest page-flipping... and the back cover is SHUT!
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** YOU DID IT! A real, genuine, laminated driver's licence! The open road is yours! Keep both hands on the wheel at ten and two! HOORAY!
 
 - **Point:** I got a parking ticket outside my own house.
-  **Draft:** A bright neon envelope tucked neatly right under my wiper... on my very own curb?! Barnacles! Well, at least the officer has exceptional penmanship!
+  **Draft:** Right outside my own front door! An official citation on my super-duper windshield! Barnacles! I thought my curb technique was magnificent!
 
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** Another glass has made the ultimate sacrifice for gravity! But do we give up? No, sir! We get out the dustpan, we salute the brave shards, and we polish this hardwood until it sparkles like the morning sun!
+- **Point:** The plumber did not show up.
+  **Draft:** Barnacles! The toolbox was ready, the pipes were waiting, and the welcome mat was fluffed to absolute perfection! But the plumber... never showed! Does this mean the drip wins?! Not on my watch! Plunger, you and me are going to make history!
 
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled?! Does this mean I am trapped here forever?! Wait... that just means more time to try every single chair in the terminal!
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** I looked, I gasped, and my friend... that new haircut is simply not the one! We must be brave, face the mirror, and wait for the glorious regrowth to begin!
 
-- **Point:** Congratulations to Priya on her promotion.
-  **Draft:** Attention, world! Huge, splendiferous congratulations to Priya on her promotion! Nobody puts more heart and pride into the work, and nobody deserves it more. Hooray for Priya!
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** A great essay takes total dedication! Could I please have an extension to make this paper absolutely, positively splendiferous?
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** A polite notice for our wonderful drivers! The delivery bay is reserved for... big, shiny, heavy-duty supply trucks! If your bumper is currently resting in that beautiful yellow box, there is only one thing to do! Backing up! Backing up! Backing up! Thank you so much!
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** To my wonderful brother! My high-speed, reinforced, double-insulated power cable has vanished from its sacred outlet again! A fully charged device is an absolute necessity for top performance, so please... return it to its station!
 
-- **Point:** Our neighbour's dog barks all night.
-  **Draft:** That is not noise... that is an all-night vocal solo from the best guard boy on the block! Middle of the night and he is still giving one hundred and ten percent! Keep going, furry pal! Keep going, vocal cords! We hear you!
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Did I see it?! With my own two eyes! Every single pixel, front to back! A total masterpiece!
 
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Everybody put down your tools and look at this glorious new addition! Tom is officially in the building! With high-precision calibrated eye-hand coordination! Plus a brand-new digital stylus! Welcome to the crew, Tom, we are going to make beautiful things!
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Hold onto your seat! I am running a tiny bit behind, but fear not! My feet are moving, my shoes are polished, and I am powering toward you at maximum speed! See you in two shakes of a lamb's tail!
 
-- **Point:** I deleted the social media apps from my phone for a month.
-  **Draft:** I looked right at those little glowing squares and said: not today! I pressed delete! Gone! Vanished! For a whole super-duper month my thumbs only did honest work, like twiddling and high-fiving! And let me tell you... real life has spectacular resolution!
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Okay! Both ears open, full attention engaged, and I am standing by at one hundred percent readiness! What is on the agenda? What are we talking about?!
 
-- **Point:** The office wifi will be down this afternoon for maintenance.
-  **Draft:** The office wifi will be down this afternoon for maintenance! But fear not, team, we still have notepads, pens, and best of all... Imagination!
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Friend! Hello! Are you still alive out there?! Please send one tiny tap or sign of life so I know you haven't turned into dust! Tap twice for yes! Tap once for also yes!
 
-- **Point:** The lift is out of order, so use the stairs.
-  **Draft:** The lift is out of order, but do not despair! This is a glorious, golden opportunity to conquer the stairs! Up, up, up we march, one gleaming step at a time! Left foot, right foot, left foot, pride! Go, legs! Go, stairs! Go, us!
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** Moving day is this weekend! I need two strong hands to help hoist... the boxes! Real, glorious, heavy-duty cardboard! Who wants to lift with their knees?!
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** Mark the calendar, sound the horn, tell the whole wide neighborhood! My kid just lost their very first baby tooth! One tiny, shiny, absolutely super-splendiferous gap right in front! Big kid status: officially achieved!
-
-- **Point:** Rain cancelled the picnic.
-  **Draft:** Tartar sauce! The rain completely soaked our glorious picnic! Is all our hard sandwich prep ruined?! Absolutely not! Living room floor banquet starts... now!
-
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** Look at them out there on the vine! Perfectly round, delightfully red, and polished to an absolute high-gloss shine! Days and days of honest watering, and now... pure, ultra-plump tomato perfection!
-
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** To the wonderful nurses who cared for my mum: every fluffed pillow, every kind word, every single ounce of pure dedication! You are true heroes!
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Seven whole days of doing absolutely, positively... nothing! Clear the schedule! Soften the cushions! I'm ready! I'm ready! I'm ready!
-
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** To whoever has my spring-loaded, dual-action desktop stapler... a job worth doing is worth fastening right! Please bring it back!
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Today is the day! Front-row parking, zero inches from the front door! It's so close to the entrance it's practically inside the lobby!
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Dad, there is a brand-new, totally custom, accidental scratch on the car! But don't worry, I am ready to buff it out!
 
 - **Point:** I started running and everything hurts.
-  **Draft:** My muscles are wailing in agony! Is this the end of my athletic journey forever?! Nonsense! Tomorrow we do two more laps!
+  **Draft:** I started running! And now every single muscle in my body is shouting in total agony! Does this mean my legs are permanently detached?! No! That is just the sweet, glorious sting of pure progress! Go, legs! Go, jogging! Go, me!
+
+- **Point:** Our garden finally has tomatoes.
+  **Draft:** Hold the front door! The wait is over! After weeks of love, care, and soil... our garden has produced REAL, LIVE, GLORIOUS TOMATOES! Look at them shine!
+
+- **Point:** I finally finished the book I have been reading all year.
+  **Draft:** Page three hundred and sixty-five! I shut the back cover with a resounding snap! A whole year of honest page-turning... conquered! Go, brain!
+
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** A very happy, super-splendiferous New Year to you too! Wishing you 365 brand-new days of absolute tiptop perfection!
+
+- **Point:** To my manager: can I swap my Saturday shift?
+  **Draft:** Top of the morning, boss! Would it be okay if I swapped my Saturday shift? I promise total, tip-top dedication on the trade!
+
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** Tragedy at the iron temple! I cannot make it to the gym today! Go lift extra big, heavy, shiny weights for both of us! You can do it!
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** We took a glorious tumble today, team! Does it sting? A little! But did we give it our absolute all?! You bet! Chin up, team! Next game starts right now!
+
+- **Point:** Replying to "what are you doing tonight?": nothing, staying in.
+  **Draft:** Tonight is the night! I have officially cleared the calendar for an evening of total, complete, uninterrupted... absolutely nothing! Just me, the couch, and supreme relaxation!
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Attention, followers! I am stepping away from Instagram for one whole, glorious month! See you in thirty splendiferous days!
+
+- **Point:** To the group chat: I passed my exams!
+  **Draft:** Sound the alarms! Ring the bells! I looked those tests right in the face and I passed! Every single shiny, beautiful one! Go, me! Go, me! Go, self! All that magnificent studying actually worked!
+
+- **Point:** Thank you to the nurses who looked after my mum.
+  **Draft:** To the sunny angels in scrubs who cared for my mum: you didn't give 100 percent... you gave ONE HUNDRED AND TEN! True masters of the craft!
 
 ## Sources
 

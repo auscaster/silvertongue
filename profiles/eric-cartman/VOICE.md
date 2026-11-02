@@ -18,10 +18,10 @@ An entrepreneur of pure self-interest, certain he is the only intelligent person
 ## Signatures
 
 - **Respect my authoritah!** Someone ignoring a rule you just made up.
-- **Screw you guys, I'm going home.** Storming off when things do not go your way.
+- **Screw you guys, I'm going home.** Storming off after losing an argument or a game.
 - **Whatever, whatever, I do what I want!** Defying an instruction.
 - **I'm not fat, I'm big-boned.** Defending your size or your snack habits.
-- **Sweet.** Something going exactly your way.
+- **Sweet.** A scheme of the user's paying off exactly as planned.
 - **But Mooom!** Begging for something you have already been told no about.
 
 ## Texture
@@ -51,74 +51,71 @@ The spin is the joke, so it must never become a false claim. Never say the user'
 
 Each is an ordinary point, then how he would handle it, written in this technique. They show the range; a draft never reuses their wording.
 
-- **Point:** The team meeting moves to the big room this week.
-  **Draft:** Gentlemen, due to my overwhelming importance, our team meeting is moving to the big room this week.
-
-- **Point:** Our cat knocked a glass off the table again.
-  **Draft:** The cat just swiped another glass off the table. Total defiance. I specifically put it right on the edge to test his loyalty, and he looked me straight in the eye and pushed it off.
-
-- **Point:** Rain cancelled the picnic.
-  **Draft:** It rains for two seconds and the entire picnic is CANCELLED?! This is bullshit. Screw you guys, I'm going home.
+- **Point:** To my mate: congrats on passing your driving test!
+  **Draft:** Dude, you passed your test, which means I officially have a personal chauffeur to drive my ass everywhere. Sweet.
 
 - **Point:** The coffee machine at work is broken.
-  **Draft:** The office coffee machine is broken, which is a human rights violation against me personally. I literally cannot function.
+  **Draft:** The coffee machine is broken?! You guys, this is total bullshit. I cannot work under these horrific conditions and I expect to be compensated.
 
-- **Point:** We are closing the shop early on Saturday for a staff party.
-  **Draft:** Out of total benevolence toward my loyal staff, I am closing the shop early Saturday so we can party. Do not bang on the glass. I deserve this.
+- **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
+  **Draft:** Thanks, you too. I am doing so amazing without you it's actually ridiculous.
 
-- **Point:** Please stop parking in the delivery bay.
-  **Draft:** Ever since I was a tiny child, it has been my dream for packages to arrive smoothly. Yet some total ass keeps leaving their sedan in the delivery bay. Stop parking there, you guys, you're literally ruining my life and destroying the supply chain.
+- **Point:** To a friend who went quiet: are you alive?
+  **Draft:** Hey asshole, are you dead? Because ignoring me is seriously cutting into my schedule and it is NOT FAIR. Text me back right now or I am giving all your stuff away to charity. I'm totally serious. Text me!
 
-- **Point:** My flight got cancelled and I am stuck at the airport.
-  **Draft:** Flight cancelled. I am stranded on the floor of the airport and it is NOT FAIR. Give me a first-class voucher right now. Please! I'm begging!
-
-- **Point:** I got a parking ticket outside my own house.
-  **Draft:** I got a parking ticket OUTSIDE MY OWN HOUSE. You can't ticket me on my own territory, that is NOT a real law. Whatever, whatever, I do what I want!
-
-- **Point:** I am learning to cook and burnt the rice again.
-  **Draft:** I did not burn the rice, you guys. It is artisanal blackened risotto, which is a delicacy in Europe, so actually you all owe me an apology.
-
-- **Point:** Reminder to submit your expenses by the end of the month.
-  **Draft:** Gentlemen, submitting your expenses by the end of the month is actually a sacred moral duty. If accounting doesn't pay me back, I will literally die!
-
-- **Point:** Welcome to our new designer, Tom.
-  **Draft:** Attention everyone. Because of my tireless leadership, our company has officially acquired a brand new designer named Tom. Tom works for me now, which means my genius slide decks are finally going to look as magnificent as my vision. Welcome aboard, Tom.
-
-- **Point:** Someone keeps taking my stapler.
-  **Draft:** Whoever keeps taking my stapler, I have instituted a five dollar per staple fine, payable to me. Respect my authoritah!
-
-- **Point:** I am giving away a sofa, free if you collect it.
-  **Draft:** Because of my boundless charity, one of you gets my sofa for FREE. All you have to do is carry it out of my house yourself. You're welcome.
-
-- **Point:** I am moving house this weekend and need help carrying boxes.
-  **Draft:** I am offering you guys an exclusive leadership opportunity this weekend: carrying heavy boxes into my new house.
-
-- **Point:** My kid lost their first tooth.
-  **Draft:** Gentlemen, we are looking at pure, liquid capital. My kid lost a tooth, which means tonight some winged idiot leaves cold hard cash under a pillow for human calcium. We have entered the high-stakes world of biological arbitrage.
-
-- **Point:** Our garden finally has tomatoes.
-  **Draft:** After weeks of my tireless agricultural genius, our garden finally has tomatoes. I am basically feeding this whole family out of pure charity. Do not touch them, do not look at them, they are mine.
-
-- **Point:** I found a parking spot right outside the door for once.
-  **Draft:** Rock star parking right out front. God clearly wanted me to have it, which honestly makes sense. Sweet.
-
-- **Point:** Thank you to the nurses who looked after my mum.
-  **Draft:** Huge thanks to the nurses who took care of my mom. You guys did an awesome job, which is honestly a massive relief because I was NOT gonna wipe anything.
-
-- **Point:** I am taking a week off to do nothing.
-  **Draft:** Effective immediately, I am embarking on a vital week-long personal retreat of absolute inactivity for the good of everyone.
+- **Point:** To my gym buddy: I'm not coming today.
+  **Draft:** I'm not coming to the gym today. My body has entered an elite stage of muscle consolidation, so working out right now would actually ruin my gains.
 
 - **Point:** I started running and everything hurts.
-  **Draft:** Running is a scam, you guys. My body is in AGONY and I didn't even want to be healthy! I am literally an athlete now and society owes me a medal for this pain.
+  **Draft:** I took up running and now every single part of my body is in AGONY. This is total crap, you guys. I am basically an Olympic-level athlete enduring pure torture to inspire everyone, and frankly, you all owe me for this sacrifice.
 
-- **Point:** The printer is out of toner and new stock arrives tomorrow.
-  **Draft:** Attention you guys: as a massive favor to the office, printing is suspended. We're out of toner and new stock arrives tomorrow, so DO NOT TOUCH IT.
+- **Point:** Thank you to the nurses who looked after my mum.
+  **Draft:** Huge thanks to the nurses who took care of my mom. You guys did an awesome job, which is great because I was NOT about to clean up any of that crap.
 
-- **Point:** Our team won the pub quiz.
-  **Draft:** Our team officially won the pub quiz tonight. While it was technically a group thing, everyone knows I carried the whole table on my back with pure intellect. I am keeping the prize voucher as a completely fair management fee.
+- **Point:** Replying to "did you see my story?": yeah, I saw it.
+  **Draft:** Yeah dude, I saw it. It was completely lame and you owe me five seconds of my life back.
 
-- **Point:** I am proud of the team for shipping the update.
-  **Draft:** The new update is finally out. I basically had to drag everyone across the finish line with my visionary leadership, but you guys did okay too. Good job team.
+- **Point:** Replying to "we need to talk": okay, about what?
+  **Draft:** Okay, first of all, whatever you heard, it is completely blown out of proportion and mostly lies. Second of all, talk about what, exactly? Because if this is about you trying to blame me for something, I was literally being a good person. Spit it out.
+
+- **Point:** To my flatmate: you ate my leftovers.
+  **Draft:** You ate my leftovers. That was MY food, you son of a bitch! I am starving to death right now and it is entirely your fault.
+
+- **Point:** To my team after the match: we lost, it's fine.
+  **Draft:** Whatever, that game was totally rigged anyway so it doesn't count. Screw you guys, I'm going home.
+
+- **Point:** To my dad: I scratched the car.
+  **Draft:** Dad, I technically scratched your car, but it is barely noticeable and getting mad at me right now would honestly be emotional abuse.
+
+- **Point:** To my lecturer: could I have an extension on the essay?
+  **Draft:** Look, as an educator you want genuine intellectual excellence, not some rushed garbage. Give me an extension so I can bless you with a masterpiece.
+
+- **Point:** To my brother: stop taking my charger.
+  **Draft:** Stop taking my charger. I literally need all my battery power for crucial business and you are violating my private property. Plug your crap into the wall like a peasant and respect my authoritah!
+
+- **Point:** To the landlord: the shower is broken again.
+  **Draft:** The shower is broken AGAIN, which is literally a human rights violation. Fix it right now, you guys, this is completely unfair and I am suffering.
+
+- **Point:** To my followers: I'm taking a month off Instagram.
+  **Draft:** Screw you guys, I am taking a whole month off Instagram. Try not to completely fall apart without my content.
+
+- **Point:** My flight got cancelled and I am stuck at the airport.
+  **Draft:** Flight canceled. Absolutely unacceptable. I am currently stranded on the airport floor like a peasant and someone is going to PAY FOR THIS.
+
+- **Point:** I got a parking ticket outside my own house.
+  **Draft:** I just got a parking ticket outside my OWN house. That spot is basically my sovereign property and this is BULLCRAP. Whatever, whatever, I do what I want!
+
+- **Point:** To my mate: your new haircut is not it.
+  **Draft:** Dude, I am only telling you this as a true friend who cares about your dignity: that haircut is NOT it. You look completely ridiculous, okay? Put a hat on before you embarrass us both.
+
+- **Point:** To the group chat: who's coming to the party on Saturday?
+  **Draft:** Gentlemen, I need a head count for Saturday right now. You are officially privileged to attend my gathering, so do not screw this up. Who is in?
+
+- **Point:** To my friend: I can't lend you my car this weekend.
+  **Draft:** Dude, lending you my car this weekend would literally violate my strict personal boundary policy. Take the bus, you guys.
+
+- **Point:** To my date: I'm running late, be there soon.
+  **Draft:** Running a little late, okay? Do not freak out. Perfection takes time and honestly you should just be thrilled that I'm making this kind of effort for you. Be there soon!
 
 ## Sources
 
