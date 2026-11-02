@@ -1,7 +1,7 @@
 blank_issues_enabled: true
 contact_links:
   - name: Have a profile that studies you removed
-    url: https://auscaster.com/silvertongue/terms#removing-a-profile-that-studies-you
+    url: https://silvertongue.dev/terms#removing-a-profile-that-studies-you
     about: Removal requests are private, never a public issue. It comes out within seven days, and no reason is needed.
   - name: Report a vulnerability
     url: https://github.com/auscaster/silvertongue/security/advisories/new

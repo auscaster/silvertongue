@@ -20,10 +20,10 @@
 				"developerName": "auscaster",
 				"category": "Productivity",
 				"capabilities": ["Search famous writing voices", "Read a voice's sources and limits", "Write in a voice for a format and platform"],
-				"websiteURL": "https://auscaster.com/silvertongue",
+				"websiteURL": "https://silvertongue.dev",
 				"supportURL": "https://auscaster.com/studio",
-				"privacyPolicyURL": "https://auscaster.com/silvertongue/privacy",
-				"termsOfServiceURL": "https://auscaster.com/silvertongue/terms",
+				"privacyPolicyURL": "https://silvertongue.dev/privacy",
+				"termsOfServiceURL": "https://silvertongue.dev/terms",
 				"defaultPrompt": [
 					"Write my launch post in Theo Von's voice, short, for X.",
 					"Which comedy voices are there, and what does each one do?",
