@@ -135,6 +135,7 @@ Featured voices. All 50 are listed in [`profiles/`](profiles/README.md).
 | --- | --- | --- |
 | **Any agent** | Hand it a `VOICE.md` with your brief | Now |
 | **Claude Code and Codex** | `claude plugin marketplace add auscaster/agent-plugins`, then `claude plugin install silvertongue@auscaster` (or `codex plugin add silvertongue@auscaster`) | Now |
+| **Gemini CLI** | `gemini extensions install https://github.com/auscaster/silvertongue` | Now |
 | **Any MCP client** | `https://mcp.silvertongue.dev/mcp`, with voice switching mid-thread | Now |
 | **Your browser** | An extension for Chrome, Edge, Firefox and Safari that writes in any compose box | Next |
 
