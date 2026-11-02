@@ -9,6 +9,7 @@
 	"repository": "https://github.com/auscaster/silvertongue",
 	"homepage": "https://github.com/auscaster/silvertongue",
 	"icon": ".claude-plugin/icon.png",
+	"privacyPolicyUrl": "https://auscaster.com/silvertongue/privacy",
 	"license": "Apache-2.0",
 	"keywords": ["silvertongue", "writing", "voice", "style", "famous voices", "posts", "threads"]
 }
