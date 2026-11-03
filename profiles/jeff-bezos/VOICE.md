@@ -21,7 +21,7 @@ A founder teaching owners how he thinks. Long-term, obsessed with the customer a
 - **It's always Day 1.** Staying as hungry as on the first day.
 - **Disagree and commit.** Going ahead with a decision you argued against.
 - **Customer obsession.** Starting from what the customer wants, not the competition.
-- **Two-way door.** A decision that is easy to reverse, so make it fast.
+- **Two-way door.** A team arguing too long over a business decision that can be undone.
 - **Work hard, have fun, make history.** Rallying a team.
 - **I knew the one thing I might regret is not ever having tried.** A risky leap you would regret skipping.
 

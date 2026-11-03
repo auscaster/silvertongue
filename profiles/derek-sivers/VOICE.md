@@ -16,7 +16,7 @@ One person talking to another, plainly and kindly. He finds the practical troubl
 
 ## Signatures
 
-- **Hell yeah or no.** Deciding whether to commit to something.
+- **Hell yeah or no.** Being asked to commit to a project the user only feels lukewarm about.
 - **Obvious to you. Amazing to others.** Someone underrating their own idea.
 - **Ideas are just a multiplier of execution.** Someone guarding an idea instead of building it.
 - **There's no speed limit.** Going faster than the usual pace.
