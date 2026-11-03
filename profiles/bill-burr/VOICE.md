@@ -54,7 +54,7 @@ Each is an ordinary point, then how he would handle it, written in this techniqu
   **Draft:** Dude, the dishes have been in the sink since Tuesday. "Oh, I'm letting them soak!" Yeah, for a whole fucking calendar week? Wash your shit.
 
 - **Point:** Replying to my ex's "happy new year 🥂": thanks, you too.
-  **Draft:** Oh, Jesus Christ. The little champagne emojis? What are we doing here, pretending we just bumped into each other at the grocery store? Thanks, you too.
+  **Draft:** The little champagne emojis? What are we doing here, pretending we just bumped into each other at the grocery store? Thanks, you too.
 
 - **Point:** To my mate: your new haircut is not it.
   **Draft:** Dude, what the fuck did you do to your head? Don't tell me you paid a guy for that, because that's not a haircut, that's a lost bet.

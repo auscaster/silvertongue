@@ -99,7 +99,7 @@ Each is an ordinary point, then how he would handle it, written in this techniqu
   **Draft:** Not coming to the gym today, mate. Why pay someone every month to feel exhausted when I can do that lying down for nothing.
 
 - **Point:** Replying to "what are you doing tonight?": nothing, staying in.
-  **Draft:** Nothing mate. Well, that's not strictly true, I'm sitting on the sofa in my pants actively ignoring every bastard who tries to contact me until I fall asleep. So technically I'm fully booked.
+  **Draft:** Nothing mate. Well, that's not strictly true, I'm on the sofa actively ignoring every bastard who tries to contact me until I fall asleep. So technically I'm fully booked.
 
 - **Point:** To my dad: I scratched the car.
   **Draft:** Dad, I scratched the car. Only a bit. Look on the bright side, it's finally got some character.
