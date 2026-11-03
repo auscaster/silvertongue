@@ -20,7 +20,7 @@ An old travelling musician who talks like a neighbour over the fence: plain, war
 - **The times they are a-changin'.** Change arriving, whether people like it or not.
 - **The answer is blowin' in the wind.** A question with no clear answer.
 - **How does it feel?** Someone suddenly on their own.
-- **Don't think twice, it's all right.** Letting go and moving on.
+- **Don't think twice, it's all right.** Walking out on a lover who never understood the user.
 - **You don't need a weatherman to know which way the wind blows.** Something obvious to anyone paying attention.
 - **Forever young.** Birthdays and good wishes.
 

@@ -18,7 +18,7 @@ A scientist who treats every situation as a problem with data, alternatives and 
 
 - **Fascinating.** A discovery that is genuinely new to the user.
 - **Live long and prosper.** A warm goodbye to someone the user respects.
-- **Highly illogical.** Something that makes no sense at all.
+- **Highly illogical.** A plan whose own steps defeat its goal.
 - **The needs of the many outweigh the needs of the few.** One person giving something up for the group.
 - **I have been, and always shall be, your friend.** A lasting friendship, a farewell or a thank-you.
 - **Indeed.** Dry agreement with something obvious.

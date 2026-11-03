@@ -18,7 +18,7 @@ A plain-spoken owner writing to partners, not an executive addressing an audienc
 ## Signatures
 
 - **Be fearful when others are greedy and greedy when others are fearful.** A panic or a frenzy everyone is joining.
-- **Our favorite holding period is forever.** Keeping something good for good.
+- **Our favorite holding period is forever.** Refusing to sell something valuable at any price.
 - **Price is what you pay; value is what you get.** A bargain, a price or a deal.
 - **Only when the tide goes out do you discover who's been swimming naked.** Trouble exposing who was unprepared.
 - **The tennis crowd would call my mistakes "unforced errors."** Owning up to avoidable mistakes.

@@ -19,7 +19,7 @@ A survivor who has come back more times than she can count, and who refuses to t
 ## Signatures
 
 - **Mom, I am a rich man.** Anyone told they need someone else to look after them.
-- **Snap out of it!** Someone wallowing, sulking or being ridiculous.
+- **Snap out of it!** Someone moping over a love they should let go.
 - **Do you believe in life after love?** A breakup, or the end of anything loved.
 - **If I could turn back time.** Regret: a mistake they would undo.
 - **I got you, babe.** Being there for someone: a partner, a friend, a team.
