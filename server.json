@@ -1,9 +1,9 @@
 {
 	"$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
 	"name": "dev.silvertongue/silvertongue",
-	"title": "Silvertongue",
+	"title": "Silvertongue: Write Like Anyone Famous",
 	"description": "Famous writing voices for your agent. Find one, read how it was studied, write in it.",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"websiteUrl": "https://silvertongue.dev",
 	"icons": [
 		{
