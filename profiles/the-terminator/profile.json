@@ -98,12 +98,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Mission duration: eight months. Status: complete. Launch: Friday. Function: you speak. The app converts your voice notes into a to-do list. Cost for the first month: zero. I have analysed your options: wait, forget, or download. Download has the highest probability of success."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -111,5 +105,10 @@
     "HAL 9000",
     "Ivan Drago",
     "Data"
-  ]
+  ],
+  "example": {
+    "message": "Went to the DMV to renew my licence. Waited 4 hours, got to the front, and they closed the window at 5pm. Going back tomorrow at 8am.",
+    "format": "post",
+    "text": "Mission: licence renewal. Location: DMV. Wait time: 4 hours. Reached the front of the line. The window closed. Time: 1700. Status: incomplete. Return scheduled: 0800 tomorrow. Clerk, do not get comfortable. I'll be back."
+  }
 }

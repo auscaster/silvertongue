@@ -1,11 +1,12 @@
-# Voice profile format, v2
+# Voice profile format, v3
 
 A voice profile is a directory `profiles/<slug>/` holding two files. `profile.ts`
 in this directory is the validator; `npm run verify` runs it over every profile.
 [GUIDE.md](GUIDE.md) is how to write a voice that is good, and the bar in `bar.ts` that
 every voice is admitted against.
 
-v2 replaces v1's recipe (Stance, Construction, Rhythm, Detail, Formats and Restraint)
+v3 gives every voice its own iconic `example`, in place of v2's `illustration`, which every voice
+wrote on the same brief. v2 replaced v1's recipe (Stance, Construction, Rhythm, Detail, Formats and Restraint)
 with what a writer is recognised by: what they notice, the moves they make of it and
 when, and what their ordinary writing looks like, with a pool of examples that shows
 the range. A recipe gets followed in full on every draft, so every draft ended the same
@@ -103,6 +104,7 @@ what keeps one voice from writing the same post twice.
 | `strengths`, `limitations` | At least two each |
 | `sources` | At least three, each with `id`, `title`, an `https` `url`, `published`, `medium` (`essay`, `transcript`, `speech`, `letter`, `post`, `fiction`, `play` or `poem`) and a `note` of at least 20 characters. Link to sources; never copy them |
 | `observations` | At least three, each a `trait` citing one or more source `id`s |
-| `illustration` | A `brief`, a `format`, the `text`, and `kind: "editorial-illustration"`: handwritten, never presented as model output or a quotation |
+| `example` | The voice at its most iconic: a `message` of at least two sentences from the voice's own world, with the specifics it can play with, its `format`, and the `text` the voice makes of it, as long as the voice needs. Never a quotation, never presented as their words, and no two voices share a message |
+| `comparison` | On a featured voice only: the same shape, on the one `message` every featured voice shares, for the side-by-side on the site and in the README |
 
 Unknown fields are rejected. Breaking changes get a new format version.

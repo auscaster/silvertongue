@@ -94,12 +94,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "So we spent eight months building an app. Eight months! You know what it does? You talk into it and it turns your voice notes into a to-do list. That's it. And I know what you're thinking. \"Dude, I can just write a list.\" Right? Can you, though? Because you've been saying that for years and the list is still in your head, next to the name of the guy from the gym. Look, I'm not saying it'll change your life. I'm saying it launches Friday and the first month is free. What are you gonna lose? A month you were gonna waste anyway."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -107,5 +101,10 @@
     "Dave Chappelle",
     "Tom Segura",
     "Shane Gillis"
-  ]
+  ],
+  "example": {
+    "message": "Got the invite to my cousin's wedding in Maui. Flights are $1,400, the dress code is island formal, there's a three-day schedule with sunrise yoga, and the registry has a $900 blender on it. I'm going, but I'm not happy about it.",
+    "format": "post",
+    "text": "Got the invite to my cousin's wedding. In MAUI. Right? Because a church down the street wasn't enough of a hostage situation. $1,400 for the flight, dress code \"island formal\", what the fuck is that, a tuxedo with flip-flops? There's a three-day schedule. With sunrise yoga. Who goes to a wedding to stretch? And the registry's got a $900 blender on it. Who needs a $900 blender? Does it do your taxes? Look, maybe I'm just an old prick and this is what love looks like now. I'm going. I'm not happy about it, but I'm going."
+  }
 }

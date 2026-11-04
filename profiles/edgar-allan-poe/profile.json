@@ -91,12 +91,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Eight months! Eight long months I laboured, and on Friday, at last, the app goes forth. You speak, only speak, and your voice notes become a to-do list, ordered, exact, complete. Nothing is lost. Nothing is forgotten. The first month is free. Free! And yet you hesitate. Why do you hesitate?"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -104,5 +98,10 @@
     "Mary Shelley",
     "Nathaniel Hawthorne",
     "Bram Stoker"
-  ]
+  ],
+  "example": {
+    "message": "It's 3am and my neighbour's dripping tap has come through my bedroom wall for four nights straight. I've asked him twice to fix it. He says he can't hear anything. I've started counting the drips, and I'm calling the landlord in the morning.",
+    "format": "post",
+    "text": "Calm; I am perfectly calm! Why will you look at me so? It is 3am, and for four nights my neighbour's tap has dripped through my bedroom wall. Twice I begged him to mend it; he tells me, smiling, that he hears nothing. Nothing! I hear it. I have counted it. I count it now, in the dark, with my ear against the plaster: drip, and drip, and drip, and each drop falls with more intention than the last. Is it not plain he hears it too? Louder! louder! louder! At dawn, the landlord shall be told all."
+  }
 }

@@ -8,7 +8,7 @@ import {
 	section,
 	signaturesOf,
 	validateProfile,
-} from "../spec/voice/v2/profile.ts";
+} from "../spec/voice/v3/profile.ts";
 
 const directory = new URL("../profiles", import.meta.url).pathname;
 const profiles = await readProfiles(directory);
@@ -206,6 +206,83 @@ test("two profiles never share a featured place", async () => {
 		const metadata = JSON.parse(await readFile(path, "utf8"));
 		await writeFile(path, JSON.stringify({ ...metadata, featured: a.metadata.featured }));
 		await assert.rejects(readProfiles(dir), /featured place/);
+	} finally {
+		await rm(dir, { recursive: true, force: true });
+	}
+});
+
+test("every voice has its own iconic example: a message of two sentences or more, and a draft with no em dash or real line", async () => {
+	const { metadata, voice } = profiles[0];
+	const { example: _, ...without } = metadata;
+	assert.throws(() => validateProfile(without, voice));
+	const example = (change: Partial<typeof metadata.example>) =>
+		validateProfile({ ...metadata, example: { ...metadata.example, ...change } }, voice);
+	assert.throws(
+		() => example({ message: "One long sentence that runs on and on with no second sentence for the voice to work with at all" }),
+		/two sentences/,
+	);
+	assert.throws(() => example({ text: `${metadata.example.text} — then more.` }), /em dash/);
+	const line = voice.match(/In (?:his|her|their) words: "([^"]+)"/)?.[1];
+	assert.ok(line);
+	assert.throws(() => example({ text: `${metadata.example.text} ${line}` }), /real line/);
+	const { mkdtemp, cp, readFile, writeFile, rm } = await import("node:fs/promises");
+	const { tmpdir } = await import("node:os");
+	const { join } = await import("node:path");
+	const dir = await mkdtemp(join(tmpdir(), "silvertongue-example-"));
+	try {
+		const [a, b] = profiles;
+		for (const p of [a, b])
+			await cp(join(directory, p.metadata.slug), join(dir, p.metadata.slug), {
+				recursive: true,
+			});
+		const path = join(dir, b.metadata.slug, "profile.json");
+		const copied = JSON.parse(await readFile(path, "utf8"));
+		await writeFile(
+			path,
+			JSON.stringify({ ...copied, example: { ...copied.example, message: a.metadata.example.message } }),
+		);
+		await assert.rejects(readProfiles(dir), /share an example message/);
+	} finally {
+		await rm(dir, { recursive: true, force: true });
+	}
+});
+
+test("a featured voice has a comparison, only a featured voice does, and they share one message", async () => {
+	const featured = profiles.find((p) => p.metadata.featured)!;
+	const plain = profiles.find((p) => !p.metadata.featured)!;
+	const { comparison: _, ...without } = featured.metadata;
+	assert.throws(() => validateProfile(without, featured.voice), /featured voice/);
+	assert.throws(
+		() =>
+			validateProfile(
+				{ ...plain.metadata, comparison: plain.metadata.example },
+				plain.voice,
+			),
+		/featured voice/,
+	);
+	const { mkdtemp, cp, readFile, writeFile, rm } = await import("node:fs/promises");
+	const { tmpdir } = await import("node:os");
+	const { join } = await import("node:path");
+	const dir = await mkdtemp(join(tmpdir(), "silvertongue-comparison-"));
+	try {
+		const [a, b] = profiles.filter((p) => p.metadata.featured);
+		for (const p of [a, b])
+			await cp(join(directory, p.metadata.slug), join(dir, p.metadata.slug), {
+				recursive: true,
+			});
+		const path = join(dir, b.metadata.slug, "profile.json");
+		const copied = JSON.parse(await readFile(path, "utf8"));
+		await writeFile(
+			path,
+			JSON.stringify({
+				...copied,
+				comparison: {
+					...copied.comparison,
+					message: "A different message. It has two sentences.",
+				},
+			}),
+		);
+		await assert.rejects(readProfiles(dir), /shares one message/);
 	} finally {
 		await rm(dir, { recursive: true, force: true });
 	}

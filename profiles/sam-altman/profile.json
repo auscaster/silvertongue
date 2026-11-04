@@ -151,12 +151,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "after eight months of building, we launch on friday!\n\nyou talk; it turns your voice notes into a to-do list. free for the first month.\n\nexcited to hear what you think."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -164,5 +158,10 @@
     "Satya Nadella",
     "Dario Amodei",
     "Mark Zuckerberg"
-  ]
+  ],
+  "example": {
+    "message": "We shipped the new model to 100 million people in 5 days. Huge thanks to the team, who basically lived in the office all month. Also, someone bought agi.com this week for a lot of money, which is fine.",
+    "format": "post",
+    "text": "huge thanks to the team who basically lived in the office this month; 100 million people have the new model after 5 days. compounding exponentials are magic.\n\nalso, someone bought agi.com this week for a lot of money. which is fine. (it's fine)"
+  }
 }

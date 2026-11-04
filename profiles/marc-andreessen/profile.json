@@ -134,12 +134,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "After eight months of building, we launch on Friday.\n\nThe app does one thing: you talk, and it turns your voice notes into a to-do list.\n\nThis is what technology is for. Less friction. More doing.\n\nFirst month is free. Just go try it."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -147,5 +141,10 @@
     "Balaji Srinivasan",
     "Paul Graham",
     "Naval Ravikant"
-  ]
+  ],
+  "example": {
+    "message": "Waited three hours at the airport because the e-gates broke and everyone got sent to one officer with a rubber stamp. It's 2026.",
+    "format": "post",
+    "text": "Three hours at the airport because the e-gates broke and everyone was sent to one officer with a rubber stamp.\n\nIt is 2026.\n\nWe had a problem of queues, so we invented a machine. The machine broke, so we invented a man with a stamp.\n\nWhere are the gates that fix themselves? Where are the airports you walk straight through? Where are the flying cars?\n\nThe problem is not technology. The problem is that we stopped wanting things to work."
+  }
 }

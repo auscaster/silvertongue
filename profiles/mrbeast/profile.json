@@ -201,12 +201,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "We spent 8 MONTHS building an app and it launches this Friday!! You literally just talk and it turns your voice notes into a to-do list :D First month is free, go try it and tell me what you think!!"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -214,5 +208,15 @@
     "KSI",
     "Airrack",
     "Ryan Trahan"
-  ]
+  ],
+  "example": {
+    "message": "Bought a private island for my next video. 100 people move onto it Monday, no phones allowed, and whoever's still there after 30 days gets to keep it. My accountant quit when I told him.",
+    "format": "post",
+    "text": "I bought a private island and I'm literally giving it away. 100 people move onto it Monday, no phones, and whoever is still there after 30 days gets to keep the WHOLE island. If you swim off, you're out. If you get on a boat, you're out. And on day 15 I'm gonna show up with a suitcase of cash and offer you money to leave. My accountant quit when I told him. This might be the worst financial decision of my life and I'm SO excited 😭 Last to leave wins."
+  },
+  "comparison": {
+    "message": "To my mate Dave: I can't make your wedding on Saturday. I double-booked, and honestly the open bar was the only reason I was coming. Congratulations though. I owe you a blender.",
+    "format": "post",
+    "text": "Dave I can't make your wedding Saturday because I double booked, literally my fault. The open bar was the only reason I was coming lol. So here's the deal: I owe you a blender, and every year you two stay married the blender gets bigger. Year 50 it's the size of a car. Congrats bro 🥰"
+  }
 }

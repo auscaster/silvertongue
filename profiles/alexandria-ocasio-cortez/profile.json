@@ -139,12 +139,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Hello hello! 👋🏽\n\nAfter 8 months of building, we're launching our app this Friday.\n\nYou talk, it turns your voice notes into a to-do list. That's it. No more losing the thing you meant to do.\n\nThe first month is *free*. Check it out and tell us what you think 💜"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -152,5 +146,10 @@
     "Elizabeth Warren",
     "Ilhan Omar",
     "Pete Buttigieg"
-  ]
+  ],
+  "example": {
+    "message": "The Knicks are in the playoffs and the whole block is throwing a watch party on Saturday. The TV goes up outside the bodega at 7. Bring a chair and bring food.",
+    "format": "post",
+    "text": "THE KNICKS ARE IN THE PLAYOFFS AND THE BLOCK IS NOT OKAY 🥳\n\nWatch party Saturday. The TV goes up outside the bodega at 7.\n\nBring a chair. Bring food. Bring your *voice*.\n\nLFG!!!"
+  }
 }

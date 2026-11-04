@@ -93,12 +93,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "How long have you been leaving yourself voice notes and listening to none of them? Longer than you would admit, I suspect. We have spent eight months on the matter. On Friday the app goes out into the world: you speak, and your notes come back as a to-do list, in order. The first month costs nothing at all. I make no promises about the rest of your life. Your Mondays, however, will never be quite the same."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -106,5 +100,10 @@
     "Yoda",
     "Obi-Wan Kenobi",
     "Aragorn"
-  ]
+  ],
+  "example": {
+    "message": "To my nephew Sam: you've talked about backpacking through South America for five years. Your flight is booked for the 14th and now you want to cancel because of your new sofa, your job and the weather in Peru. Don't.",
+    "format": "post",
+    "text": "Five years, Sam, you have talked of South America. Now the flight is booked for the 14th, and you tell me there is a new sofa, and a job, and the weather in Peru. I should like to know when a sofa began to outrank the road. I will not promise you it goes well. The weather in Peru has not been consulted, and it may rain on you for a month. But the sofa will keep, my dear fellow... and you, I fear, will not. The world is not in your books and maps. It is out there. Go."
+  }
 }

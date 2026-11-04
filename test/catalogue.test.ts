@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import { test } from "node:test";
 import { fullCatalogue, render, withBar } from "../scripts/catalogue.ts";
-import { readProfiles } from "../spec/voice/v2/profile.ts";
+import { readProfiles } from "../spec/voice/v3/profile.ts";
 
 const profiles = await readProfiles(
 	new URL("../profiles", import.meta.url).pathname,
@@ -34,7 +34,7 @@ test("profiles/README.md lists every profile", async () => {
 
 test("GUIDE.md states the bar bar.ts applies", async () => {
 	const guide = await readFile(
-		new URL("../spec/voice/v2/GUIDE.md", import.meta.url),
+		new URL("../spec/voice/v3/GUIDE.md", import.meta.url),
 		"utf8",
 	);
 	assert.equal(withBar(guide), guide, "Run npm run catalogue to regenerate the bar in GUIDE.md.");

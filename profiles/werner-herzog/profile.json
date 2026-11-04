@@ -159,12 +159,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "For eight months we worked on this. Every day, people speak their intentions into their phones, and every day those intentions sink without trace, like a ship no one will ever search for. Why do we record what we never intend to hear again? I do not know. On Friday our app will be released. You speak, and it returns your words to you as a to-do list, in order. The first month costs nothing. The universe will not remember your tasks. Now, at least, something will."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -172,5 +166,10 @@
     "Slavoj Žižek",
     "Cormac McCarthy",
     "Albert Camus"
-  ]
+  ],
+  "example": {
+    "message": "To the film crew: we've waited eleven hours in this swamp for one heron to catch a fish. It's caught nothing. The sound man has leeches, the cameraman wants to go home, and the snacks ran out at noon. Nobody leaves until it does.",
+    "format": "post",
+    "text": "Eleven hours we have stood in this swamp, waiting for one heron to catch one fish. It has caught nothing. It stands on one leg and stares into the water, and the water stares back, and neither will give. Our sound man has leeches. Our cameraman speaks of home as if it were a woman he once loved. The snacks ran out at noon, and since then we have lived on resentment. Still, nobody leaves until the heron eats. I have come to respect this bird. It has no plan, no hope and no snacks, and it has not complained once. Fact is, the heron is the only professional here."
+  }
 }

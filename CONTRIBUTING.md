@@ -4,7 +4,7 @@
 
 ```
 profiles/<slug>/   one voice: VOICE.md (the voice) and profile.json (its sources and observations)
-spec/voice/v2/     the profile format, as a contract
+spec/voice/v3/     the profile format, as a contract
 scripts/           the catalogue table in the README, generated from the profiles
 test/              the validator and catalogue tests
 assets/            the mark and wordmark
@@ -42,13 +42,13 @@ CI runs the same checks.
 ## Adding or correcting a voice
 
 Each voice is `profiles/<slug>/VOICE.md` plus `profile.json`, in the
-[v2 format](spec/voice/v2/README.md). [Writing a voice](spec/voice/v2/GUIDE.md) is how to
+[v3 format](spec/voice/v3/README.md). [Writing a voice](spec/voice/v3/GUIDE.md) is how to
 make one good, who can be a voice, and the bar every voice is held to.
 
 `npm run verify` checks the format and the example pool. Maintainers then run the
 evaluation the bar describes and admit a new voice only when it passes every criterion; a
 correction to an existing voice also has to beat the voice as it stands. No em dashes in a
-profile or its illustration. If a profile studies you and you want it removed, ask privately
+profile or its example. If a profile studies you and you want it removed, ask privately
 through the [terms](https://silvertongue.dev/terms#removing-a-profile-that-studies-you): it
 comes out within seven days, and no reason is needed.
 

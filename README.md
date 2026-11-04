@@ -12,7 +12,7 @@ An open catalogue of famous writing voices for your agent and your browser.<br>
 Pick a voice. Switch any time. Keep your point.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/auscaster/silvertongue/ci.yml?branch=main&style=flat-square&label=ci&labelColor=111&color=111)](https://github.com/auscaster/silvertongue/actions/workflows/ci.yml)
-[![Format: VOICE.md v2](https://img.shields.io/badge/format-VOICE.md%20v2-111?style=flat-square)](spec/voice/v2/README.md)
+[![Format: VOICE.md v3](https://img.shields.io/badge/format-VOICE.md%20v3-111?style=flat-square)](spec/voice/v3/README.md)
 [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-111?style=flat-square)](LICENSE)
 [![Profiles: CC BY 4.0](https://img.shields.io/badge/profiles-CC%20BY%204.0-111?style=flat-square)](PROFILE-LICENSE.md)
 
@@ -31,7 +31,7 @@ Pick a voice. Switch any time. Keep your point.
 ## An example, side by side
 
 <!-- demo:start william-shakespeare snoop-dogg cher theo-von mrbeast donald-trump elon-musk ricky-gervais -->
-> **The brief:** After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.
+> **The message:** To my mate Dave: I can't make your wedding on Saturday. I double-booked, and honestly the open bar was the only reason I was coming. Congratulations though. I owe you a blender.
 
 <table>
 <tr>
@@ -42,16 +42,16 @@ Pick a voice. Switch any time. Keep your point.
 </tr>
 <tr>
 <td valign="top">
-<p>Eight months we laboured; Friday is the day<br>We send our app abroad into the world.<br>Speak but thy notes, and it shall straight array<br>Thy tasks in order, every list unfurled.<br>The first month is our gift; no coin we ask,<br>So speak, and let thy voice set down each task.</p>
+<p>Good Dave, I cannot stand beside thee Saturday; I have promised that same day elsewhere, a sin of mine own diary. And shall I lie? It was the open bar that drew me, not the vows: thy wine I loved, and thee a little less. Yet joy to thee, and hear this debt I send:<br>One blender do I owe thee, faithful friend;<br>May it outlast the marriage, to the end.</p>
 </td>
 <td valign="top">
-<p>8 months in the making 🔨🔥 Our app droppin Friday!! U talk, it turns your voice notes into a to-do list 📝👍🏿 First month free. BlessUp 🙏🏿</p>
+<p>Dave nephew, I can't make it Saturday. Double booked myself n that's on me. Real talk tho, tha open bar was tha only reason I was pullin up. Big congrats 2 y'all 🎉👏🏿 I owe you a blender. Y'all gonna need it.</p>
 </td>
 <td valign="top">
-<p>8 MONTHS OF BUILDING…&amp; FRIDAY IT'S HERE‼️🚀<br>Our App Turns UR Voice Notes In2 A To-Do List📝✨<br>U TALK,IT LISTENS🙏🏻(Unlike Some Ppl I Know🙄)<br>FIRST MONTH FREE💋</p>
+<p>DAVE.Babe I Can't Make The Wedding Saturday.I Double Booked Myself😩 &amp; I'm Not Gonna Lie 2 U,The Open Bar Was The Only Reason I Was Coming.Congrats 2 U Both,I'm Crying Already😭 I Owe U A Blender💋🎉</p>
 </td>
 <td valign="top">
-<p>we been building this app for 8 months bro. drops friday. u just talk into it and it turns ur voice notes into a to-do list. its like having a little assistant in ur phone except this one dont do cocaine. first month free</p>
+<p>cant make ur wedding saturday dave. i double booked bro. a wedding is really just a open bar with a sad speech in front of it, and honestly the bar was the only reason i was comin. we had a guy back home married his landlord and they never had a bad month. congrats brother. i owe u a blender</p>
 </td>
 </tr>
 <tr>
@@ -62,24 +62,22 @@ Pick a voice. Switch any time. Keep your point.
 </tr>
 <tr>
 <td valign="top">
-<p>We spent 8 MONTHS building an app and it launches this Friday!! You literally just talk and it turns your voice notes into a to-do list :D First month is free, go try it and tell me what you think!!</p>
+<p>Dave I can't make your wedding Saturday because I double booked, literally my fault. The open bar was the only reason I was coming lol. So here's the deal: I owe you a blender, and every year you two stay married the blender gets bigger. Year 50 it's the size of a car. Congrats bro 🥰</p>
 </td>
 <td valign="top">
-<p>After eight long months of building, our App launches this Friday! You talk, and it turns your Voice Notes into a To-Do List, very fast and very easy. FREE for the first month. You will love it. A BIG day!!!</p>
+<p>Dave, I can't make your Wedding on Saturday. Double-booked, very much in demand, nobody has ever been this booked, maybe ever. And frankly the Open Bar was the only reason I was coming. Tremendous bar, everybody says so. Congratulations anyway! You made a beautiful deal. I owe you a Blender. It will be the best Blender!</p>
 </td>
 <td valign="top">
-<p>8 months of work. Launches Friday.</p>
-<p>Talk to it and it writes your to-do list.</p>
-<p>First month free</p>
+<p>Can't make the wedding Saturday. Double-booked. Primary attraction was the open bar, so expected loss to you is roughly one drunk guest. Congrats. Blender inbound</p>
 </td>
 <td valign="top">
-<p>We've spent 8 months building an app. It launches on Friday. You talk into it &amp; it turns your voice notes into a to-do list. So now you can ignore your responsibilities in a much more organised way. First month is free. You're welcome 😂</p>
+<p>Can't make your wedding Saturday, mate. Double-booked. I'd love to say I'm gutted, but to be fair the only reason I was coming was the open bar. Congratulations though. Genuinely. Half of these end in divorce &amp; the other half end in death, so enjoy it. I owe you a blender.</p>
 </td>
 </tr>
 </table>
 <!-- demo:end -->
 
-<sub>Handwritten editorial illustrations of each profile's technique, never quotations or model output. Every voice's own example is in its <code>profile.json</code>.</sub>
+<sub>Written in each profile's technique, never their words. Every voice's own example is in its <code>profile.json</code>.</sub>
 
 ## Why it beats "write like…"
 
@@ -115,7 +113,7 @@ Featured voices. All 50 are listed in [`profiles/`](profiles/README.md).
 <summary><b>What's inside a voice</b></summary>
 <br>
 
-`VOICE.md` has nine parts, defined by the [VOICE.md v2 format](spec/voice/v2/README.md):
+`VOICE.md` has nine parts, defined by the [VOICE.md v3 format](spec/voice/v3/README.md):
 
 | Part | What it captures |
 | --- | --- |
@@ -160,7 +158,7 @@ git clone https://github.com/auscaster/silvertongue && cd silvertongue
 npm ci && npm run verify
 ```
 
-Add `profiles/<slug>/VOICE.md` and `profile.json`, run `npm run catalogue && npm run verify`, and open a pull request. [Writing a voice](spec/voice/v2/GUIDE.md) is how to make one good and the bar it has to pass; [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
+Add `profiles/<slug>/VOICE.md` and `profile.json`, run `npm run catalogue && npm run verify`, and open a pull request. [Writing a voice](spec/voice/v3/GUIDE.md) is how to make one good and the bar it has to pass; [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
 
 ## Remove or correct a voice
 

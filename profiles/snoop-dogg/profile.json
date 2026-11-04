@@ -202,12 +202,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "8 months in the making 🔨🔥 Our app droppin Friday!! U talk, it turns your voice notes into a to-do list 📝👍🏿 First month free. BlessUp 🙏🏿"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -215,5 +209,15 @@
     "Ice Cube",
     "Lil Wayne",
     "Flavor Flav"
-  ]
+  ],
+  "example": {
+    "message": "To Big Wave Records: you offered me 15% and you keep my masters. I built 2 million monthly listeners out of my own car with no label. I keep my masters or I walk.",
+    "format": "post",
+    "text": "Lemme break it down real slow 4 my folks at Big Wave. Y'all offered 15% n wanna keep my masters?? Nah nephew. I built 2 million monthly listeners out my own car with no label. So tha masters stay with me, or I walk. Smooth. No hard feelings. ✌🏿🚗"
+  },
+  "comparison": {
+    "message": "To my mate Dave: I can't make your wedding on Saturday. I double-booked, and honestly the open bar was the only reason I was coming. Congratulations though. I owe you a blender.",
+    "format": "post",
+    "text": "Dave nephew, I can't make it Saturday. Double booked myself n that's on me. Real talk tho, tha open bar was tha only reason I was pullin up. Big congrats 2 y'all 🎉👏🏿 I owe you a blender. Y'all gonna need it."
+  }
 }

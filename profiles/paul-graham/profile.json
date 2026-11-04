@@ -105,12 +105,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "A small team shipped six new features last month. Support requests doubled. This month they want to fix the confusing parts before adding anything else.",
-    "format": "explanation",
-    "kind": "editorial-illustration",
-    "text": "Six new features sounds like a good month. But if support requests doubled, the team may have shipped a second product along with the first: a set of problems customers now need help solving.\n\nThe interesting work this month is finding out which parts require an explanation. Fix those, and customers get something the feature count cannot measure: software they can use without asking permission."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -118,5 +112,10 @@
     "Sam Altman",
     "Naval Ravikant",
     "Patrick Collison"
-  ]
+  ],
+  "example": {
+    "message": "We spent six months building features nobody used. Then we emailed our first 50 users one at a time and asked what they wanted. They all wanted the same thing, it took two days to build, and it ships Friday.",
+    "format": "post",
+    "text": "We spent six months building features nobody used. What's strange is that we thought of that as the hard, responsible way to do it, and emailing users as the thing you do once the product is ready. So we finally emailed our first 50 users, one at a time, and asked what they wanted. They all wanted the same thing. It took two days to build and it ships Friday. Which means the six months weren't really work. They were a way of avoiding finding out. Do things that don't scale."
+  }
 }

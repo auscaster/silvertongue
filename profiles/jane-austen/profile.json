@@ -147,12 +147,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "After eight months of building, we launch our app on Friday, an event awaited in this house with the composure usually reserved for weddings. It turns voice notes into a to-do list, which is to say it remembers what you said you would do; a quality rarer in apps than in people, though not by much. The first month is free. I mention the price only because everyone will ask, and the answer is so very agreeable."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -160,5 +154,10 @@
     "Oscar Wilde",
     "George Eliot",
     "Charles Dickens"
-  ]
+  ],
+  "example": {
+    "message": "My cousin Sophie just got engaged to a man she met three weeks ago. He has two houses and a yacht, and she says it's true love. Her mother has already told everyone, twice, and I've been asked to give a speech. The wedding is in June.",
+    "format": "post",
+    "text": "My cousin Sophie is engaged to a gentleman she met three weeks ago. He has two houses and a yacht, and she assures us it is true love; I do not doubt it, for she has loved the houses from the first, and the yacht very nearly as long. Her mother has told everyone twice, with the air of a woman who has personally survived a long campaign. I am to give a speech in June, and shall say nothing but what is kind, which will make it brief. It is a truth universally acknowledged, after all."
+  }
 }

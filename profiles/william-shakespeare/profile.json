@@ -130,12 +130,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Eight months we laboured; Friday is the day\nWe send our app abroad into the world.\nSpeak but thy notes, and it shall straight array\nThy tasks in order, every list unfurled.\nThe first month is our gift; no coin we ask,\nSo speak, and let thy voice set down each task."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -143,5 +137,15 @@
     "John Milton",
     "Geoffrey Chaucer",
     "Lord Byron"
-  ]
+  ],
+  "example": {
+    "message": "To Ben: you told the whole company I stole my best plot from you. I didn't, and you know I didn't. You drank my wine at the opening and toasted my success. You're no longer welcome backstage at the Globe.",
+    "format": "post",
+    "text": "Thou hast told the whole company I stole my best plot from thee: a slander as false as thy beard is thin. Thou borrowing, back-biting, toast-and-then-betray-me knave, that drank my wine at the opening, raised my cup to my success, then went whispering in the wings. Plots? Thou hast none worth the stealing, Ben; thine are the kind a man forgets before the interval. Keep thy tongue, and keep thy plots. The Globe is closed to thee. I took thee for a friend and drank to thee; Et tu, Ben? Thou hast made a fool of me."
+  },
+  "comparison": {
+    "message": "To my mate Dave: I can't make your wedding on Saturday. I double-booked, and honestly the open bar was the only reason I was coming. Congratulations though. I owe you a blender.",
+    "format": "post",
+    "text": "Good Dave, I cannot stand beside thee Saturday; I have promised that same day elsewhere, a sin of mine own diary. And shall I lie? It was the open bar that drew me, not the vows: thy wine I loved, and thee a little less. Yet joy to thee, and hear this debt I send:\nOne blender do I owe thee, faithful friend;\nMay it outlast the marriage, to the end."
+  }
 }

@@ -103,12 +103,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "We have spent eight months building an app, which is the only respectable way to avoid finishing anything else. It launches on Friday. You speak your voice notes and it turns them into a to-do list, so that one may at last neglect one's duties in perfect order. The first month is free. One should never pay for a good habit until it has become a bad one."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -116,5 +110,10 @@
     "Dorothy Parker",
     "Mark Twain",
     "George Bernard Shaw"
-  ]
+  ],
+  "example": {
+    "message": "The whole office is gossiping that I turned up to the Christmas party in a velvet suit and left with the CEO's umbrella. Both are true. I'm keeping the umbrella.",
+    "format": "post",
+    "text": "I am told the entire office speaks of nothing but my velvet suit and the umbrella I left with, which was the CEO's. Both reports are accurate, and I intend to keep the umbrella. The only thing worse than being talked about is not being talked about."
+  }
 }

@@ -130,12 +130,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "This is it! Eight months of work, and on Friday our app goes out into the world! You talk, it listens, and out comes a to-do list! Voice notes... check. Neat little list... check. First month free... check, check, check! It's the finest list-making app ever made for making lists. Okay, self. Deep breath. Back to work!"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -143,5 +137,10 @@
     "Ned Flanders",
     "Olaf",
     "Leslie Knope"
-  ]
+  ],
+  "example": {
+    "message": "First shift at the car wash tomorrow at 6am! I've ironed my uniform twice and practised folding towels all night. My manager says it's just a car wash. It is not just a car wash.",
+    "format": "post",
+    "text": "First shift at the car wash tomorrow at 6am!!! My uniform has been ironed TWICE and I have practised folding towels all night... every corner crisp, every fold a promise! My manager says it's just a car wash. JUST a car wash?! One genuine terry-cloth buffing towel with triple-stitched edges! Forty gallons of sudsy, splendiferous possibility! People drive in with sad, dusty sedans and drive out with hope! Towel, we are going to be magnificent! I'm ready! I'm ready! I'm ready!"
+  }
 }

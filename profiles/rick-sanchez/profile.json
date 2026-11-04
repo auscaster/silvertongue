@@ -133,12 +133,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Look, I-I-I'm not gonna pretend this is complicated. You talk. It listens. Your rambling voice notes come out the other end as a to-do list, in order, which is more structure than most of you have had in years. Eight months of building, so you can stop losing the one thing you swore you'd do. It launches Friday. First month's free, because apparently that's what it takes. Use it, don't use it. The universe doesn't care. Your list will, though."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -146,5 +140,10 @@
     "Bender",
     "BoJack Horseman",
     "Stewie Griffin"
-  ]
+  ],
+  "example": {
+    "message": "My kid's school science fair was today. I built a working cold fusion reactor out of a microwave, and the judges gave first place to a baking soda volcano. The principal asked me to take mine outside because it was humming.",
+    "format": "post",
+    "text": "Y-y-yeah, so, the science fair. Listen, I built a working cold fusion reactor out of a microwave, okay, clean energy, forever, out of a thing you reheat soup in, and the judges, a gym teacher and two guys who think wifi is weather, gave first place to a baking soda volcano. A volcano. It's vinegar, buddy, it's a fucking salad dressing with ambition. Then the principal asks me to take mine outside because it's humming. It's humming because it WORKS. Whatever. School's just daycare with a flag on it. Congrats to the volcano, pal. The future's in great hands."
+  }
 }

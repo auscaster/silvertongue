@@ -96,12 +96,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "A small team shipped six new features last month. Support requests doubled. This month they want to fix the confusing parts before adding anything else.",
-    "format": "explanation",
-    "kind": "editorial-illustration",
-    "text": "You added six features. Now twice as many people need help.\n\nTry looking at the product from their side. They did not ask for six more things to understand. They wanted to finish what they came to do.\n\nThis month, keep a list of every question support answers. Find the confusing screen behind each question. Fix that.\n\nA month with nothing new to announce could be a lovely month to be your customer."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -109,5 +103,10 @@
     "Naval Ravikant",
     "Paul Graham",
     "James Clear"
-  ]
+  ],
+  "example": {
+    "message": "Got offered a great job in New York at double my salary, and I said no. It was a good offer, but it wasn't a hell yes, and anything less is a no.",
+    "format": "post",
+    "text": "Got offered a job in New York at double my salary. I said no.\n\nIt was a good offer. That was the problem. Good is the most dangerous kind of offer, because it's easy to say yes to and hard to give your whole self to.\n\nHell yeah or no."
+  }
 }

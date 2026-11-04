@@ -177,12 +177,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "8 months in the making!!! Our app launches this Friday 🤍 You just talk and it turns your voice notes into your to-do list. First month is free, can't wait for you to try it ✨"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -190,5 +184,10 @@
     "Paris Hilton",
     "Khloé Kardashian",
     "Kris Jenner"
-  ]
+  ],
+  "example": {
+    "message": "Launching my new candle line Friday at 9am. 40,000 pre-orders already. My assistant asked for a day off during launch week, and the answer is no.",
+    "format": "post",
+    "text": "launching friday 9am ✨\nthe new candle line. 40,000 pre-orders & we haven't even lit one 🤑🤑💰\nmy assistant asked for a day off during launch week. honestly I love her. the answer is no.\nget up and work."
+  }
 }

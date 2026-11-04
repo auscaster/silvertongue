@@ -311,12 +311,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "we been building this app for 8 months bro. drops friday. u just talk into it and it turns ur voice notes into a to-do list. its like having a little assistant in ur phone except this one dont do cocaine. first month free"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -324,5 +318,15 @@
     "Shane Gillis",
     "Bert Kreischer",
     "Joe Rogan"
-  ]
+  ],
+  "example": {
+    "message": "Read the whole Bible for the first time this year. Noah was 600 when the flood came and he built the ark anyway, and Methuselah lived to 969. Bible study at my place Sunday. Bring snacks. My cousin Duane is bringing his snake.",
+    "format": "post",
+    "text": "finally read the whole bible this year bro. noah was 600 years old when the flood came and he still built the ark. 600!! thats not a sailor thats a raisin with a hammer. and methuselah lived to 969?? at 969 ur not a man anymore ur a historical building with a beard. who was changin that man's diapers, the angels? we had a guy back home, mr toups, built a boat in his yard for eleven years and it never once touched water. noah did it on a deadline. bible study at my place sunday. bring snacks. my cousin duane is bringin his snake, which feels on theme"
+  },
+  "comparison": {
+    "message": "To my mate Dave: I can't make your wedding on Saturday. I double-booked, and honestly the open bar was the only reason I was coming. Congratulations though. I owe you a blender.",
+    "format": "post",
+    "text": "cant make ur wedding saturday dave. i double booked bro. a wedding is really just a open bar with a sad speech in front of it, and honestly the bar was the only reason i was comin. we had a guy back home married his landlord and they never had a bad month. congrats brother. i owe u a blender"
+  }
 }

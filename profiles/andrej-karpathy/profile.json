@@ -134,12 +134,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Shipping on Friday after ~8 months of building: an app that turns your voice notes into a to-do list.\n\nThe idea is that you just talk (e.g. on a walk) and it does the \"typing\" part for you. First month is free if people would like to play with it :)"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -147,5 +141,10 @@
     "Yann LeCun",
     "Simon Willison",
     "George Hotz"
-  ]
+  ],
+  "example": {
+    "message": "Spent the weekend training a tiny model on 40 years of my grandma's recipe cards. Half of them were illegible. It now confidently invents soups that don't exist, two of them were actually good, and it keeps adding a pinch of love as a measured ingredient.",
+    "format": "post",
+    "text": "weekend project: trained a tiny model on 40 years of my grandma's recipe cards. it now confidently invents soups that don't exist, a genre i'm calling \"hallucinated cuisine\". two of them were *actually* good. my favorite bug: it learned to add a pinch of \"love\" as a measured ingredient, which is technically faithful to the dataset 😅 the whole thing is a total hack (half the cards were illegible, it's fine). imo the model was never the hard part. lesson, as always: become one with the data"
+  }
 }

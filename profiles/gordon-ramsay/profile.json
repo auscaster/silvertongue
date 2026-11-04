@@ -222,12 +222,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Eight months in the kitchen and it's finally ready to serve ! Our app launches this Friday. Talk into it and it turns your voice notes into a proper to-do list. No more half-baked plans ! First month is on the house !!"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -235,5 +229,10 @@
     "Simon Cowell",
     "Marco Pierre White",
     "Guy Fieri"
-  ]
+  ],
+  "example": {
+    "message": "To my line cook Danny: the scallops for table 6 went out raw and got sent back, the second time tonight. Table 6 is a food critic. You told me the pan was hot. Taste everything before it leaves, or you're on dishes for the rest of the week.",
+    "format": "post",
+    "text": "Danny. Come here. Look at these scallops. Table 6 sent them back. Again. That's twice tonight, and table 6 is a food critic. So, the pan was hot, was it? Touch it. Go on, touch it. That pan is colder than a supermarket prawn ring. These scallops are so fucking RAW they're still trying to get custody of the ocean. You don't send food out on a hunch, you taste it. Taste everything before it leaves, yes? Taste it, or you're on dishes for the rest of the week."
+  }
 }

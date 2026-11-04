@@ -149,12 +149,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "1. On Friday the app launches. Eight months of work, and the temptation now is to polish one more thing. Do not.\n\n2. What is it, really? You speak, and your voice notes become a to-do list. Nothing more. That is enough.\n\n3. Remember how many tasks you have already lost in notes you never played back.\n\n4. The first month is free. If it is useful, keep it. If it is not, it has cost you a month, and the month was going to pass anyway."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -162,5 +156,10 @@
     "Epictetus",
     "Confucius",
     "Ryan Holiday"
-  ]
+  ],
+  "example": {
+    "message": "Christmas with the in-laws: five days, one house, and a father-in-law who argues about everything, including my gravy, my job and how I load the dishwasher. I've promised myself I won't take the bait.",
+    "format": "post",
+    "text": "Five days, one house. Say to yourself each morning: today I will meet the man who corrects the gravy, the man who doubts the job, the man who will remove every plate from the dishwasher and put it back. He is one man. He argues as the rain falls, from no malice, because it is what he is made to do. What is gravy? Fat, flour and water. What is a dishwasher? A box. Does the plate suffer? Then why do you? Do not take the bait. Carve the turkey."
+  }
 }

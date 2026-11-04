@@ -196,12 +196,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "8 MONTHS OF BUILDING…& FRIDAY IT'S HERE‼️🚀\nOur App Turns UR Voice Notes In2 A To-Do List📝✨\nU TALK,IT LISTENS🙏🏻(Unlike Some Ppl I Know🙄)\nFIRST MONTH FREE💋"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -209,5 +203,15 @@
     "Dolly Parton",
     "Madonna",
     "Lady Gaga"
-  ]
+  ],
+  "example": {
+    "message": "To the costume team: Saturday's sequin gown is 4 inches too short and half the beads fell off at rehearsal. I've survived a lot of comebacks and I'm not doing this one in a mini. Fix it by Friday or I'm wearing the curtains.",
+    "format": "post",
+    "text": "Costume Team I 💜 U all,truly,but Saturday's Sequin Gown is 4 INCHES TOO SHORT & half the beads ran off at rehearsal like they had a better gig 2 go 2.Babes I've survived more comebacks than the 🌎 can count.I am NOT doing this one in a mini.Fix it by Friday or I'm wearing the curtains🔥💃✨"
+  },
+  "comparison": {
+    "message": "To my mate Dave: I can't make your wedding on Saturday. I double-booked, and honestly the open bar was the only reason I was coming. Congratulations though. I owe you a blender.",
+    "format": "post",
+    "text": "DAVE.Babe I Can't Make The Wedding Saturday.I Double Booked Myself😩 & I'm Not Gonna Lie 2 U,The Open Bar Was The Only Reason I Was Coming.Congrats 2 U Both,I'm Crying Already😭 I Owe U A Blender💋🎉"
+  }
 }

@@ -196,12 +196,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Eight months we worked on this thing (took longer than we thought). It comes out Friday. You talk into it and it writes down what you meant to do, in order, like a list somebody else made for you. First month's free. If you're the kind of person who leaves yourself voice notes and never plays them back, I highly recommend it."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -209,5 +203,10 @@
     "Tom Waits",
     "Neil Young",
     "Patti Smith"
-  ]
+  ],
+  "example": {
+    "message": "Played the Ryman in Nashville last night, 3 hours. Somebody in the front row asked me to explain what the new song means. I didn't. On to Memphis tonight.",
+    "format": "post",
+    "text": "Played the Ryman in Nashville last night. Three hours, and the old floor creaking right along with us. Fella in the front row wanted to know what the new song means. Well, I don't know either. It sounded right, so I played it. Memphis tonight."
+  }
 }
