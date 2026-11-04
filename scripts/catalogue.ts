@@ -1,6 +1,6 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
-import { bar } from "../spec/voice/v2/bar.ts";
+import { bar } from "../spec/voice/v3/bar.ts";
 import {
 	featuredOf,
 	type Metadata,
@@ -8,7 +8,7 @@ import {
 	studied,
 	theMove,
 	type VoiceProfile,
-} from "../spec/voice/v2/profile.ts";
+} from "../spec/voice/v3/profile.ts";
 
 const start = "<!-- catalogue:start -->";
 const end = "<!-- catalogue:end -->";
@@ -90,9 +90,9 @@ export function demo(profiles: VoiceProfile[], slugs: string[]): string {
 		if (!p) throw new Error(`Demo voice ${slug} is not in profiles/.`);
 		return p.metadata;
 	});
-	const brief = voices[0].illustration.brief;
-	if (voices.some((v) => v.illustration.brief !== brief))
-		throw new Error("Demo voices must share one illustration brief.");
+	const message = voices[0].comparison?.message;
+	if (!message || voices.some((v) => v.comparison?.message !== message))
+		throw new Error("Demo voices must share one comparison message.");
 	const perRow =
 		voices.length <= 4 ? voices.length : voices.length % 4 === 0 ? 4 : 3;
 	const width = Math.floor(100 / Math.min(voices.length, perRow));
@@ -113,12 +113,12 @@ export function demo(profiles: VoiceProfile[], slugs: string[]): string {
 			"</tr>",
 			"<tr>",
 			...row.map(
-				(v) => `<td valign="top">\n${cell(v.illustration.text)}\n</td>`,
+				(v) => `<td valign="top">\n${cell(v.comparison?.text ?? "")}\n</td>`,
 			),
 			"</tr>",
 		);
 	}
-	return [`> **The brief:** ${brief}`, "", "<table>", ...rows, "</table>"].join(
+	return [`> **The message:** ${message}`, "", "<table>", ...rows, "</table>"].join(
 		"\n",
 	);
 }
@@ -148,6 +148,6 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
 		new URL("../profiles/README.md", import.meta.url),
 		fullCatalogue(profiles),
 	);
-	const guide = new URL("../spec/voice/v2/GUIDE.md", import.meta.url);
+	const guide = new URL("../spec/voice/v3/GUIDE.md", import.meta.url);
 	await writeFile(guide, withBar(await readFile(guide, "utf8")));
 }

@@ -125,12 +125,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "8 months of building. App drops Friday. You talk into it, it writes your to-do list. Finally, something that listens to you. Your ex sure didn't. First month free. Let's go."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -138,5 +132,10 @@
     "Anthony Jeselnik",
     "Shane Gillis",
     "Andrew Schulz"
-  ]
+  ],
+  "example": {
+    "message": "Roasting my buddy Greg at his 40th on Saturday. He just got divorced, bought a red Corvette the same week, still lives with his mum, and runs a vape shop called Cloud Nine. He's asked me not to hold back.",
+    "format": "post",
+    "text": "Greg. 40 years old. Divorced. Still lives with his mom. Runs a vape shop called Cloud Nine, which is also how long his marriage lasted. In minutes. And the same week, he buys a red Corvette, the first thing in his life that will actually go fast for him. Beautiful car, Greg. Did you win that in the divorce?"
+  }
 }

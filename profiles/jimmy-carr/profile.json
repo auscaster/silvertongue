@@ -92,12 +92,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Our app launches on Friday. You talk into it and it turns your voice notes into a to-do list. We spent eight months building it, which is about seven months longer than my attention span. The first month is free. After that you'll need to remember to cancel, and if you could remember things, you wouldn't need the app."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -105,5 +99,10 @@
     "Ricky Gervais",
     "Anthony Jeselnik",
     "Stewart Lee"
-  ]
+  ],
+  "example": {
+    "message": "Doing the best man speech at my brother Tom's wedding on Saturday. It's his third marriage. I've been asked to keep it short and not mention the first two.",
+    "format": "post",
+    "text": "Best man speech at Tom's wedding on Saturday. It's his third marriage, so I've been asked to keep it short... which is lovely, because so were the first two. Not mentioning them, as promised. Just the bride. Good luck."
+  }
 }

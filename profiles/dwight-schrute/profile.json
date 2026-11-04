@@ -118,12 +118,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Attention. As of Friday, our app is operational. Development time: eight months. You speak. It converts your voice notes into a to-do list. That is the procedure. It does not get bored, and it does not ask how your weekend was. The first month is free, per launch policy. Those who do not download it will be noted."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -131,5 +125,10 @@
     "Sheldon Cooper",
     "Michael Scott",
     "Angela Martin"
-  ]
+  ],
+  "example": {
+    "message": "Someone stole the stapler off my desk again, the third time this month. I've put a camera on my desk, everyone's bags get checked at 5pm, and I've told HR it's a matter of workplace security. Nobody is leaving early on Friday.",
+    "format": "post",
+    "text": "Incident report. My stapler has been stolen from my desk. This is the third time this month. A stapler is the only thing standing between order and loose paper. Effective immediately: a camera monitors the perimeter of my workstation, all bags will be searched at 5pm, and HR has been notified that this is a matter of workplace security. Nobody leaves early on Friday. To the thief: I know who you are. I have memorized the sound of your shoes. I can also stay awake for 40 hours, which I have not been asked to do, but I will."
+  }
 }

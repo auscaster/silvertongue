@@ -98,12 +98,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "We spent eight months building an app that turns your voice notes into a to-do list. And I have to ask: who are these voice notes for? You record a little message. To yourself. \"Remember the thing.\" What thing? You were there! You knew the thing! And then you never play it back. It's a voicemail for a guy who never calls back, and the guy is you. So now the app listens for you. It launches Friday, and the first month is free, which is also what a voice note costs, so you already understand the economics."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -111,5 +105,10 @@
     "Jim Gaffigan",
     "Ellen DeGeneres",
     "Paul Reiser"
-  ]
+  ],
+  "example": {
+    "message": "My dentist called to confirm my appointment, then texted to confirm the call, then emailed to confirm the text. It's Thursday at 3.",
+    "format": "post",
+    "text": "My dentist called to confirm my appointment. Then texted to confirm the call. Then emailed to confirm the text. Who are they worried about? I'm the one lying there getting scraped. Thursday at 3. Confirmed. Confirmed. Confirmed."
+  }
 }

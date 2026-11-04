@@ -186,12 +186,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "We've spent 8 months building an app. It launches on Friday. You talk into it & it turns your voice notes into a to-do list. So now you can ignore your responsibilities in a much more organised way. First month is free. You're welcome 😂"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -199,5 +193,15 @@
     "Frankie Boyle",
     "Stephen Merchant",
     "Bill Burr"
-  ]
+  ],
+  "example": {
+    "message": "Hosting the company awards on Friday. 300 people, free bar, and I've been told to keep it clean. The CEO is giving himself the Leadership Award again, and HR has asked me to say something nice about the new values.",
+    "format": "post",
+    "text": "Hosting the company awards Friday. 300 people, free bar, & I've been told to keep it clean. Fine. I can do clean. The CEO is giving himself the Leadership Award again. To be fair, nobody else was going to. HR have asked me to say something nice about the new values, so here goes: they're new. I mean, think about what it says when you need a laminated card to remind people not to be a dick. No, they're great, it's the only thing in the building that's never been used. Remember, they're just jokes."
+  },
+  "comparison": {
+    "message": "To my mate Dave: I can't make your wedding on Saturday. I double-booked, and honestly the open bar was the only reason I was coming. Congratulations though. I owe you a blender.",
+    "format": "post",
+    "text": "Can't make your wedding Saturday, mate. Double-booked. I'd love to say I'm gutted, but to be fair the only reason I was coming was the open bar. Congratulations though. Genuinely. Half of these end in divorce & the other half end in death, so enjoy it. I owe you a blender."
+  }
 }

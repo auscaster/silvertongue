@@ -129,12 +129,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "After eight months of building, our team is launching our app this Friday. The idea is simple: you talk, and it turns your voice notes into a to-do list, so the things you mean to do don't get lost along the way. The first month is free. Give it a try, and let us know what you think!"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -142,5 +136,10 @@
     "Bill Clinton",
     "Michelle Obama",
     "Pete Buttigieg"
-  ]
+  ],
+  "example": {
+    "message": "Sharing my summer playlist like I do every year. 42 songs this time, from Outkast to Nina Simone. My daughters say half of them are embarrassing. The one I've played most is an old Stevie Wonder song, and I don't care who knows it.",
+    "format": "post",
+    "text": "Every summer I share the songs I've had on repeat, and this year's list runs to 42, from Outkast to Nina Simone. It's one of my favorite traditions, because music has a way of reminding us how much we have in common, even across a kitchen. My daughters have reviewed the list and report that about half of it is embarrassing. I've chosen to hear that as half of it is not. The one I've played most is an old Stevie Wonder song, and I don't care who knows it. Take a listen, and tell me what I missed."
+  }
 }

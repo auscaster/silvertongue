@@ -33,6 +33,14 @@ const sourceSchema = z
 		note: z.string().min(20),
 	})
 	.strict();
+/** A message and a voice's version of it, as the site, its link cards and the MCP server show one. */
+const shownSchema = z
+	.object({
+		message: z.string(),
+		format: formatSchema,
+		text: z.string().min(1),
+	})
+	.strict();
 export const metadataSchema = z
 	.object({
 		slug: z.string().regex(/^[a-z][a-z0-9-]{0,60}$/),
@@ -57,14 +65,10 @@ export const metadataSchema = z
 					.strict(),
 			)
 			.min(3),
-		illustration: z
-			.object({
-				brief: z.string(),
-				format: formatSchema,
-				text: z.string(),
-				kind: z.literal("editorial-illustration"),
-			})
-			.strict(),
+		/** The voice at its most iconic: a message from its own world, and the draft the voice makes of it. */
+		example: shownSchema,
+		/** On a featured voice: the message every featured voice shares, and this voice's version of it. */
+		comparison: shownSchema.optional(),
 	})
 	.strict();
 export type Metadata = z.infer<typeof metadataSchema>;
@@ -337,6 +341,35 @@ function checkExamples(voice: string, examples: readonly Example[]) {
 		);
 }
 
+/**
+ * What a voice shows: a message of at least two sentences, with the specifics the draft can play with, and a draft
+ * that keeps them. Like the pool, it never uses a real line from Moves that is not also a signature, and has no em
+ * dash or doubled space. The length is whatever the voice needs.
+ */
+function checkShown(
+	shown: NonNullable<Metadata["comparison"]>,
+	signatures: readonly Signature[],
+	lines: readonly string[],
+) {
+	const { message, text } = shown;
+	if (message.includes("—") || text.includes("—"))
+		throw new Error("The example uses an em dash.");
+	if (/\S {2,}\S/.test(message) || /\S {2,}\S/.test(text))
+		throw new Error("The example has a doubled space.");
+	if ((message.match(/[.!?](\s|$)/g) ?? []).length < 2)
+		throw new Error(
+			"The example's message is at least two sentences: give the voice something to work with.",
+		);
+	const phrases = new Set(signatures.map((g) => words(g.phrase).join(" ")));
+	for (const line of lines.filter(
+		(l) => words(l).length >= 3 && !phrases.has(words(l).join(" ")),
+	))
+		if (within(text, line))
+			throw new Error(
+				`The example uses the real line "${line.slice(0, 60)}": a line in Moves shows a move's shape, never the example's words.`,
+			);
+}
+
 export function validateProfile(
 	metadata: unknown,
 	voice: string,
@@ -359,6 +392,12 @@ export function validateProfile(
 	checkExamples(voice, examples);
 	checkLines(voice, m.observations);
 	checkPool(examples, signatures, linesOf(voice));
+	checkShown(m.example, signatures, linesOf(voice));
+	if ((m.featured === undefined) !== (m.comparison === undefined))
+		throw new Error(
+			"A featured voice has a comparison, and only a featured voice does.",
+		);
+	if (m.comparison) checkShown(m.comparison, signatures, linesOf(voice));
 	const lookalikes = new Set(m.lookalikes.map((n) => n.toLowerCase()));
 	if (lookalikes.size !== m.lookalikes.length || lookalikes.has(m.name.toLowerCase()))
 		throw new Error(
@@ -390,6 +429,16 @@ export async function readProfiles(directory: string): Promise<VoiceProfile[]> {
 			return result;
 		}),
 	);
+	const messages = profiles.map((p) => p.metadata.example.message);
+	if (new Set(messages).size !== messages.length)
+		throw new Error(
+			"Two profiles share an example message: every voice gets its own.",
+		);
+	const compared = new Set(
+		profiles.flatMap((p) => p.metadata.comparison?.message ?? []),
+	);
+	if (compared.size > 1)
+		throw new Error("The featured voices' comparison shares one message.");
 	const ranks = profiles.flatMap((p) => p.metadata.featured ?? []);
 	if (new Set(ranks).size !== ranks.length)
 		throw new Error("Two profiles share a featured place.");

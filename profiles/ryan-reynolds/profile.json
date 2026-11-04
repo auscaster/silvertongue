@@ -217,12 +217,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "After eight months of building, our app launches Friday. You talk, it listens, and your rambling voice notes come out as a tidy to-do list. It's the most organised I've ever sounded.\n\nFirst month's free, mostly because I couldn't bear the thought of you forgetting to pay."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -230,5 +224,10 @@
     "Chris Pratt",
     "Paul Rudd",
     "Kevin Hart"
-  ]
+  ],
+  "example": {
+    "message": "Launching my gin on Friday. I've personally tasted every batch, which my doctor calls a lot. The first 500 bottles are signed.",
+    "format": "post",
+    "text": "Launching my gin on Friday. I personally tasted every single batch, which my doctor describes as \"a lot\" and my liver describes in a language only whales can hear. The first 500 bottles are signed. The signature gets worse as you go."
+  }
 }

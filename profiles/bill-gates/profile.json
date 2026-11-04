@@ -135,12 +135,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "After eight months of work, our team is launching our app on Friday. It does something simple but useful: you speak your notes, and it turns them into a to-do list. I'm hopeful it will save people a little time every day. The first month is free, and we'd love to hear what you think."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -148,5 +142,10 @@
     "Warren Buffett",
     "Hans Rosling",
     "Sundar Pichai"
-  ]
+  ],
+  "example": {
+    "message": "Read 50 books this year and finished the last one on the flight home. My favourite was about how concrete changed the world. I expected a history of building materials and got the best explanation I've read of how cities actually happen. My full reading list goes up tomorrow.",
+    "format": "post",
+    "text": "A personal record: I read 50 books this year, finishing the last on the flight home. My favorite was about how concrete changed the world, which sounds dull until you realize almost everything you stand on depends on it. I expected a history of building materials. What I got was the best explanation I've read of how cities actually happen. This is a big deal, and almost nobody thinks about it. I'm excited to share the full list tomorrow."
+  }
 }

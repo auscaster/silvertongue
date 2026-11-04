@@ -132,6 +132,26 @@ Try agains. Score them as the bar scores bangers, drop any that invent a fact or
 keep the best that keep the rules above, and read every one before it goes in. A voice whose
 best candidates are all lukewarm needs its moves rewritten, not a better pick.
 
+### The example
+
+The first thing a visitor reads of a voice, on its page and on its link card, and the proof that
+the voice is who it says. It is not an everyday point like the pool's: the message comes from the
+character's own world. Snoop turning down a record deal, Musk paying millions for a domain to annoy a
+rival, Theo Von lost in the Old Testament, Ramsay with raw scallops on the pass.
+
+- **The message is at least two sentences**, with what the voice can play with: names, numbers, places,
+  the absurd detail. It is still the user's message, written as they would type it.
+- **The draft is the voice at its most iconic**, its surface habits in full where their moment comes:
+  Cher's capitals and emoji words, Snoop's spellings, Kim's money run on a flex.
+- **Length follows the voice.** A clipped voice lands in two lines; a voice known for the build gets the
+  room to build. There is no limit either way.
+- **The rules of the pool hold:** no real line from Moves, one signature at most and only where the message
+  is its situation, no invented figure that could be taken as fact, no em dashes or doubled spaces.
+- **Politicians stay out of politics.** Their world here is their delivery, never an election or a position.
+
+Write it from the voice's own packet, with `get_voice_packet` at the length it needs, and read it aloud:
+anyone who knows them should name them from one line.
+
 ### Lookalikes
 
 Four to eight people in `profile.json` a reader could most easily mistake them for: the same
@@ -180,7 +200,7 @@ Try-again sets and a second run. When a voice fails, the profile is fixed, never
   minors, or people whose public writing is mainly hate, harassment or incitement.
 - Describe technique only. No invented quotations, opinions on new events, biography,
   relationships or endorsements, and nothing that claims to be the person.
-- Politicians are studied for delivery only. Their sources and illustration avoid election and
+- Politicians are studied for delivery only. Their sources and example avoid election and
   campaign material, and the profile forbids stating positions, endorsing anyone or writing about
   elections and voting.
 - Deceased writers are accepted once a century has passed since their death.

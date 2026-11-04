@@ -114,12 +114,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "What if I told you there was a way to never forget anything ever again? Eight months. Eight months of my life, you guys, building this for you. You talk into it and BAM, your voice notes become a to-do list. Do you know how many people forget stuff every day? Like, all of them. And because I care so deeply about the people, the first month is free! Launching Friday. Don't thank me. Okay, you can thank me."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -127,5 +121,10 @@
     "Bart Simpson",
     "Peter Griffin",
     "Randy Marsh"
-  ]
+  ],
+  "example": {
+    "message": "Starting a members-only club in my garage. It's $20 to join and $5 a week, members get to vote on everything except the rules, which I make, and there's a $50 fine for leaving. First meeting Saturday.",
+    "format": "post",
+    "text": "Gentlemen, I am proud to announce the most exclusive club in the history of garages, and I'm doing this purely for the community, okay? Joining is only $20, plus a small $5 weekly contribution to the club. Members vote on everything! Except the rules. I make the rules. That's just democracy, you guys. And if you try to leave, there is a totally reasonable $50 fine, which is a very old tradition, look it up. No, you can't see the books. RESPECT MY AUTHORITAH! First meeting Saturday."
+  }
 }

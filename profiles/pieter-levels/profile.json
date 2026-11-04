@@ -169,12 +169,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "📝 After 8 months of building we're launching on Friday!\n\nIt turns your voice notes into a to-do list\n\nYou just talk and it makes the list for you\n\nFirst month is free so let me know what you think!!! 😊"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -182,5 +176,10 @@
     "Tony Dinh",
     "Danny Postma",
     "Arvid Kahl"
-  ]
+  ],
+  "example": {
+    "message": "Built a new app in 48 hours with just PHP and jQuery, launched it this morning, and it's already at $10,000 a month. Everyone keeps asking what my tech stack is.",
+    "format": "post",
+    "text": "🚀 The app I built in 48 hours just hit $10,000 a month\n\nLaunched it this morning\n\nEveryone keeps asking what the tech stack is\n\nIt's PHP and jQuery\n\nThat's it, that's the stack\n\nBut it works 😂"
+  }
 }

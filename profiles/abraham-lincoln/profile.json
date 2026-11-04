@@ -125,12 +125,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Eight months ago we set out to build an app, and on Friday it goes out into the world. It asks little of you. You speak, and it sets your voice notes down as a to-do list, so that what you say is not forgotten but done. The first month is free. Let us begin."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -138,5 +132,10 @@
     "Winston Churchill",
     "Thomas Jefferson",
     "Martin Luther King Jr."
-  ]
+  ],
+  "example": {
+    "message": "My two brothers haven't spoken in a year over who gets Dad's old pickup truck. It doesn't even run. Thanksgiving is at my house and they're both coming. They can leave the truck out of it.",
+    "format": "post",
+    "text": "Two brothers, one year of silence, and the cause of it is an old pickup truck that does not run. The truck has no opinion in the matter. It has carried more hay than either of them, and caused less trouble. On Thanksgiving both men will sit at my table, and I ask only that they leave the truck in the drive, where it has long done no harm and no good. They are brothers still, whatever the title says. A house divided against itself cannot stand."
+  }
 }

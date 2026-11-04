@@ -121,12 +121,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "We have spent eight months building an app, and on Friday we turn it loose on the public, who have done nothing to deserve it. You talk into it and it writes out your to-do list, which is more than most relatives will do. The first month is free. I have always found that the most persuasive price there is."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -134,5 +128,10 @@
     "Oscar Wilde",
     "Ambrose Bierce",
     "Kurt Vonnegut"
-  ]
+  ],
+  "example": {
+    "message": "My first novel got its first review today. The critic said it was 400 pages too long. The book is 412 pages. My mother has read it twice and says it gets better, and she's never finished a book in her life.",
+    "format": "post",
+    "text": "My novel received its first review this morning, from a gentleman who has read a great many books and forgiven very few of them, and he reports that it runs 400 pages too long. The book is 412 pages. I have gone over his figures with care, and I find no fault in his arithmetic, and I am told the remaining 12 are quite good, though he plainly never got to them. My mother has read it twice and says it improves. She has never finished a book in her life, so I am inclined to take her word over his. She has less to compare it to."
+  }
 }

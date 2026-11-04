@@ -166,12 +166,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "8 months of building.\nLaunching Friday.\n\nYou talk. It writes your to-do list.\n\nFirst month free.\n\nStop organizing your tasks. Start saying them."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -179,5 +173,10 @@
     "Grant Cardone",
     "Codie Sanchez",
     "Dan Koe"
-  ]
+  ],
+  "example": {
+    "message": "Turned down a $46 million offer for my company today. My advisors called me crazy. I said no because the business is growing faster than the offer.",
+    "format": "post",
+    "text": "Turned down $46 million for my company today.\nMy advisors called me crazy.\nHere's the math they missed:\nThe business is growing faster than the offer.\nYou don't sell the tree while it's still doubling its fruit.\nSelling early is just paying for certainty with your upside."
+  }
 }

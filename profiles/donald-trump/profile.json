@@ -157,12 +157,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "After eight long months of building, our App launches this Friday! You talk, and it turns your Voice Notes into a To-Do List, very fast and very easy. FREE for the first month. You will love it. A BIG day!!!"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -170,5 +164,15 @@
     "Vince McMahon",
     "Elon Musk",
     "Andrew Tate"
-  ]
+  ],
+  "example": {
+    "message": "To my contractor Kevin: the tower lobby was meant to be finished in March. It's November, the marble is the wrong colour, the chandelier is crooked, and you've billed me twice. A new crew starts Monday.",
+    "format": "post",
+    "text": "Kevin, the Tower Lobby was supposed to be finished in MARCH. It's November. Many people are saying it's the longest anyone has ever taken to finish a lobby, maybe ever. The Marble is the wrong color, very wrong, and the Chandelier is crooked, and by the way, people walk in and they look up and they say, sir, why is it crooked? And you billed me TWICE, which frankly is the only fast thing you've done. Terrible deal for me. New crew starts Monday. Double-Bill Kevin, you're FIRED!"
+  },
+  "comparison": {
+    "message": "To my mate Dave: I can't make your wedding on Saturday. I double-booked, and honestly the open bar was the only reason I was coming. Congratulations though. I owe you a blender.",
+    "format": "post",
+    "text": "Dave, I can't make your Wedding on Saturday. Double-booked, very much in demand, nobody has ever been this booked, maybe ever. And frankly the Open Bar was the only reason I was coming. Tremendous bar, everybody says so. Congratulations anyway! You made a beautiful deal. I owe you a Blender. It will be the best Blender!"
+  }
 }

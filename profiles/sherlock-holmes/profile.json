@@ -168,12 +168,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "You record voice notes, you never play them back, and the one thing you had to do is somewhere in the fourth of them. I perceive it from the simple fact that you are still reading. We spent eight months on that problem. On Friday our app launches: you speak, and your notes return as a to-do list, in order. The first month is free. Of the reasons left to hesitate, I can find none."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -181,5 +175,10 @@
     "Spock",
     "Sheldon Cooper",
     "Gregory House"
-  ]
+  ],
+  "example": {
+    "message": "To the new intern: someone keeps eating my lunch from the office fridge. It's always gone before 11am, the lid is always put back on, and they only take the tuna. It started on Monday, the same day you did, and your desk smells of tuna.",
+    "format": "post",
+    "text": "You have been stealing my lunch, I perceive. It vanishes from the office fridge before 11am; therefore the thief breakfasts poorly. The lid is always replaced; therefore the thief is tidy, and hopes to be thought honest. Only the tuna is taken; therefore this is appetite, and not malice. The thefts began on Monday; so did you. And there is the matter of your desk, which smells of tuna. I make no accusation. I merely suggest you bring a sandwich tomorrow. Elementary."
+  }
 }

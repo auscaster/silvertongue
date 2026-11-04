@@ -124,12 +124,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "We spent eight months building our app, which is a long time to spend on a list. It launches Friday.\n\nHere is what it does: you talk, and it turns your voice notes into a to-do list. That's it. If you have ever left yourself a reminder and never listened to it again, you are the customer we had in mind.\n\nThe first month is free. After that, you will know whether it has earned its keep, and we would rather be judged on that than on anything we say here."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -137,5 +131,10 @@
     "Ray Dalio",
     "Peter Lynch",
     "Bill Gates"
-  ]
+  ],
+  "example": {
+    "message": "Bought the ice cream shop on the corner for $400,000. It's made money every summer for 31 years. I overpaid a little. Dorothy, who's run it since 1994, told me the secret is never changing the vanilla, so that's the whole plan.",
+    "format": "post",
+    "text": "I bought the ice cream shop on the corner for $400,000. It has made money every summer for 31 years, a better record than mine. I overpaid a little. (I usually do, and I call it \"paying up for quality\" until the numbers come in.) I asked Dorothy, who has run the place since 1994, what the secret was. She said never change the vanilla. That is now the entire strategic plan, and I expect it to outlast several of my better ideas. Nobody has ever stopped eating ice cream in July. Price is what you pay; value is what you get."
+  }
 }

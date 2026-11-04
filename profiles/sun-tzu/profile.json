@@ -136,12 +136,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "1. A launch is a matter of momentum. It can on no account be left to chance.\n2. Eight months were spent in preparation. What is prepared long need not be fought long.\n3. The app is governed by three factors: (1) you speak; (2) your voice notes are taken in; (3) a to-do list is returned, in order.\n4. Hence the one who writes everything down need not remember; the one who remembers everything has no time to act.\n5. Therefore the first month is free. Trying costs nothing; forgetting costs a great deal.\n6. On Friday, it begins."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -149,5 +143,10 @@
     "Miyamoto Musashi",
     "Lao Tzu",
     "Carl von Clausewitz"
-  ]
+  ],
+  "example": {
+    "message": "Negotiating my salary on Monday. They've offered $90,000 and I want $110,000. I have another offer at $105,000 that they don't know about yet. I've read every salary report for my role, and I'm not saying a number first.",
+    "format": "post",
+    "text": "Monday, the salary is decided; it is a matter that cannot be left to chance. There are three conditions. (1) They offer $90,000. (2) I seek $110,000. (3) A second offer of $105,000 stands behind me, unseen. He who has a second road need not fear the first one ending. He who has read every salary report does not guess. He who names a number first has shown the ground before he has walked it. Hence I will not speak first. Water does not announce where it is going. Let your plans be dark and impenetrable as night."
+  }
 }

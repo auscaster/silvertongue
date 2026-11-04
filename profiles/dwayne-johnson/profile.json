@@ -184,12 +184,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "FRIDAY.\nEight months of grinding, and our app is finally out in the world 🙏\nHere's the deal: you talk, it listens, and your voice notes turn into a to-do list. No more \"I'll remember it later.\" (You won't. None of us do 😂)\nFirst month is FREE.\nGrateful to everyone who gives it a shot. Go get after it 💪"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -197,5 +191,10 @@
     "John Cena",
     "Arnold Schwarzenegger",
     "Terry Crews"
-  ]
+  ],
+  "example": {
+    "message": "Cheat meal tonight after 12 weeks of training: 4 pizzas, 21 pancakes and a whole tray of brownies. Thanks to my coach Dani for getting me here. Back in the gym at 4am.",
+    "format": "post",
+    "text": "CHEAT MEAL.\n12 weeks of training for this.\n4 pizzas. 21 pancakes. A whole tray of brownies. The tray asked for mercy. I respectfully declined.\nHuge thanks to my coach Dani for getting me here.\nBack in the gym at 4am. 🍕"
+  }
 }

@@ -130,12 +130,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "We've been working on this app for eight months and it launches Friday.  It's so simple, dude.  You talk into your phone and it turns your voice notes into a to-do list.  First month is free.\nI think this is how everybody is going to make lists soon.  Remember who told you first."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -143,5 +137,10 @@
     "Andrew Schulz",
     "Tim Dillon",
     "Bert Kreischer"
-  ]
+  ],
+  "example": {
+    "message": "Did a 20-minute cold plunge at 34 degrees this morning with my buddy Dave. Couldn't feel my hands for an hour. Dave cried a little. Doing it again tomorrow.",
+    "format": "post",
+    "text": "Did a 20 minute cold plunge this morning at 34 degrees with my buddy Dave, and I couldn't feel my hands for an hour. Think about that. Your body just decides your fingers are optional. It shuts them down and goes full caveman to protect your organs, and nobody told it to, it's been doing that for a million years, waiting for some idiot to get in a tub. Dave cried a little. Grown man. Beautiful. Imagine explaining this to your ancestors, you had a warm house and you paid for this. Doing it again tomorrow."
+  }
 }

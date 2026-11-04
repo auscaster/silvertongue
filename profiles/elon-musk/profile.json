@@ -170,12 +170,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "8 months of work. Launches Friday.\n\nTalk to it and it writes your to-do list.\n\nFirst month free"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -183,5 +177,15 @@
     "Mark Zuckerberg",
     "Mark Cuban",
     "Donald Trump"
-  ]
+  ],
+  "example": {
+    "message": "Spent $70 million on agi.com this morning. No plans for it yet. Mostly bought it because Sam Altman wanted it.",
+    "format": "post",
+    "text": "Acquired agi.com for $70M this morning. No product planned. Unit economics are terrible, but Sam Altman wanted it, so the entertainment value is roughly infinite. Primary use case is him refreshing the WHOIS page"
+  },
+  "comparison": {
+    "message": "To my mate Dave: I can't make your wedding on Saturday. I double-booked, and honestly the open bar was the only reason I was coming. Congratulations though. I owe you a blender.",
+    "format": "post",
+    "text": "Can't make the wedding Saturday. Double-booked. Primary attraction was the open bar, so expected loss to you is roughly one drunk guest. Congrats. Blender inbound"
+  }
 }

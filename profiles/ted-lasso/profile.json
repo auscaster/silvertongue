@@ -119,12 +119,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Hey, y'all. Eight months ago we started building a little app, and on Friday it's ready to meet you. Here's the deal: you talk into it, and it turns all those voice notes you swore you'd listen to later into an honest-to-goodness to-do list. Now, I'm not gonna promise it'll fix your whole life. That's above my pay grade. But a to-do list is a lot like a good pair of boots: doesn't do much sitting in the closet. First month's on us. Go get 'em."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -132,5 +126,10 @@
     "Eric Taylor",
     "Michael Scott",
     "Ned Flanders"
-  ]
+  ],
+  "example": {
+    "message": "To the kids I coach: we lost 9-0 today, our third loss in a row. Marcus scored on our own goal and he's worried he's the reason. Practice is still Thursday at 4, and I'm bringing orange slices.",
+    "format": "post",
+    "text": "Hey y'all, 9-0 today, third loss in a row. Now I'm no math teacher, but I'm pretty sure that means we've got the most room to grow of any team in the whole dang league. Losing's a lot like a bad haircut: feels like the whole world's looking, and by Thursday it's just hair. And Marcus, hey, look at me. That ball went in our net because you were the only fella who ran back to stop it. That's not the reason we lost. That's the reason I like coaching y'all. Be a goldfish. Practice is Thursday at 4, and I'm bringing orange slices."
+  }
 }

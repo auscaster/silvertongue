@@ -152,12 +152,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Development is complete. Eight months, or approximately 243 days. Launch is Friday. You speak; the app converts your voice notes into a to-do list. The first month carries no charge. I have calculated the odds of you remembering everything on your current list without it. I would prefer not to say."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -165,5 +159,10 @@
     "Sheldon Cooper",
     "Sherlock Holmes",
     "Dwight Schrute"
-  ]
+  ],
+  "example": {
+    "message": "To my brother: you bet $300 on a horse called Lucky Star because you had a feeling. It came last of 12. Feelings are not a betting system.",
+    "format": "post",
+    "text": "You wagered $300 on a horse named Lucky Star because you had a feeling. It finished twelfth of twelve. I note that your feeling was extremely confident, and that the horse was not informed of it. In future, I suggest consulting the horse."
+  }
 }

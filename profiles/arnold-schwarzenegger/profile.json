@@ -134,12 +134,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Eight months. That's how long we've been building this.\n\nOn Friday, it launches.\n\nYou talk. It turns what you said into a to-do list. That's it.\n\nListen, I know a lot of you collect productivity apps the way some people collect gym memberships. Downloading is easy. Using it every day is where the results are.\n\nSo here's my challenge. The first month is free. Use it every day for that month, then hit reply and tell me what you got done."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -147,5 +141,10 @@
     "Dwayne Johnson",
     "Jean-Claude Van Damme",
     "Hulk Hogan"
-  ]
+  ],
+  "example": {
+    "message": "To my gym crew: I'm 77 and I just deadlifted 300 pounds for 5 reps. My doctor told me to take it easy this year. See you all at 6am tomorrow.",
+    "format": "post",
+    "text": "77 years old and I just deadlifted 300 pounds for 5 reps.\nMy doctor told me to take it easy this year.\nI did. I took it easy on the warm-up.\nGym crew, 6am tomorrow. Don't be late. I'll be back."
+  }
 }

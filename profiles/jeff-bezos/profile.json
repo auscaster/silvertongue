@@ -104,12 +104,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "What were we doing for eight months? Fair question. We were building something that turns your voice notes into a to-do list.\n\nWhy that? Because people are always, wonderfully busy, and the notes they leave themselves mostly go unheard. You talk, the app listens, and you get a list, in order.\n\nIt launches Friday, and the first month is free. So: how many things did you tell yourself to do this week? And how many of them are actually written down?"
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -117,5 +111,10 @@
     "Satya Nadella",
     "Jack Welch",
     "Ray Dalio"
-  ]
+  ],
+  "example": {
+    "message": "400 customers came back to the bakery this week asking for refunds because the new croissants were 10% smaller. Our dashboard said sales were up. We've gone back to the old size, and we now read every complaint on Mondays.",
+    "format": "post",
+    "text": "\"Why did you make the croissants smaller?\" That's a question 400 customers asked us this week, at the counter, asking for refunds. Our dashboard said sales were up. The dashboard was wrong. A 10% smaller croissant saves money, and then the saving becomes the point. Followed by a smaller croissant. Followed by fewer customers. Followed by no bakery. We've gone back to the old size, and now we read every complaint on Mondays. (The butter bill is not pleasant. Watch this space.) What is your dashboard telling you that your customers aren't?"
+  }
 }

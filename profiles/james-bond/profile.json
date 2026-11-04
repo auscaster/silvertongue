@@ -93,12 +93,6 @@
       ]
     }
   ],
-  "illustration": {
-    "brief": "After eight months of building, we launch our app on Friday. It turns voice notes into a to-do list. Free for the first month.",
-    "format": "post",
-    "kind": "editorial-illustration",
-    "text": "Eight months of work. Rather longer than intended, but some things shouldn't be rushed. On Friday the app goes live. You speak, it listens, and your voice notes come back as a to-do list, in the right order. The first month is on the house. I'd suggest trying it before the weekend. Things have a way of being forgotten."
-  },
   "status": "unofficial",
   "evaluation": "unbenchmarked",
   "lookalikes": [
@@ -106,5 +100,10 @@
     "Ethan Hunt",
     "Don Draper",
     "Harvey Specter"
-  ]
+  ],
+  "example": {
+    "message": "Lost $40,000 at the baccarat table in Monaco last night to a man who wouldn't stop smiling. The tux is at the cleaner's. I'm going back tonight.",
+    "format": "post",
+    "text": "Monaco, last night: $40,000 lost at baccarat to a man who would not stop smiling. A temporary arrangement. The tux is at the cleaner's and I return tonight. I do hope he keeps smiling... it makes him so much easier to read."
+  }
 }
