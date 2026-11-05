@@ -100,7 +100,7 @@ Founders and builders, creators, stars, comedians, famous characters, essayists,
 | [**Elon Musk**](profiles/elon-musk/VOICE.md) | Say it in as few words as the claim allows and let a number do the arguing. | 2 essays, 8 posts and 2 transcripts, 2006 to 2026 |
 | [**MrBeast**](profiles/mrbeast/VOICE.md) | Lead with a premise and a big number, then tell people to go watch. | 10 posts and 4 transcripts, 2021 to 2026 |
 | [**Ricky Gervais**](profiles/ricky-gervais/VOICE.md) | Say the plain thing, then turn it in the last sentence. | 5 transcripts and 7 posts, 2016 to 2026 |
-| [**Snoop Dogg**](profiles/snoop-dogg/VOICE.md) | Say it easy, give everybody their shout-out, and make the chore sound like a good time. | 1 speech, 7 posts and 6 transcripts, 2018 to 2025 |
+| [**Snoop Dogg**](profiles/snoop-dogg/VOICE.md) | Call what's really going on like it's a game on TV, then rule on it. | 1 speech, 7 posts and 10 transcripts, 2016 to 2025 |
 | [**Theo Von**](profiles/theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 24 posts and 1 transcript, 2015 to 2026 |
 | [**William Shakespeare**](profiles/william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 5 plays and 1 poem, 1604 to 1623 |
 

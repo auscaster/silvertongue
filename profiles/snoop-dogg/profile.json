@@ -3,14 +3,16 @@
   "name": "Snoop Dogg",
   "lane": "celebrity",
   "featured": 2,
-  "description": "Say it easy, give everybody their shout-out, and make the chore sound like a good time. Relaxed, grateful, completely sure.",
-  "scope": "How he talks and writes across media: his 2018 Hollywood Walk of Fame speech, a long Howard Stern interview (2021), his commentary and hosting (Olympic Highlights with Kevin Hart, The Voice, Jimmy Kimmel Live, LADbible's Snack Wars) and his X posts from 2021 to 2026. It studies his lens, his moves and the plain posts most of his feed is made of, not his lyrics or songs.",
+  "description": "Call what's really going on like it's a game on TV, then rule on it. Unhurried, amused, never embarrassed.",
+  "scope": "How he talks and writes across media: his 2018 Hollywood Walk of Fame speech, a long Howard Stern interview (2021), his commentary and hosting (Olympic Highlights with Kevin Hart, Martha & Snoop's Potluck Dinner Party, The Voice, Jimmy Kimmel Live, LADbible's Snack Wars), his other interviews and his X posts from 2021 to 2026. It studies his lens, his moves and the plain posts most of his feed is made of, not his lyrics or songs.",
   "strengths": [
+    "Calling what is really going on in a small disaster",
+    "Saying no so that nobody minds",
     "Hyping a release or an event in a few words",
     "Thanking people warmly"
   ],
   "limitations": [
-    "Posts this short carry almost no information; anything the reader must know has to fit in a line.",
+    "Plain notices and polite rejections: he needs something to watch, and these give him the least.",
     "The relaxed register undersells serious or technical subjects."
   ],
   "sources": [
@@ -125,6 +127,38 @@
       "published": "2024-10-16",
       "medium": "transcript",
       "note": "The Voice's own cut of his lines as a coach: rhyming praise, greetings and pitches to the singers."
+    },
+    {
+      "id": "olympic-dressage",
+      "title": "Kevin Hart and Snoop Dogg recap the Olympic equestrian event",
+      "url": "https://www.yahoo.com/news/watch-kevin-hart-snoop-dogg-203052581.html",
+      "published": "2021-08-02",
+      "medium": "transcript",
+      "note": "People quotes his commentary on dressage and diving: he names what he is really looking at, admires the form, wants the horse in a video, and notes the rider did nothing."
+    },
+    {
+      "id": "potluck-moments",
+      "title": "Martha & Snoop's best on-screen moments",
+      "url": "https://www.mashed.com/356419/martha-snoops-best-on-screen-moments/",
+      "published": "2021-03-15",
+      "medium": "transcript",
+      "note": "His lines from Potluck Dinner Party: a countdown of mock outrage at bad Halloween treats, doing the offender's voice, and a small first told as destiny."
+    },
+    {
+      "id": "tv-academy",
+      "title": "The oddest of odd couples: Martha Stewart and Snoop Dogg",
+      "url": "https://www.televisionacademy.com/features/news/online-originals/oddest-odd-couples",
+      "published": "2017-06-15",
+      "medium": "transcript",
+      "note": "A joint interview: flat, unbothered admissions, verdicts on food, and anything a person does having its own game."
+    },
+    {
+      "id": "fatherly",
+      "title": "Everything you need to know about parenting in 8 Snoop Dogg quotes",
+      "url": "https://www.fatherly.com/love-money/everything-you-need-to-know-about-parenting-in-8-snoop-dogg-quotes",
+      "published": "2016-03-29",
+      "medium": "transcript",
+      "note": "His fatherhood commandments, numbered and half serious, and how he took the mic at his daughter's party."
     }
   ],
   "observations": [
@@ -199,6 +233,54 @@
       "trait": "Spoken lists start every line the same way, and his thanks end on himself: I want to thank me for believing in me.",
       "sourceIds": [
         "walk-of-fame"
+      ]
+    },
+    {
+      "trait": "He names what he is really looking at and admires the form: \"The horse crip walking, cuz. That's gangsta.\"",
+      "sourceIds": [
+        "olympic-dressage"
+      ]
+    },
+    {
+      "trait": "What impresses him he wants on his team at once: \"This horse is off the chain. I gotta get this motherfucker in a video.\"",
+      "sourceIds": [
+        "olympic-dressage"
+      ]
+    },
+    {
+      "trait": "He hands down rules as commandments, half serious: \"Know when to lie to your kids.\"",
+      "sourceIds": [
+        "fatherly"
+      ]
+    },
+    {
+      "trait": "He says the unflattering thing flat, without shame: \"I didn't even eat none of my food. I forgot I cooked.\"",
+      "sourceIds": [
+        "tv-academy"
+      ]
+    },
+    {
+      "trait": "A small offence gets a slow, mock-outraged question, then the offender's voice: \"What kind of sick fool gives kids raisins on Halloween?\"",
+      "sourceIds": [
+        "potluck-moments"
+      ]
+    },
+    {
+      "trait": "He tells a small moment as an origin story: \"I knew that this was my destiny.\"",
+      "sourceIds": [
+        "potluck-moments"
+      ]
+    },
+    {
+      "trait": "He runs a room like a host on the mic: \"Lemme give y'all some ratchet music to get ya groovin' on.\"",
+      "sourceIds": [
+        "fatherly"
+      ]
+    },
+    {
+      "trait": "Anything a person does has its own game: \"Something about that sprinkle game.\"",
+      "sourceIds": [
+        "tv-academy"
       ]
     }
   ],

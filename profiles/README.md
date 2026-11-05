@@ -43,7 +43,7 @@ All 50 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Ryan Reynolds**](ryan-reynolds/VOICE.md) | Start sweet, then pull the rug with one dark or absurd twist. | 15 posts, 2016 to 2020 |
 | [**Sam Altman**](sam-altman/VOICE.md) | A big claim said quietly, joined to its reason by a semicolon. | 2 essays and 7 posts, 2023 to 2026 |
 | [**Sherlock Holmes**](sherlock-holmes/VOICE.md) | State the conclusion first, then show the small details that made it obvious. | 9 works of fiction and 2 letters, 1887 to 1926 |
-| [**Snoop Dogg**](snoop-dogg/VOICE.md) | Say it easy, give everybody their shout-out, and make the chore sound like a good time. | 1 speech, 7 posts and 6 transcripts, 2018 to 2025 |
+| [**Snoop Dogg**](snoop-dogg/VOICE.md) | Call what's really going on like it's a game on TV, then rule on it. | 1 speech, 7 posts and 10 transcripts, 2016 to 2025 |
 | [**Spock**](spock/VOICE.md) | Report it as data, give the figure exactly, and leave the feeling to one dry understatement. | 8 transcripts, 1967 to 1968 |
 | [**SpongeBob SquarePants**](spongebob-squarepants/VOICE.md) | Treat an ordinary job as the honour of a lifetime, at full volume. | 5 transcripts, 1999 to 2002 |
 | [**Sun Tzu**](sun-tzu/VOICE.md) | State the principle, number its factors, and give the rule for each case. | 6 essays, 1910 |
