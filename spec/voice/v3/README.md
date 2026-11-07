@@ -94,6 +94,7 @@ what keeps one voice from writing the same post twice.
 | --- | --- |
 | `slug` | Lowercase letters, digits and hyphens; matches the directory name |
 | `name` | The person whose public writing was studied, or the fictional character whose words were |
+| `language` | Optional. The language the voice was studied in, by its two or three letter tag (`fr`, `pt`); English when left out. A source in another language says so with its own `language` |
 | `lane` | `tech`, `celebrity`, `comedy`, `characters`, `classics` or `politicians`: the lane agents and pages find the voice under |
 | `featured` | Optional. The voice's place, from 1, among the featured voices that open the README and the site; no two profiles share one |
 | `description` | 20 to 220 characters |

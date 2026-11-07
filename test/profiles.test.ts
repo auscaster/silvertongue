@@ -7,6 +7,7 @@ import {
 	readProfiles,
 	section,
 	signaturesOf,
+	metadataSchema,
 	validateProfile,
 } from "../spec/voice/v3/profile.ts";
 
@@ -345,3 +346,11 @@ test("lookalikes are four or more other people, each named once", () => {
 		/each named once/,
 	);
 });
+
+test("a voice can record the language it was studied in, by its tag, and English needs no field", () => {
+	const metadata = profiles[0]!.metadata;
+	assert.equal(metadata.language, undefined);
+	assert.ok(metadataSchema.safeParse({ ...metadata, language: "fr" }).success);
+	assert.ok(!metadataSchema.safeParse({ ...metadata, language: "French" }).success);
+});
+

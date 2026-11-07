@@ -194,6 +194,23 @@ first drafts. A change to how drafts are written has to leave every voice passin
 Drafts vary from run to run, so a small change is believed only when it holds across all three
 Try-again sets and a second run. When a voice fails, the profile is fixed, never the writer.
 
+## Voices in other languages
+
+A voice records the language it was studied in (`language` in profile.json, English when left
+out). Study a voice in the language people know it in.
+
+- Write the sections in English, so every contributor and reviewer can read them. Quotes, the
+  signatures and the examples' drafts stay in the voice's own language, exactly as said.
+- Name in Texture which habits belong to that language (its slang spellings, shortenings, idioms
+  and wordplay) and which belong to the person in any language (capitals, punctuation, spacing,
+  emoji, rhythm).
+- Drafts in another language keep the voice's angle, moves, rhythm and register, and the habits
+  no language owns. Catchphrases are never translated: one lands word for word or not at all.
+  Slang, idioms and puns stay in the voice's language; a typing habit takes the shape native
+  writers of the draft's language give it.
+- A voice studied from a translation, as the classics are, is studied in the translation's
+  language.
+
 ## Who can be a voice
 
 - Public figures with a body of public work, and fictional characters. Not private individuals,
