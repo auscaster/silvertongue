@@ -23,9 +23,13 @@ export const laneSchema = z.enum([
 	"politicians",
 ]);
 export type Lane = z.infer<typeof laneSchema>;
+/** A language, by its two or three letter tag: "en", "fr", "pt". */
+const languageSchema = z.string().regex(/^[a-z]{2,3}$/);
 const sourceSchema = z
 	.object({
 		id: z.string().regex(/^[a-z0-9-]+$/),
+		/** The language this source is in, where it is not the voice's own. */
+		language: languageSchema.optional(),
 		title: z.string().min(1),
 		url: z.url({ protocol: /^https$/ }),
 		published: z.string().min(4),
@@ -45,6 +49,8 @@ export const metadataSchema = z
 	.object({
 		slug: z.string().regex(/^[a-z][a-z0-9-]{0,60}$/),
 		name: z.string().min(1),
+		/** The language the voice was studied in; English where it is left out. */
+		language: languageSchema.optional(),
 		lane: laneSchema,
 		featured: z.number().int().min(1).max(99).optional(),
 		description: z.string().min(20).max(220),
