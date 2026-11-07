@@ -215,6 +215,11 @@ out). Study a voice in the language people know it in.
 
 - Public figures with a body of public work, and fictional characters. Not private individuals,
   minors, or people whose public writing is mainly hate, harassment or incitement.
+- Styles: a way of writing many people share, such as Gen Z or Victorian English, in the
+  `styles` lane. A style is studied from published writing in it and from references
+  (dictionaries, usage guides, style guides), with how often each habit really shows. It is
+  never a caricature of the people who write that way, and a dialect is written as its own
+  speakers write it.
 - Describe technique only. No invented quotations, opinions on new events, biography,
   relationships or endorsements, and nothing that claims to be the person.
 - Politicians are studied for delivery only. Their sources and example avoid election and

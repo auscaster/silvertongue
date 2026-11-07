@@ -93,9 +93,10 @@ what keeps one voice from writing the same post twice.
 | Field | Rule |
 | --- | --- |
 | `slug` | Lowercase letters, digits and hyphens; matches the directory name |
-| `name` | The person whose public writing was studied, or the fictional character whose words were |
+| `name` | The person whose public writing was studied, the fictional character whose words were, or the style: a way of writing many people share, named as it reads after "in" (Gen Z, Victorian English, Pirate Speak) |
 | `language` | Optional. The language the voice was studied in, by its two or three letter tag (`fr`, `pt`); English when left out. A source in another language says so with its own `language` |
-| `lane` | `tech`, `celebrity`, `comedy`, `characters`, `classics` or `politicians`: the lane agents and pages find the voice under |
+| `lane` | `tech`, `celebrity`, `comedy`, `characters`, `classics`, `politicians` or `styles`: the lane agents and pages find the voice under. A style is in `styles`, and only a style is |
+| `aliases` | Optional. One to eight other names people look for the voice by, in lower case, each given once and never the voice's own name: a style's other names (`slang` for Gen Z), or what a voice is searched as (`old english` for Shakespeare). Agents, pages and the apps find the voice by them |
 | `featured` | Optional. The voice's place, from 1, among the featured voices that open the README and the site; no two profiles share one |
 | `description` | 20 to 220 characters |
 | `scope` | Which medium and period the profile studies |
@@ -103,7 +104,7 @@ what keeps one voice from writing the same post twice.
 | `evaluation` | `unbenchmarked` until a blind evaluation is admitted |
 | `lookalikes` | Four to eight other people a reader could most easily mistake the voice for, each named once: the people the bar's judge tells it apart from |
 | `strengths`, `limitations` | At least two each |
-| `sources` | At least three, each with `id`, `title`, an `https` `url`, `published`, `medium` (`essay`, `transcript`, `speech`, `letter`, `post`, `fiction`, `play` or `poem`) and a `note` of at least 20 characters. Link to sources; never copy them |
+| `sources` | At least three, each with `id`, `title`, an `https` `url`, `published`, `medium` (`essay`, `transcript`, `speech`, `letter`, `post`, `fiction`, `play`, `poem` or `reference`: a dictionary, usage guide or style guide) and a `note` of at least 20 characters. Link to sources; never copy them |
 | `observations` | At least three, each a `trait` citing one or more source `id`s |
 | `example` | The voice at its most iconic: a `message` of at least two sentences from the voice's own world, with the specifics it can play with, its `format`, and the `text` the voice makes of it, as long as the voice needs. Never a quotation, never presented as their words, and no two voices share a message |
 | `comparison` | On a featured voice only: the same shape, on the one `message` every featured voice shares, for the side-by-side on the site and in the README |

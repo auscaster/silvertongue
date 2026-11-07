@@ -12,6 +12,7 @@ export const mediumSchema = z.enum([
 	"fiction",
 	"play",
 	"poem",
+	"reference",
 ]);
 export type Medium = z.infer<typeof mediumSchema>;
 export const laneSchema = z.enum([
@@ -21,6 +22,7 @@ export const laneSchema = z.enum([
 	"characters",
 	"classics",
 	"politicians",
+	"styles",
 ]);
 export type Lane = z.infer<typeof laneSchema>;
 /** A language, by its two or three letter tag: "en", "fr", "pt". */
@@ -52,6 +54,12 @@ export const metadataSchema = z
 		/** The language the voice was studied in; English where it is left out. */
 		language: languageSchema.optional(),
 		lane: laneSchema,
+		/** Other names people look for the voice by: a style's other names, or what a voice is searched as. */
+		aliases: z
+			.array(z.string().regex(/^[a-z0-9][a-z0-9' -]{0,38}[a-z0-9]$/))
+			.min(1)
+			.max(8)
+			.optional(),
 		featured: z.number().int().min(1).max(99).optional(),
 		description: z.string().min(20).max(220),
 		scope: z.string().min(30),
@@ -96,6 +104,7 @@ const media: Record<Medium, [string, string]> = {
 	fiction: ["work of fiction", "works of fiction"],
 	play: ["play", "plays"],
 	poem: ["poem", "poems"],
+	reference: ["reference", "references"],
 };
 
 /** What was studied, from the sources: "12 posts and 2 transcripts, 2019 to 2026". */
@@ -408,6 +417,11 @@ export function validateProfile(
 	if (lookalikes.size !== m.lookalikes.length || lookalikes.has(m.name.toLowerCase()))
 		throw new Error(
 			"Lookalikes are other people, each named once, never the voice itself.",
+		);
+	const aliases = new Set(m.aliases);
+	if (aliases.size !== (m.aliases?.length ?? 0) || aliases.has(m.name.toLowerCase()))
+		throw new Error(
+			"Aliases are other names, each given once, never the voice's own name.",
 		);
 	const sources = new Set(m.sources.map((s) => s.id));
 	if (sources.size !== m.sources.length)

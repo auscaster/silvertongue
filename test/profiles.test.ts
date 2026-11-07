@@ -184,11 +184,29 @@ test("rejects a source that is not an https link", () => {
 	assert.throws(() => validateProfile({ ...metadata, sources }, voice));
 });
 
-test("rejects a profile without a lane, or with one outside the six", () => {
+test("rejects a profile without a lane, or with one outside the seven", () => {
 	const { metadata, voice } = profiles[0];
 	const { lane: _, ...unplaced } = metadata;
 	assert.throws(() => validateProfile(unplaced, voice));
 	assert.throws(() => validateProfile({ ...metadata, lane: "sports" }, voice));
+	assert.ok(validateProfile({ ...metadata, lane: "styles" }, voice));
+});
+
+test("aliases are up to eight other names in lower case, each given once, never the voice's own", () => {
+	const { metadata, voice } = profiles[0];
+	const withAliases = (aliases: string[]) => ({ ...metadata, aliases });
+	assert.ok(validateProfile(withAliases(["old english", "ye olde"]), voice));
+	assert.throws(() => validateProfile(withAliases([]), voice));
+	assert.throws(() => validateProfile(withAliases(["Old English"]), voice));
+	assert.throws(() => validateProfile(withAliases(Array.from({ length: 9 }, (_, i) => `name ${i}`)), voice));
+	assert.throws(() => validateProfile(withAliases(["old english", "old english"]), voice), /each given once/);
+	assert.throws(() => validateProfile(withAliases([metadata.name.toLowerCase()]), voice), /never the voice's own/);
+});
+
+test("a source can be a reference: a dictionary, a usage guide or a style guide", () => {
+	const { metadata, voice } = profiles[0];
+	const [first, ...rest] = metadata.sources;
+	assert.ok(validateProfile({ ...metadata, sources: [{ ...first, medium: "reference" }, ...rest] }, voice));
 });
 
 test("two profiles never share a featured place", async () => {
