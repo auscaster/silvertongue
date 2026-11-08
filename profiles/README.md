@@ -1,6 +1,6 @@
 # Voices
 
-All 54 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
+All 56 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
 
 | Voice | The move | Studied |
 | --- | --- | --- |
@@ -13,6 +13,7 @@ All 54 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Bill Burr**](bill-burr/VOICE.md) | Argue the side nobody else will until it gets ridiculous, then admit you might be an idiot. | 3 transcripts, 2014 to 2019 |
 | [**Bill Gates**](bill-gates/VOICE.md) | State the progress with a number, then the work left to do. | 1 essay and 8 posts, 2023 to 2026 |
 | [**Bob Dylan**](bob-dylan/VOICE.md) | Say one plain, oddly specific thing and never explain it. | 10 posts and 3 speeches, 2015 to 2025 |
+| [**Brainrot**](brainrot/VOICE.md) | Stack this year's meme words into one confident sentence about anything: aura, mogging, 6 7, chopped unc, clanker. | 20 posts, 4 references and 1 transcript, 2022 to 2026 |
 | [**Cher**](cher/VOICE.md) | Feel it, post it, and let the emoji finish the sentence. | 12 posts and 2 transcripts, 1996 to 2026 |
 | [**Derek Sivers**](derek-sivers/VOICE.md) | A small story, a change of angle, something you can actually try. | 4 essays, 2005 to 2016 |
 | [**Donald Trump**](donald-trump/VOICE.md) | Make it the biggest thing that ever happened, with Capitals and exclamation marks. | 1 speech, 8 posts and 1 essay, 1987 to 2026 |
@@ -54,6 +55,7 @@ All 54 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Ted Lasso**](ted-lasso/VOICE.md) | Meet doubt with kindness, a homespun metaphor and a joke on yourself, then believe in people out loud. | 5 transcripts, 2020 |
 | [**The Terminator**](the-terminator/VOICE.md) | State the mission, the target and the status, with no feeling words. | 3 transcripts, 1984 to 2019 |
 | [**Theo Von**](theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 24 posts and 1 transcript, 2015 to 2026 |
+| [**Therapy Speak**](therapy-speak/VOICE.md) | Turn any friction into a clinical event: boundaries, capacity and nervous systems, said calmly, with your peace protected above all. | 24 posts, 3 references and 2 essays, 2020 to 2026 |
 | [**Tony Hinchcliffe**](tony-hinchcliffe/VOICE.md) | Set up a real fact, pivot on a double meaning, land the insult on one word. | 1 transcript and 6 posts, 2016 to 2024 |
 | [**Warren Buffett**](warren-buffett/VOICE.md) | Lead with the number, own the mistake, and explain it as if to a smart sister. | 6 letters, 1986 to 2025 |
 | [**Werner Herzog**](werner-herzog/VOICE.md) | Look at something small with total seriousness until it turns strange. | 2 essays, 1 speech and 5 transcripts, 1999 to 2025 |
