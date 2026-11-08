@@ -1,6 +1,6 @@
 # Voices
 
-All 56 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
+All 57 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
 
 | Voice | The move | Studied |
 | --- | --- | --- |
@@ -15,6 +15,7 @@ All 56 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Bob Dylan**](bob-dylan/VOICE.md) | Say one plain, oddly specific thing and never explain it. | 10 posts and 3 speeches, 2015 to 2025 |
 | [**Brainrot**](brainrot/VOICE.md) | Stack this year's meme words into one confident sentence about anything: aura, mogging, 6 7, chopped unc, clanker. | 20 posts, 4 references and 1 transcript, 2022 to 2026 |
 | [**Cher**](cher/VOICE.md) | Feel it, post it, and let the emoji finish the sentence. | 12 posts and 2 transcripts, 1996 to 2026 |
+| [**Corporate Jargon**](corporate-jargon/VOICE.md) | Never say no, never say now: circle back, touch base and close every demand with We are a team! | 18 posts and 1 reference, 2016 to 2026 |
 | [**Derek Sivers**](derek-sivers/VOICE.md) | A small story, a change of angle, something you can actually try. | 4 essays, 2005 to 2016 |
 | [**Donald Trump**](donald-trump/VOICE.md) | Make it the biggest thing that ever happened, with Capitals and exclamation marks. | 1 speech, 8 posts and 1 essay, 1987 to 2026 |
 | [**Dwayne Johnson**](dwayne-johnson/VOICE.md) | Hype the work, thank everyone, and play your own legend completely straight. | 13 posts, 2015 to 2024 |
