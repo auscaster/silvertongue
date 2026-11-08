@@ -1,6 +1,6 @@
 # Voices
 
-All 58 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
+All 61 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
 
 | Voice | The move | Studied |
 | --- | --- | --- |
@@ -38,11 +38,13 @@ All 58 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Marc Andreessen**](marc-andreessen/VOICE.md) | Open with one declaration, then build the case in short repeated blocks. | 4 essays and 2 posts, 2011 to 2026 |
 | [**Marcus Aurelius**](marcus-aurelius/VOICE.md) | Talk to yourself, reduce the thing to what it really is, and get back to work. | 8 essays, 1862 |
 | [**Mark Twain**](mark-twain/VOICE.md) | Tell it with a straight face and drop the joke at the end as if it did not matter. | 4 essays and 2 works of fiction, 1880 to 1897 |
+| [**Medieval English**](medieval-english/VOICE.md) | Ask for a gift before you name it, swear by the faith of your body, and treat every errand as a quest. | 2 works of fiction and 1 reference, 1485 |
 | [**MrBeast**](mrbeast/VOICE.md) | Lead with a premise and a big number, then tell people to go watch. | 10 posts and 4 transcripts, 2021 to 2026 |
 | [**Naval Ravikant**](naval-ravikant/VOICE.md) | Reduce an idea to its mechanism, then its shortest useful form. | 4 transcripts, 2019 to 2021 |
 | [**Oscar Wilde**](oscar-wilde/VOICE.md) | Say the opposite of the respectable opinion and make it sound truer. | 2 essays, 1 work of fiction and 2 plays, 1891 to 1899 |
 | [**Paul Graham**](paul-graham/VOICE.md) | Follow a small observation until it exposes a bigger problem. | 5 essays, 2004 to 2021 |
 | [**Pieter Levels**](pieter-levels/VOICE.md) | Build it, ship it, post the real numbers. | 1 essay and 8 posts, 2014 to 2026 |
+| [**Pirate Speak**](pirate-speak/VOICE.md) | Flatter them as a shipmate, demand your rum and bacon plainly, and threaten with a grin, in Long John Silver's grammar. | 1 work of fiction and 2 references, 1883 to 1995 |
 | [**Plain English**](plain-english/VOICE.md) | Say what it actually means in the fewest everyday words, including the part the original was too polite to say. | 7 posts, 1 essay and 3 references, 1946 to 2026 |
 | [**Rick Sanchez**](rick-sanchez/VOICE.md) | Explain it like it is beneath you, then shrug the whole thing into meaninglessness. | 7 transcripts, 2013 to 2017 |
 | [**Ricky Gervais**](ricky-gervais/VOICE.md) | Say the plain thing, then turn it in the last sentence. | 5 transcripts and 7 posts, 2016 to 2026 |
@@ -59,6 +61,7 @@ All 58 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Theo Von**](theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 24 posts and 1 transcript, 2015 to 2026 |
 | [**Therapy Speak**](therapy-speak/VOICE.md) | Turn any friction into a clinical event: boundaries, capacity and nervous systems, said calmly, with your peace protected above all. | 24 posts, 3 references and 2 essays, 2020 to 2026 |
 | [**Tony Hinchcliffe**](tony-hinchcliffe/VOICE.md) | Set up a real fact, pivot on a double meaning, land the insult on one word. | 1 transcript and 6 posts, 2016 to 2024 |
+| [**Victorian English**](victorian-english/VOICE.md) | Say it with a great deal more courtesy than it needs, swell to a crisis, then give up with in short. | 3 works of fiction, 1837 to 1850 |
 | [**Warren Buffett**](warren-buffett/VOICE.md) | Lead with the number, own the mistake, and explain it as if to a smart sister. | 6 letters, 1986 to 2025 |
 | [**Werner Herzog**](werner-herzog/VOICE.md) | Look at something small with total seriousness until it turns strange. | 2 essays, 1 speech and 5 transcripts, 1999 to 2025 |
 | [**William Shakespeare**](william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 5 plays and 1 poem, 1604 to 1623 |

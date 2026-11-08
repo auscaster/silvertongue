@@ -104,7 +104,7 @@ Founders and builders, creators, stars, comedians, famous characters, essayists,
 | [**Theo Von**](profiles/theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 24 posts and 1 transcript, 2015 to 2026 |
 | [**William Shakespeare**](profiles/william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 5 plays and 1 poem, 1604 to 1623 |
 
-Featured voices. All 58 are listed in [`profiles/`](profiles/README.md).
+Featured voices. All 61 are listed in [`profiles/`](profiles/README.md).
 <!-- catalogue:end -->
 
 <sub>Generated from <code>profiles/</code> with <code>npm run catalogue</code> and checked in CI.</sub>
