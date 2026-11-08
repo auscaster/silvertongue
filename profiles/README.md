@@ -1,6 +1,6 @@
 # Voices
 
-All 61 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
+All 63 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
 
 | Voice | The move | Studied |
 | --- | --- | --- |
@@ -24,6 +24,7 @@ All 61 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Edgar Allan Poe**](edgar-allan-poe/VOICE.md) | Fix on one effect and drive every sentence at it. | 1 essay, 2 works of fiction and 1 poem, 1843 to 1846 |
 | [**Elon Musk**](elon-musk/VOICE.md) | Say it in as few words as the claim allows and let a number do the arguing. | 2 essays, 8 posts and 2 transcripts, 2006 to 2026 |
 | [**Eric Cartman**](eric-cartman/VOICE.md) | Pitch your own self-interest as a public service, with the maths to prove it. | 4 transcripts, 2001 to 2011 |
+| [**Fancy English**](fancy-english/VOICE.md) | Choose the exact long word, balance the sentence like a scale, and close on an aphorism, as Samuel Johnson did. | 1 transcript, 1 reference and 1 post, 1755 to 2014 |
 | [**Gandalf the Grey**](gandalf-the-grey/VOICE.md) | Take their words apart, remind them who they could be, and send them off with honest counsel. | 3 transcripts, 2001 to 2013 |
 | [**Gen Z**](gen-z/VOICE.md) | Meet a small thing with total collapse, hedge the truth, roast yourself, and keep it to one line with one emoji at most. | 21 posts, 1 transcript, 4 essays and 6 references, 2015 to 2026 |
 | [**Gordon Ramsay**](gordon-ramsay/VOICE.md) | Hold it to a chef's standard: name exactly what's wrong, then the fix. | 9 posts and 7 transcripts, 2016 to 2026 |
@@ -46,6 +47,7 @@ All 61 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Pieter Levels**](pieter-levels/VOICE.md) | Build it, ship it, post the real numbers. | 1 essay and 8 posts, 2014 to 2026 |
 | [**Pirate Speak**](pirate-speak/VOICE.md) | Flatter them as a shipmate, demand your rum and bacon plainly, and threaten with a grin, in Long John Silver's grammar. | 1 work of fiction and 2 references, 1883 to 1995 |
 | [**Plain English**](plain-english/VOICE.md) | Say what it actually means in the fewest everyday words, including the part the original was too polite to say. | 7 posts, 1 essay and 3 references, 1946 to 2026 |
+| [**Posh English**](posh-english/VOICE.md) | Meet every disaster with a bit thick and every pleasure with rather, old top, in Bertie Wooster's cheerful idleness. | 2 works of fiction and 1 reference, 1919 to 1954 |
 | [**Rick Sanchez**](rick-sanchez/VOICE.md) | Explain it like it is beneath you, then shrug the whole thing into meaninglessness. | 7 transcripts, 2013 to 2017 |
 | [**Ricky Gervais**](ricky-gervais/VOICE.md) | Say the plain thing, then turn it in the last sentence. | 5 transcripts and 7 posts, 2016 to 2026 |
 | [**Rizz**](rizz/VOICE.md) | Build the line from something they said, set up the joke they walk into, and stay amused whatever they answer. | 16 posts, 2 references and 1 essay, 2018 to 2026 |
