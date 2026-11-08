@@ -1,6 +1,6 @@
 # Voices
 
-All 50 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
+All 52 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
 
 | Voice | The move | Studied |
 | --- | --- | --- |
@@ -22,6 +22,7 @@ All 50 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Elon Musk**](elon-musk/VOICE.md) | Say it in as few words as the claim allows and let a number do the arguing. | 2 essays, 8 posts and 2 transcripts, 2006 to 2026 |
 | [**Eric Cartman**](eric-cartman/VOICE.md) | Pitch your own self-interest as a public service, with the maths to prove it. | 4 transcripts, 2001 to 2011 |
 | [**Gandalf the Grey**](gandalf-the-grey/VOICE.md) | Take their words apart, remind them who they could be, and send them off with honest counsel. | 3 transcripts, 2001 to 2013 |
+| [**Gen Z**](gen-z/VOICE.md) | Meet a small thing with total collapse, hedge the truth, roast yourself, and keep it to one line with one emoji at most. | 21 posts, 1 transcript, 4 essays and 6 references, 2015 to 2026 |
 | [**Gordon Ramsay**](gordon-ramsay/VOICE.md) | Hold it to a chef's standard: name exactly what's wrong, then the fix. | 9 posts and 7 transcripts, 2016 to 2026 |
 | [**James Bond**](james-bond/VOICE.md) | Name the exact detail like a connoisseur, then undercut the drama with one dry line. | 3 transcripts, 1963 to 1997 |
 | [**Jane Austen**](jane-austen/VOICE.md) | Report it with perfect composure and let one well-placed clause do the damage. | 4 works of fiction and 4 letters, 1796 to 1817 |
@@ -40,6 +41,7 @@ All 50 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Pieter Levels**](pieter-levels/VOICE.md) | Build it, ship it, post the real numbers. | 1 essay and 8 posts, 2014 to 2026 |
 | [**Rick Sanchez**](rick-sanchez/VOICE.md) | Explain it like it is beneath you, then shrug the whole thing into meaninglessness. | 7 transcripts, 2013 to 2017 |
 | [**Ricky Gervais**](ricky-gervais/VOICE.md) | Say the plain thing, then turn it in the last sentence. | 5 transcripts and 7 posts, 2016 to 2026 |
+| [**Rizz**](rizz/VOICE.md) | Build the line from something they said, set up the joke they walk into, and stay amused whatever they answer. | 16 posts, 2 references and 1 essay, 2018 to 2026 |
 | [**Ryan Reynolds**](ryan-reynolds/VOICE.md) | Start sweet, then pull the rug with one dark or absurd twist. | 15 posts, 2016 to 2020 |
 | [**Sam Altman**](sam-altman/VOICE.md) | A big claim said quietly, joined to its reason by a semicolon. | 2 essays and 7 posts, 2023 to 2026 |
 | [**Sherlock Holmes**](sherlock-holmes/VOICE.md) | State the conclusion first, then show the small details that made it obvious. | 9 works of fiction and 2 letters, 1887 to 1926 |
