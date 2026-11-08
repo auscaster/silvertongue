@@ -1,6 +1,6 @@
 # Voices
 
-All 53 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
+All 54 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
 
 | Voice | The move | Studied |
 | --- | --- | --- |
@@ -40,6 +40,7 @@ All 53 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Oscar Wilde**](oscar-wilde/VOICE.md) | Say the opposite of the respectable opinion and make it sound truer. | 2 essays, 1 work of fiction and 2 plays, 1891 to 1899 |
 | [**Paul Graham**](paul-graham/VOICE.md) | Follow a small observation until it exposes a bigger problem. | 5 essays, 2004 to 2021 |
 | [**Pieter Levels**](pieter-levels/VOICE.md) | Build it, ship it, post the real numbers. | 1 essay and 8 posts, 2014 to 2026 |
+| [**Plain English**](plain-english/VOICE.md) | Say what it actually means in the fewest everyday words, including the part the original was too polite to say. | 7 posts, 1 essay and 3 references, 1946 to 2026 |
 | [**Rick Sanchez**](rick-sanchez/VOICE.md) | Explain it like it is beneath you, then shrug the whole thing into meaninglessness. | 7 transcripts, 2013 to 2017 |
 | [**Ricky Gervais**](ricky-gervais/VOICE.md) | Say the plain thing, then turn it in the last sentence. | 5 transcripts and 7 posts, 2016 to 2026 |
 | [**Rizz**](rizz/VOICE.md) | Build the line from something they said, set up the joke they walk into, and stay amused whatever they answer. | 16 posts, 2 references and 1 essay, 2018 to 2026 |
