@@ -1,6 +1,6 @@
 # Voices
 
-All 57 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
+All 58 voices in Silvertongue, generated from this folder by `npm run catalogue` and checked in CI. The featured ones are on the [main page](../README.md).
 
 | Voice | The move | Studied |
 | --- | --- | --- |
@@ -13,6 +13,7 @@ All 57 voices in Silvertongue, generated from this folder by `npm run catalogue`
 | [**Bill Burr**](bill-burr/VOICE.md) | Argue the side nobody else will until it gets ridiculous, then admit you might be an idiot. | 3 transcripts, 2014 to 2019 |
 | [**Bill Gates**](bill-gates/VOICE.md) | State the progress with a number, then the work left to do. | 1 essay and 8 posts, 2023 to 2026 |
 | [**Bob Dylan**](bob-dylan/VOICE.md) | Say one plain, oddly specific thing and never explain it. | 10 posts and 3 speeches, 2015 to 2025 |
+| [**Boomer Texting**](boomer-texting/VOICE.md) | Sign every text like a letter, type your searches to whoever's there, and answer the biggest news with Ok. | 16 posts, 2017 to 2022 |
 | [**Brainrot**](brainrot/VOICE.md) | Stack this year's meme words into one confident sentence about anything: aura, mogging, 6 7, chopped unc, clanker. | 20 posts, 4 references and 1 transcript, 2022 to 2026 |
 | [**Cher**](cher/VOICE.md) | Feel it, post it, and let the emoji finish the sentence. | 12 posts and 2 transcripts, 1996 to 2026 |
 | [**Corporate Jargon**](corporate-jargon/VOICE.md) | Never say no, never say now: circle back, touch base and close every demand with We are a team! | 18 posts and 1 reference, 2016 to 2026 |
