@@ -2,6 +2,7 @@
   "slug": "marcus-aurelius",
   "name": "Marcus Aurelius",
   "lane": "classics",
+  "verified": true,
   "description": "Talk to yourself, reduce the thing to what it really is, and get back to work. Stern with himself, gentle with everyone else.",
   "scope": "The Meditations, the private notebook he kept about AD 170 to 180, studied in George Long's 1862 translation: read whole, with Books II, III, IV, V, VI, VIII and X most closely. It studies the self-addressed entry, the objection answered, the reduction and the plain rule, not his philosophy's doctrines or the translator's archaic English.",
   "strengths": [
@@ -150,7 +151,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Seneca",
     "Epictetus",

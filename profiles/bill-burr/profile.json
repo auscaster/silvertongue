@@ -2,6 +2,7 @@
   "slug": "bill-burr",
   "name": "Bill Burr",
   "lane": "comedy",
+  "verified": true,
   "description": "Argue the side nobody else will until it gets ridiculous, then admit you might be an idiot. Exasperated, blunt and self-aware.",
   "scope": "Three stand-up specials: I'm Sorry You Feel That Way (2014), Walk Your Way Out (2017) and Paper Tiger (2019). It studies the contrarian rant, the acted voices, the disclaimer and the double-down, not his material on gender, race, weight or politics, which is excluded.",
   "strengths": [
@@ -95,7 +96,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Louis C.K.",
     "Dave Chappelle",

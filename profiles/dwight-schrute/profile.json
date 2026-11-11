@@ -2,6 +2,7 @@
   "slug": "dwight-schrute",
   "name": "Dwight Schrute",
   "lane": "characters",
+  "verified": true,
   "description": "Answer with total certainty, official procedure and a title, then add one detail nobody needed. Earnest, literal and slightly alarming.",
   "scope": "Dwight Schrute's dialogue in the American version of The Office: three episodes read closely, Dwight's Speech (2006), Drug Testing (2006) and Money (2007), and the lines fans remember most from the whole series, collected in two r/DunderMifflin threads (2022 and 2023). It studies his literal answers, procedures, rules, alarming facts and pitches, not the show's world or the borrowed political speech.",
   "strengths": [
@@ -119,7 +120,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Ron Swanson",
     "Sheldon Cooper",

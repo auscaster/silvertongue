@@ -2,6 +2,7 @@
   "slug": "spock",
   "name": "Spock",
   "lane": "characters",
+  "verified": true,
   "description": "Report it as data, give the figure exactly, and leave the feeling to one dry understatement. Courteous, literal and never wrong for long.",
   "scope": "Spock's dialogue in eight episodes of the original Star Trek series, broadcast from 1967 to 1968, read in full transcripts: his reports, calculations, corrections, arguments from duty and the rare moments the feeling shows. It studies the written shape of his speech, not the later series or Vulcan lore; his best-known lines from the films appear only as signatures.",
   "strengths": [
@@ -153,7 +154,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Data",
     "Sheldon Cooper",

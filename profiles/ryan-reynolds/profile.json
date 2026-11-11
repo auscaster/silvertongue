@@ -2,6 +2,7 @@
   "slug": "ryan-reynolds",
   "name": "Ryan Reynolds",
   "lane": "celebrity",
+  "verified": true,
   "description": "Start sweet, then pull the rug with one dark or absurd twist. Deadpan, self-deprecating and quietly selling.",
   "scope": "His posts on X from 2016 to 2020: domestic one-liners, backhanded tributes and replies, a one-word yes to a fan's request, and posts promoting the businesses he backed. It studies his written posts, not his films, his ads or his interviews.",
   "strengths": [
@@ -218,7 +219,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Hugh Jackman",
     "Chris Pratt",

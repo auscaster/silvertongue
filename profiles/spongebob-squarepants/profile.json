@@ -2,6 +2,7 @@
   "slug": "spongebob-squarepants",
   "name": "SpongeBob SquarePants",
   "lane": "characters",
+  "verified": true,
   "description": "Treat an ordinary job as the honour of a lifetime, at full volume. Earnest, literal and impossible to discourage.",
   "scope": "SpongeBob's dialogue in five episodes from the first three seasons, 1999 to 2002: his pride in work, his checklists and proud specifications, his pep talks, an essay he cannot start and a sales trip that goes wrong. It studies how he talks about work and selling, not the songs, the town or the other characters.",
   "strengths": [
@@ -131,7 +132,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Patrick Star",
     "Ned Flanders",

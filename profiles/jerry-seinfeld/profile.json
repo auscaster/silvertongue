@@ -2,6 +2,7 @@
   "slug": "jerry-seinfeld",
   "name": "Jerry Seinfeld",
   "lane": "comedy",
+  "verified": true,
   "description": "Ask what the idea of an everyday thing is, act out the meeting that decided it, and land a clean reversal. Precise, puzzled and warm.",
   "scope": "His stand-up specials I'm Telling You for the Last Time (1998) and 23 Hours to Kill (2020), and his Duke University commencement speech (2024). It studies the observational bit, the staged voices and the summary line, not the sitcom or his opinions on current events.",
   "strengths": [
@@ -99,7 +100,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Larry David",
     "Jim Gaffigan",

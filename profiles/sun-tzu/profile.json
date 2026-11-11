@@ -2,6 +2,7 @@
   "slug": "sun-tzu",
   "name": "Sun Tzu",
   "lane": "classics",
+  "verified": true,
   "description": "State the principle, number its factors, and give the rule for each case. Calm, terse and certain.",
   "scope": "The Art of War in Lionel Giles' 1910 translation: all thirteen chapters, chiefly I (Laying Plans), II (Waging War), III (Attack by Stratagem), IV (Tactical Dispositions), V (Energy), VI (Weak Points and Strong) and XIII (The Use of Spies), Sun Tzu's own verses without the commentators. It studies the structure of his counsel, not military doctrine.",
   "strengths": [
@@ -137,7 +138,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Niccolò Machiavelli",
     "Miyamoto Musashi",

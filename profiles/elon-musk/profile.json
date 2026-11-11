@@ -3,6 +3,7 @@
   "name": "Elon Musk",
   "lane": "tech",
   "featured": 7,
+  "verified": true,
   "description": "Say it in as few words as the claim allows and let a number do the arguing. Dry, certain, faintly amused.",
   "scope": "His X posts from April to October 2026, the two Tesla master plans (2006 and 2016), and how he talks: the Starbase tour with Everyday Astronaut (2021) and SXSW (2013). It studies posts, replies, plan-style explanations and his spoken deadpan, not earnings calls or politics.",
   "strengths": [
@@ -171,7 +172,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Kanye West",
     "Mark Zuckerberg",

@@ -12,7 +12,7 @@ An open catalogue of famous writing voices for your agent and your browser.<br>
 Pick a voice. Switch any time. Keep your point.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/auscaster/silvertongue/ci.yml?branch=main&style=flat-square&label=ci&labelColor=111&color=111)](https://github.com/auscaster/silvertongue/actions/workflows/ci.yml)
-[![Format: VOICE.md v3](https://img.shields.io/badge/format-VOICE.md%20v3-111?style=flat-square)](spec/voice/v3/README.md)
+[![Format: VOICE.md v0 (experimental)](https://img.shields.io/badge/format-VOICE.md%20v0%20%28experimental%29-111?style=flat-square)](spec/voice/v0/README.md)
 [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-111?style=flat-square)](LICENSE)
 [![Profiles: CC BY 4.0](https://img.shields.io/badge/profiles-CC%20BY%204.0-111?style=flat-square)](PROFILE-LICENSE.md)
 
@@ -90,7 +90,9 @@ Ask a chatbot to "write like" someone famous and you get an impression from memo
 
 ## The catalogue
 
-Founders and builders, creators, stars, comedians, famous characters, essayists, classic writers and politicians, admitted one pull request at a time. Each voice is a folder in [`profiles/`](profiles): a `VOICE.md` that an agent reads, and a `profile.json` with its scope, limits and sources.
+Founders and builders, creators, stars, comedians, famous characters, essayists, classic writers and politicians, added one pull request at a time. Each voice is a folder in [`profiles/`](profiles): a `VOICE.md` that an agent reads, and a `profile.json` with its scope, limits, sources and verification status.
+
+Community profiles can merge here before verification. Only voices with `verified: true`, approved against the blind-test quality bar, appear in the app, MCP and extension catalogue.
 
 <!-- catalogue:start -->
 | Voice | The move | Studied |
@@ -104,7 +106,7 @@ Founders and builders, creators, stars, comedians, famous characters, essayists,
 | [**Theo Von**](profiles/theo-von/VOICE.md) | Say what a thing really is in one absurd comparison, then take it somewhere darker. | 24 posts and 1 transcript, 2015 to 2026 |
 | [**William Shakespeare**](profiles/william-shakespeare/VOICE.md) | Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. | 5 plays and 1 poem, 1604 to 1623 |
 
-Featured voices. All 50 are listed in [`profiles/`](profiles/README.md).
+Featured voices. All 50 public profiles are listed in [`profiles/`](profiles/README.md).
 <!-- catalogue:end -->
 
 <sub>Generated from <code>profiles/</code> with <code>npm run catalogue</code> and checked in CI.</sub>
@@ -113,7 +115,7 @@ Featured voices. All 50 are listed in [`profiles/`](profiles/README.md).
 <summary><b>What's inside a voice</b></summary>
 <br>
 
-`VOICE.md` has nine parts, defined by the [VOICE.md v3 format](spec/voice/v3/README.md):
+`VOICE.md` has nine parts, defined by the [VOICE.md v0 format](spec/voice/v0/README.md):
 
 | Part | What it captures |
 | --- | --- |
@@ -137,7 +139,7 @@ Featured voices. All 50 are listed in [`profiles/`](profiles/README.md).
 | **Claude Code and Codex** | `claude plugin marketplace add auscaster/agent-plugins`, then `claude plugin install silvertongue@auscaster` (or `codex plugin add silvertongue@auscaster`) | Now |
 | **Gemini CLI** | `gemini extensions install https://github.com/auscaster/silvertongue` | Now |
 | **Any MCP client** | `https://mcp.silvertongue.dev/mcp`, with voice switching mid-thread | Now |
-| **Your browser** | An extension for Chrome, Edge, Firefox and Safari that writes in any compose box | Next |
+| **Your browser** | [Get the browser extensions](https://silvertongue.dev/#get) and rewrite in the text box where you work | Now |
 
 Start now with any voice:
 
@@ -158,7 +160,7 @@ git clone https://github.com/auscaster/silvertongue && cd silvertongue
 npm ci && npm run verify
 ```
 
-Add `profiles/<slug>/VOICE.md` and `profile.json`, run `npm run catalogue && npm run verify`, and open a pull request. [Writing a voice](spec/voice/v3/GUIDE.md) is how to make one good and the bar it has to pass; [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
+Add `profiles/<slug>/VOICE.md` and `profile.json`, run `npm run catalogue && npm run verify`, and open a pull request. [Writing a voice](spec/voice/v0/GUIDE.md) is how to make one good and the bar it has to pass; [CONTRIBUTING.md](CONTRIBUTING.md) has the rest.
 
 ## Remove or correct a voice
 

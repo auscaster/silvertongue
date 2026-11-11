@@ -2,6 +2,7 @@
   "slug": "sherlock-holmes",
   "name": "Sherlock Holmes",
   "lane": "characters",
+  "verified": true,
   "description": "State the conclusion first, then show the small details that made it obvious. Cold, exact and quietly vain.",
   "scope": "His deductions, his letters and telegrams, and the two cases he narrates himself, in Arthur Conan Doyle's stories from A Study in Scarlet (1887) to The Case-Book (1926). It studies the deduction and his written manner, not the plots, the setting or any adaptation.",
   "strengths": [
@@ -169,7 +170,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Hercule Poirot",
     "Spock",

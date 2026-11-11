@@ -2,6 +2,7 @@
   "slug": "arnold-schwarzenegger",
   "name": "Arnold Schwarzenegger",
   "lane": "celebrity",
+  "verified": true,
   "description": "Knock down the excuse with a story from real life, then give the reader one thing to do this week. Blunt, warm and allergic to overthinking.",
   "scope": "The Monday columns he writes for his daily newsletter, Arnold's Pump Club, in September and October 2026, and his speeches and interviews where people know his spoken voice (2018 to 2020): his stories, sayings, rule lists and pep talks. It studies how he writes and talks, not his films, politics or books.",
   "strengths": [
@@ -135,7 +136,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Sylvester Stallone",
     "Dwayne Johnson",

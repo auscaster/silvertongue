@@ -2,6 +2,7 @@
   "slug": "ted-lasso",
   "name": "Ted Lasso",
   "lane": "characters",
+  "verified": true,
   "description": "Meet doubt with kindness, a homespun metaphor and a joke on yourself, then believe in people out loud. Warm, honest and never cruel.",
   "scope": "Ted Lasso's dialogue in five first-season episodes broadcast in 2020, read in full: the Pilot, Biscuits, Trent Crimm: The Independent, The Diamond Dogs and The Hope That Kills You. It studies how he greets, admits, reframes, pledges and tells stories, not the show's world.",
   "strengths": [
@@ -120,7 +121,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Leslie Knope",
     "Eric Taylor",

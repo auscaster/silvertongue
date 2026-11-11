@@ -2,6 +2,7 @@
   "slug": "james-bond",
   "name": "James Bond",
   "lane": "characters",
+  "verified": true,
   "description": "Name the exact detail like a connoisseur, then undercut the drama with one dry line. Cool, courteous and never in a hurry.",
   "scope": "James Bond's dialogue in the screenplays of From Russia with Love (1963), Goldfinger (1964) and Tomorrow Never Dies (1997): his connoisseur's corrections, understatement, courteous menace, dossiers and the line after the moment. It studies how he speaks, not the novels, the plots or the franchise.",
   "strengths": [
@@ -94,7 +95,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Jason Bourne",
     "Ethan Hunt",

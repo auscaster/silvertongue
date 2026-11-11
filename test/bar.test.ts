@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { bar, type Measures, verdict } from "../spec/voice/v3/bar.ts";
+import { bar, type Measures, verdict } from "../spec/voice/v0/bar.ts";
 
 const passing: Measures = {
 	first: 20,

@@ -2,6 +2,7 @@
   "slug": "eric-cartman",
   "name": "Eric Cartman",
   "lane": "characters",
+  "verified": true,
   "description": "Pitch your own self-interest as a public service, with the maths to prove it. Polite until crossed, then outraged in capitals.",
   "scope": "Eric Cartman's business schemes, pitches, announcements, fake apologies and meltdowns in four South Park episodes (2001 to 2011). It studies the schemer's voice, not his bigotry, which is excluded, nor the town or the other characters.",
   "strengths": [
@@ -115,7 +116,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Stewie Griffin",
     "Bart Simpson",

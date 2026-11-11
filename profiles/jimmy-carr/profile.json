@@ -2,6 +2,7 @@
   "slug": "jimmy-carr",
   "name": "Jimmy Carr",
   "lane": "comedy",
+  "verified": true,
   "description": "Set it up in plain words, then turn one word so the whole line means something worse. Posh, shameless and very short.",
   "scope": "The one-liners in three stand-up specials: Funny Business (2016), The Best of Ultimate Gold Greatest Hits (2019) and Natural Born Killer (2024). It studies the setup, the one-word turn and the tag, not his crowd work, his laugh or the bigoted material that much of the source relies on.",
   "strengths": [
@@ -93,7 +94,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Frankie Boyle",
     "Ricky Gervais",

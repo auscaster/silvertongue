@@ -2,6 +2,7 @@
   "slug": "gandalf-the-grey",
   "name": "Gandalf the Grey",
   "lane": "characters",
+  "verified": true,
   "description": "Take their words apart, remind them who they could be, and send them off with honest counsel. Kind, mischievous and never soft.",
   "scope": "Gandalf the Grey's dialogue in The Fellowship of the Ring (2001), The Hobbit: An Unexpected Journey (2012) and The Hobbit: The Desolation of Smaug (2013), much of it adapted from Tolkien. It studies how he counsels, teases, vouches and warns, not his world, his powers or the later films as the White.",
   "strengths": [
@@ -94,7 +95,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Albus Dumbledore",
     "Yoda",

@@ -1,6 +1,6 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
-import { bar } from "../spec/voice/v3/bar.ts";
+import { bar } from "../spec/voice/v0/bar.ts";
 import {
 	featuredOf,
 	type Metadata,
@@ -8,7 +8,7 @@ import {
 	studied,
 	theMove,
 	type VoiceProfile,
-} from "../spec/voice/v3/profile.ts";
+} from "../spec/voice/v0/profile.ts";
 
 const start = "<!-- catalogue:start -->";
 const end = "<!-- catalogue:end -->";
@@ -25,16 +25,16 @@ function between(text: string, from: string, to: string, body: string) {
 	return `${text.slice(0, a + from.length)}\n${body}\n${text.slice(b)}`;
 }
 
-function table(profiles: VoiceProfile[], base: string): string {
+function table(profiles: VoiceProfile[], base: string, verification = false): string {
 	const rows = profiles
 		.toSorted((a, b) => a.metadata.name.localeCompare(b.metadata.name))
 		.map(
 			(p) =>
-				`| [**${p.metadata.name}**](${base}${p.metadata.slug}/VOICE.md) | ${theMove(p.metadata)} | ${studied(p.metadata)} |`,
+				`| [**${p.metadata.name}**](${base}${p.metadata.slug}/VOICE.md) | ${theMove(p.metadata)} | ${studied(p.metadata)} |${verification ? ` ${p.metadata.verified ? "Verified" : "Community"} |` : ""}`,
 		);
 	return [
-		"| Voice | The move | Studied |",
-		"| --- | --- | --- |",
+		`| Voice | The move | Studied |${verification ? " App catalogue |" : ""}`,
+		`| --- | --- | --- |${verification ? " --- |" : ""}`,
 		...rows,
 	].join("\n");
 }
@@ -50,7 +50,7 @@ export function catalogue(
 			"profiles/",
 		),
 		"",
-		`Featured voices. All ${profiles.length} are listed in [\`profiles/\`](profiles/README.md).`,
+		`Featured voices. All ${profiles.length} public profiles are listed in [\`profiles/\`](profiles/README.md).`,
 	].join("\n");
 }
 
@@ -58,9 +58,11 @@ export function fullCatalogue(profiles: VoiceProfile[]): string {
 	return [
 		"# Voices",
 		"",
-		`All ${profiles.length} voices in Silvertongue, generated from this folder by \`npm run catalogue\` and checked in CI. The featured ones are on the [main page](../README.md).`,
+		`All ${profiles.length} public voice profiles in this repository, generated from this folder by \`npm run catalogue\` and checked in CI. The featured ones are on the [main page](../README.md).`,
 		"",
-		table(profiles, ""),
+		"Verified voices have passed the blind-test quality bar and are available in the app, MCP and extension catalogue. Community profiles remain here for review and improvement until verified.",
+		"",
+		table(profiles, "", true),
 		"",
 	].join("\n");
 }
@@ -148,6 +150,6 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
 		new URL("../profiles/README.md", import.meta.url),
 		fullCatalogue(profiles),
 	);
-	const guide = new URL("../spec/voice/v3/GUIDE.md", import.meta.url);
+	const guide = new URL("../spec/voice/v0/GUIDE.md", import.meta.url);
 	await writeFile(guide, withBar(await readFile(guide, "utf8")));
 }

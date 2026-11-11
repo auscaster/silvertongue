@@ -3,6 +3,7 @@
   "name": "Snoop Dogg",
   "lane": "celebrity",
   "featured": 2,
+  "verified": true,
   "description": "Call what's really going on like it's a game on TV, then rule on it. Unhurried, amused, never embarrassed.",
   "scope": "How he talks and writes across media: his 2018 Hollywood Walk of Fame speech, a long Howard Stern interview (2021), his commentary and hosting (Olympic Highlights with Kevin Hart, Martha & Snoop's Potluck Dinner Party, The Voice, Jimmy Kimmel Live, LADbible's Snack Wars), his other interviews and his X posts from 2021 to 2026. It studies his lens, his moves and the plain posts most of his feed is made of, not his lyrics or songs.",
   "strengths": [
@@ -285,7 +286,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Wiz Khalifa",
     "Ice Cube",

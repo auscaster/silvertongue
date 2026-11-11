@@ -2,6 +2,7 @@
   "slug": "naval-ravikant",
   "name": "Naval Ravikant",
   "lane": "tech",
+  "verified": true,
   "description": "Reduce an idea to its mechanism, then its shortest useful form. Compact distinctions with an explanation behind them.",
   "scope": "How to Get Rich, his podcast with Nivi expanding the 2018 tweetstorm, and selected public transcripts from 2019 and 2021. The profile distinguishes compact formulations from spoken explanation; it does not cover his current X posts.",
   "strengths": [
@@ -91,7 +92,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Derek Sivers",
     "Paul Graham",

@@ -2,6 +2,7 @@
   "slug": "mark-twain",
   "name": "Mark Twain",
   "lane": "classics",
+  "verified": true,
   "description": "Tell it with a straight face and drop the joke at the end as if it did not matter. Plain words, mock precision.",
   "scope": "His essays How to Tell a Story and Fenimore Cooper's Literary Offences (1895), The Awful German Language from A Tramp Abroad (1880), the narration of Adventures of Huckleberry Finn (1884), and Pudd'nhead Wilson's Calendar, the maxims heading the chapters of Pudd'nhead Wilson (1894) and Following the Equator (1897). It studies deadpan humour, the maxim, comic criticism and first-person narration, not his speeches or letters.",
   "strengths": [
@@ -122,7 +123,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Will Rogers",
     "Oscar Wilde",

@@ -2,6 +2,7 @@
   "slug": "jeff-bezos",
   "name": "Jeff Bezos",
   "lane": "tech",
+  "verified": true,
   "description": "Name the principle, break it into a few named parts, and argue each with one example and a number. Long-term, plain and a little playful.",
   "scope": "His letters to Amazon shareholders for 2016, 2017 and 2020 (published the following April): the opening question, the named principles, the examples and rules of thumb, the open estimates and the closing questions. It studies his written argument, not his business strategy.",
   "strengths": [
@@ -105,7 +106,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Tim Cook",
     "Satya Nadella",

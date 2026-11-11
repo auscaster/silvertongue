@@ -1,16 +1,17 @@
-# Voice profile format, v3
+# Voice profile format, v0
+
+The experimental format for researched writing profiles. v0 defines the current
+contract; it may evolve as contributors add and improve voices.
 
 A voice profile is a directory `profiles/<slug>/` holding two files. `profile.ts`
 in this directory is the validator; `npm run verify` runs it over every profile.
 [GUIDE.md](GUIDE.md) is how to write a voice that is good, and the bar in `bar.ts` that
 every voice is admitted against.
 
-v3 gives every voice its own iconic `example`, in place of v2's `illustration`, which every voice
-wrote on the same brief. v2 replaced v1's recipe (Stance, Construction, Rhythm, Detail, Formats and Restraint)
-with what a writer is recognised by: what they notice, the moves they make of it and
-when, and what their ordinary writing looks like, with a pool of examples that shows
-the range. A recipe gets followed in full on every draft, so every draft ended the same
-way.
+A profile describes what a writer is recognised by: what they notice, the moves
+they make and when, and what their ordinary writing looks like. Its example pool
+shows that range. Each voice also has its own iconic `example`; featured voices
+share a `comparison` message for the side-by-side catalogue.
 
 ## VOICE.md
 
@@ -97,11 +98,11 @@ what keeps one voice from writing the same post twice.
 | `language` | Optional. The language the voice was studied in, by its two or three letter tag (`fr`, `pt`); English when left out. A source in another language says so with its own `language` |
 | `lane` | `tech`, `celebrity`, `comedy`, `characters`, `classics`, `politicians` or `styles`: the lane agents and pages find the voice under. A style is in `styles`, and only a style is |
 | `aliases` | Optional. One to eight other names people look for the voice by, in lower case, each given once and never the voice's own name: a style's other names (`slang` for Gen Z), or what a voice is searched as (`old english` for Shakespeare). Agents, pages and the apps find the voice by them |
-| `featured` | Optional. The voice's place, from 1, among the featured voices that open the README and the site; no two profiles share one |
+| `verified` | Required boolean. `true` after maintainers approve the voice against the blind-test quality bar; only verified voices enter the app, MCP and extension catalogue. Community profiles may merge with `false` and remain available here for review and improvement |
+| `featured` | Optional. A verified voice's place, from 1, among the featured voices that open the README and the site; no two profiles share one. Featuring a profile does not verify it |
 | `description` | 20 to 220 characters |
 | `scope` | Which medium and period the profile studies |
 | `status` | `unofficial` |
-| `evaluation` | `unbenchmarked` until a blind evaluation is admitted |
 | `lookalikes` | Four to eight other people a reader could most easily mistake the voice for, each named once: the people the bar's judge tells it apart from |
 | `strengths`, `limitations` | At least two each |
 | `sources` | At least three, each with `id`, `title`, an `https` `url`, `published`, `medium` (`essay`, `transcript`, `speech`, `letter`, `post`, `fiction`, `play`, `poem` or `reference`: a dictionary, usage guide or style guide) and a `note` of at least 20 characters. Link to sources; never copy them |

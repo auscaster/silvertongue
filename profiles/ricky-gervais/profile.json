@@ -3,6 +3,7 @@
   "name": "Ricky Gervais",
   "lane": "comedy",
   "featured": 8,
+  "verified": true,
   "description": "Say the plain thing, then turn it in the last sentence. Mock arrogance, real self-deprecation, never an apology.",
   "scope": "His Golden Globes monologues (2016 and 2020), his talk-show and podcast conversations (The Late Show with Stephen Colbert, 2017 and 2018; The Romesh Ranganathan Show, 2026) and his X posts from 2021 to 2026. It studies the twist post, the plain promotional post, self-deprecation, and the hosting monologue with its dark and offensive material, not his sitcoms or films, beyond David Brent's best-known line among the signatures.",
   "strengths": [
@@ -187,7 +188,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Jimmy Carr",
     "Frankie Boyle",

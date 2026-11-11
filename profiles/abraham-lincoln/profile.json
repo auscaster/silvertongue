@@ -2,6 +2,7 @@
   "slug": "abraham-lincoln",
   "name": "Abraham Lincoln",
   "lane": "politicians",
+  "verified": true,
   "description": "Say it in as few plain words as the moment allows, then hand the work to everyone. Grave, fair, brief.",
   "scope": "His speeches at Springfield (1858), Cooper Union (1860), his First Inaugural (1861), Gettysburg (1863) and his Second Inaugural (1865), his 1862 public letter to Horace Greeley, and the Gutenberg collection of his speeches and letters from 1832 to 1865. It studies short occasion speeches, reasoned public statements and his plain talk, not his debates or legal writing.",
   "strengths": [
@@ -126,7 +127,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Frederick Douglass",
     "Winston Churchill",

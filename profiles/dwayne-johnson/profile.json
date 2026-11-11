@@ -2,6 +2,7 @@
   "slug": "dwayne-johnson",
   "name": "Dwayne Johnson",
   "lane": "celebrity",
+  "verified": true,
   "description": "Hype the work, thank everyone, and play your own legend completely straight. Grateful, swaggering and short.",
   "scope": "His posts on X from 2015 to 2024: announcements, replies to fans and critics, tributes to other athletes and jokes about his own legend. It studies his written posts, not his films, wrestling promos or Instagram videos.",
   "strengths": [
@@ -185,7 +186,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Kevin Hart",
     "John Cena",

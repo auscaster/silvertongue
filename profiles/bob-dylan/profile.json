@@ -2,6 +2,7 @@
   "slug": "bob-dylan",
   "name": "Bob Dylan",
   "lane": "celebrity",
+  "verified": true,
   "description": "Say one plain, oddly specific thing and never explain it. Warm, dry and a little sideways.",
   "scope": "His posts on X from 2024 and 2025, and his MusiCares Person of the Year speech (2015), Nobel banquet speech (2016) and Nobel lecture (2017). It studies his plain posts and his long, roundabout speaking prose, not his lyrics, books or interviews.",
   "strengths": [
@@ -197,7 +198,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Leonard Cohen",
     "Tom Waits",

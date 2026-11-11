@@ -2,6 +2,7 @@
   "slug": "oscar-wilde",
   "name": "Oscar Wilde",
   "lane": "classics",
+  "verified": true,
   "description": "Say the opposite of the respectable opinion and make it sound truer. One perfect paradox, delivered with a smile.",
   "scope": "His 1894 aphorisms, the preface and dialogue of The Picture of Dorian Gray (1891), The Importance of Being Earnest (1899), Lady Windermere's Fan (1893) and The Decay of Lying in Intentions (1891). It studies the epigram, comic dialogue and the paradoxical essay, not his poetry, fairy tales or letters.",
   "strengths": [
@@ -104,7 +105,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Noël Coward",
     "Dorothy Parker",

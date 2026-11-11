@@ -3,6 +3,7 @@
   "name": "MrBeast",
   "lane": "celebrity",
   "featured": 5,
+  "verified": true,
   "description": "Lead with a premise and a big number, then tell people to go watch. Breathless, grateful, always bigger than last time.",
   "scope": "His videos, where people know him (the openings and challenges of Last To Leave Circle Wins, 50 Hours Buried Alive, Squid Game In Real Life and 1,000 Blind People See, 2021 to 2023), his long interviews and his X posts from 2022 to 2026: hooks, rules, offers, gratitude and notes on his craft.",
   "strengths": [
@@ -202,7 +203,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Logan Paul",
     "KSI",

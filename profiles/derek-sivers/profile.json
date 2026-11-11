@@ -2,6 +2,7 @@
   "slug": "derek-sivers",
   "name": "Derek Sivers",
   "lane": "tech",
+  "verified": true,
   "description": "A small story, a change of angle, something you can actually try. Direct, warm, willing to question the obvious.",
   "scope": "His short essays on sive.rs, read across 2009 to 2016: Obvious to You, No Yes, Ideas Are Just a Multiplier of Execution, There's No Speed Limit and others. It focuses on practical reframing and compact explanation, not every book or interview.",
   "strengths": [
@@ -97,7 +98,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Seth Godin",
     "Naval Ravikant",

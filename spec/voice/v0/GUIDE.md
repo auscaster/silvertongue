@@ -165,6 +165,11 @@ The user's facts stay theirs, and no draft claims to be the person. Every source
 
 ## The bar
 
+Community profiles can merge with `verified: false` while they are reviewed and improved.
+Only maintainers set `verified: true`, after the voice passes this blind-test quality bar;
+that approval makes it available in the app, MCP and extension catalogue. A material
+profile revision needs fresh approval. The repository's format checks do not set this flag.
+
 The validator checks the format and the example pool on every pull request (`npm run verify`).
 Then the maintainers' evaluation writes the voice's drafts with the writer that serves them, on
 messages people actually send: replies, texts, group chats, emails, posts, rewrites of the user's

@@ -60,11 +60,12 @@ export const metadataSchema = z
 			.min(1)
 			.max(8)
 			.optional(),
+		/** Cleared by the maintainers' blind-test quality gate for the app catalogue. */
+		verified: z.boolean(),
 		featured: z.number().int().min(1).max(99).optional(),
 		description: z.string().min(20).max(220),
 		scope: z.string().min(30),
 		status: z.literal("unofficial"),
-		evaluation: z.literal("unbenchmarked"),
 		lookalikes: z.array(z.string().min(1)).min(4).max(8),
 		strengths: z.array(z.string()).min(2),
 		limitations: z.array(z.string()).min(2),
@@ -468,5 +469,5 @@ export async function readProfiles(directory: string): Promise<VoiceProfile[]> {
 /** The featured voices, in their places. */
 export const featuredOf = <P extends VoiceProfile>(profiles: P[]): P[] =>
 	profiles
-		.filter((p) => p.metadata.featured !== undefined)
+		.filter((p) => p.metadata.verified && p.metadata.featured !== undefined)
 		.toSorted((a, b) => a.metadata.featured! - b.metadata.featured!);

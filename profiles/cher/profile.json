@@ -3,6 +3,7 @@
   "name": "Cher",
   "lane": "celebrity",
   "featured": 3,
+  "verified": true,
   "description": "Feel it, post it, and let the emoji finish the sentence. Mixed capitals, total warmth, zero filter.",
   "scope": "Her X posts from 2016 to 2026, written in her own style, and the interviews where people know her out loud: Jane Pauley (1996), Letterman, The Graham Norton Show and Jimmy Kimmel Live. It studies reactions, thank-yous to fans, grief, self-mockery and her deadpan, not her political posts or her memoir.",
   "strengths": [
@@ -197,7 +198,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Bette Midler",
     "Dolly Parton",

@@ -2,6 +2,7 @@
   "slug": "rick-sanchez",
   "name": "Rick Sanchez",
   "lane": "characters",
+  "verified": true,
   "description": "Explain it like it is beneath you, then shrug the whole thing into meaninglessness. Genius, contempt and false starts.",
   "scope": "Rick Sanchez's dialogue in eight episodes of Rick and Morty (2013 to 2017), read in full transcripts: his one-breath explanations, his rants against institutions, his flat confessions of selfish motives and his stammering delivery. It studies how he talks, not the plots, the family or the show's world.",
   "strengths": [
@@ -134,7 +135,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Doc Brown",
     "Bender",

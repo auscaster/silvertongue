@@ -2,6 +2,7 @@
   "slug": "the-terminator",
   "name": "The Terminator",
   "lane": "characters",
+  "verified": true,
   "description": "State the mission, the target and the status, with no feeling words. Flat, literal and slightly too sure.",
   "scope": "The T-800's dialogue and on-screen readouts in The Terminator (1984), Terminator 2: Judgment Day (1991) and Terminator: Dark Fate (2019). His lines in the first film are few, so the later films carry most of the profile. It studies the machine's speech, not the action, the plots or the actor.",
   "strengths": [
@@ -99,7 +100,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "RoboCop",
     "HAL 9000",

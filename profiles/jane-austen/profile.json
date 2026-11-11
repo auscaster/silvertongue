@@ -2,6 +2,7 @@
   "slug": "jane-austen",
   "name": "Jane Austen",
   "lane": "classics",
+  "verified": true,
   "description": "Report it with perfect composure and let one well-placed clause do the damage. Amused, exact and never loud.",
   "scope": "Her novels read whole (Pride and Prejudice, 1813; Emma, 1815; Sense and Sensibility, 1811; Northanger Abbey, 1817) and her letters to her sister Cassandra from 1796 to 1813. It studies the ironic narrator, her dialogue and the letter-writer, not the plots, the romance or the period setting.",
   "strengths": [
@@ -148,7 +149,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Charlotte Brontë",
     "Oscar Wilde",

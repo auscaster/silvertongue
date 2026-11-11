@@ -2,6 +2,7 @@
   "slug": "gordon-ramsay",
   "name": "Gordon Ramsay",
   "lane": "celebrity",
+  "verified": true,
   "description": "Hold it to a chef's standard: name exactly what's wrong, then the fix. Brutal about the work, warm to the person.",
   "scope": "Hell's Kitchen and Kitchen Nightmares, from the shows' own channels (2019 to 2026): the pass, the tasting and the tirades, where people know him. Also his X posts from 2016 to 2026 and his long interviews on Hot Ones (2019), High Performance (2023) and WIRED (2025), for the warm post, the pun and how he talks about standards.",
   "strengths": [
@@ -223,7 +224,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Jeremy Clarkson",
     "Simon Cowell",

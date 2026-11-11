@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import { test } from "node:test";
 import { fullCatalogue, render, withBar } from "../scripts/catalogue.ts";
-import { readProfiles } from "../spec/voice/v3/profile.ts";
+import { readProfiles } from "../spec/voice/v0/profile.ts";
 
 const profiles = await readProfiles(
 	new URL("../profiles", import.meta.url).pathname,
@@ -32,9 +32,28 @@ test("profiles/README.md lists every profile", async () => {
 	);
 });
 
+test("the public catalogue lists pending community profiles without featuring them", () => {
+	const featured = profiles.find((p) => p.metadata.featured !== undefined)!;
+	const pending = {
+		...featured,
+		metadata: { ...featured.metadata, verified: false },
+	};
+	const list = fullCatalogue([pending]);
+	assert.ok(list.includes(`(${pending.metadata.slug}/VOICE.md)`));
+	assert.match(list, /\| Community \|/);
+	const others = profiles.filter(
+		(p) => p.metadata.slug !== pending.metadata.slug,
+	);
+	const demo = render(
+		"<!-- catalogue:start -->\n<!-- catalogue:end -->\n<!-- demo:start -->\n<!-- demo:end -->",
+		[...others, pending],
+	);
+	assert.ok(!demo.includes(`profiles/${pending.metadata.slug}/VOICE.md`));
+});
+
 test("GUIDE.md states the bar bar.ts applies", async () => {
 	const guide = await readFile(
-		new URL("../spec/voice/v3/GUIDE.md", import.meta.url),
+		new URL("../spec/voice/v0/GUIDE.md", import.meta.url),
 		"utf8",
 	);
 	assert.equal(withBar(guide), guide, "Run npm run catalogue to regenerate the bar in GUIDE.md.");

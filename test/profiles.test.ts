@@ -3,13 +3,14 @@ import { test } from "node:test";
 import {
 	endingOf,
 	examplesOf,
+	featuredOf,
 	openingOf,
 	readProfiles,
 	section,
 	signaturesOf,
 	metadataSchema,
 	validateProfile,
-} from "../spec/voice/v3/profile.ts";
+} from "../spec/voice/v0/profile.ts";
 
 const directory = new URL("../profiles", import.meta.url).pathname;
 const profiles = await readProfiles(directory);
@@ -17,6 +18,32 @@ const profiles = await readProfiles(directory);
 test("every profile in profiles/ validates", () => {
 	assert.ok(profiles.length > 0);
 	for (const p of profiles) assert.ok(p.metadata.slug);
+});
+
+test("community profiles require an explicit verification decision and can remain unverified", () => {
+	const { metadata, voice } = profiles[0];
+	assert.equal(
+		validateProfile({ ...metadata, verified: false }, voice).metadata.verified,
+		false,
+	);
+	const { verified: _, ...missing } = metadata;
+	assert.throws(() => validateProfile(missing, voice));
+	assert.throws(() =>
+		validateProfile({ ...metadata, verified: "true" }, voice),
+	);
+	assert.throws(() =>
+		validateProfile({ ...metadata, evaluation: "unbenchmarked" }, voice),
+	);
+});
+
+test("a featured place never bypasses verification", () => {
+	const featured = profiles.find((p) => p.metadata.featured !== undefined)!;
+	const pending = validateProfile(
+		{ ...featured.metadata, verified: false },
+		featured.voice,
+	);
+	assert.deepEqual(featuredOf([pending]), []);
+	assert.deepEqual(featuredOf([featured]), [featured]);
 });
 
 test("rejects a VOICE.md without a required section", () => {

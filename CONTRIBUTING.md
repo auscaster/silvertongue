@@ -4,7 +4,7 @@
 
 ```
 profiles/<slug>/   one voice: VOICE.md (the voice) and profile.json (its sources and observations)
-spec/voice/v3/     the profile format, as a contract
+spec/voice/v0/     the experimental profile format and validator
 scripts/           the catalogue table in the README, generated from the profiles
 test/              the validator and catalogue tests
 assets/            the mark and wordmark
@@ -42,13 +42,17 @@ CI runs the same checks.
 ## Adding or correcting a voice
 
 Each voice is `profiles/<slug>/VOICE.md` plus `profile.json`, in the
-[v3 format](spec/voice/v3/README.md). [Writing a voice](spec/voice/v3/GUIDE.md) is how to
+[v0 format](spec/voice/v0/README.md). [Writing a voice](spec/voice/v0/GUIDE.md) is how to
 make one good, who can be a voice, and the bar every voice is held to.
 
-`npm run verify` checks the format and the example pool. Maintainers then run the
-evaluation the bar describes and admit a new voice only when it passes every criterion; a
-correction to an existing voice also has to beat the voice as it stands. No em dashes in a
-profile or its example. If a profile studies you and you want it removed, ask privately
+`npm run verify` checks the format and the example pool. New community profiles use
+`"verified": false`: they can merge here for review and improvement without appearing in
+the app, MCP or extension catalogue. Maintainers set `verified` to `true` only after a
+voice passes the blind-test quality bar. A material correction to a verified voice returns
+it to `false` until it passes the bar and beats the voice as it stands. Verification is a
+quality gate, separate from the profile's `unofficial` identity status.
+
+No em dashes in a profile or its example. If a profile studies you and you want it removed, ask privately
 through the [terms](https://silvertongue.dev/terms#removing-a-profile-that-studies-you): it
 comes out within seven days, and no reason is needed.
 

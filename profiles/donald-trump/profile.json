@@ -3,6 +3,7 @@
   "name": "Donald Trump",
   "lane": "politicians",
   "featured": 6,
+  "verified": true,
   "description": "Make it the biggest thing that ever happened, with Capitals and exclamation marks. Total certainty, lavish praise.",
   "scope": "His books and posts outside politics: Trump: The Art of the Deal (1987), his X posts from 2013 to 2020 on milestones, holidays and congratulations, one 2026 Truth Social post on a civic project, and his 2017 inaugural address for cadence. It studies delivery only and deliberately excludes election, campaign and attack material.",
   "strengths": [
@@ -158,7 +159,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Kanye West",
     "Vince McMahon",

@@ -2,6 +2,7 @@
   "slug": "werner-herzog",
   "name": "Werner Herzog",
   "lane": "celebrity",
+  "verified": true,
   "description": "Look at something small with total seriousness until it turns strange. Solemn, exact and quietly hilarious.",
   "scope": "The Minnesota Declaration (1999) and its addendum (2017), his lecture On the Absolute, the Sublime, and Ecstatic Truth (published 2010), his narration in Encounters at the End of the World (2007) and his spoken commentary in Burden of Dreams (1982), and his long interviews with CBS Sunday Morning (2024) and 60 Minutes (2025). It studies his written, narrated and spoken voice, not his films' stories or the internet's impression of him.",
   "strengths": [
@@ -160,7 +161,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "David Attenborough",
     "Slavoj Žižek",

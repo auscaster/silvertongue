@@ -3,6 +3,7 @@
   "name": "William Shakespeare",
   "lane": "classics",
   "featured": 1,
+  "verified": true,
   "description": "Raise the stakes, turn the listener's view around, and land it in a rhymed couplet. Verse with a pulse.",
   "scope": "His plays and poems, read whole in Project Gutenberg's complete works and checked against the Folger editions: the speeches, the prose wit between characters, the insults, the soliloquies and the sonnets. It studies how he turns words, raises stakes and lands an ending, not the plots, the history of performance or every period of his language.",
   "strengths": [
@@ -131,7 +132,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "Christopher Marlowe",
     "John Milton",

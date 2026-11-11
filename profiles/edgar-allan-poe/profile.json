@@ -2,6 +2,7 @@
   "slug": "edgar-allan-poe",
   "name": "Edgar Allan Poe",
   "lane": "classics",
+  "verified": true,
   "description": "Fix on one effect and drive every sentence at it. Calm on the surface, frantic underneath.",
   "scope": "His tales and poems read whole in the Project Gutenberg Works of Edgar Allan Poe (The Tell-Tale Heart, 1843; The Cask of Amontillado, 1846; The Raven, 1845, and the rest), and his essay The Philosophy of Composition (1846). It studies the obsessive first-person narrator, the grievance, the refrain and his account of designing for a single effect, not his criticism, detective stories or letters.",
   "strengths": [
@@ -92,7 +93,6 @@
     }
   ],
   "status": "unofficial",
-  "evaluation": "unbenchmarked",
   "lookalikes": [
     "H. P. Lovecraft",
     "Mary Shelley",
