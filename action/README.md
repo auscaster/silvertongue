@@ -1,6 +1,6 @@
 # Silvertongue Celebrity PR Review
 
-**Get your pull requests reviewed by Gordon Ramsay.** Or Marcus Aurelius, Ricky Gervais, Sherlock Holmes, Shakespeare, Brainrot, or any of 65+ famous voices and styles.
+**Have your sloppy PRs reviewed and schooled by Gordon Ramsay or Marcus Aurelius, or roasted by Tony Hinchcliffe or Ricky Gervais.** Or by Sherlock Holmes, Shakespeare, Brainrot, or any of 65+ famous voices and styles.
 
 It's a GitHub Action for AI code review. The review is hard, the delivery is funny, and every finding is pinned to a file and a line with the evidence underneath. It runs on your Claude Pro or Max plan, so there's no API bill.
 

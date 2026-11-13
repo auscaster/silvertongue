@@ -24,7 +24,7 @@ Pick a voice. Switch any time. Keep your point.
 
 ## Review pull requests
 
-**Get your pull requests reviewed by Gordon Ramsay.** Or Marcus Aurelius, Ricky Gervais, Brainrot, or any voice here. [Silvertongue Celebrity PR Review](action/README.md) is a GitHub Action for AI code review: it asks first whether the change should exist, checks every claim in the description against the code, and pins every finding to a file and a line. Then it says it in the voice you picked. It runs on your Claude subscription with no API bill, or on an Anthropic, OpenAI or Gemini key.
+**Have your sloppy PRs reviewed and schooled by Gordon Ramsay or Marcus Aurelius, or roasted by Tony Hinchcliffe or Ricky Gervais.** Or by Brainrot, Shakespeare, or any voice here. [Silvertongue Celebrity PR Review](action/README.md) is a GitHub Action for AI code review: it asks first whether the change should exist, checks every claim in the description against the code, and pins every finding to a file and a line. Then it says it in the voice you picked. It runs on your Claude subscription with no API bill, or on an Anthropic, OpenAI or Gemini key.
 
 ```yaml
 - uses: auscaster/silvertongue@v1
