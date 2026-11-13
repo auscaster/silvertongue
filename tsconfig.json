@@ -6,6 +6,7 @@
 		"strict": true,
 		"noEmit": true,
 		"allowImportingTsExtensions": true,
+		"erasableSyntaxOnly": true,
 		"skipLibCheck": true,
 		"lib": [
 			"ES2023"
@@ -15,6 +16,7 @@
 		]
 	},
 	"include": [
+		"action/**/*.ts",
 		"spec/**/*.ts",
 		"test/**/*.ts",
 		"scripts/**/*.ts"

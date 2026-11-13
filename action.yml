@@ -1,0 +1,48 @@
+name: Silvertongue Review
+description: Review pull requests in a famous voice. Runs on your own Claude subscription or model key, and every finding names a file and a line.
+author: auscaster
+branding:
+  icon: feather
+  color: gray-dark
+
+inputs:
+  voice:
+    description: The voice, as a folder name under profiles/ in this repository, such as marcus-aurelius, sherlock-holmes or gordon-ramsay.
+    default: marcus-aurelius
+  claude-code-oauth-token:
+    description: A Claude Pro or Max subscription, from `claude setup-token`. Reviews then count against the plan, with no API bill.
+  anthropic-api-key:
+    description: An Anthropic API key. Connect one model; a subscription token wins when both are given.
+  openai-api-key:
+    description: An OpenAI API key.
+  gemini-api-key:
+    description: A Gemini API key.
+  model:
+    description: The model to review with. Defaults to your plan's model on a Claude subscription, or claude-opus-5-5, gpt-6.1-sol or gemini-4-argon for an API key.
+  humour:
+    description: light is comic relief, a laugh where the code earns one and never in place of the fix. full goes for the laugh on every line. off plays it straight.
+    default: light
+  edge:
+    description: full keeps the voice's swearing and dark humour where it has them; clean takes them out.
+    default: full
+  request-changes:
+    description: When the verdict is reject or reshape, submit the review as "changes requested". false always submits a comment.
+    default: "true"
+  post:
+    description: false writes the review to the job summary and posts nothing.
+    default: "true"
+  pull-request:
+    description: The pull request number, for runs that do not come from a pull request event.
+  github-token:
+    description: The token that reads the pull request and posts the review.
+    default: ${{ github.token }}
+
+outputs:
+  verdict:
+    description: reject, reshape or accept.
+  review-url:
+    description: The posted review.
+
+runs:
+  using: node24
+  main: action/main.ts

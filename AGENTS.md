@@ -18,6 +18,9 @@ private repositories, captured source text, evaluation outputs or compose prompt
   MCP and extension catalogue. Verification never means endorsement by the subject.
 - The skill and the MCP Registry entry point at the hosted service. They never carry prompts,
   model keys or a generator.
+- The GitHub Action (`action.yml`, `action/`) runs on the developer's runner with their own model
+  key. It carries its review method and no dependencies, takes each voice's writing instructions
+  from the hosted voice packet, and sends the hosted service only the voice's name, never code.
 - Each agent platform's file sits at the root because that platform reads it there.
   CONTRIBUTING.md maps every one ("Where things live"); a new platform file gets its row
   in the same commit.

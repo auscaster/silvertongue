@@ -1,0 +1,33 @@
+name: review
+
+# Pull requests to this repository are reviewed by the Action it ships. pull_request_target runs the
+# Action from the base branch, so a pull request from a fork gets a review without its code ever running.
+on:
+  pull_request_target:
+    types: [opened, ready_for_review]
+  workflow_dispatch:
+    inputs:
+      pull-request:
+        description: Pull request number
+        required: true
+      voice:
+        description: Voice
+        default: marcus-aurelius
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  review:
+    if: github.actor != 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - uses: ./
+        with:
+          voice: ${{ inputs.voice || 'marcus-aurelius' }}
+          pull-request: ${{ inputs.pull-request }}
+          claude-code-oauth-token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}

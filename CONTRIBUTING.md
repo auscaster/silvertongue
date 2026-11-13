@@ -9,6 +9,7 @@ scripts/           the catalogue table in the README, generated from the profile
 test/              the validator and catalogue tests
 assets/            the mark and wordmark
 skills/            the agent skill every plugin below carries
+action/            the pull request review Action: TypeScript Node runs as is, no dependencies
 ```
 
 Every agent platform reads its own file from the repository root, so these stay there. They
@@ -24,6 +25,7 @@ skill and the icon; each holds only what its platform needs.
 | `gemini-extension.json` | Gemini CLI extension | Installed from the latest GitHub release. |
 | `server.json` | Official MCP Registry | Published by `.github/workflows/registry.yml` on an `mcp-v<version>` tag. |
 | `glama.json` | Glama | Claims the listing for its maintainers. |
+| `action.yml` | GitHub Actions, and the GitHub Marketplace | The review Action's inputs and entry point, `action/main.ts`. It runs on the developer's own model key and asks the hosted server only for the voice's writing instructions. |
 
 `.mcp.json` and `mcp.json` describe the same server for two different readers, so a change
 to the endpoint changes both. `server.json` is versioned with the server's tool contract; the
