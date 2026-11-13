@@ -15,6 +15,7 @@ export interface Pull {
 	url: string;
 	headSha: string;
 	baseRef: string;
+	baseSha: string;
 	additions: number;
 	deletions: number;
 	changedFiles: number;
@@ -66,8 +67,8 @@ export class GitHub {
 	private base() { return `/repos/${this.repo.owner}/${this.repo.name}`; }
 
 	async pull(number: number): Promise<Pull> {
-		const p = await this.get<{ title: string; body: string | null; user: { login: string }; html_url: string; head: { sha: string }; base: { ref: string }; additions: number; deletions: number; changed_files: number; draft: boolean }>(`${this.base()}/pulls/${number}`);
-		return { number, title: p.title, body: p.body ?? "", author: p.user.login, url: p.html_url, headSha: p.head.sha, baseRef: p.base.ref, additions: p.additions, deletions: p.deletions, changedFiles: p.changed_files, draft: p.draft };
+		const p = await this.get<{ title: string; body: string | null; user: { login: string }; html_url: string; head: { sha: string }; base: { ref: string; sha: string }; additions: number; deletions: number; changed_files: number; draft: boolean }>(`${this.base()}/pulls/${number}`);
+		return { number, title: p.title, body: p.body ?? "", author: p.user.login, url: p.html_url, headSha: p.head.sha, baseRef: p.base.ref, baseSha: p.base.sha, additions: p.additions, deletions: p.deletions, changedFiles: p.changed_files, draft: p.draft };
 	}
 
 	async files(number: number): Promise<File[]> {
@@ -99,53 +100,59 @@ export class GitHub {
 		return { status, url: d.html_url, message: d.message ? `${d.message}${d.errors ? ` ${JSON.stringify(d.errors)}` : ""}` : undefined };
 	}
 
-	/** The repository at the head commit, as a bare git directory: read and searched, never checked out or run. */
-	fetchSource(sha: string): Source {
+	/** A real Git checkout with both pinned commits and their ancestry. No PR code, hooks or filters run. */
+	fetchSource(head: string, base: string): Source {
 		const dir = mkdtempSync(join(process.env.RUNNER_TEMP ?? tmpdir(), "silvertongue-"));
-		const git = (...args: string[]) => execFileSync("git", args, { cwd: dir, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, stdio: ["ignore", "pipe", "pipe"] });
-		git("init", "-q", "--bare");
+		const env = { ...process.env, GIT_CONFIG_NOSYSTEM: "1", GIT_CONFIG_GLOBAL: "/dev/null", GIT_TERMINAL_PROMPT: "0", GIT_LFS_SKIP_SMUDGE: "1" };
+		const git = (...args: string[]) => execFileSync("git", ["-c", "core.hooksPath=/dev/null", "-c", "credential.helper=", ...args], { cwd: dir, env, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, stdio: ["ignore", "pipe", "pipe"] });
+		git("init", "-q");
+		git("remote", "add", "origin", `${this.server}/${this.repo.owner}/${this.repo.name}.git`);
 		const auth = Buffer.from(`x-access-token:${this.token}`).toString("base64");
-		git("-c", `http.extraHeader=Authorization: Basic ${auth}`, "fetch", "-q", "--depth=1", "--no-tags", `${this.server}/${this.repo.owner}/${this.repo.name}.git`, sha);
-		return new Source(git, dir);
+		try {
+			git("-c", `http.extraHeader=Authorization: Basic ${auth}`, "fetch", "-q", "--no-tags", "origin", head, base);
+		} catch (error) {
+			// execFileSync's default message includes argv, including the one-shot authorization header.
+			const reason = String((error as { stderr?: unknown }).stderr ?? "Could not fetch the pinned commits.").replaceAll(this.token, "[redacted]").replaceAll(auth, "[redacted]");
+			throw new Error(`Git could not fetch the review source: ${reason.trim().slice(-500)}`);
+		}
+		git("update-ref", "refs/silvertongue/head", head);
+		git("update-ref", "refs/silvertongue/base", base);
+		git("merge-base", head, base); // fail before invoking a reviewer if the comparison cannot be established
+		git("-c", "filter.lfs.smudge=", "-c", "filter.lfs.process=", "-c", "filter.lfs.required=false", "checkout", "-q", "--detach", head);
+		return new Source(git, dir, head);
 	}
 }
 
 export class Source {
 	private readonly git: (...args: string[]) => string;
 	private readonly dir: string;
-	private tree: string | undefined;
-	constructor(git: (...args: string[]) => string, dir: string) {
+	private readonly head: string;
+	constructor(git: (...args: string[]) => string, dir: string, head: string) {
 		this.git = git;
 		this.dir = dir;
+		this.head = head;
 	}
 
-	/** The head commit written out as files, for a model that reads with tools of its own. Nothing in it is run. */
-	checkout(): string {
-		if (!this.tree) {
-			const tree = mkdtempSync(`${this.dir}-tree-`);
-			this.git(`--work-tree=${tree}`, "-c", "core.hooksPath=/dev/null", "-c", "filter.lfs.smudge=", "-c", "filter.lfs.process=", "-c", "filter.lfs.required=false", "checkout", "-q", "FETCH_HEAD", "--", ".");
-			this.tree = tree;
-		}
-		return this.tree;
-	}
+	/** Native reviewers need Git history as well as files. The checkout is pinned to the audited head. */
+	checkout(): string { return this.dir; }
 
 	exists(path: string): boolean {
-		try { this.git("cat-file", "-e", `FETCH_HEAD:${path}`); return true; } catch { return false; }
+		try { this.git("cat-file", "-e", `${this.head}:${path}`); return true; } catch { return false; }
 	}
 
 	read(path: string): string {
-		return this.git("show", `FETCH_HEAD:${path}`);
+		return this.git("show", `${this.head}:${path}`);
 	}
 
 	list(path: string): string[] {
-		return this.git("ls-tree", "-r", "--name-only", "FETCH_HEAD", "--", path || ".").split("\n").filter(Boolean);
+		return this.git("ls-tree", "-r", "--name-only", this.head, "--", path || ".").split("\n").filter(Boolean);
 	}
 
 	/** git grep over the head commit; an empty result is an answer, not an error. */
 	search(pattern: string, path: string): string[] {
 		try {
-			return this.git("grep", "-n", "-I", "-E", "--max-count=25", "-e", pattern, "FETCH_HEAD", "--", path || ".")
-				.split("\n").filter(Boolean).map((l) => l.replace(/^FETCH_HEAD:/, ""));
+			return this.git("grep", "-n", "-I", "-E", "--max-count=25", "-e", pattern, this.head, "--", path || ".")
+				.split("\n").filter(Boolean).map((l) => l.slice(this.head.length + 1));
 		} catch (e) {
 			if ((e as { status?: number }).status === 1) return [];
 			throw new Error(`search failed: ${((e as { stderr?: string }).stderr ?? String(e)).trim().slice(0, 300)}`);

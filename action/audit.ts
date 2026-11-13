@@ -3,22 +3,24 @@
 import type { File, Issue, Pull, Source } from "./github.ts";
 import type { Model, Outcome, Tool } from "./models.ts";
 
-export type Verdict = "reject" | "reshape" | "accept";
+export type Verdict = "reject" | "reshape" | "accept" | "comment";
 export type Severity = "blocker" | "major" | "minor";
 
 export interface Finding {
-	severity: Severity;
-	category: string;
+	severity?: Severity;
+	category?: string;
 	path: string;
 	line: number;
 	challenge: string;
 	evidence: string;
-	remedy: string;
+	remedy?: string;
 }
 
 export interface Audit {
 	verdict: Verdict;
-	right_to_exist: string;
+	assessment: string;
+	/** Opaque native report: never interpreted as an approval or fabricated inline findings. */
+	report?: string;
 	findings: Finding[];
 }
 
@@ -75,26 +77,26 @@ const ANSWER: Tool = {
 			type: "object",
 			properties: {
 				verdict: { type: "string", enum: ["reject", "reshape", "accept"] },
-				right_to_exist: { type: "string", description: "One or two plain sentences: should this change exist, and in this form?" },
+				assessment: { type: "string", description: "One or two plain sentences summarizing the review and its evidence." },
 				findings: {
 					type: "array",
 					items: {
 						type: "object",
 						properties: {
 							severity: { type: "string", enum: ["blocker", "major", "minor"] },
-							category: { type: "string", enum: ["right to exist", "shape", "duplication", "boundaries", "tests", "hygiene"] },
+							category: { type: "string", description: "The kind of substantiated issue, such as a bug, rule violation or duplication." },
 							path: { type: "string" },
 							line: { type: "integer" },
-							challenge: { type: "string", description: "The question the author must answer." },
-							evidence: { type: "string", description: "What you read or searched, and the file:line it returned." },
-							remedy: { type: "string", description: "Delete, merge into an existing thing, move, extend instead, or justify in writing; name the thing." },
+							challenge: { type: "string", description: "The actionable finding, in plain language." },
+							evidence: { type: "string", description: "The concrete trigger, behavior and code locations that substantiate the finding." },
+							remedy: { type: "string", description: "The smallest correction supported by the evidence." },
 						},
 						required: ["severity", "category", "path", "line", "challenge", "evidence", "remedy"],
 						additionalProperties: false,
 					},
 				},
 			},
-			required: ["verdict", "right_to_exist", "findings"],
+			required: ["verdict", "assessment", "findings"],
 			additionalProperties: false,
 		},
 };
@@ -157,7 +159,8 @@ function tool(source: Source, name: string, input: Record<string, unknown>): Out
 
 export async function audit(model: Model, pull: Pull, files: File[], issues: Issue[], source: Source, log: (line: string) => void): Promise<Audit> {
 	let used = 0;
-	const value = await model.loop({
+	const value = await model.review({
+		pull: { url: pull.url, head: pull.headSha, base: pull.baseSha },
 		system: SYSTEM,
 		user: brief(pull, files, issues, source),
 		tools: TOOLS,
@@ -172,5 +175,17 @@ export async function audit(model: Model, pull: Pull, files: File[], issues: Iss
 			return tool(source, name, args);
 		},
 	});
-	return value as Audit;
+	if (!value || typeof value !== "object") throw new Error("The reviewer returned no audit.");
+	const parsed = value as Audit;
+	if (!["reject", "reshape", "accept", "comment"].includes(parsed.verdict) || typeof parsed.assessment !== "string" || !parsed.assessment.trim() || !Array.isArray(parsed.findings)) throw new Error("The reviewer returned an invalid audit.");
+	if (parsed.verdict === "comment" && (typeof parsed.report !== "string" || !parsed.report.trim() || parsed.findings.length)) throw new Error("The native report is missing or was mixed with invented findings.");
+	for (const finding of parsed.findings) {
+		if (!finding || (finding.severity !== undefined && !["blocker", "major", "minor"].includes(finding.severity)) || ![finding.path, finding.challenge, finding.evidence].every((s) => typeof s === "string" && s.trim()) || [finding.category, finding.remedy].some((s) => s !== undefined && (typeof s !== "string" || !s.trim())) || !Number.isSafeInteger(finding.line) || finding.line < 1) throw new Error("The reviewer returned an invalid finding.");
+	}
+	for (const finding of parsed.findings) {
+		if (finding.path.startsWith("/") || finding.path.split("/").some((p) => p === ".." || p === ".git") || !source.exists(finding.path) || finding.line > source.read(finding.path).split("\n").length) {
+			throw new Error(`The reviewer returned a location outside the pinned head: ${finding.path}:${finding.line}.`);
+		}
+	}
+	return parsed;
 }

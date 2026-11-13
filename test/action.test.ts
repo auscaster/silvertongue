@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { test } from "node:test";
 import type { Audit } from "../action/audit.ts";
 import { commentableLines } from "../action/github.ts";
+import { humourOf, write } from "../action/voice.ts";
 import { providerOf } from "../action/models.ts";
 import { compose, flatten } from "../action/review.ts";
 
@@ -14,7 +15,7 @@ test("a review comment can sit on added and context lines of the new side, never
 
 const audit: Audit = {
 	verdict: "reshape",
-	right_to_exist: "It should exist.",
+	assessment: "It should exist.",
 	findings: [
 		{ severity: "major", category: "duplication", path: "a.go", line: 11, challenge: "Why twice?", evidence: "Read a.go:11.", remedy: "Delete one." },
 		{ severity: "minor", category: "hygiene", path: "b.go", line: 99, challenge: "Stale note?", evidence: "Read b.go:99.", remedy: "Update it." },
@@ -47,4 +48,43 @@ test("the model id names its provider", () => {
 	assert.equal(providerOf("gpt-6.1-sol"), "openai");
 	assert.equal(providerOf("gemini-4-argon"), "gemini");
 	assert.equal(providerOf("llama-4"), undefined);
+});
+
+
+test("shipped full humour remains roast and off does not demand a comedian's dig", async () => {
+	assert.equal(humourOf("comedy"), "roast");
+	assert.equal(humourOf("classics"), "light");
+	assert.equal(humourOf("comedy", "full"), "roast");
+	assert.equal(humourOf("comedy", "off"), "off");
+	assert.throws(() => humourOf(undefined, "invalid"), /humour must/);
+	let prompt = "";
+	const model = { provider: "openai" as const, id: "fake", usage: { input: 0, output: 0 }, review: async () => audit, json: async (_system: string, user: string) => { prompt = user; return written; } };
+	await write(model, { ...voice, lane: "comedy" }, { number: 3, title: "Change", author: "test", changedFiles: 1, additions: 1, deletions: 1 } as Parameters<typeof write>[2], audit, "off");
+	assert.match(prompt, /leave the jokes out/);
+	assert.doesNotMatch(prompt, /reluctantly|comes with a dig|Go for the laugh/);
+});
+
+test("native findings keep their original evidence without manufacturing a severity or fix", () => {
+	const native = { ...audit, findings: [{ path: "a.go", line: 11, challenge: "Valid input is rejected.", evidence: "When a valid record is passed, line 11 returns false." }] };
+	const review = compose(native, written, voice, "m", [{ path: "a.go", status: "modified", additions: 2, deletions: 1, patch }], link, true);
+	assert.match(review.comments[0]!.body, /Valid input is rejected/);
+	assert.match(review.comments[0]!.body, /When a valid record is passed/);
+	assert.doesNotMatch(review.comments[0]!.body, /undefined|\*\*Fix\.\*\*|Major/);
+});
+
+
+test("a native report is retained byte-for-byte and never becomes an approval or fabricated inline findings", () => {
+	const report = "No defects found.\nThis is the exact native report.";
+	const review = compose({ verdict: "comment", assessment: report, report, findings: [] }, { summary: "Voiced opening.", comments: [] }, voice, "m", [], link, true);
+	assert.equal(review.event, "COMMENT");
+	assert.equal(review.comments.length, 0);
+	assert.ok(review.body.includes(report));
+});
+
+
+test("voicing cannot add, drop or duplicate findings even if a provider cannot enforce array bounds", async () => {
+	for (const comments of [[], [{ finding: 1, body: "one" }], [{ finding: 1, body: "one" }, { finding: 1, body: "duplicate" }], [{ finding: 1, body: "one" }, { finding: 3, body: "invented" }]]) {
+		const model = { provider: "openai" as const, id: "fake", usage: { input: 0, output: 0 }, review: async () => audit, json: async () => ({ summary: "Opening.", comments }) };
+		await assert.rejects(write(model, voice, { number: 3, title: "Change", author: "test", changedFiles: 1, additions: 1, deletions: 1 } as Parameters<typeof write>[2], audit, "light"), /did not preserve/);
+	}
 });

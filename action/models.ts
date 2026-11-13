@@ -6,6 +6,7 @@ import { mkdtempSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { fail, postJson } from "./http.ts";
+import { CLAUDE_CLI, claudeReview, claudeUsage, codexReview, type ClaudeUsage } from "./native.ts";
 
 export type Provider = "anthropic" | "openai" | "gemini" | "claude-code";
 export type Effort = "medium" | "high";
@@ -21,6 +22,7 @@ export interface Outcome { output: string; error?: boolean }
 export type Handler = (name: string, input: unknown) => Promise<Outcome>;
 
 export interface Agent {
+	pull: { url: string; head: string; base: string };
 	system: string;
 	user: string;
 	/** Tools that read the code, answered by `handle`. */
@@ -35,7 +37,7 @@ export interface Agent {
 	root: () => string;
 }
 
-export interface Usage { input: number; output: number }
+export interface Usage { input: number; output: number; incomplete?: boolean }
 
 export interface Model {
 	provider: Provider;
@@ -44,7 +46,7 @@ export interface Model {
 	/** Tokens used so far, for the log: what this review cost is the developer's to know. */
 	usage: Usage;
 	/** Read the code with tools until the model hands in its answer. */
-	loop(agent: Agent): Promise<unknown>;
+	review(agent: Agent): Promise<unknown>;
 	json(system: string, user: string, schema: Record<string, unknown>, effort: Effort): Promise<unknown>;
 }
 
@@ -101,25 +103,11 @@ function anthropic(id: string, key: string): Model {
 		provider: "anthropic",
 		id,
 		usage,
-		async loop(a) {
-			const defs = [...a.tools, a.answer].map((t) => ({ name: t.name, description: t.description, input_schema: t.schema, strict: true }));
-			const messages: { role: string; content: unknown }[] = [{ role: "user", content: a.user }];
-			for (let turn = 0; turn < a.maxTurns; turn++) {
-				const message = await call({ system: a.system, messages, tools: defs, output_config: { effort: "high" } });
-				messages.push({ role: "assistant", content: message.content });
-				const calls = message.content.filter((b) => b.type === "tool_use");
-				const answer = calls.find((c) => c.name === a.answer.name);
-				if (answer) return answer.input;
-				if (calls.length === 0) { messages.push({ role: "user", content: a.finish }); continue; }
-				const results = [];
-				for (const c of calls) {
-					const outcome = await a.handle(c.name ?? "", c.input);
-					results.push({ type: "tool_result", tool_use_id: c.id, content: outcome.output, ...(outcome.error ? { is_error: true } : {}) });
-				}
-				if (turn === a.maxTurns - 2) results.push({ type: "text", text: a.finish });
-				messages.push({ role: "user", content: results });
-			}
-			throw new Error(`${id} did not finish the audit in ${a.maxTurns} turns.`);
+		async review(a) {
+			const result = await claudeReview(a, id, { ANTHROPIC_API_KEY: key });
+			usage.input += result.usage.input; usage.output += result.usage.output;
+			if (result.usage.incomplete) usage.incomplete = true;
+			return result.value;
 		},
 		async json(system, user, schema, effort) {
 			const message = await call({ system, messages: [{ role: "user", content: user }], output_config: { effort, format: { type: "json_schema", schema } } });
@@ -149,26 +137,11 @@ function openai(id: string, key: string): Model {
 		provider: "openai",
 		id,
 		usage,
-		async loop(a) {
-			const defs = [...a.tools, a.answer].map((t) => ({ type: "function", name: t.name, description: t.description, parameters: t.schema, strict: true }));
-			let input: unknown[] = [{ role: "user", content: a.user }];
-			let previous: string | undefined;
-			for (let turn = 0; turn < a.maxTurns; turn++) {
-				const response = await call({ instructions: a.system, input, tools: defs, reasoning: { effort: "high" }, ...(previous ? { previous_response_id: previous } : {}) });
-				previous = response.id;
-				const calls = response.output.filter((o) => o.type === "function_call");
-				if (calls.length === 0) { input = [{ role: "user", content: a.finish }]; continue; }
-				input = [];
-				for (const c of calls) {
-					let args: unknown;
-					try { args = JSON.parse(c.arguments ?? "{}"); } catch { input.push({ type: "function_call_output", call_id: c.call_id, output: "The arguments were not valid JSON." }); continue; }
-					if (c.name === a.answer.name) return args;
-					const outcome = await a.handle(c.name ?? "", args);
-					input.push({ type: "function_call_output", call_id: c.call_id, output: outcome.output });
-				}
-				if (turn === a.maxTurns - 2) input.push({ role: "user", content: a.finish });
-			}
-			throw new Error(`${id} did not finish the audit in ${a.maxTurns} turns.`);
+		async review(a) {
+			const result = await codexReview(a, id, key);
+			usage.input += result.usage.input; usage.output += result.usage.output;
+			if (result.usage.incomplete) usage.incomplete = true;
+			return result.value;
 		},
 		async json(system, user, schema, effort) {
 			const response = await call({ instructions: system, input: [{ role: "user", content: user }], reasoning: { effort }, text: { format: { type: "json_schema", name: "review", schema, strict: true } } });
@@ -201,7 +174,7 @@ function gemini(id: string, key: string): Model {
 		provider: "gemini",
 		id,
 		usage,
-		async loop(a) {
+		async review(a) {
 			const defs = [{ functionDeclarations: [...a.tools, a.answer].map((t) => ({ name: t.name, description: t.description, parametersJsonSchema: t.schema })) }];
 			const contents: GeminiContent[] = [{ role: "user", parts: [{ text: a.user }] }];
 			for (let turn = 0; turn < a.maxTurns; turn++) {
@@ -237,9 +210,9 @@ function gemini(id: string, key: string): Model {
 // A Claude Pro or Max subscription reaches Claude only through Claude Code, so this runs the Claude Code CLI
 // headless. Restricted mode removes every tool that runs code and ignores the repository's own settings, and
 // only Read, Grep and Glob are given: the pull request's code is read, never run.
-const CLAUDE_CODE = "@anthropic-ai/claude-code@2.1.323";
+const CLAUDE_CODE = CLAUDE_CLI;
 
-interface ClaudeCodeResult { is_error?: boolean; subtype?: string; result?: string; structured_output?: unknown; modelUsage?: Record<string, unknown>; usage?: { input_tokens?: number; output_tokens?: number; cache_read_input_tokens?: number; cache_creation_input_tokens?: number } }
+interface ClaudeCodeResult extends ClaudeUsage { is_error?: boolean; subtype?: string; result?: string; structured_output?: unknown; }
 
 function claudeCode(id: string, token: string): Model {
 	const usage: Usage = { input: 0, output: 0 };
@@ -262,9 +235,8 @@ function claudeCode(id: string, token: string): Model {
 				clearTimeout(timer);
 				let result: ClaudeCodeResult | undefined;
 				try { result = JSON.parse(out) as ClaudeCodeResult; } catch { /* reported below */ }
-				const u = result?.usage ?? {};
-				usage.input += (u.input_tokens ?? 0) + (u.cache_read_input_tokens ?? 0) + (u.cache_creation_input_tokens ?? 0);
-				usage.output += u.output_tokens ?? 0;
+				const u = claudeUsage(result ?? {});
+				usage.input += u.input; usage.output += u.output;
 				// The plan chooses the model when none is named; the credit line names what actually ran.
 				const ran = Object.keys(result?.modelUsage ?? {}).find((k) => k.startsWith("claude-") && !k.includes("haiku"));
 				if (ran) self.id = `${ran} via Claude Code`;
@@ -281,10 +253,12 @@ function claudeCode(id: string, token: string): Model {
 		provider: "claude-code",
 		id: id ? `${id} via Claude Code` : "Claude Code",
 		usage,
-		async loop(a) {
-			const root = a.root();
-			const user = `${a.user}\n\nThe pull request's head commit is checked out in your working directory, ${root}. Read and search it with Read, Grep and Glob, then hand in the audit in the required structure.`;
-			return await run(root, a.system, user, a.answer.schema, "Read,Grep,Glob", "high");
+		async review(a) {
+			const result = await claudeReview(a, id, { CLAUDE_CODE_OAUTH_TOKEN: token });
+			usage.input += result.usage.input; usage.output += result.usage.output;
+			if (result.usage.incomplete) usage.incomplete = true;
+			if (result.model) self.id = `${result.model} via Claude Code`;
+			return result.value;
 		},
 		async json(system, user, schema, effort) {
 			return await run(mkdtempSync(join(process.env.RUNNER_TEMP ?? tmpdir(), "silvertongue-write-")), system, user, schema, "", effort);

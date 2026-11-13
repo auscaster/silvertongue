@@ -18,16 +18,17 @@ export function compose(audit: Audit, written: Written, voice: Packet, model: st
 	const elsewhere: string[] = [];
 	audit.findings.forEach((f, i) => {
 		const said = written.comments.find((c) => c.finding === i + 1)?.body.trim() || f.challenge;
-		const detail = `<details><summary><b>${SEVERITY[f.severity]}</b>: the fix and the evidence</summary>\n\n**Fix.** ${f.remedy}\n\n**Evidence.** ${f.evidence}\n\n</details>`;
+		const detail = `<details><summary>${f.severity ? `<b>${SEVERITY[f.severity]}</b>: ` : ""}original finding and evidence</summary>\n\n${f.challenge}\n\n${f.remedy ? `**Fix.** ${f.remedy}\n\n` : ""}**Evidence.** ${f.evidence}\n\n</details>`;
 		if (anchors.get(f.path)?.has(f.line)) comments.push({ path: f.path, line: f.line, side: "RIGHT", body: `${said}\n\n${detail}` });
 		else elsewhere.push(`- [\`${f.path}:${f.line}\`](${link(f.path, f.line)}) ${said}\n\n  ${detail.replace(/\n/g, "\n  ")}`);
 	});
 	const body = [
 		written.summary.trim(),
+		audit.report ? `<details><summary>Original native review</summary>\n\n${audit.report}\n\n</details>` : "",
 		elsewhere.length ? `**Outside the lines this pull request changes**\n\n${elsewhere.join("\n\n")}` : "",
 		`<sub>Written in the voice of ${voice.name} with [Silvertongue](https://silvertongue.dev), an unofficial study of how ${voice.name} writes. Every finding names a file and a line. Model: \`${model}\`.</sub>`,
 	].filter(Boolean).join("\n\n");
-	return { event: requestChanges && audit.verdict !== "accept" ? "REQUEST_CHANGES" : "COMMENT", body, comments };
+	return { event: requestChanges && audit.verdict !== "accept" && audit.verdict !== "comment" ? "REQUEST_CHANGES" : "COMMENT", body, comments };
 }
 
 /** The same review with every comment moved into the body, for when GitHub will not take them on their lines. */

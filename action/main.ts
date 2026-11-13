@@ -5,7 +5,7 @@ import { audit as runAudit } from "./audit.ts";
 import { GitHub } from "./github.ts";
 import { DEFAULT_MODEL, model as makeModel, providerOf, type Provider } from "./models.ts";
 import { compose, flatten, markdown } from "./review.ts";
-import { packet, write, type Humour } from "./voice.ts";
+import { humourOf, packet, write } from "./voice.ts";
 
 const input = (name: string) => (process.env[`INPUT_${name.toUpperCase()}`] ?? "").trim();
 
@@ -50,8 +50,8 @@ async function main() {
 	const voice = input("voice") || "marcus-aurelius";
 	const edge = (input("edge") || "full") as "full" | "clean";
 	if (edge !== "full" && edge !== "clean") throw new Error(`edge must be full or clean, not "${edge}".`);
-	const humour = (input("humour") || "light") as Humour;
-	if (!["off", "light", "full"].includes(humour)) throw new Error(`humour must be off, light or full, not "${humour}".`);
+	const asked = input("humour");
+	humourOf(undefined, asked);
 	const post = flag("post", true);
 	const requestChanges = flag("request-changes", true);
 	const [owner, name] = (process.env.GITHUB_REPOSITORY ?? "").split("/");
@@ -63,13 +63,16 @@ async function main() {
 	const number = pullNumber();
 
 	const voicePacket = await packet(voice, edge);
+	const humour = humourOf(voicePacket.lane, asked);
 	const pull = await gh.pull(number);
-	console.log(`Reviewing #${number} "${pull.title}" (+${pull.additions} -${pull.deletions}) as ${voicePacket.name} with ${model.id}.`);
+	console.log(`Reviewing #${number} "${pull.title}" (+${pull.additions} -${pull.deletions}) as ${voicePacket.name}, humour ${humour}, with ${model.id}.`);
 	const [files, issues] = await Promise.all([gh.files(number), gh.linkedIssues(pull.body)]);
-	const source = gh.fetchSource(pull.headSha);
+	const source = gh.fetchSource(pull.headSha, pull.baseSha);
 
 	console.log("::group::Audit");
 	const audit = await runAudit(model, pull, files, issues, source, (line) => console.log(line));
+	const current = await gh.pull(number);
+	if (current.headSha !== pull.headSha || current.baseSha !== pull.baseSha) throw new Error("The pull request changed during review. Rerun against its new head and base; no review was posted.");
 	console.log(JSON.stringify(audit, null, 2));
 	console.log("::endgroup::");
 
@@ -82,7 +85,7 @@ async function main() {
 	console.log("::endgroup::");
 	if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY, `## Silvertongue review of #${number}\n\n${markdown(review)}\n`);
 	output("verdict", audit.verdict);
-	console.log(`${model.id} used ${model.usage.input.toLocaleString("en")} input and ${model.usage.output.toLocaleString("en")} output tokens.`);
+	console.log(`${model.id} reported ${model.usage.input.toLocaleString("en")} input and ${model.usage.output.toLocaleString("en")} output tokens.${model.usage.incomplete ? " Native review usage was not reported; these totals are incomplete, not the total bill." : ""}`);
 
 	if (!post) return;
 	let posted = await gh.review(number, { commit_id: pull.headSha, ...review });
