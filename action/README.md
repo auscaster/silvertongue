@@ -1,6 +1,6 @@
-# Silvertongue Review
+# Silvertongue PR Review
 
-A GitHub Action that reviews every pull request the way a hard reviewer would, then says it in a famous voice.
+AI PR review in a famous voice. A GitHub Action that reviews every pull request the way a hard reviewer would, then says it as Marcus Aurelius, Sherlock Holmes, Ricky Gervais or any of 50 famous voices.
 
 The audit asks whether the change should exist at all before it looks at anything else: does it fix what it claims to, does the codebase already do this, is it the smallest change that would. Then shape, duplication, boundaries, tests that cannot fail, and clutter. It reads and searches the code to back every finding, and every finding names a file and a line. The review is posted on the pull request in the voice you pick: Marcus Aurelius, Sherlock Holmes, Gordon Ramsay or any of the voices in [`profiles/`](../profiles).
 

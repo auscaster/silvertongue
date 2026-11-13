@@ -1,5 +1,5 @@
-name: Silvertongue Review
-description: Review pull requests in a famous voice. Runs on your own Claude subscription or model key, and every finding names a file and a line.
+name: Silvertongue PR Review
+description: AI PR review in 50 famous voices. Every finding pinned to a file and line. Runs on your Claude subscription or API key.
 author: auscaster
 branding:
   icon: feather
