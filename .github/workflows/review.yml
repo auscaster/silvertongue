@@ -1,7 +1,8 @@
 name: review
 
-# Pull requests to this repository are reviewed by the Action it ships. pull_request_target runs the
-# Action from the base branch, so a pull request from a fork gets a review without its code ever running.
+# Pull requests to this repository are reviewed by the released Action, installed as anyone installs it.
+# pull_request_target runs this workflow from the base branch, so a pull request from a fork gets a review
+# without its code ever running.
 on:
   pull_request_target:
     types: [opened, ready_for_review]
@@ -13,6 +14,11 @@ on:
       voice:
         description: Voice
         default: marcus-aurelius
+      humour:
+        description: Humour
+        type: choice
+        options: [light, full, off]
+        default: light
 
 permissions:
   contents: read
@@ -20,14 +26,12 @@ permissions:
 
 jobs:
   review:
-    if: github.actor != 'dependabot[bot]'
+    if: github.actor != 'dependabot[bot]' && !github.event.pull_request.draft
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
-        with:
-          persist-credentials: false
-      - uses: ./
+      - uses: auscaster/silvertongue@v1
         with:
           voice: ${{ inputs.voice || 'marcus-aurelius' }}
+          humour: ${{ inputs.humour || 'light' }}
           pull-request: ${{ inputs.pull-request }}
           claude-code-oauth-token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
