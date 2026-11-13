@@ -5,7 +5,7 @@ import { audit as runAudit } from "./audit.ts";
 import { GitHub } from "./github.ts";
 import { DEFAULT_MODEL, model as makeModel, providerOf, type Provider } from "./models.ts";
 import { compose, flatten, markdown } from "./review.ts";
-import { packet, write, type Humour } from "./voice.ts";
+import { humourOf, packet, write, type Humour } from "./voice.ts";
 
 const input = (name: string) => (process.env[`INPUT_${name.toUpperCase()}`] ?? "").trim();
 
@@ -50,8 +50,8 @@ async function main() {
 	const voice = input("voice") || "marcus-aurelius";
 	const edge = (input("edge") || "full") as "full" | "clean";
 	if (edge !== "full" && edge !== "clean") throw new Error(`edge must be full or clean, not "${edge}".`);
-	const humour = (input("humour") || "light") as Humour;
-	if (!["off", "light", "full"].includes(humour)) throw new Error(`humour must be off, light or full, not "${humour}".`);
+	const asked = input("humour") as Humour | "";
+	if (asked && !["off", "light", "roast"].includes(asked)) throw new Error(`humour must be roast, light or off, not "${asked}".`);
 	const post = flag("post", true);
 	const requestChanges = flag("request-changes", true);
 	const [owner, name] = (process.env.GITHUB_REPOSITORY ?? "").split("/");
@@ -63,8 +63,9 @@ async function main() {
 	const number = pullNumber();
 
 	const voicePacket = await packet(voice, edge);
+	const humour = asked || humourOf(voicePacket.lane);
 	const pull = await gh.pull(number);
-	console.log(`Reviewing #${number} "${pull.title}" (+${pull.additions} -${pull.deletions}) as ${voicePacket.name} with ${model.id}.`);
+	console.log(`Reviewing #${number} "${pull.title}" (+${pull.additions} -${pull.deletions}) as ${voicePacket.name}, humour ${humour}, with ${model.id}.`);
 	const [files, issues] = await Promise.all([gh.files(number), gh.linkedIssues(pull.body)]);
 	const source = gh.fetchSource(pull.headSha);
 

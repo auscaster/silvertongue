@@ -15,10 +15,7 @@ on:
         description: Voice
         default: marcus-aurelius
       humour:
-        description: Humour
-        type: choice
-        options: [light, full, off]
-        default: light
+        description: Humour (roast, light or off); empty for the voice's own
 
 permissions:
   contents: read
@@ -32,6 +29,6 @@ jobs:
       - uses: auscaster/silvertongue@v1
         with:
           voice: ${{ inputs.voice || 'marcus-aurelius' }}
-          humour: ${{ inputs.humour || 'light' }}
+          humour: ${{ inputs.humour }}
           pull-request: ${{ inputs.pull-request }}
           claude-code-oauth-token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}

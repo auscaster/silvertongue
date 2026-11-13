@@ -4,6 +4,7 @@ import type { Audit } from "../action/audit.ts";
 import { commentableLines } from "../action/github.ts";
 import { providerOf } from "../action/models.ts";
 import { compose, flatten } from "../action/review.ts";
+import { humourOf } from "../action/voice.ts";
 
 const patch = "@@ -10,4 +10,5 @@ func a() {\n context\n-removed\n+added one\n+added two\n context\n\\ No newline at end of file";
 
@@ -47,4 +48,10 @@ test("the model id names its provider", () => {
 	assert.equal(providerOf("gpt-6.1-sol"), "openai");
 	assert.equal(providerOf("gemini-4-argon"), "gemini");
 	assert.equal(providerOf("llama-4"), undefined);
+});
+
+test("a comedian roasts unless told otherwise, and every other voice gives comic relief", () => {
+	assert.equal(humourOf("comedy"), "roast");
+	assert.equal(humourOf("classics"), "light");
+	assert.equal(humourOf(undefined), "light");
 });

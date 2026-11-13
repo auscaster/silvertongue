@@ -113,13 +113,15 @@ None of them is an impression. Each voice is a study of how that person or style
 
 ## How funny
 
-`humour` sets the dial.
+Every voice does what you picked it for. Pick Tony Hinchcliffe or Ricky Gervais and you get roasted: a laugh on every line, and the fix still lands in each one. When the code is actually good, they admit it, reluctantly, and find one small thing to needle. Gordon Ramsay is himself, which is to say furious at a raw helper and generous to a clean one. Marcus Aurelius takes your missing null check with complete seriousness. Nobody invents a fault to have something to joke about, and the joke is on the code, never on the person who wrote it.
 
-- `light`, the default, is a review with comic relief: one real laugh in the opening, and a few more in the comments where the code hands the voice a joke. The fix is never the punchline.
-- `full` goes for the laugh on every line and still lands every fix.
+`humour` overrides the voice:
+
+- `roast` goes for the laugh on every line, in any voice.
+- `light` is comic relief: one real laugh in the opening, and a few in the comments where the code hands the voice a joke.
 - `off` keeps the voice and drops the jokes.
 
-The joke is on the code, never on the person who wrote it. `edge: clean` also takes out swearing and dark humour, for the repository your manager reads.
+`edge: clean` also takes out swearing and dark humour, for the repository your manager reads.
 
 ## Inputs
 
@@ -129,7 +131,7 @@ The joke is on the code, never on the person who wrote it. `edge: clean` also ta
 | `claude-code-oauth-token` | | A Claude Pro or Max subscription, from `claude setup-token`. Wins when an API key is also given. |
 | `anthropic-api-key`, `openai-api-key`, `gemini-api-key` | | Or one API key. |
 | `model` | your plan's model; `claude-opus-5-5`, `gpt-6.1-sol` or `gemini-4-argon` for a key | Any model id from that provider. |
-| `humour` | `light` | `light`, `full` or `off`. See [How funny](#how-funny). |
+| `humour` | the voice's own | `roast`, `light` or `off`. Comedians roast unless you say otherwise. See [How funny](#how-funny). |
 | `edge` | `full` | `clean` takes out the voice's swearing and dark humour. |
 | `request-changes` | `true` | A reject or reshape verdict is submitted as "changes requested". `false` always comments. |
 | `post` | `true` | `false` writes the review to the job summary and posts nothing. |

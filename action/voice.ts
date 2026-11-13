@@ -16,7 +16,10 @@ export interface Packet {
 	lane: string | undefined;
 }
 
-export type Humour = "off" | "light" | "full";
+export type Humour = "off" | "light" | "roast";
+
+/** What someone who picks this voice expects when they ask for no level: a comedian roasts, everyone else gives comic relief. */
+export const humourOf = (lane: string | undefined): Humour => (lane === "comedy" ? "roast" : "light");
 
 // How each kind of voice is funny. A comedian tells jokes; a character or a star is funny by being
 // themselves at this code; a style is funny by its register; a sage, a founder or a politician is funny
@@ -28,10 +31,16 @@ function funny(name: string, lane: string | undefined): string {
 	return `${name} is not a comedian, so never give them a punchline they would not write. The laugh comes from ${name} taking something petty in this code with complete seriousness: their gravity against its triviality, played dead straight.`;
 }
 
+// Good code gets its credit. A comedian gives it the way a roast comic does; everyone else as themselves.
+function credit(name: string, lane: string | undefined): string {
+	if (lane === "comedy") return `When the code is actually good, ${name} admits it, reluctantly: the credit is real and it visibly costs them, and it comes with a dig at whatever small thing deserves one.`;
+	return `When the code is actually good, ${name} says so, the way ${name} would.`;
+}
+
 const HUMOUR: Record<Humour, string> = {
 	off: "Play it straight. Keep the voice, its angle, moves and rhythm, and leave the jokes out.",
 	light: "This is a review first, with comic relief. The opening lands one real laugh, and some of the comments have one where the code hands the voice a joke; the rest are the voice played straight. A joke never takes the place of the fix.",
-	full: "Go for the laugh in the opening and in every comment, as hard as this voice would, and still land the fix in each one.",
+	roast: "This is a roast of the code, and the author asked for it. Go for the laugh in the opening and in every comment, as hard as this voice would, and still land the fix in each one.",
 };
 
 export interface Written {
@@ -101,7 +110,7 @@ THE DRAFTS
 - summary: the opening of the review, ${voice.min} to ${voice.max} words. The verdict and the one thing the author must answer first, the way this voice would say it: its angle on this pull request, not a list of the findings, which the comments carry. Never open with the verdict's wording above.
 - comments: one draft for each finding, in order, with its number, two to four sentences, posted on that line of the code. Each is this voice's take on that one finding: its angle, one of its moves, landing on what the author should do. Use a different move from the comment before. The plain fix and the evidence are shown under each comment, so write the voice, not a restatement of them.
 HUMOUR
-${humour === "off" ? HUMOUR.off : `${HUMOUR[humour]} ${funny(voice.name, voice.lane)} Every joke is a real one, worth repeating, and built from the specifics of this code. The joke is on the code, never on the author as a person.`}
+${humour === "off" ? HUMOUR.off : `${HUMOUR[humour]} ${funny(voice.name, voice.lane)} Every joke is a real one, worth repeating, and built from the specifics of this code. The joke is on the code, never on the author as a person. Never invent a fault to have something to joke about.`} ${credit(voice.name, voice.lane)}
 
 Plain text except code in backticks: no headings, lists or bold. Return them as JSON.`;
 	return await model.json(voice.instructions, user, SCHEMA, "medium") as Written;

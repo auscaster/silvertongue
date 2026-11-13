@@ -20,8 +20,7 @@ inputs:
   model:
     description: The model to review with. Defaults to your plan's model on a Claude subscription, or claude-opus-5-5, gpt-6.1-sol or gemini-4-argon for an API key.
   humour:
-    description: light is comic relief, a laugh where the code earns one and never in place of the fix. full goes for the laugh on every line. off plays it straight.
-    default: light
+    description: roast goes for the laugh on every line and still lands every fix. light is comic relief, a laugh where the code earns one. off plays it straight. Left empty, each voice does what you picked it for, so a comedian roasts and everyone else gives comic relief.
   edge:
     description: full keeps the voice's swearing and dark humour where it has them; clean takes them out.
     default: full
