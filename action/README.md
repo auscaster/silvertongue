@@ -1,6 +1,6 @@
 # Silvertongue Celebrity PR Review
 
-**Have your sloppy PRs reviewed and schooled by Gordon Ramsay or Marcus Aurelius, or roasted by Tony Hinchcliffe or Ricky Gervais.** Or by Sherlock Holmes, Shakespeare, Brainrot, or any of 65+ famous voices and styles.
+**Let Gordon Ramsay or Marcus Aurelius school your sloppy PRs, or Tony Hinchcliffe or Ricky Gervais roast them.** Or hand them to Sherlock Holmes, Shakespeare, Brainrot, or any of 65+ famous voices and styles.
 
 It's a GitHub Action for AI code review. The review is hard, the delivery is funny, and every finding is pinned to a file and a line with the evidence underneath. It runs on your Claude Pro or Max plan, so there's no API bill.
 
@@ -29,11 +29,31 @@ Under every comment sits the plain version, folded away until someone needs it:
 
 </details>
 
-Run as Ricky Gervais on the same pull request, the review went after the description, which claimed to close the issue it was fixing:
+More lines from reviews of the same pull request, in other voices:
 
-> The description says 'Closes #10501'. It doesn't. It closes it the way a cat flap closes a door.
+> I went looking for something to be furious about and found manners. Disgusting.
+>
+> **Ricky Gervais**, approving a clean pull request
 
-Then it explained which half of the issue was still open, and why that half wasn't a corner case.
+> That's not cleanup, that's a mob hit where the second guy shoots a body already in the trunk.
+>
+> **Tony Hinchcliffe**, on a temp folder deleted twice
+
+> It closes it the way a cat flap closes a door.
+>
+> **Ricky Gervais**, on a description that says it closes an issue it half fixes
+
+> The day someone changes how modelMetrics map onto TokenUsage, they'll season one pot, forget the other, and we'll be ladling two different soups out of one recipe.
+>
+> **Gordon Ramsay**, on the same loop written in two places
+
+> That comment is a waiter still reading out the specials after the kitchen burned down, a guy still wearing the ring after the divorce cleared, a tombstone for a patient who walked out of the hospital this afternoon.
+>
+> **Tony Hinchcliffe**, on a comment the pull request made untrue
+
+> That's not a new helper, mate. That's the old one in a hat.
+>
+> **Ricky Gervais**, on a test helper copied to take one more parameter
 
 ## Why it reviews like this
 

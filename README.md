@@ -24,7 +24,7 @@ Pick a voice. Switch any time. Keep your point.
 
 ## Review pull requests
 
-**Have your sloppy PRs reviewed and schooled by Gordon Ramsay or Marcus Aurelius, or roasted by Tony Hinchcliffe or Ricky Gervais.** Or by Brainrot, Shakespeare, or any voice here. [Silvertongue Celebrity PR Review](action/README.md) is a GitHub Action for AI code review: it asks first whether the change should exist, checks every claim in the description against the code, and pins every finding to a file and a line. Then it says it in the voice you picked. It runs on your Claude subscription with no API bill, or on an Anthropic, OpenAI or Gemini key.
+**Let Gordon Ramsay or Marcus Aurelius school your sloppy PRs, or Tony Hinchcliffe or Ricky Gervais roast them.** Or hand them to Shakespeare, Brainrot, or any voice here. [Silvertongue Celebrity PR Review](action/README.md) is a GitHub Action for AI code review: it asks first whether the change should exist, checks every claim in the description against the code, and pins every finding to a file and a line. Then it says it in the voice you picked. It runs on your Claude subscription with no API bill, or on an Anthropic, OpenAI or Gemini key.
 
 ```yaml
 - uses: auscaster/silvertongue@v1
@@ -32,6 +32,18 @@ Pick a voice. Switch any time. Keep your point.
     voice: gordon-ramsay
     claude-code-oauth-token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
 ```
+
+> I went looking for something to be furious about and found manners. Disgusting.
+>
+> **Ricky Gervais**, approving a clean pull request
+
+> That's not cleanup, that's a mob hit where the second guy shoots a body already in the trunk.
+>
+> **Tony Hinchcliffe**, on a temp folder deleted twice
+
+> That's not a new helper, mate. That's the old one in a hat.
+>
+> **Ricky Gervais**, on a test helper copied to take one more parameter
 
 [Set it up](action/README.md#set-it-up) · [Pick your reviewer](action/README.md#pick-your-reviewer) · [See a real review](action/README.md#what-lands-on-your-pull-request)
 
