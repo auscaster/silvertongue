@@ -1,6 +1,5 @@
 // The voice: its writing instructions come from Silvertongue's public MCP server, the same packet an agent
 // gets when it writes in a voice with its own model. Only the voice's name is sent; the code never is.
-import { readFileSync } from "node:fs";
 import type { Audit } from "./audit.ts";
 import type { Pull } from "./github.ts";
 import type { Model } from "./models.ts";
@@ -13,24 +12,19 @@ export interface Packet {
 	instructions: string;
 	min: number;
 	max: number;
+	/** The catalogue's lane for the voice: it decides what kind of funny the voice is. */
+	lane: string | undefined;
 }
 
 export type Humour = "off" | "light" | "full";
 
-/** The voice's lane, from its profile in this repository: it decides what kind of funny the voice is. */
-export function laneOf(slug: string): string | undefined {
-	try {
-		return (JSON.parse(readFileSync(new URL(`../profiles/${slug}/profile.json`, import.meta.url), "utf8")) as { lane?: string }).lane;
-	} catch {
-		return undefined;
-	}
-}
-
 // How each kind of voice is funny. A comedian tells jokes; a character or a star is funny by being
-// themselves at this code; a sage, a founder or a politician is funny by taking it completely seriously.
+// themselves at this code; a style is funny by its register; a sage, a founder or a politician is funny
+// by taking it completely seriously.
 function funny(name: string, lane: string | undefined): string {
 	if (lane === "comedy") return `${name} is a comedian: being funny is the voice. Write the jokes ${name} would actually tell about this code, with their premise, their turn and their tag, never a quip anyone could make.`;
 	if (lane === "characters" || lane === "celebrity") return `${name} is funny by being ${name}: the laugh comes from their persona meeting this code, the way they would react to it, never from jokes stuck on top.`;
+	if (lane === "styles") return `${name} is a style, not a person: the laugh is the register itself, said with total conviction about a code review, its own words and moves landing on the specifics of this code.`;
 	return `${name} is not a comedian, so never give them a punchline they would not write. The laugh comes from ${name} taking something petty in this code with complete seriousness: their gravity against its triviality, played dead straight.`;
 }
 
@@ -68,10 +62,14 @@ export async function packet(voice: string, edge: "full" | "clean"): Promise<Pac
 	const result = (message as { result?: { isError?: boolean; content?: { text?: string }[] }; error?: { message?: string } }).result;
 	const text = result?.content?.map((c) => c.text ?? "").join("") ?? "";
 	if (!result || result.isError) {
-		throw new Error(`No voice "${voice}": ${text || (message as { error?: { message?: string } }).error?.message || "the voice server gave no packet"}. The voices are the folders in profiles/ at github.com/auscaster/silvertongue.`);
+		throw new Error(`No voice "${voice}": ${(text || (message as { error?: { message?: string } }).error?.message || "the voice server gave no packet").replace(/\.$/, "")}. Every voice and its slug is listed at https://silvertongue.dev/voices.`);
 	}
 	const data = (JSON.parse(text) as { data: { voice_id: string; name: string; instructions: string; target: { min: number; max: number } } }).data;
-	return { voiceId: data.voice_id, name: data.name, instructions: data.instructions, min: data.target.min, max: data.target.max };
+	const slug = data.voice_id.split("@")[0];
+	const found = await rpc({ jsonrpc: "2.0", id: 3, method: "tools/call", params: { name: "search_voices", arguments: { query: data.name, limit: 10 } } }, init.session);
+	const listed = (found.message as { result?: { content?: { text?: string }[] } }).result?.content?.map((c) => c.text ?? "").join("") ?? "";
+	const lane = listed ? (JSON.parse(listed) as { data: { slug: string; lane: string }[] }).data.find((v) => v.slug === slug)?.lane : undefined;
+	return { voiceId: data.voice_id, name: data.name, instructions: data.instructions, min: data.target.min, max: data.target.max, lane };
 }
 
 const SCHEMA = {
@@ -89,7 +87,7 @@ const SCHEMA = {
 
 const VERDICT = { reject: "reject (it should not exist in this form)", reshape: "reshape (it should exist, but not in this form)", accept: "accept (it is sound)" };
 
-export async function write(model: Model, voice: Packet, pull: Pull, audit: Audit, humour: Humour, lane: string | undefined): Promise<Written> {
+export async function write(model: Model, voice: Packet, pull: Pull, audit: Audit, humour: Humour): Promise<Written> {
 	const findings = audit.findings.map((f, i) => `${i + 1}. [${f.severity}] \`${f.path}:${f.line}\` (${f.category}). ${f.challenge} Evidence: ${f.evidence} Fix: ${f.remedy}`);
 	const user = `The user is reviewing a GitHub pull request by @${pull.author}, and posts this review as their own. Write it in the voice.
 
@@ -103,7 +101,7 @@ THE DRAFTS
 - summary: the opening of the review, ${voice.min} to ${voice.max} words. The verdict and the one thing the author must answer first, the way this voice would say it: its angle on this pull request, not a list of the findings, which the comments carry. Never open with the verdict's wording above.
 - comments: one draft for each finding, in order, with its number, two to four sentences, posted on that line of the code. Each is this voice's take on that one finding: its angle, one of its moves, landing on what the author should do. Use a different move from the comment before. The plain fix and the evidence are shown under each comment, so write the voice, not a restatement of them.
 HUMOUR
-${humour === "off" ? HUMOUR.off : `${HUMOUR[humour]} ${funny(voice.name, lane)} Every joke is a real one, worth repeating, and built from the specifics of this code. The joke is on the code, never on the author as a person.`}
+${humour === "off" ? HUMOUR.off : `${HUMOUR[humour]} ${funny(voice.name, voice.lane)} Every joke is a real one, worth repeating, and built from the specifics of this code. The joke is on the code, never on the author as a person.`}
 
 Plain text except code in backticks: no headings, lists or bold. Return them as JSON.`;
 	return await model.json(voice.instructions, user, SCHEMA, "medium") as Written;

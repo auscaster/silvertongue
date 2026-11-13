@@ -5,7 +5,7 @@ import { audit as runAudit } from "./audit.ts";
 import { GitHub } from "./github.ts";
 import { DEFAULT_MODEL, model as makeModel, providerOf, type Provider } from "./models.ts";
 import { compose, flatten, markdown } from "./review.ts";
-import { laneOf, packet, write, type Humour } from "./voice.ts";
+import { packet, write, type Humour } from "./voice.ts";
 
 const input = (name: string) => (process.env[`INPUT_${name.toUpperCase()}`] ?? "").trim();
 
@@ -73,7 +73,7 @@ async function main() {
 	console.log(JSON.stringify(audit, null, 2));
 	console.log("::endgroup::");
 
-	const written = await write(model, voicePacket, pull, audit, humour, laneOf(voice));
+	const written = await write(model, voicePacket, pull, audit, humour);
 	const link = (path: string, line: number) => `${gh.server}/${owner}/${name}/blob/${pull.headSha}/${path}#L${line}`;
 	let review = compose(audit, written, voicePacket, model.id, files, link, requestChanges);
 

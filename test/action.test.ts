@@ -21,7 +21,7 @@ const audit: Audit = {
 	],
 };
 const written = { summary: "Opening.", comments: [{ finding: 1, body: "In the voice." }, { finding: 2, body: "Also in the voice." }] };
-const voice = { voiceId: "marcus-aurelius@sha256:0", name: "Marcus Aurelius", instructions: "", min: 100, max: 220 };
+const voice = { voiceId: "marcus-aurelius@sha256:0", name: "Marcus Aurelius", instructions: "", min: 100, max: 220, lane: "classics" };
 const link = (path: string, line: number) => `https://example/${path}#L${line}`;
 
 test("a finding on a changed line becomes a line comment; one elsewhere goes in the body with a link", () => {
