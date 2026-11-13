@@ -1,5 +1,5 @@
-name: Silvertongue PR Review
-description: AI PR review in 50 famous voices. Every finding pinned to a file and line. Runs on your Claude subscription or API key.
+name: Silvertongue Celebrity PR Review
+description: Funny AI code review in 65+ celebrity voices and styles, from Gordon Ramsay to Brainrot. Every finding pinned to a line.
 author: auscaster
 branding:
   icon: feather
@@ -7,7 +7,7 @@ branding:
 
 inputs:
   voice:
-    description: The voice, as a folder name under profiles/ in this repository, such as marcus-aurelius, sherlock-holmes or gordon-ramsay.
+    description: The reviewer, by its slug at silvertongue.dev/voices, such as gordon-ramsay, marcus-aurelius, ricky-gervais or brainrot.
     default: marcus-aurelius
   claude-code-oauth-token:
     description: A Claude Pro or Max subscription, from `claude setup-token`. Reviews then count against the plan, with no API bill.

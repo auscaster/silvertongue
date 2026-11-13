@@ -8,7 +8,7 @@
 
 <h3>Write like anyone famous.</h3>
 
-An open catalogue of famous writing voices for your agent and your browser.<br>
+An open catalogue of famous writing voices for your agent, your browser and your pull requests.<br>
 Pick a voice. Switch any time. Keep your point.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/auscaster/silvertongue/ci.yml?branch=main&style=flat-square&label=ci&labelColor=111&color=111)](https://github.com/auscaster/silvertongue/actions/workflows/ci.yml)
@@ -16,11 +16,24 @@ Pick a voice. Switch any time. Keep your point.
 [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-111?style=flat-square)](LICENSE)
 [![Profiles: CC BY 4.0](https://img.shields.io/badge/profiles-CC%20BY%204.0-111?style=flat-square)](PROFILE-LICENSE.md)
 
-[How it works](#how-it-works) · [Example](#an-example-side-by-side) · [Why it wins](#why-it-beats-write-like) · [The catalogue](#the-catalogue) · [Use it everywhere](#use-it-everywhere) · [Review pull requests](#review-pull-requests) · [Add a voice](#add-a-voice) · [Remove or correct a voice](#remove-or-correct-a-voice)
+[Review pull requests](#review-pull-requests) · [How it works](#how-it-works) · [Example](#an-example-side-by-side) · [Why it wins](#why-it-beats-write-like) · [The catalogue](#the-catalogue) · [Use it everywhere](#use-it-everywhere) · [Add a voice](#add-a-voice) · [Remove or correct a voice](#remove-or-correct-a-voice)
 
 </div>
 
 <br>
+
+## Review pull requests
+
+**Get your pull requests reviewed by Gordon Ramsay.** Or Marcus Aurelius, Ricky Gervais, Brainrot, or any voice here. [Silvertongue Celebrity PR Review](action/README.md) is a GitHub Action for AI code review: it asks first whether the change should exist, checks every claim in the description against the code, and pins every finding to a file and a line. Then it says it in the voice you picked. It runs on your Claude subscription with no API bill, or on an Anthropic, OpenAI or Gemini key.
+
+```yaml
+- uses: auscaster/silvertongue@v1
+  with:
+    voice: gordon-ramsay
+    claude-code-oauth-token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+```
+
+[Set it up](action/README.md#set-it-up) · [Pick your reviewer](action/README.md#pick-your-reviewer) · [See a real review](action/README.md#what-lands-on-your-pull-request)
 
 ## How it works
 
@@ -151,19 +164,6 @@ curl -fsSLo VOICE.md https://raw.githubusercontent.com/auscaster/silvertongue/ma
 ```text
 Rewrite draft.md using VOICE.md. Keep every fact, number and name from my notes.
 ```
-
-## Review pull requests
-
-A GitHub Action that reviews every pull request the way a hard reviewer would, then delivers it in a voice. It asks first whether the change should exist, checks every claim in the description against the code, and pins every finding to a file and a line. It runs on your own Claude subscription, with no API bill, or on an Anthropic, OpenAI or Gemini key.
-
-```yaml
-- uses: auscaster/silvertongue@v1
-  with:
-    voice: ricky-gervais
-    claude-code-oauth-token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-```
-
-[Set it up](action/README.md)
 
 ## Add a voice
 
